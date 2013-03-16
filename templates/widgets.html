@@ -1,0 +1,285 @@
+
+
+
+<!-- //////////////////////////////////////////////////////// -->
+<!-- HEADER WIDGETS //-->
+<!-- //////////////////////////////////////////////////////// -->
+
+<!-- 
+********************************************
+WIDGET:
+Standard sliver background: i.e. as seen on /Travaasa/SITE/hana/accomodations/
+
+HOW TO USE:
+Include the following HTML into the body of the template directly before <section id="content">
+********************************************
+//-->
+<section id="{any_unique_name_here}" class="subpage_bg"><img src="/Travaasa/SITE/assets/images/bg_hana_clouds.jpg" alt=""></section>
+
+
+<!-- 
+********************************************
+WIDGET:
+Feature theater: i.e. as seen on /Travaasa/SITE/hana/
+
+HOW TO USE:
+Include the following HTML into the body of the template directly before <section id="content">
+A theater is made up of the following components:
+- a section tag with the class "feature_carousel" which contains...
+- a div with the class "feature" that contains...
+- a series of 1 - n "slide" divs
+	- the first slide div should directly reference its actual image
+    - subsequent slide divs should feature images that are reference for lazy loading
+    - images within slide divs should be 1600x800
+    - below is a list of common examples
+- previous and next button references (for theaters containing more than 1 slide)
+********************************************
+//-->
+<section id="{any_unique_name_here}" class="feature_carousel clearfix">
+    <div id="{any_unique_name_here}" class="feature">
+    	<!-- a slide that features a link to a youtube video //-->
+    	<div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img src="/Travaasa/SITE/assets/images/global/placeholder.gif" data-original="{ image source }" alt="{ alt text }"></a></div>
+        <!-- a slide that features a link to a webpage //-->
+    	<div class="slide"><a href="{ web url }"><img src="/Travaasa/SITE/assets/images/global/placeholder.gif" data-original="{ image source }" alt="{ alt text }"></a></div>
+        
+        <!-- a subpage slide that features formatted activity name/brief description //-->
+        <div class="slide"><img src="{ image source is first slide; reference to /Travaasa/SITE/assets/images/global/placeholder.gif if a secondary slide }" data-original="{ image source }" alt="{ alt text }"><div class="overlay-content-new"><h2>{ insert content: i.e. ACTIVITY NAME GOES HERE / } <span>{ secondary content here: i.e. SHORT DESCRIPTION HERE PLEFF LOREM IPSUM DOLOR SIT AMET }</span></h2></div></div>
+    </div>
+    <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
+    <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
+</section>
+
+<script>
+<!-- insert the following into the <script> section at the bottom of the page //-->
+createSubpageStorylines(true, true);
+</script>
+
+
+<!-- //////////////////////////////////////////////////////// -->
+<!-- END HEADER WIDGETS //-->
+<!-- //////////////////////////////////////////////////////// -->
+
+
+
+<!-- //////////////////////////////////////////////////////// -->
+<!-- BODY WIDGETS //-->
+<!-- //////////////////////////////////////////////////////// -->
+
+
+
+<!-- 
+********************************************
+WIDGET:
+Intro container: this is a specialty container element. Used for the intro section of the page.
+
+HOW TO USE:
+Include the following HTML into the body of the template
+********************************************
+//-->
+<section class="intro pad clearfix">
+<!-- insert content //-->
+</section>
+
+
+<!-- 
+********************************************
+WIDGET:
+Standard container: this is a standard container element. Includes proper padding.
+
+HOW TO USE:
+Include the following HTML into the body of the template
+********************************************
+//-->
+<section class="pad">
+<!-- insert content //-->
+</section>
+
+
+<!-- 
+********************************************
+WIDGET:
+Grey container: this is a specialty container element. When multiple are stacked on a page, they automatically alternate darker/lighter color.
+
+HOW TO USE:
+Include the following HTML into the body of the template
+********************************************
+//-->
+<section class="grey pad">
+<!-- insert content //-->
+</section>
+
+
+
+<!-- 
+********************************************
+WIDGET:
+Tabbed display: this HTML creates a tab system like that seen on /Travaasa/SITE/austin/travaasa-spa-overview/
+
+HOW TO USE:
+Include the following HTML into the body of the template:
+- #tabbed_list contains a list of items
+	- each item should have a unique id and a link that references its content target id
+********************************************
+//-->
+<section class="tabbed_container pad">
+  	<div class="tabbed_list_nav">
+        <ul class="tabbed_list">
+            <li id="tab_1" class="on"><a href="#tab_content_1">Tab Content 1 Title</a></li>
+            <li id="tab_2"><a href="#tab_content_2">Tab Content 2 Title</a></li>
+            <li id="tab_3"><a href="#tab_content_3">Tab Content 3 Title</a></li>
+            <li id="tab_4"><a href="#tab_content_4">Tab Content 4 Title</a></li>
+        </ul>
+    </div>
+    <div id="tab_content_1" class="tab_data">
+        <div class="tab_data_inner">
+        	<!-- content //-->
+        </div>
+    </div>
+    <div id="tab_content_2" class="tab_data">
+        <div class="tab_data_inner">
+        	<!-- content //-->
+        </div>
+    </div>
+    <div id="tab_content_3" class="tab_data">
+        <div class="tab_data_inner">
+        	<!-- content //-->
+        </div>
+    </div>
+    <div id="tab_content_4" class="tab_data">
+        <div class="tab_data_inner">
+        	<!-- content //-->
+        </div>
+    </div>
+</section>
+
+<script>
+<!-- insert the following into the <script> section at the bottom of the page //-->
+activateTabbedList();
+</script>
+
+
+<!-- 
+********************************************
+WIDGET:
+Secondary/storyline theater: this HTML creates a storyline theater as seen on /Travaasa/SITE/austin/austin-experiences/
+
+HOW TO USE:
+Include the following HTML into the body of the template:
+- #tabbed_list contains a list of items
+	- each item should have a unique id and a link that references its content target id
+********************************************
+//-->
+<div id="{ unique_id }" class="storyline_carousel">
+      <div id="{ unique_id }" class="storyline">
+        <div class="slide">
+          <div class="slide_inner">
+          	<img data-original="{ reference to photo source }" src="/Travaasa/SITE/assets/images/global/placeholder.gif" width="100%">
+            <h5>{ title }</h5>
+            <p class="description">{ description }</p>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="slide_inner">
+          	<img data-original="{ reference to photo source }" src="/Travaasa/SITE/assets/images/global/placeholder.gif" width="100%">
+            <h5>{ title }</h5>
+            <p class="description">{ description }</p>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="slide_inner">
+          	<img data-original="{ reference to photo source }" src="/Travaasa/SITE/assets/images/global/placeholder.gif" width="100%">
+            <h5>{ title }</h5>
+            <p class="description">{ description }</p>
+          </div>
+        </div>
+      </div>
+      <a class="carousel_prev" id="story2_prev" href="#"><span><b>prev</b></span></a>
+      <a class="carousel_next" id="story2_next" href="#"><span><b>next</b></span></a>
+</div>
+
+<script>
+<!-- insert the following into the <script> section at the bottom of the page //-->
+createSubpageStorylines(true , true);
+</script>
+
+
+
+<!-- 
+********************************************
+WIDGET:
+Grid: this HTML creates a grid that scales to be mobile-friendly
+
+HOW TO USE:
+A grid consists of the following:
+- an element with the class of group that contains..
+- a row of columns that collectively span the max number of columns defined for the row (based on included css, rows can include 2 - 12 columns and each row can include a different number of columns
+
+REFERENCE:
+http://www.responsivegridsystem.com/
+********************************************
+//-->
+<div class="group">
+	<div class="col span_1_of_5">column 1</div>
+	<div class="col span_1_of_5">column 2</div>
+	<div class="col span_1_of_5">column 3</div>
+	<div class="col span_1_of_5">column 4</div>
+	<div class="col span_1_of_5">column 5</div>
+</div>
+<div class="group">
+	<div class="col span_1_of_5">column 1</div>
+	<div class="col span_1_of_5">column 2</div>
+	<div class="col span_1_of_5">column 3</div>
+	<div class="col span_1_of_5">column 4</div>
+	<div class="col span_1_of_5">column 5</div>
+</div>
+<div class="group">
+	<div class="col span_1_of_3">column 1</div>
+	<div class="col span_1_of_3">column 2</div>
+	<div class="col span_1_of_3">column 3</div>
+</div>
+
+<!-- 
+	NOTE: If you'd like the elements inside each column to have additional padding, apply css rules to the elements within the columns and not the column itself.
+	example:
+//-->
+<div class="group">
+	<div class="col span_1_of_3"><div class="inner_example">I want this to have additional padding</div></div>
+	<div class="col span_1_of_3"><h2 class="inner_example">I want this to have additional padding</h2></div>
+	<div class="col span_1_of_3"><div class="inner_example">I want this to have additional padding</div></div>
+</div>
+<style>
+/* INCLUDED IN A CUSTOM CSS FILE */
+.inner_example { padding:8px; }
+</style>
+
+
+<!-- 
+********************************************
+WIDGET:
+Responsive lightbox gallery
+
+NOTE: THE SELECTED RESPONSIVE PLUGIN DOES NOT SUPPORT THE FOLLOWING:
+- HTML within a lightbox
+- captions on photos
+
+* The reasoning for this is that these elements would not scale to be responsive without significant one-off implementations.
+
+HOW TO USE:
+http://codecanyon.net/item/flare-responsive-mobileoptimized-lightbox-plugin/discussion/2392703
+/Travaasa/SITE/assets/scripts/pe.flare/reference/
+********************************************
+
+EXAMPLE (reference the above links for more examples):
+//-->
+<!-- this first image appears on the screen. clicking on the image triggers the lightbox. //-->
+<a  href="/Travaasa/SITE/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"><img src="/Travaasa/SITE/assets/images/gallery/austin/trail-single-large.jpg"></a>
+<!-- these next elements are hidden from initial view. since they reference the same data-flare-gallery, they appear within the lightbox gallery //-->
+<a  href="/Travaasa/SITE/assets/images/gallery/austin/trail-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"></a>
+<a  href="/Travaasa/SITE/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Patio"></a>	
+<a  href="/Travaasa/SITE/assets/images/gallery/austin/bed-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Organic Cotton Sheets"></a>
+<a  href="/Travaasa/SITE/assets/images/gallery/austin/1229-austin-scenic-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin on the Balcones Canyonlands Preserve"></a>
+
+
+<!-- //////////////////////////////////////////////////////// -->
+<!-- END BODY WIDGETS //-->
+<!-- //////////////////////////////////////////////////////// -->
