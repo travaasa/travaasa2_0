@@ -1,0 +1,43 @@
+<header>
+  <div id="logo"><a href="/Travaasa/SITE/"><span>TRAVAASA Experiential Resorts</span></a></div>
+  <nav id="main_nav" class="clearfix">
+    <ul class="location_selector_nav menu_top">
+    	<li class="menu_main"><a href="/Travaasa/SITE/austin" id="current_location">AUSTIN, TX</a>
+        	<ul class="menu_sub">
+                <li><a href="/Travaasa/SITE/hana">HANA, MAUI</a></li>
+                <li><a href="/Travaasa/SITE/austin">AUSTIN, TX</a></li>
+             </ul>
+        </li>
+    </ul>
+    <div id="austin_location_nav" class="location_group_nav">
+      <ul class="location_nav menu_top">
+          <li><a class="lnk_gallery" href="/Travaasa/SITE/austin/austinphotos">GALLERY</a></li>
+          <li><a class="lnk_experiences" href="/Travaasa/SITE/austin/austin-experiences">EXPERIENCES</a></li>
+          <li><a class="lnk_spa" href="/Travaasa/SITE/austin/travaasa-spa-overview">SPA</a></li>
+          <li><a class="lnk_rooms" href="/Travaasa/SITE/austin/accomodations">ROOMS</a></li>
+          <li><a class="lnk_dining" href="/Travaasa/SITE/austin/dining">DINING</a></li>
+          <li><a class="lnk_rates" href="/Travaasa/SITE/austin/rates-and-packages">RATES</a></li>
+          <li><a class="lnk_groups" href="/Travaasa/SITE/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
+          <li class="menu_main menu_plus"><a href="#" class="plus"><span>+</span></a>
+              <ul class="menu_sub">
+                  <li><a class="lnk_schedule" href="/Travaasa/SITE/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
+               </ul>
+          </li>
+      </ul>
+      <ul class="location_condensed_nav menu_top">
+          <li class="menu_main"><a href="#">EXPLORE</a>
+              <ul class="menu_sub">
+                  <li><a class="lnk_gallery" href="/Travaasa/SITE/austin/austinphotos">GALLERY</a></li>
+                  <li><a class="lnk_experiences" href="/Travaasa/SITE/austin/austin-experiences">EXPERIENCES</a></li>
+                  <li><a class="lnk_spa" href="/Travaasa/SITE/austin/travaasa-spa-overview">SPA</a></li>
+                  <li><a class="lnk_rooms" href="/Travaasa/SITE/austin/accomodations">ROOMS</a></li>
+                  <li><a class="lnk_dining" href="/Travaasa/SITE/austin/dining">DINING</a></li>
+                  <li><a class="lnk_rates" href="/Travaasa/SITE/austin/rates-and-packages">RATES</a></li>
+                  <li><a class="lnk_groups" href="/Travaasa/SITE/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
+                  <li><a class="lnk_schedule" href="/Travaasa/SITE/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
+               </ul>
+           </li>
+      </ul>
+    </div>
+  </nav>
+</header>
