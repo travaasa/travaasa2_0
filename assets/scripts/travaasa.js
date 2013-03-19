@@ -194,7 +194,7 @@ function createStorylines(itemWidth, itemHeightPercentage) {
 					});
 				}
 			},
-			items: { visible: 2, width: itemWidth, height: (itemHeightPercentage*100)+"%" }
+			items: { visible: { min:1, max:2 }, width: itemWidth, height: (itemHeightPercentage*100)+"%" }
 		});	  
 	});
 }

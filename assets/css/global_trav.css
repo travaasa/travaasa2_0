@@ -562,6 +562,9 @@ a.carousel_prev.disabled span, a.carousel_next.disabled span { display: none; }
 box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297); }
+.gallery .col img:hover {
+	border: solid 2px #454545;
+}
 
 
 /* TABBED CONTAINER */
