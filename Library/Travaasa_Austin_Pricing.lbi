@@ -10,5 +10,5 @@
         <h3><sup>$</sup>225</h3>
     </li>
 </ul>
-<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;" class="btn">MAKE A RESERVATION</a></p>
+<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;" class="btn">MAKE A RESERVATION</a></p>
 <p><a href="/Travaasa/SITE/austin/rates-and-packages">See rates and packages</a></p>

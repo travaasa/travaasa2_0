@@ -386,7 +386,7 @@ p {
 .pricing h3 { font-size: 2.875em; font-family: 'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; 	; line-height:1; margin:0; }
 .pricing sup { font-size:60%; }
 .pricing_grp_sub .pricing li { width:98%; }
-#reservations-bar { position:fixed; bottom:0; right:0; width:100%; height:60px; overflow:hidden; z-index:9999; background: rgb(107,107,107); /* Old browsers */
+#reservations-bar { position:fixed; bottom:-100px; right:0; width:100%; height:60px; overflow:hidden; z-index:9999; background: rgb(107,107,107); /* Old browsers */
 background: -moz-linear-gradient(top, rgba(107,107,107,1) 0%, rgba(56,56,56,1) 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(107,107,107,1)), color-stop(100%,rgba(56,56,56,1))); /* Chrome,Safari4+ */
 background: -webkit-linear-gradient(top, rgba(107,107,107,1) 0%,rgba(56,56,56,1) 100%); /* Chrome10+,Safari5.1+ */
