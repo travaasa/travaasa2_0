@@ -1,11 +1,11 @@
 <header>
-  <div id="logo"><a href="/Travaasa/SITE/"><span>TRAVAASA Experiential Resorts</span></a></div>
+  <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
   <nav id="main_nav" class="clearfix">
     <ul class="location_selector_nav menu_top">
     	<li class="menu_main"><a href="#" id="current_location">LOCATION</a>
         	<ul class="menu_sub">
-                <li><a href="/Travaasa/SITE/hana">HANA, MAUI</a></li>
-                <li><a href="/Travaasa/SITE/austin">AUSTIN, TX</a></li>
+                <li><a href="/hana">HANA, MAUI</a></li>
+                <li><a href="/austin">AUSTIN, TX</a></li>
              </ul>
         </li>
     </ul>

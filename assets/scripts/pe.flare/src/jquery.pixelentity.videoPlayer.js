@@ -81,7 +81,7 @@
 	
 	var posters = {
 			vidly: "http://cf.cdn.vid.ly/$ID/poster.jpg",
-			youtube: "/Travaasa/SITE/assets/images/global/transparent.gif",
+			youtube: "/assets/images/global/transparent.gif",
 			vimeo: "http://vimeo.com/api/v2/video/$ID.json?callback=?"
 		};
 	

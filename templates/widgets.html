@@ -8,19 +8,19 @@
 <!-- 
 ********************************************
 WIDGET:
-Standard sliver background: i.e. as seen on /Travaasa/SITE/hana/accomodations/
+Standard sliver background: i.e. as seen on /hana/accomodations/
 
 HOW TO USE:
 Include the following HTML into the body of the template directly before <section id="content">
 ********************************************
 //-->
-<section id="{any_unique_name_here}" class="subpage_bg"><img src="/Travaasa/SITE/assets/images/bg_hana_clouds.jpg" alt=""></section>
+<section id="{any_unique_name_here}" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 
 
 <!-- 
 ********************************************
 WIDGET:
-Feature theater: i.e. as seen on /Travaasa/SITE/hana/
+Feature theater: i.e. as seen on /hana/
 
 HOW TO USE:
 Include the following HTML into the body of the template directly before <section id="content">
@@ -38,12 +38,12 @@ A theater is made up of the following components:
 <section id="{any_unique_name_here}" class="feature_carousel clearfix">
     <div id="{any_unique_name_here}" class="feature">
     	<!-- a slide that features a link to a youtube video //-->
-    	<div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img src="/Travaasa/SITE/assets/images/global/placeholder.gif" data-original="{ image source }" alt="{ alt text }"></a></div>
+    	<div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img src="/assets/images/global/placeholder.gif" data-original="{ image source }" alt="{ alt text }"></a></div>
         <!-- a slide that features a link to a webpage //-->
-    	<div class="slide"><a href="{ web url }"><img src="/Travaasa/SITE/assets/images/global/placeholder.gif" data-original="{ image source }" alt="{ alt text }"></a></div>
+    	<div class="slide"><a href="{ web url }"><img src="/assets/images/global/placeholder.gif" data-original="{ image source }" alt="{ alt text }"></a></div>
         
         <!-- a subpage slide that features formatted activity name/brief description //-->
-        <div class="slide"><img src="{ image source is first slide; reference to /Travaasa/SITE/assets/images/global/placeholder.gif if a secondary slide }" data-original="{ image source }" alt="{ alt text }"><div class="overlay-content-new"><h2>{ insert content: i.e. ACTIVITY NAME GOES HERE / } <span>{ secondary content here: i.e. SHORT DESCRIPTION HERE PLEFF LOREM IPSUM DOLOR SIT AMET }</span></h2></div></div>
+        <div class="slide"><img src="{ image source is first slide; reference to /assets/images/global/placeholder.gif if a secondary slide }" data-original="{ image source }" alt="{ alt text }"><div class="overlay-content-new"><h2>{ insert content: i.e. ACTIVITY NAME GOES HERE / } <span>{ secondary content here: i.e. SHORT DESCRIPTION HERE PLEFF LOREM IPSUM DOLOR SIT AMET }</span></h2></div></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -113,7 +113,7 @@ Include the following HTML into the body of the template
 <!-- 
 ********************************************
 WIDGET:
-Tabbed display: this HTML creates a tab system like that seen on /Travaasa/SITE/austin/travaasa-spa-overview/
+Tabbed display: this HTML creates a tab system like that seen on /austin/travaasa-spa-overview/
 
 HOW TO USE:
 Include the following HTML into the body of the template:
@@ -161,7 +161,7 @@ activateTabbedList();
 <!-- 
 ********************************************
 WIDGET:
-Secondary/storyline theater: this HTML creates a storyline theater as seen on /Travaasa/SITE/austin/austin-experiences/
+Secondary/storyline theater: this HTML creates a storyline theater as seen on /austin/austin-experiences/
 
 HOW TO USE:
 Include the following HTML into the body of the template:
@@ -173,21 +173,21 @@ Include the following HTML into the body of the template:
       <div id="{ unique_id }" class="storyline">
         <div class="slide">
           <div class="slide_inner">
-          	<img data-original="{ reference to photo source }" src="/Travaasa/SITE/assets/images/global/placeholder.gif" width="100%">
+          	<img data-original="{ reference to photo source }" src="/assets/images/global/placeholder.gif" width="100%">
             <h5>{ title }</h5>
             <p class="description">{ description }</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner">
-          	<img data-original="{ reference to photo source }" src="/Travaasa/SITE/assets/images/global/placeholder.gif" width="100%">
+          	<img data-original="{ reference to photo source }" src="/assets/images/global/placeholder.gif" width="100%">
             <h5>{ title }</h5>
             <p class="description">{ description }</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner">
-          	<img data-original="{ reference to photo source }" src="/Travaasa/SITE/assets/images/global/placeholder.gif" width="100%">
+          	<img data-original="{ reference to photo source }" src="/assets/images/global/placeholder.gif" width="100%">
             <h5>{ title }</h5>
             <p class="description">{ description }</p>
           </div>
@@ -266,18 +266,18 @@ NOTE: THE SELECTED RESPONSIVE PLUGIN DOES NOT SUPPORT THE FOLLOWING:
 
 HOW TO USE:
 http://codecanyon.net/item/flare-responsive-mobileoptimized-lightbox-plugin/discussion/2392703
-/Travaasa/SITE/assets/scripts/pe.flare/reference/
+/assets/scripts/pe.flare/reference/
 ********************************************
 
 EXAMPLE (reference the above links for more examples):
 //-->
 <!-- this first image appears on the screen. clicking on the image triggers the lightbox. //-->
-<a  href="/Travaasa/SITE/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"><img src="/Travaasa/SITE/assets/images/gallery/austin/trail-single-large.jpg"></a>
+<a  href="/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"><img src="/assets/images/gallery/austin/trail-single-large.jpg"></a>
 <!-- these next elements are hidden from initial view. since they reference the same data-flare-gallery, they appear within the lightbox gallery //-->
-<a  href="/Travaasa/SITE/assets/images/gallery/austin/trail-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"></a>
-<a  href="/Travaasa/SITE/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Patio"></a>	
-<a  href="/Travaasa/SITE/assets/images/gallery/austin/bed-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Organic Cotton Sheets"></a>
-<a  href="/Travaasa/SITE/assets/images/gallery/austin/1229-austin-scenic-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin on the Balcones Canyonlands Preserve"></a>
+<a  href="/assets/images/gallery/austin/trail-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"></a>
+<a  href="/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Patio"></a>	
+<a  href="/assets/images/gallery/austin/bed-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Organic Cotton Sheets"></a>
+<a  href="/assets/images/gallery/austin/1229-austin-scenic-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin on the Balcones Canyonlands Preserve"></a>
 
 
 <!-- //////////////////////////////////////////////////////// -->

@@ -10,7 +10,7 @@ function getQuotes(loc) {
 		loc = "all";
 	}
 	$.ajax({
-	  url: "http://clvint.atdoner.com/Travaasa/SITE/assets/xml/testimonials.xml",
+	  url: "http://clvint.atdoner.com/assets/xml/testimonials.xml",
 	  dataType: "xml",
 	  beforeSend: function ( xhr ) {
 		$(".fittext_quotes").addClass("loading");

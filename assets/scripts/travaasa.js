@@ -37,7 +37,7 @@ function getQuotes(loc) {
 		loc = "all";
 	}
 	$.ajax({
-	  url: "/Travaasa/SITE/assets/xml/testimonials.xml",
+	  url: "/assets/xml/testimonials.xml",
 	  dataType: "xml",
 	  beforeSend: function ( xhr ) {
 		$(".fittext_quotes").addClass("loading");
