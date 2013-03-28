@@ -489,6 +489,7 @@ footer .btn:hover { background-color:#D7385E; color:#FFFFFF; text-decoration:non
 #social li a:hover { background-position-y:-32px; }
 #footer-copyright * { float:left; }
 #footer-copyright span { margin-left:20px; line-height:50px; }
+.fittext_quotes span { font-size:75%; }
 
 
 
