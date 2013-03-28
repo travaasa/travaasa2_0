@@ -483,6 +483,8 @@ footer .btn { font-size:80%; background-color:#666666; margin-top:8px; }
 footer .btn:hover { background-color:#D7385E; color:#FFFFFF; text-decoration:none; }
 #facebook { background:url(../images/global/social_icons.png) no-repeat -32px 0; }
 #twitter { background:url(../images/global/social_icons.png) no-repeat 0 0; }
+#youtube { background:url(../images/global/social_icons.png) no-repeat -96px 0; }
+#pinterest { background:url(../images/global/social_icons.png) no-repeat -128px 0; }
 #blog { background:url(../images/global/social_icons.png) no-repeat -64px 0; }
 #social li a:hover { background-position-y:-32px; }
 #footer-copyright * { float:left; }
