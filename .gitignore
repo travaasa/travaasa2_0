@@ -1,0 +1,11 @@
+press-room/*
+blog/*
+.bash_history
+.viminfo
+munin/*
+*.DS_Store
+/assets/images.zip
+holidayproblems/*
+/nbproject/
+.gitconfig
+.ssh
