@@ -733,5 +733,5 @@ only screen and (min-device-pixel-ratio: 2) {
 		background-image:url(../images/global/sprite2x.png);
 		background-size: 500px auto;
 	}
-	#content { background-image:url(../images/global/swoosh.png); background-size: 500px auto; }
+	#content { background-image:url(../images/global/swoosh2x.png); background-size: 170px auto; }
 }
