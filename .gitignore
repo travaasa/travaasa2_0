@@ -5,7 +5,6 @@ blog/*
 munin/*
 *.DS_Store
 /assets/images.zip
-images.zip
 holidayproblems/*
 /nbproject/
 .gitconfig
