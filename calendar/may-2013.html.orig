@@ -50,7 +50,7 @@
   </nav>
 </header><!-- #EndLibraryItem --><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_march_2013_1600x640.jpg" alt="June is Man Month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_may_2013_1600x640.jpg" alt="May is Nurture Month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -69,48 +69,62 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
     
     <div class="section group">
     	<div class="col span_1_of_2">
-            <h2>Adventure</h2>
-            <div class="listing">
-                <h6>Bamboo Pole Fishing <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>The essence of fishing:  a freshly cut bamboo pole, a line and baited hook, the thrill of feeling fish bite and landing your catch.  Andrew Park has fished Hana Bay since childhood and shares his experience with our guests on this fishing expedition.</p>
-            </div>
             <h2>Fitness</h2>
             <div class="listing">
-                <h6>Six-Pack Abs <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>The abs are important for our posture and healthy spine. With awareness of these muscles and effective exercises you can rediscover your six pack abs. This is a workout that will enhance your ability to activate your core muscles and help to uncover them</p>
+                <h6>Boot Camp Training <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Let this nature-filled workout be your morning coffee. This outdoor boot camp class incorporates many different training modalities, including strength, cardio, core, speed, agility, flexibility and injury prevention. This high-energy, outdoor/indoor workout will leave you feeling refreshed and ready to take on your day!</p>
             </div>
             <div class="listing">
-                <h6>HardCORE Workout <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>The name of this class is both a description and a goal! This is an intense, 45 minute class that focuses on strengthening and toning your core or "power house" muscles. </p>
+                <h6>Bosu Uplifting <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This total body BOSU workout will uplift and re-focus your mind and body. These core and balance focused exercises will strengthen every muscle group in your body while re-enforcing your mind to body connection.</p>
+            </div>
+            <div class="listing">
+                <h6>Cherish Your Pilates Practice <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Pilates practice is a well rounded exercise method that works with the deeper muscles along the spine. They are very important for one's posture and mobilitiy. Cherishing your Pilates practice will allow for a strong torso and core stability which creates greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
+            </div>
+            v
+            <div class="listing">
+                <h6>Core Support Training <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>You have probably at least heard the term core or core stability. These terms are now commonly used by physical therapists, fitness professionals and even some doctors. The "core" is a word used to describe a group of deeper muscles along the torso which support the spine, pelvis and shoulder girdle. Strengthening these muscles will not only give you a thinner, sleeker waist-line, they also help reduce and prevent lower back pain and improve postural alignment. This class focuses on strengthening and toning the core muscles.</p>
             </div>
             <div class="listing">
                 <h6>Zumba Fitness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p> Zumba is a revolutionizing fitness experience, that takes you on an unforgettable, exhilarating journey to a healthy and happy lifestyle. Jam-packed with red-hot dance steps, pulsating Latin and international rhythms, and feel-it-to-the-core routines, this invigorating dance-fitness party will have you movin', rockin' and shakin' the weight off.</p>
+                <p>Dance as you explore other cultures and their moves. Discover your natural happiness that arises when we move freely to various ethnical rhythms. Zumba is a fun dance party that can burn as many as 600 calories per hour.</p>
             </div>
             <div class="listing">
-                <h6>Yoga for Hips &amp; Knees <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Hips and knees often take a toll during everyday living and sports activities. This workout will create more awareness, range of motion and strength to the muscles around these joints for better mobility and enjoyment of an active life.</p>
+                <h6>Embrace Your Hips &amp; Knees Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Our hips and knees are all connected and often they are in need of some nurturing. Using yoga asana that will create more awareness,  range of motion and strengthen the muscles around these joints for better mobilitiy and enjoyment of life.</p>
             </div>
+            
+            
+            
+            <!--<h2>Adventure</h2>
+            <div class="listing">
+                <h6>SURF'S UP <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Learn the fundamentals of surfing from the core to the shore. Join our fitness instructor who will lead you through core balance excercises followed by a surf or paddle board lesson in Heavenly Hana, Maui.</p>
+            </div>-->
+            
+            
         </div>
         <div class="col span_1_of_2">
             <div class="listing">
-                <h6>Kettle Bells Full Strength <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Kettlebell Full Strength will help kick all your fitness goals into high gear! These functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance while burning lots of calories! In this 45 minute, high-intensity class, you will focus on functional movement, power, strength, joint-stability, alignment, balance and control. Working with the kettlebell is combined with BOSU and body weight exercises for an all around heart-pumping workout.</p>
+                <h6>Nurturing Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>A gentle yoga class designed to restore and renew. </p>
             </div>
             <div class="listing">
-                <h6>Salsa Dance &amp; Abs <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Partner up with your abs to move to salsa musice and watch your six packs to soar and get sore.</p>
+                <h6>Nurture Your Feet <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Your feet are an extremely vital part of your musculo-skeletal system. They can influence all the other joints above including your spine. Learning about your feet, massaging them and strengthening the muscles that are necessary for good posture and alignment is imperative. It is also important to note that areas in the foot that when stimulated will affect some of our organs. Thus good foot care will certainly be great for your posture, mobility and general health.</p>
+            </div>
+            <div class="listing">
+                <h6>Embrace &amp; Dance <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Let's embrace our inner dancer and your dance partner. Begin with the basic foot work, embrace your partner and move in harmony around the dance floor. In this salsa dance class, you will learn the basic salsa steps, how to properly lead, turn and some beginner to intermediate patterns to go salsa dance with confidence!</p>
             </div>
             <h2>Culinary</h2>
             <div class="listing">
-                <h6>Beer Tasting <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Beer is the third most popular drinks in the world, so this is the perfect opportunity to learn how to make different styles of beer.  Hop on over get to brewing!</p>
+                <h6>Comfort Foods <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Learn healthy ways to prepare those old-time favorites that mother used to make.</p>
             </div>
-            <div class="listing">
-                <h6>Grilling &amp; Smoking Demonstration <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Summer is the perfect time to light up the grill and enjoy some great BBQ!  And what Dad doesn’t appreciate a big Texas steak on a hot summer day?  Come learn some new smoking and grilling techniques and recipes to enjoy at home on the deck!</p>
-            </div>
-            <!--<h2>Culture</h2>
+            <h2>Culture</h2>
              <div class="listing">
                 <h6>May Lei Celebration <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Ancient Polynesians honored the gods by twining flowers and greens into adornments for the body.  Learn the art of Lei making from our Makana Team.  Craft a ti leaf, feather or shell lei to take home and cherish for years to come.</p>
@@ -119,7 +133,7 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
             <div class="listing">
                 <h6>Nurturing Breath <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Connect with mother earth and use your breath to direct healing the healing energy of life throughout your body.</p>
-            </div>-->
+            </div>
         </div>
     </div>  
       
@@ -129,8 +143,12 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
         <h4>See upcoming months</h4>
   		<div class="group">
             <div class="col span_1_of_3 month"><div><a href="/calendar/apr-2013.html"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/may-2013.html"><img src="/assets/images/months/may-nuture.png" alt="May is Nuture Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/jun-2013.html"><img src="/assets/images/months/jun-man.png" alt="June is Man Month"></a></div></div>
+<<<<<<< HEAD
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/may-2013.html"><img src="/assets/images/months/may-nuture.png" alt="May is Nuture Month"></a></div></div>
+=======
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/may-2013.html"><img src="/assets/images/months/may-nurture.png" alt="May is Nurture Month"></a></div></div>
+>>>>>>> a9497a75390338a0b69e6056f898e9c67faa9342
+            <div class="col span_1_of_3 month"><div><a href="/calendar/jun-2013.html"><img src="/assets/images/months/jun-man.png" alt="June is Man Month"></a></div></div>
         </div>
   </section>
   
