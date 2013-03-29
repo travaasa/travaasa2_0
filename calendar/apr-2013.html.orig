@@ -64,7 +64,7 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
 <em><strong>Vitality</strong></em> is a few clicks away. Come experience it with us.</p>
 				<img src="/assets/images/global/signature.gif" alt="Chris Manning, Co-Founder and CEO">
       
-   
+      
     <h3>&nbsp;</h3></div>-->
     
     <div class="section group">
@@ -124,14 +124,14 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
                 <h6>SURF'S UP <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Learn the fundamentals of surfing from the core to the shore. Join our fitness instructor who will lead you through core balance excercises followed by a surf or paddle board lesson in Heavenly Hana, Maui.</p>
             </div>-->
-
-            
-
-
+<<<<<<< HEAD
             
             
-
-
+=======
+            
+            
+>>>>>>> c5d0db4f1746d8363d234b9cfa0d3185e2c1237d
+        </div>
         <div class="col span_1_of_2">
             <h2>Culinary</h2>
             <div class="listing">
@@ -150,7 +150,7 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
            
             
             <h2>Spa &amp; Wellness</h2>
-
+<<<<<<< HEAD
             <div class="listing">
                 <h6>Discover the Eight Limbs of Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>A general hatha yoga class set with the intention of exploring the philosophy of yoga. Appropriate for beginners and intermediate.</p>
@@ -160,7 +160,7 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
                 <p>Grow green, eat green, drink green, be green and live green. This is the theme of a new generation of people who desire to live healthy and in harmony with nature. Green vegetables have more valuable nutrients than any other food in existence. Blending your greens helps make nutrients more readily available to the body.</p>
             </div>
             <div class="listing">
-
+=======
             <div class="listing">
                 <h6>Discover the Eight Limbs of Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>A general hatha yoga class set with the intention of exploring the philosophy of yoga. Appropriate for beginners and intermediate.</p>
@@ -170,7 +170,7 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
                 <p>Grow green, eat green, drink green, be green and live green. This is the theme of a new generation of people who desire to live healthy and in harmony with nature. Green vegetables have more valuable nutrients than any other food in existence. Blending your greens helps make nutrients more readily available to the body.</p>
             </div>
             <div class="listing">
-
+>>>>>>> c5d0db4f1746d8363d234b9cfa0d3185e2c1237d
                 <h6>Meditation | Tune into Nature <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Head outdoors to stop and savior the beauty all around us. Take the opportunity for quiet introspection and silence to deepen your appreciation for the change in season, and create space within that will leave you replenished and revitalized.</p>
             </div>
@@ -195,19 +195,19 @@ January is <em><strong>Vitality</strong></em> month at Travaasa&reg; Experientia
         <h4>See upcoming months</h4>
   		<div class="group">
             <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/apr-2013.html"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
-
-
+<<<<<<< HEAD
+<<<<<<< HEAD
             <div class="col span_1_of_3 month"><div><a href="/calendar/may-2013.html"><img src="/assets/images/months/may-nurture.png" alt="May is Nurture Month"></a></div></div>
-
+=======
             <div class="col span_1_of_3 month"><div><a href="/calendar/may-2013.html"><img src="/assets/images/months/may-nuture.png" alt="May is Nuture Month"></a></div></div>
-
-
+>>>>>>> updated month graphics
+=======
             <div class="col span_1_of_3 month"><div><a href="/calendar/may-2013.html"><img src="/assets/images/months/may-nuture.png" alt="May is Nuture Month"></a></div></div>
-
-
-
-
-
+<<<<<<< HEAD
+=======
+>>>>>>> calendar mess
+>>>>>>> c5d0db4f1746d8363d234b9cfa0d3185e2c1237d
+            <div class="col span_1_of_3 month"><div><a href="/calendar/jun-2013.html"><img src="/assets/images/months/jun-man.png" alt="June is Man Month"></a></div></div>
         </div>
   </section>
   
