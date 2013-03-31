@@ -588,7 +588,7 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 .room-details { padding:0 1em; }
 
 /* SPA */
-.spa_package { padding:12px 0 30px; }
+.spa_package { padding:12px 0 20px; }
 .spa_package h4 { font-size:1em; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; 	; color:#0A1F25; }
 .spa_package p { margin-bottom:12px; }
 .spa_package h5 { font-size:1.4em; font-family:'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; 	; color:#0A1F25; }
