@@ -98,7 +98,7 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
   </nav>
 </header>
 <!-- #EndLibraryItem -->
-<?php if ($loc == 'austin') : ?>
+<?php elseif ($loc == 'austin') : ?>
 <!-- #BeginLibraryItem "/Library/Travaasa_Menu_Austin.lbi" -->
 <header>
   <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
@@ -372,7 +372,7 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
 var loc = "hana";
 </script>
 <!-- #EndLibraryItem -->
-<?php if ($loc == 'austin') : ?>
+<?php elseif ($loc == 'austin') : ?>
 <!-- #BeginLibraryItem "/Library/Travaasa_Footer_Austin.lbi" -->
 <div id="reservations-bar">
   <div class="reservations-bar-inner">
