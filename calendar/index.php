@@ -5,9 +5,9 @@ if (strlen($referrer) <= 0)
 	$referrer = "blank";
 $hana = strpos($referrer, "hana");
 $austin = strpos($referrer, "austin");
-if ($hana === true) {
+if ($hana > 0) {
 	header('Location: ' . $base . "?loc=hana");
-} elseif ($austin === true) {
+} elseif ($austin > 0) {
 	header('Location: ' . $base . "?loc=austin");
 } else {
 	header('Location: ' . $base);
