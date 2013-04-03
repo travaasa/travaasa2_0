@@ -28,27 +28,9 @@
 	<link rel="stylesheet" href="/assets/css/12cols.css" media="all">
     <link rel="stylesheet" href="/assets/css/shadowbox.css" media="screen">
     <link rel="stylesheet" href="/assets/css/global_trav.css" media="all">
+    <link rel="stylesheet" href="/assets/css/global_trav.css" media="all">
     <link rel="stylesheet" href="/assets/css/homepage.css" media="all">
     <link rel="stylesheet" href="/assets/scripts/pe.flare/jquery.pixelentity.flare.min.css" media="all">
-    <style>
-	.video-container {
-		position: relative;
-		padding-bottom: 56.25%;
-		padding-top: 30px;
-		height: 0;
-		overflow: hidden;
-	}
-	
-	.video-container iframe,  
-	.video-container object,  
-	.video-container embed {
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-	}
-	</style>
 	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects --><script src="/assets/scripts/modernizr-2.5.3-min.js"></script>
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=8558687282"></script>
@@ -101,11 +83,35 @@
       </ul>
     </div>
   </nav>
-</header><!-- #EndLibraryItem --><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
+</header><!-- #EndLibraryItem --><section id="feature1_wrapper" class="feature_carousel clearfix">
+    <div id="feature1" class="feature">
+      	<div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=NOtwkBLTFzM" id="lnk"><img data-original="/assets/images/feature_hana_1600x640_dayvideo_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+    </div>
+    <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
+    <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
+</section>
 <section id="content">
 <article id="main">
-  <section class="intro pad clearfix notheater">
-          <div class="video-container"><iframe width="560" height="315" src="http://www.youtube.com/embed/NOtwkBLTFzM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+  <section class="intro pad clearfix">
+      <div class="col span_6_of_9">
+          <h1>TRAVAASA HANA: MAUI'S LAST TRULY HAWAIIAN PLACE</h1>
+          <p>Long considered one of the most remarkable resorts in Hawaii, Travaasa Hana (formerly known as Hotel Hana Maui) is now even better. In fact, it was voted the "No. 1 Resort in Hawaii" in <em>Condé Nast Traveler</em>'s 2011 Reader's Choice Awards.<br><br>Located in the town of Hana on the eastern tip of Maui, Travaasa Hana is the first resort on the island to greet the rising sun. Set amid rolling grass fields and palm trees above Kaihalulu Bay, Travaasa Hana will immerse you in the real Hawaii.</p>
+      </div>
+      <div class="pricing_grp col span_3_of_9"><!-- #BeginLibraryItem "/Library/Travaasa_Hana_Pricing.lbi" -->		<ul class="pricing clearfix">
+          <li>
+              <h2>INCLUSIVE</h2>
+              <p>Starting at</p>
+              <h3><sup>$</sup>825</h3>
+          </li>
+          <li>
+              <h2>A LA CARTE</h2>
+              <p>Starting at</p>
+              <h3><sup>$</sup>375</h3>
+          </li>
+      </ul>
+      
+      <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2')]); return false;" class="btn">MAKE A RESERVATION</a></p>
+      <p><a href="/hana/hana-rates-and-packages/">See rates and packages</a></p><!-- #EndLibraryItem --></div>
   </section>
 </article>
 </section><!-- #BeginLibraryItem "/Library/Travaasa_Testimonials.lbi" --><section id="comments" class="section group">
@@ -315,8 +321,9 @@ if(oldonload){oldonload()}};
 </script>
 <!-- end IMI retargeting --><!-- #EndLibraryItem --><script type="text/javascript">
 $(function() {
-	$('a[data-target="flare"]').peFlareLightbox();
-	setLocation("Hana", "offproperty");
+	createSubpageStorylines(true, true);
+	setLocation("Hana");
+	$("#lnk").click();
 });
 </script>
 </body>
