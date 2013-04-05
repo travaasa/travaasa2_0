@@ -174,6 +174,10 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
                 <h6>Bamboo Pole Fishing <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>The essence of fishing:  a freshly cut bamboo pole, a line and baited hook, the thrill of feeling fish bite and landing your catch.  Andrew Park has fished Hana Bay since childhood and shares his experience with our guests on this fishing expedition.</p>
             </div>
+            <div class="listing">
+                <h6>Tidal Pool Hunt <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Join our guide on a fun and invigorating walk down the spectacular Hāna Coastline and explore four different tidal pools of the reef. Learn about the history of Hāna, its eco-systems and marine life.</p>
+            </div>
             <h2>Fitness</h2>
             <div class="listing">
                 <h6>Six-Pack Abs <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
@@ -202,6 +206,10 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
                 <p>Partner up with your abs to move to salsa musice and watch your six packs to soar and get sore.</p>
             </div>
             <h2>Culinary</h2>
+            <div class="listing">
+                <h6>Island Brew Hop <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <br />
+            </div>
             <div class="listing">
                 <h6>Beer Tasting <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Beer is the third most popular drinks in the world, so this is the perfect opportunity to learn how to make different styles of beer.  Hop on over get to brewing!</p>
