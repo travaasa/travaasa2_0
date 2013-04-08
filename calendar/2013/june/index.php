@@ -48,104 +48,95 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
 <!-- end NAVIS Code -->
 </head>
 <body>
-<?php if ($loc == 'hana') : ?>
-<!-- #BeginLibraryItem "/Library/Travaasa_Menu_Hana.lbi" -->
-<header>
+<?php if ($loc == 'hana') : ?><!-- #BeginLibraryItem "/Library/Travaasa_Menu_Hana.lbi" --><header>
   <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
   <nav id="main_nav" class="clearfix">
     <ul class="location_selector_nav menu_top">
-      <li class="menu_main"><a href="/hana" id="current_location">HANA, MAUI</a>
-        <ul class="menu_sub">
-          <li><a href="/hana">HANA, MAUI</a></li>
-          <li><a href="/austin">AUSTIN, TX</a></li>
-        </ul>
-      </li>
+    	<li class="menu_main"><a href="/hana" id="current_location">HANA, MAUI</a>
+        	<ul class="menu_sub">
+                <li><a href="/hana">HANA, MAUI</a></li>
+                <li><a href="/austin">AUSTIN, TX</a></li>
+             </ul>
+        </li>
     </ul>
     <div id="hana_location_nav" class="location_group_nav">
-      <ul class="location_nav menu_top">
-        <li><a class="lnk_gallery" href="/hana/hanaphotos">GALLERY</a></li>
-        <li><a class="lnk_experiences" href="/hana/travaasa-hana-experiences">EXPERIENCES</a></li>
-        <li><a class="lnk_spa" href="/hana/hana-the-spa-at-travaasa-hana">SPA</a></li>
-        <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
-        <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
-        <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
-        <li class="menu_main menu_plus"><a href="#" class="plus"><span>+</span></a>
-          <ul class="menu_sub">
-            <li><a class="lnk_schedule" href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a></li>
-            <li><a class="lnk_locationinfo" href="/hana/hana-maui">HANA &amp; GETTING HERE</a></li>
-            <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
-            <li><a class="lnk_offproperty" href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></li>
-          </ul>
-        </li>
+     <ul class="location_nav menu_top">
+          <li><a class="lnk_gallery" href="/hana/hanaphotos">GALLERY</a></li>
+          <li><a class="lnk_experiences" href="/hana/travaasa-hana-experiences">EXPERIENCES</a></li>
+          <li><a class="lnk_spa" href="/hana/hana-the-spa-at-travaasa-hana">SPA</a></li>
+          <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
+          <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
+          <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
+          <li class="menu_main menu_plus"><a href="#" class="plus"><span>+</span></a>
+              <ul class="menu_sub">
+                  <li><a class="lnk_schedule" href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a></li>
+                  <li><a class="lnk_locationinfo" href="/hana/hana-maui">HANA &amp; GETTING HERE</a></li>
+                  <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
+                  <li><a class="lnk_offproperty" href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></li>
+               </ul>
+          </li>
       </ul>
       <ul class="location_condensed_nav menu_top">
-        <li class="menu_main"><a href="#">EXPLORE</a>
-          <ul class="menu_sub">
-            <li><a class="lnk_gallery" href="/hana/hanaphotos">GALLERY</a></li>
-            <li><a class="lnk_experiences" href="/hana/travaasa-hana-experiences">EXPERIENCES</a></li>
-            <li><a class="lnk_spa" href="/hana/hana-the-spa-at-travaasa-hana">SPA</a></li>
-            <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
-            <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
-            <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
-            <li><a class="lnk_schedule" href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a></li>
-            <li><a class="lnk_locationinfo" href="/hana/hana-maui">HANA &amp; GETTING HERE</a></li>
-            <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
-            <li><a class="lnk_offproperty" href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></li>
-          </ul>
-        </li>
+          <li class="menu_main"><a href="#">EXPLORE</a>
+              <ul class="menu_sub">
+                  <li><a class="lnk_gallery" href="/hana/hanaphotos">GALLERY</a></li>
+                  <li><a class="lnk_experiences" href="/hana/travaasa-hana-experiences">EXPERIENCES</a></li>
+                  <li><a class="lnk_spa" href="/hana/hana-the-spa-at-travaasa-hana">SPA</a></li>
+                  <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
+                  <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
+                  <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
+                  <li><a class="lnk_schedule" href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a></li>
+                  <li><a class="lnk_locationinfo" href="/hana/hana-maui">HANA &amp; GETTING HERE</a></li>
+                  <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
+                  <li><a class="lnk_offproperty" href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></li>
+               </ul>
+           </li>
       </ul>
     </div>
   </nav>
-</header>
-<!-- #EndLibraryItem -->
-<?php elseif ($loc == 'austin') : ?>
-<!-- #BeginLibraryItem "/Library/Travaasa_Menu_Austin.lbi" -->
-<header>
+</header><!-- #EndLibraryItem --><?php elseif ($loc == 'austin') : ?><!-- #BeginLibraryItem "/Library/Travaasa_Menu_Austin.lbi" --><header>
   <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
   <nav id="main_nav" class="clearfix">
     <ul class="location_selector_nav menu_top">
-      <li class="menu_main"><a href="/austin" id="current_location">AUSTIN, TX</a>
-        <ul class="menu_sub">
-          <li><a href="/hana">HANA, MAUI</a></li>
-          <li><a href="/austin">AUSTIN, TX</a></li>
-        </ul>
-      </li>
+    	<li class="menu_main"><a href="/austin" id="current_location">AUSTIN, TX</a>
+        	<ul class="menu_sub">
+                <li><a href="/hana">HANA, MAUI</a></li>
+                <li><a href="/austin">AUSTIN, TX</a></li>
+             </ul>
+        </li>
     </ul>
     <div id="austin_location_nav" class="location_group_nav">
       <ul class="location_nav menu_top">
-        <li><a class="lnk_gallery" href="/austin/austinphotos">GALLERY</a></li>
-        <li><a class="lnk_experiences" href="/austin/austin-experiences">EXPERIENCES</a></li>
-        <li><a class="lnk_spa" href="/austin/travaasa-spa-overview">SPA</a></li>
-        <li><a class="lnk_rooms" href="/austin/accomodations">ROOMS</a></li>
-        <li><a class="lnk_dining" href="/austin/dining">DINING</a></li>
-        <li><a class="lnk_rates" href="/austin/rates-and-packages">RATES</a></li>
-        <li><a class="lnk_groups" href="/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
-        <li class="menu_main menu_plus"><a href="#" class="plus"><span>+</span></a>
-          <ul class="menu_sub">
-            <li><a class="lnk_schedule" href="/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
-          </ul>
-        </li>
+          <li><a class="lnk_gallery" href="/austin/austinphotos">GALLERY</a></li>
+          <li><a class="lnk_experiences" href="/austin/austin-experiences">EXPERIENCES</a></li>
+          <li><a class="lnk_spa" href="/austin/travaasa-spa-overview">SPA</a></li>
+          <li><a class="lnk_rooms" href="/austin/accomodations">ROOMS</a></li>
+          <li><a class="lnk_dining" href="/austin/dining">DINING</a></li>
+          <li><a class="lnk_rates" href="/austin/rates-and-packages">RATES</a></li>
+          <li><a class="lnk_groups" href="/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
+          <li class="menu_main menu_plus"><a href="#" class="plus"><span>+</span></a>
+              <ul class="menu_sub">
+                  <li><a class="lnk_schedule" href="/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
+               </ul>
+          </li>
       </ul>
       <ul class="location_condensed_nav menu_top">
-        <li class="menu_main"><a href="#">EXPLORE</a>
-          <ul class="menu_sub">
-            <li><a class="lnk_gallery" href="/austin/austinphotos">GALLERY</a></li>
-            <li><a class="lnk_experiences" href="/austin/austin-experiences">EXPERIENCES</a></li>
-            <li><a class="lnk_spa" href="/austin/travaasa-spa-overview">SPA</a></li>
-            <li><a class="lnk_rooms" href="/austin/accomodations">ROOMS</a></li>
-            <li><a class="lnk_dining" href="/austin/dining">DINING</a></li>
-            <li><a class="lnk_rates" href="/austin/rates-and-packages">RATES</a></li>
-            <li><a class="lnk_groups" href="/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
-            <li><a class="lnk_schedule" href="/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
-          </ul>
-        </li>
+          <li class="menu_main"><a href="#">EXPLORE</a>
+              <ul class="menu_sub">
+                  <li><a class="lnk_gallery" href="/austin/austinphotos">GALLERY</a></li>
+                  <li><a class="lnk_experiences" href="/austin/austin-experiences">EXPERIENCES</a></li>
+                  <li><a class="lnk_spa" href="/austin/travaasa-spa-overview">SPA</a></li>
+                  <li><a class="lnk_rooms" href="/austin/accomodations">ROOMS</a></li>
+                  <li><a class="lnk_dining" href="/austin/dining">DINING</a></li>
+                  <li><a class="lnk_rates" href="/austin/rates-and-packages">RATES</a></li>
+                  <li><a class="lnk_groups" href="/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
+                  <li><a class="lnk_schedule" href="/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
+               </ul>
+           </li>
       </ul>
     </div>
   </nav>
-</header>
-<!-- #EndLibraryItem -->
-<?php else : ?>
-<!-- #BeginLibraryItem "/Library/Travaasa_Menu.lbi" --><header>
+</header><!-- #EndLibraryItem --><?php else : ?><!-- #BeginLibraryItem "/Library/Travaasa_Menu.lbi" --><header>
   <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
   <nav id="main_nav" class="clearfix">
     <ul class="location_selector_nav menu_top">
@@ -157,8 +148,7 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
         </li>
     </ul>
   </nav>
-</header><!-- #EndLibraryItem -->
-<?php endif; ?>
+</header><!-- #EndLibraryItem --><?php endif; ?>
 <section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
       <div class="slide"><img src="/assets/images/feature_months_june_2013_1600x640.jpg" alt="June is Man Month at Travaasa"></div>
@@ -233,8 +223,7 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
   </section>
   
 </article>
-</section>
-<!-- #BeginLibraryItem "/Library/Travaasa_Testimonials.lbi" --><section id="comments" class="section group">
+</section><!-- #BeginLibraryItem "/Library/Travaasa_Testimonials.lbi" --><section id="comments" class="section group">
 	<div class="pad">
         <div class="col span_1_of_7">
             <img src="/assets/images/global/trip-advisor.png" alt="As seen of TripAdvisor">
@@ -249,72 +238,61 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
             <p class="fittext_quotes" id="quote_3"></p>
         </div>
      </div>
-</section><!-- #EndLibraryItem -->
-<?php if ($loc == 'hana') : ?>
-<!-- #BeginLibraryItem "/Library/Travaasa_Footer_Hana.lbi" -->
-<div id="reservations-bar">
-  <div class="reservations-bar-inner">
-    <p class="phone">
-      <script type="text/javascript">ShowNavisNCPhoneNumber();</script>
-      <noscript>
-        1-855-868-7282
-      </noscript>
-    </p>
-    <ul class="reservation_nav menu_top">
-      <li class="reservation"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2')]); return false;">MAKE A RESERVATION</a></li>
-    </ul>
-    <ul class="pricing">
-      <li>
-        <h2>INCLUSIVE<br>
-          <span>Starting at</span></h2>
-        <h3><sup>$</sup>825</h3>
-      </li>
-      <li>
-        <h2>A LA CARTE<br>
-          <span>Starting at</span></h2>
-        <h3><sup>$</sup>375</h3>
-      </li>
-    </ul>
-  </div>
+</section><!-- #EndLibraryItem --><?php if ($loc == 'hana') : ?><!-- #BeginLibraryItem "/Library/Travaasa_Footer_Hana.lbi" --><div id="reservations-bar">
+	<div class="reservations-bar-inner">
+        <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-888-820-1043</noscript></p>
+        <ul class="reservation_nav menu_top">
+            <li class="reservation"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2')]); return false;">MAKE A RESERVATION</a></li>
+        </ul>
+        <ul class="pricing">
+            <li>
+                <h2>INCLUSIVE<br><span>Starting at</span></h2>
+                <h3><sup>$</sup>825</h3>
+            </li>
+            <li>
+                <h2>A LA CARTE<br><span>Starting at</span></h2>
+                 <h3><sup>$</sup>375</h3>
+            </li>
+        </ul>
+    </div>
 </div>
 <footer class="clear">
   <nav id="footer_links" class="group">
     <div class="col span_1_of_4">
       <h2 class="hdr">TRAVAASA HANA</h2>
       <p>5031 Hana Hwy<br>
-        Hana, Hi 96713<br>
-        <br>
-        Tel: 808-359-2401<br>
-        Fax: 808-248-7202<br>
-        <br>
-        <a href="http://maps.google.com/maps?hl=en&amp;q=5031+Hana+Highway+Hana,+HI+96713&amp;gs_upl=3125l8296l0l9305l5l5l0l0l0l1l203l724l1.3.1l5l0&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;biw=638&amp;bih=933&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x7954ac25effd1793:0x535647e82e0e776,5031+Hana+Hwy,+Hana,+HI+96713&amp;gl=us&amp;ei=Hh4GT_KFB4nE2wX9zIn5CQ&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=1&amp;ved=0CB0Q8gEwAA5">DIRECTIONS</a></p>
+		Hana, Hi 96713<br>
+<br>Tel: <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>808-359-2401</noscript><br>
+Fax: 808-248-7202<br>
+<br>
+<a href="http://maps.google.com/maps?hl=en&amp;q=5031+Hana+Highway+Hana,+HI+96713&amp;gs_upl=3125l8296l0l9305l5l5l0l0l0l1l203l724l1.3.1l5l0&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;biw=638&amp;bih=933&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x7954ac25effd1793:0x535647e82e0e776,5031+Hana+Hwy,+Hana,+HI+96713&amp;gl=us&amp;ei=Hh4GT_KFB4nE2wX9zIn5CQ&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=1&amp;ved=0CB0Q8gEwAA5">DIRECTIONS</a></p>
     </div>
     <div class="col span_1_of_4">
       <p><a href="/hana/hanaphotos">GALLERY</a><br>
-        <a href="/hana/travaasa-hana-experiences">EXPERIENCES</a><br>
-        <a href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a><br>
-        <a href="/hana/hana-the-spa-at-travaasa-hana">SPA</a><br>
-        <a href="/hana/accomodations">ROOMS</a><br>
-        <a href="/hana/hana-dining-overview">DINING</a><br>
-        <a href="/hana/hana-rates-and-packages">RATES</a><br>
-        <a href="/hana/hana-maui">HANA &amp; GETTING HERE</a><br>
-        <a href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a><br>
-        <a href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></p>
+      <a href="/hana/travaasa-hana-experiences">EXPERIENCES</a><br>
+      <a href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a><br>
+      <a href="/hana/hana-the-spa-at-travaasa-hana">SPA</a><br>
+      <a href="/hana/accomodations">ROOMS</a><br>
+      <a href="/hana/hana-dining-overview">DINING</a><br>
+      <a href="/hana/hana-rates-and-packages">RATES</a><br>
+      <a href="/hana/hana-maui">HANA &amp; GETTING HERE</a><br>
+      <a href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a><br>
+      <a href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></p>
     </div>
     <div class="col span_1_of_4">
       <h2 class="hdr">INQUIRIES</h2>
       <p><a href="/about-us">ABOUT TRAVAASA</a><br>
-        <a href="/contact-us">CONTACT US</a><br>
-        <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
-        <a href="http://www.travaasa.com/blog">BLOG</a><br>
-        <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
-        <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
-        <a href="/site-map">SITE MAP</a></p>
+      <a href="/contact-us">CONTACT US</a><br>
+      <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
+      <a href="http://www.travaasa.com/blog">BLOG</a><br>
+      <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
+      <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
+	  <a href="/site-map">SITE MAP</a></p>
     </div>
     <div class="col span_1_of_4">
       <h2 class="hdr">FOLLOW US</h2>
       <ul id="social" class="clearfix">
-        <li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
+      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
         <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="/assets/images/global/transparent.gif" alt="Twitter"></a></li>
         <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="/assets/images/global/transparent.gif" alt="YouTube"></a></li>
         <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
@@ -322,75 +300,64 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
       </ul>
       <p><a class="btn" href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a></p>
     </div>
-    <p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/hana/travaasa-hana/"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/hana/travaasa-hana/"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
   </nav>
 </footer>
 <script type="text/javascript">
 var loc = "hana";
-</script>
-<!-- #EndLibraryItem -->
-<?php elseif ($loc == 'austin') : ?>
-<!-- #BeginLibraryItem "/Library/Travaasa_Footer_Austin.lbi" -->
-<div id="reservations-bar">
-  <div class="reservations-bar-inner">
-    <p class="phone">
-      <script type="text/javascript">ShowNavisNCPhoneNumber();</script>
-      <noscript>
-        1-855-868-7282
-      </noscript>
-    </p>
-    <ul class="reservation_nav menu_top">
-      <li class="reservation"> <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">MAKE A RESERVATION</a></li>
-    </ul>
-    <ul class="pricing">
-      <li>
-        <h2>INCLUSIVE<br>
-          <span>Starting at</span></h2>
-        <h3><sup>$</sup>350</h3>
-      </li>
-      <li>
-        <h2>A LA CARTE<br>
-          <span>Starting at</span></h2>
-        <h3><sup>$</sup>200</h3>
-      </li>
-    </ul>
-  </div>
+</script><!-- #EndLibraryItem --><?php elseif ($loc == 'austin') : ?><!-- #BeginLibraryItem "/Library/Travaasa_Footer_Austin.lbi" --><div id="reservations-bar">
+	<div class="reservations-bar-inner">
+        <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-877-261-7792</noscript></p>
+        <ul class="reservation_nav menu_top">
+            <li class="reservation">
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">MAKE A RESERVATION</a></li>
+        </ul>
+        <ul class="pricing">
+            <li>
+                <h2>INCLUSIVE<br><span>Starting at</span></h2>
+                <h3><sup>$</sup>350</h3>
+            </li>
+            <li>
+                <h2>A LA CARTE<br><span>Starting at</span></h2>
+                 <h3><sup>$</sup>200</h3>
+            </li>
+        </ul>
+    </div>
 </div>
 <footer class="clear">
   <nav id="footer_links" class="group">
     <div class="col span_1_of_4">
       <h2 class="hdr">TRAVAASA AUSTIN</h2>
       <p>13500 Farm to Market Road 2769<br>
-        Austin, TX 78726<br>
-        <br>
-        Tel: 512-364-0061<br>
-        Fax: 512-506-9737<br>
-        <br>
-        <a href="http://maps.google.com/maps?hl=en&amp;q=travaasa+austin&amp;safe=off&amp;ie=UTF8&amp;sqi=2&amp;hq=travaasa&amp;hnear=Austin,+Travis,+Texas&amp;t=m&amp;vpsrc=6&amp;ll=30.45844,-97.835999&amp;spn=0.12326,0.221786&amp;z=13&amp;iwloc=A&amp;cid=5151063792531704065">DIRECTIONS</a></p>
+Austin, TX 78726<br>
+<br>Tel: <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>512-364-0061</noscript><br>
+Fax: 512-506-9737<br>
+<br>
+<a href="http://maps.google.com/maps?hl=en&amp;q=travaasa+austin&amp;safe=off&amp;ie=UTF8&amp;sqi=2&amp;hq=travaasa&amp;hnear=Austin,+Travis,+Texas&amp;t=m&amp;vpsrc=6&amp;ll=30.45844,-97.835999&amp;spn=0.12326,0.221786&amp;z=13&amp;iwloc=A&amp;cid=5151063792531704065">DIRECTIONS</a></p>
     </div>
     <div class="col span_1_of_4">
       <p><a href="/austin/austinphotos">GALLERY</a><br>
-        <a href="/austin/austin-experiences">EXPERIENCES</a><br>
-        <a href="/austin/austinschedule">EXPERIENCE SCHEDULE</a><br>
-        <a href="/austin/travaasa-spa-overview">SPA</a><br>
-        <a href="/austin/accomodations">ROOMS</a><br>
-        <a href="/austin/dining">DINING</a><br>
-        <a href="/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></p>
+      <a href="/austin/austin-experiences">EXPERIENCES</a><br>
+      <a href="/austin/austinschedule">EXPERIENCE SCHEDULE</a><br>
+      <a href="/austin/travaasa-spa-overview">SPA</a><br>
+      <a href="/austin/accomodations">ROOMS</a><br>
+      <a href="/austin/dining">DINING</a><br>
+      <a href="/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></p>
     </div>
     <div class="col span_1_of_4">
       <h2 class="hdr">INQUIRIES</h2>
       <p><a href="/about-us">ABOUT TRAVAASA</a><br>
-        <a href="/contact-us">CONTACT US</a><br>
-        <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
-        <a href="http://www.travaasa.com/blog">BLOG</a><br>
-        <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
-        <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
-        <a href="/site-map">SITE MAP</a></p>
+      <a href="/contact-us">CONTACT US</a><br>
+      <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
+      <a href="http://www.travaasa.com/blog">BLOG</a><br>
+      <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
+      <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
+	  <a href="/site-map">SITE MAP</a></p>
     </div>
     <div class="col span_1_of_4">
       <h2 class="hdr">FOLLOW US</h2>
       <ul id="social" class="clearfix">
-        <li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
+      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
         <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="/assets/images/global/transparent.gif" alt="Twitter"></a></li>
         <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="/assets/images/global/transparent.gif" alt="YouTube"></a></li>
         <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
@@ -398,14 +365,14 @@ var loc = "hana";
       </ul>
       <p><a class="btn" href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a></p>
     </div>
-    <p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/united-states/texas/austin/travaasa-austin"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/united-states/texas/austin/travaasa-austin"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
+    
+    
   </nav>
 </footer>
 <script type="text/javascript">
 var loc = "austin";
-</script><!-- #EndLibraryItem -->
-<?php else : ?>
-<!-- #BeginLibraryItem "/Library/Travaasa_Footer.lbi" --><footer class="clear global">
+</script><!-- #EndLibraryItem --><?php else : ?><!-- #BeginLibraryItem "/Library/Travaasa_Footer.lbi" --><footer class="clear global">
   <nav id="footer_links" class="group">
     <div class="col span_2_of_4">
       <h2 class="hdr">TRAVAASA EXPERIENTIAL RESORTS</h2>
@@ -437,9 +404,7 @@ var loc = "austin";
 </footer>
 <script type="text/javascript">
 var loc = "all";
-</script><!-- #EndLibraryItem -->
-<?php endif; ?>
-<!-- #BeginLibraryItem "/Library/Travaasa_Scripts.lbi" --><!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+</script><!-- #EndLibraryItem --><?php endif; ?><!-- #BeginLibraryItem "/Library/Travaasa_Scripts.lbi" --><!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <!-- JavaScript at the bottom for fast page loading -->
 <script>window.jQuery || document.write('<script src="/assets/scripts/jquery-1.7.2.min.js"><\/script>')</script>
@@ -562,8 +527,7 @@ document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
 if(oldonload){oldonload()}};
 }());
 </script>
-<!-- end IMI retargeting --><!-- #EndLibraryItem -->
-<script type="text/javascript">
+<!-- end IMI retargeting --><!-- #EndLibraryItem --><script type="text/javascript">
 $(function() {
 	createSubpageStorylines(true, true);
 });
