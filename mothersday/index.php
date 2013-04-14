@@ -66,7 +66,7 @@
 ?><script type="text/javascript">
 $(function() {
 	$('a[data-target="flare"]').peFlareLightbox();
-	setLocation("Austin");
+	setLocation("Austin", "rooms");
 });
 </script>
 </body>
