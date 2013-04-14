@@ -42,7 +42,7 @@
 Although Jean's parents were Americans, they lived in Mexico at the time of her birth and traveled to EI Paso to have their baby in a more modern American hospital. She then spent her childhood in Chicago and Denver, working in the family creamery as a teenager. She married and eventually established her family in Phoenix, Arizona.<br><br>
 She loved to travel and see and learn about new places and cultures. She also had a passion for Italian food, and made her gnocchi, which became a family favorite, by hand. She went through an "Asian" phase and besides stir fry dishes, she made pot stickers and a variety of egg rolls. Once, when she made her Mexican green chili, she peeled so many chili peppers her hands blistered the next day. Her extraordinary drive and joyful attitude spurned her to compile and help publish several church cookbooks for the ordinary cook to benefit from her expertise. Her most famous dish, a meat pie, became a request of all potlucks and published in the local paper.
 Always with a smile, always with open arms and hugs, Jean was an ordinary woman with an extraordinary spirit, and the character of Travaasa.</p>
-		<p><a href="../">Dining at Travaasa Austin</a></p>
+		<p><a href="./">Dining at Travaasa Austin</a></p>
     </section>
 	<!-- End body content //-->
 

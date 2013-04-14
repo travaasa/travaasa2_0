@@ -25,7 +25,7 @@
 <article id="main">
   <section class="intro pad clearfix notheater">
           <h1>EXPERIENCE SCHEDULE</h1>
-          <p>This schedule is subject to change. View our selection of <a href="/austin/austin-experiences/austin-private-classes.php">private classes</a>.</p>
+          <p>This schedule is subject to change. View our selection of <a href="/austin/austin-experiences/austin-private-classes.html">private classes</a>.</p>
   </section>
   <section class="grey pad group">
   	   <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=900&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=travaasa.com_a8hp6jo2ugd1l3dmunvcqgdu3s%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FChicago" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
