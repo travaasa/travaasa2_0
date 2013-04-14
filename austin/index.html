@@ -1,14 +1,3 @@
-<?php
-session_start();
-$loc = @$_GET['loc']; 
-if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){ 
-  $_SESSION["origLoc"] = $loc;
-} elseif (isset($_SESSION["origLoc"])) {
-  $loc = $_SESSION["origLoc"];
-} else {
-  $loc = "default";
-}
-?>
 <!DOCTYPE html>
 <head>
 	<meta charset="utf-8">
@@ -16,7 +5,7 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
 	<title>Travaasa - Real Travel for Real Experiences.</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<meta name="author" content="www.travaasa.com.com">
+	<meta name="author" content="www.doner.com">
 	<link rel="shortcut icon" href="/favicon.ico">
 	<!-- Responsive and mobile friendly stuff -->
 	<meta name="HandheldFriendly" content="True">
@@ -43,58 +32,11 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
     <link rel="stylesheet" href="/assets/scripts/pe.flare/jquery.pixelentity.flare.min.css" media="all">
 	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects --><script src="/assets/scripts/modernizr-2.5.3-min.js"></script>
 <!-- start NAVIS Code -->
-<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=8558687282"></script>
+<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=8772617792"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
 <!-- end NAVIS Code -->
 </head>
-<body>
-<?php if ($loc == 'hana') : ?><!-- #BeginLibraryItem "/Library/Travaasa_Menu_Hana.lbi" --><header>
-  <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
-  <nav id="main_nav" class="clearfix">
-    <ul class="location_selector_nav menu_top">
-    	<li class="menu_main"><a href="/hana" id="current_location">HANA, MAUI</a>
-        	<ul class="menu_sub">
-                <li><a href="/hana">HANA, MAUI</a></li>
-                <li><a href="/austin">AUSTIN, TX</a></li>
-             </ul>
-        </li>
-    </ul>
-    <div id="hana_location_nav" class="location_group_nav">
-     <ul class="location_nav menu_top">
-          <li><a class="lnk_gallery" href="/hana/hanaphotos">GALLERY</a></li>
-          <li><a class="lnk_experiences" href="/hana/travaasa-hana-experiences">EXPERIENCES</a></li>
-          <li><a class="lnk_spa" href="/hana/hana-the-spa-at-travaasa-hana">SPA</a></li>
-          <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
-          <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
-          <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
-          <li class="menu_main menu_plus"><a href="#" class="plus"><span>+</span></a>
-              <ul class="menu_sub">
-                  <li><a class="lnk_schedule" href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a></li>
-                  <li><a class="lnk_locationinfo" href="/hana/hana-maui">HANA &amp; GETTING HERE</a></li>
-                  <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
-                  <li><a class="lnk_offproperty" href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></li>
-               </ul>
-          </li>
-      </ul>
-      <ul class="location_condensed_nav menu_top">
-          <li class="menu_main"><a href="#">EXPLORE</a>
-              <ul class="menu_sub">
-                  <li><a class="lnk_gallery" href="/hana/hanaphotos">GALLERY</a></li>
-                  <li><a class="lnk_experiences" href="/hana/travaasa-hana-experiences">EXPERIENCES</a></li>
-                  <li><a class="lnk_spa" href="/hana/hana-the-spa-at-travaasa-hana">SPA</a></li>
-                  <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
-                  <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
-                  <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
-                  <li><a class="lnk_schedule" href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a></li>
-                  <li><a class="lnk_locationinfo" href="/hana/hana-maui">HANA &amp; GETTING HERE</a></li>
-                  <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
-                  <li><a class="lnk_offproperty" href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></li>
-               </ul>
-           </li>
-      </ul>
-    </div>
-  </nav>
-</header><!-- #EndLibraryItem --><?php elseif ($loc == 'austin') : ?><!-- #BeginLibraryItem "/Library/Travaasa_Menu_Austin.lbi" --><header>
+<body><!-- #BeginLibraryItem "/Library/Travaasa_Menu_Austin.lbi" --><header>
   <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
   <nav id="main_nav" class="clearfix">
     <ul class="location_selector_nav menu_top">
@@ -136,92 +78,68 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
       </ul>
     </div>
   </nav>
-</header><!-- #EndLibraryItem --><?php else : ?><!-- #BeginLibraryItem "/Library/Travaasa_Menu.lbi" --><header>
-  <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
-  <nav id="main_nav" class="clearfix">
-    <ul class="location_selector_nav menu_top">
-    	<li class="menu_main"><a href="#" id="current_location">LOCATION</a>
-        	<ul class="menu_sub">
-                <li><a href="/hana">HANA, MAUI</a></li>
-                <li><a href="/austin">AUSTIN, TX</a></li>
-             </ul>
-        </li>
-    </ul>
-  </nav>
-</header><!-- #EndLibraryItem --><?php endif; ?>
-<section id="feature1_wrapper" class="feature_carousel clearfix">
+</header><!-- #EndLibraryItem --><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_june_2013_1600x640.jpg" alt="June is Man Month at Travaasa"></div>
+      <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="/assets/images/feature_austin_1600x640_dayvideo_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
+    <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
+    <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
 </section>
 <section id="content">
 <article id="main">
-  <section class="intro pad clearfix">    
-    <div class="section group">
-    	<div class="col span_1_of_2">
-            <h2>Adventure</h2>
-            <div class="listing">
-                <h6>Bamboo Pole Fishing <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>The essence of fishing:  a freshly cut bamboo pole, a line and baited hook, the thrill of feeling fish bite and landing your catch.  Andrew Park has fished Hana Bay since childhood and shares his experience with our guests on this fishing expedition.</p>
-            </div>
-            <div class="listing">
-                <h6>Tidal Pool Hunt <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Join our guide on a fun and invigorating walk down the spectacular Hāna Coastline and explore four different tidal pools of the reef. Learn about the history of Hāna, its eco-systems and marine life.</p>
-            </div>
-            <h2>Fitness</h2>
-            <div class="listing">
-                <h6>Six-Pack Abs <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>The abs are important for our posture and healthy spine. With awareness of these muscles and effective exercises you can rediscover your six pack abs. This is a workout that will enhance your ability to activate your core muscles and help to uncover them</p>
-            </div>
-            <div class="listing">
-                <h6>HardCORE Workout <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>The name of this class is both a description and a goal! This is an intense, 45 minute class that focuses on strengthening and toning your core or "power house" muscles. </p>
-            </div>
-            <div class="listing">
-                <h6>Zumba Fitness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p> Zumba is a revolutionizing fitness experience, that takes you on an unforgettable, exhilarating journey to a healthy and happy lifestyle. Jam-packed with red-hot dance steps, pulsating Latin and international rhythms, and feel-it-to-the-core routines, this invigorating dance-fitness party will have you movin', rockin' and shakin' the weight off.</p>
-            </div>
-            <div class="listing">
-                <h6>Yoga for Hips &amp; Knees <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Hips and knees often take a toll during everyday living and sports activities. This workout will create more awareness, range of motion and strength to the muscles around these joints for better mobility and enjoyment of an active life.</p>
-            </div>
-        </div>
-        <div class="col span_1_of_2">
-            <div class="listing">
-                <h6>Kettle Bells Full Strength <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Kettlebell Full Strength will help kick all your fitness goals into high gear! These functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance while burning lots of calories! In this 45 minute, high-intensity class, you will focus on functional movement, power, strength, joint-stability, alignment, balance and control. Working with the kettlebell is combined with BOSU and body weight exercises for an all around heart-pumping workout.</p>
-            </div>
-            <div class="listing">
-                <h6>Salsa Dance &amp; Abs <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Partner up with your abs to move to salsa musice and watch your six packs to soar and get sore.</p>
-            </div>
-            <h2>Culinary</h2>
-            <div class="listing">
-                <h6>Island Brew Hop <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <br />
-            </div>
-            <div class="listing">
-                <h6>Beer Tasting <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Beer is the third most popular drinks in the world, so this is the perfect opportunity to learn how to make different styles of beer.  Hop on over get to brewing!</p>
-            </div>
-            <div class="listing">
-                <h6>Grilling &amp; Smoking Demonstration <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Summer is the perfect time to light up the grill and enjoy some great BBQ!  And what Dad doesn’t appreciate a big Texas steak on a hot summer day?  Come learn some new smoking and grilling techniques and recipes to enjoy at home on the deck!</p>
-            </div>
-        </div>
-    </div>  
-      
+  <section class="intro pad clearfix">
+      <div class="col span_6_of_9">
+          <h1>The Newest Experiential Resort and Spa in Texas</h1>
+          <p>The location of Travaasa Austin alone will inspire you. Surrounded by the ancient live oaks and undulating hills of the Balcones Canyonlands Preserve, our resort embraces nature … and is embraced by nature in return.<br><br>
+<strong>But this isn’t just another resort.</strong><br><br>
+As Texas's most active destination resort and spa, Travaasa Austin takes pride in offering its guests a compelling menu of inclusive guided adventures, culinary classes, cultural encounters, healing spa treatments, and fitness and wellness workshops, all located in a Zen-like preserve for the soul.</p>
+      </div>
+      <div class="pricing_grp col span_3_of_9"><!-- #BeginLibraryItem "/Library/Travaasa_Austin_Pricing.lbi" --><ul class="pricing clearfix">
+    <li>
+        <h2>INCLUSIVE</h2>
+        <p>Starting at</p>
+        <h3><sup>$</sup>350</h3>
+    </li>
+    <li>
+        <h2>A LA CARTE</h2>
+        <p>Starting at</p>
+        <h3><sup>$</sup>200</h3>
+    </li>
+</ul>
+<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;" class="btn">MAKE A RESERVATION</a></p>
+<p><a href="/austin/rates-and-packages">See rates and packages</a></p><!-- #EndLibraryItem --></div>
   </section>
-  
-  <section class="grey pad">
-        <h4>See upcoming months</h4>
-  		<div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/may/"><img src="/assets/images/months/may-nuture.png" alt="May is Nuture Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2013/june/"><img src="/assets/images/months/jun-man.png" alt="June is Man Month"></a></div></div>
+  <section class="grey pad">    
+    <h4>HIGHLIGHTS</h4>   
+    <div id="story1-wrapper" class="storyline_carousel">
+      <div id="story1" class="storyline">
+        <div class="slide">
+          <div class="slide_inner"><a href="/austin/austin-experiences/"><img data-original="/assets/images/exp_austin_experiences_overview.jpg" src="/assets/images/global/placeholder.gif" alt=""></a>
+            <h5>Travaasa Austin Experiences</h5>
+            <p class="description">Situated on the edge of the Balcones Canyonlands Preserve, Travaasa Austin offers an extensive selection of guided activities set amidst — and inspired by — the beautiful Texas Hill Country. Learn how to Texas Two-Step, overcome your inhibitions on the Prickly Pear Challenge Course, take a mechanical bull riding workout class, embrace your intuition through a sunrise horseback ride, and more. At Travaasa Austin, you will never run out of things to do. <a href="/austin/austin-experiences/" class="more">Explore</a></p>
+          </div>
         </div>
+        <div class="slide">
+          <div class="slide_inner"><a href="/austin/travaasa-spa-overview/"><img data-original="/assets/images/exp_austin_spa_overview.jpg" src="/assets/images/global/placeholder.gif" alt=""></a>
+            <h5>Travaasa Austin a Top 10 Destination Spa</h5>
+            <p class="description">TripAdvisor named Travaasa Austin a Top 10 Destination Spa. Because a visit here goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. <a href="/austin/travaasa-spa-overview/" class="more">Explore</a></p>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="slide_inner"><a href="/austin/accomodations/"><img data-original="/assets/images/exp_austin_accommodations_overview.jpg" src="/assets/images/global/placeholder.gif" alt=""></a>
+            <h5>Relaxing digs</h5>
+            <p class="description">The accommodations at Travaasa Austin are comfortable, stylish and soothing — perfect for unwinding after an ambitious workout, nature hike or meeting. Each rooms offers a private deck or patio welcoming the fresh outdoor air in. The a perfect place to just breathe. <a href="/austin/accomodations/" class="more">Explore</a></p>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="slide_inner"><a href="/austin/dining/"><img data-original="/assets/images/exp_austin_dining_overview.jpg" src="/assets/images/global/placeholder.gif" alt=""></a>
+            <h5>A taste of Travaasa Austin</h5>
+            <p class="description">With the emphasis on locally sourced, organic food, and a focus on healthy eating, Travaasa Austin brings you a well-rounded culinary program that offers everything from basic culinary skills and juicing, to wine tasting and group cooking demonstrations and challenges. <a href="/austin/dining/" class="more">Explore</a></p>
+          </div>
+        </div>
+      </div>
+      <a class="carousel_prev" id="story1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story1_next" href="#"><span><b>next</b></span></a> </div>
   </section>
-  
 </article>
 </section><!-- #BeginLibraryItem "/Library/Travaasa_Testimonials.lbi" --><section id="comments" class="section group">
 	<div class="pad">
@@ -238,74 +156,7 @@ if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){
             <p class="fittext_quotes" id="quote_3"></p>
         </div>
      </div>
-</section><!-- #EndLibraryItem --><?php if ($loc == 'hana') : ?><!-- #BeginLibraryItem "/Library/Travaasa_Footer_Hana.lbi" --><div id="reservations-bar">
-	<div class="reservations-bar-inner">
-        <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-888-820-1043</noscript></p>
-        <ul class="reservation_nav menu_top">
-            <li class="reservation"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2')]); return false;">MAKE A RESERVATION</a></li>
-        </ul>
-        <ul class="pricing">
-            <li>
-                <h2>INCLUSIVE<br><span>Starting at</span></h2>
-                <h3><sup>$</sup>825</h3>
-            </li>
-            <li>
-                <h2>A LA CARTE<br><span>Starting at</span></h2>
-                 <h3><sup>$</sup>375</h3>
-            </li>
-        </ul>
-    </div>
-</div>
-<footer class="clear">
-  <nav id="footer_links" class="group">
-    <div class="col span_1_of_4">
-      <h2 class="hdr">TRAVAASA HANA</h2>
-      <p>5031 Hana Hwy<br>
-		Hana, Hi 96713<br>
-<br>Tel: <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>808-359-2401</noscript><br>
-Fax: 808-248-7202<br>
-<br>
-<a href="http://maps.google.com/maps?hl=en&amp;q=5031+Hana+Highway+Hana,+HI+96713&amp;gs_upl=3125l8296l0l9305l5l5l0l0l0l1l203l724l1.3.1l5l0&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;biw=638&amp;bih=933&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x7954ac25effd1793:0x535647e82e0e776,5031+Hana+Hwy,+Hana,+HI+96713&amp;gl=us&amp;ei=Hh4GT_KFB4nE2wX9zIn5CQ&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=1&amp;ved=0CB0Q8gEwAA5">DIRECTIONS</a></p>
-    </div>
-    <div class="col span_1_of_4">
-      <p><a href="/hana/hanaphotos">GALLERY</a><br>
-      <a href="/hana/travaasa-hana-experiences">EXPERIENCES</a><br>
-      <a href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a><br>
-      <a href="/hana/hana-the-spa-at-travaasa-hana">SPA</a><br>
-      <a href="/hana/accomodations">ROOMS</a><br>
-      <a href="/hana/hana-dining-overview">DINING</a><br>
-      <a href="/hana/hana-rates-and-packages">RATES</a><br>
-      <a href="/hana/hana-maui">HANA &amp; GETTING HERE</a><br>
-      <a href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a><br>
-      <a href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></p>
-    </div>
-    <div class="col span_1_of_4">
-      <h2 class="hdr">INQUIRIES</h2>
-      <p><a href="/about-us">ABOUT TRAVAASA</a><br>
-      <a href="/contact-us">CONTACT US</a><br>
-      <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
-      <a href="http://www.travaasa.com/blog">BLOG</a><br>
-      <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
-      <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
-	  <a href="/site-map">SITE MAP</a></p>
-    </div>
-    <div class="col span_1_of_4">
-      <h2 class="hdr">FOLLOW US</h2>
-      <ul id="social" class="clearfix">
-      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
-        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="/assets/images/global/transparent.gif" alt="Twitter"></a></li>
-        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="/assets/images/global/transparent.gif" alt="YouTube"></a></li>
-        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
-        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="/assets/images/global/transparent.gif" alt="Blog"></a></li>
-      </ul>
-      <p><a class="btn" href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a></p>
-    </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/hana/travaasa-hana/"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
-  </nav>
-</footer>
-<script type="text/javascript">
-var loc = "hana";
-</script><!-- #EndLibraryItem --><?php elseif ($loc == 'austin') : ?><!-- #BeginLibraryItem "/Library/Travaasa_Footer_Austin.lbi" --><div id="reservations-bar">
+</section><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Travaasa_Footer_Austin.lbi" --><div id="reservations-bar">
 	<div class="reservations-bar-inner">
         <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-877-261-7792</noscript></p>
         <ul class="reservation_nav menu_top">
@@ -372,39 +223,7 @@ Fax: 512-506-9737<br>
 </footer>
 <script type="text/javascript">
 var loc = "austin";
-</script><!-- #EndLibraryItem --><?php else : ?><!-- #BeginLibraryItem "/Library/Travaasa_Footer.lbi" --><footer class="clear global">
-  <nav id="footer_links" class="group">
-    <div class="col span_2_of_4">
-      <h2 class="hdr">TRAVAASA EXPERIENTIAL RESORTS</h2>
-        <p>Introducing Travaasa, a new collection of experiential spa resorts that emphasizes real travel and the unique, authentic qualities that make a destination magical. Learn more about the <a href="/about-us">Travaasa Vision</a>. Our hotels are tailored to the intellectually active and culturally curious, offering a resort experience that is defined by guided adventures, culinary classes, cultural encounters, healing spa treatments, as well as fitness and wellness workshops.</p>
-    </div>
-    <div class="col span_1_of_4">
-      <h2 class="hdr">INQUIRIES</h2>
-      <p><a href="/about-us">ABOUT TRAVAASA</a><br>
-      <a href="/contact-us">CONTACT US</a><br>
-      <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
-      <a href="http://www.travaasa.com/blog">BLOG</a><br>
-      <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
-      <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
-	  <a href="/site-map">SITE MAP</a></p>
-    </div>
-    <div class="col span_1_of_4">
-      <h2 class="hdr">FOLLOW US</h2>
-      <ul id="social" class="clearfix">
-      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
-        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="/assets/images/global/transparent.gif" alt="Twitter"></a></li>
-        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="/assets/images/global/transparent.gif" alt="YouTube"></a></li>
-        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
-        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="/assets/images/global/transparent.gif" alt="Blog"></a></li>
-      </ul>
-      <p><a class="btn" href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a></p>
-    </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/hana/travaasa-hana/"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
-  </nav>
-</footer>
-<script type="text/javascript">
-var loc = "all";
-</script><!-- #EndLibraryItem --><?php endif; ?><!-- #BeginLibraryItem "/Library/Travaasa_Scripts.lbi" --><!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+</script><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/Travaasa_Scripts.lbi" --><!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <!-- JavaScript at the bottom for fast page loading -->
 <script>window.jQuery || document.write('<script src="/assets/scripts/jquery-1.7.2.min.js"><\/script>')</script>
@@ -530,6 +349,8 @@ if(oldonload){oldonload()}};
 <!-- end IMI retargeting --><!-- #EndLibraryItem --><script type="text/javascript">
 $(function() {
 	createSubpageStorylines(true, true);
+	$('a[data-target="flare"]').peFlareLightbox();
+	setLocation("Austin");
 });
 </script>
 </body>
