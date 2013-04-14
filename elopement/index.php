@@ -59,7 +59,7 @@
 ?><script type="text/javascript">
 $(function() {
 	$('a[data-target="flare"]').peFlareLightbox();
-	setLocation("Hana", "rooms");
+	setLocation("Hana");
 });
 </script>
 </body>
