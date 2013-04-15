@@ -29,31 +29,30 @@
         <h2>Sunday, May 12th</h2>
         <p>Celebrate a deserving mother with a special package that includes:</p>
         <ul>
-          <li>50min Custom Massage</li>
+          <li>50min Custom Massage or Facial</li>
           <li>4-course Dinner</li>
           <li>Access to Travaasa's regularly-scheduled on-property activities</li>
         </ul>
         <h4>Starting price of $280</h4>
-        <p>For <strong>$45 additional</strong>, mom will enjoy paired wines with dinner, hand selected by Travaasa’s sommelier. Husbands and other family members can join mom for dinner for a fee of $65 per person.</p>
-        <p>Activities mom can enjoy:</p>
+        <p>For <strong>$45 additional</strong>, mom will enjoy paired wines with dinner, hand selected by Travaasa’s sommelier. Husbands and other adult family members can join mom for dinner for a fee of $65 per person.</p>
+        <p>A sample of activities mom can enjoy include:</p>
         <ul>
-          <li>7:45am - Morning Stretch</li>
-          <li>8:00am - Tai Chi and Nature</li>
-          <li>8:30am - Heart Starter Hike</li>
-          <li>8:30am - Nurturing Meditation</li>
-          <li>9:00am - Foam Roller</li>
-          <li>10:00am - Challenge Course</li>
-          <li>10:00am - Pre/Post Natal Yoga</li>
-          <li>10:30am - Equine Encounter</li>
-          <li>11:00am - Mom, Shall We Dance</li>
-          <li>11:30am - Roping</li>
-          <li>12:00pm - Embrace Quiet, Yin Yoga</li>
-          <li>1:00pm - Couples Connection</li>
-          <li>1:00pm - Embrace Journaling</li>
-          <li>1:00pm - GeoCaching</li>
-          <li>1:30pm - T1 Racing</li>
-          <li>2:00pm - Cultivate Happiness Collage</li>
-          <li>3:00pm - Slacklining</li>
+          <li>Morning Stretch</li>
+          <li>Tai Chi and Nature</li>
+          <li>Heart Starter Hike</li>
+          <li>Nurturing Meditation</li>
+          <li>Foam Roller</li>
+          <li>Challenge Course</li>
+          <li>Pre/Post Natal Yoga</li>
+          <li>Equine Encounter</li>
+          <li>Mom, Shall We Dance</li>
+          <li>Roping</li>
+          <li>Embrace Quiet, Yin Yoga</li>
+          <li>Couples Connection</li>
+          <li>Embrace Journaling</li>
+          <li>GeoCaching</li>
+          <li>Cultivate Happiness Collage</li>
+          <li>Slacklining</li>
         </ul>  
 <div class="col span_1_of_1"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
   </section>
