@@ -1,0 +1,482 @@
+<html dir="ltr" lang="en-US"><head>
+<meta charset="UTF-8">
+<title>Travaasa Press Room</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.travaasa.com/press-room/xmlrpc.php">
+<link rel="stylesheet" href="http://www.travaasa.com/press-room/wp-content/themes/twentyten/js/validationEngine.jquery.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Travaasa Press Room » Feed" href="http://www.travaasa.com/press-room/feed/">
+<link rel="alternate" type="application/rss+xml" title="Travaasa Press Room » Comments Feed" href="http://www.travaasa.com/press-room/comments/feed/">
+<link rel="stylesheet" id="commentvalidation-css" href="http://www.travaasa.com/press-room/wp-content/plugins/comment-validation/comment-validation.css?ver=3.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="A2A_SHARE_SAVE-css" href="http://www.travaasa.com/press-room/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.3" type="text/css" media="all">
+<link rel="stylesheet" id="antispam-extra.style.plugin-css" href="http://www.travaasa.com/press-room/wp-content/plugins/antispam-extra/style.plugin.css?ver=3.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-paginate-css" href="http://www.travaasa.com/press-room/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.3" type="text/css" media="screen">
+
+
+<!-- Responsive and mobile friendly stuff -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<!-- Stylesheets -->
+<link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/219cfca3-6d64-4b4f-98fa-9e9b1197e3d8.css"/>
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/html5reset.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/col.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/2cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/3cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/4cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/5cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/6cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/7cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/8cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/9cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/10cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/11cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/12cols.css" media="all">
+<link rel="stylesheet" href="http://www.travaasa.com/assets/css/global_trav.css" media="all">
+<link rel="stylesheet" href="style-stripped.css" media="all">
+<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects -->
+<script src="http://www.travaasa.com/assets/scripts/modernizr-2.5.3-min.js"></script>
+<!--[if (lt IE 9) & (!IEMobile)]>
+<script src="http://www.travaasa.com/assets/scripts/selectivizr-min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://www.travaasa.com/assets/scripts/responsivegridsystem.js"></script>
+
+
+<script type="text/javascript" src="http://www.travaasa.com/press-room/wp-includes/js/l10n.js?ver=20101110"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.travaasa.com/press-room/wp-content/plugins/antispam-extra/script.js?ver=3.1.1"></script>
+<script type="text/javascript" src="http://www.travaasa.com/press-room/wp-content/plugins/comment-validation/jquery.validate.pack.js?ver=3.1.1"></script>
+<script type="text/javascript" src="http://www.travaasa.com/press-room/wp-content/plugins/comment-validation/comment-validation.js?ver=3.1.1"></script>
+
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.travaasa.com/press-room/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.travaasa.com/press-room/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Travaasa Press Room" href="http://www.travaasa.com/press-room/">
+<meta name="generator" content="WordPress 3.1.1">
+<script type="text/javascript">
+<!--
+function gE(e) {
+	return document.getElementById(e);
+}
+function wH(e,h) {
+	e.innerHTML=h;
+}
+
+function makeRequest(url, loadingFunc, doneFunc) {
+	http_request = false;
+
+	if (window.XMLHttpRequest) {
+		http_request = new XMLHttpRequest();
+		if (http_request.overrideMimeType) {
+			http_request.overrideMimeType('text/xml');
+		}
+	}
+	else if (window.ActiveXObject) {
+		try {
+			http_request = new ActiveXObject('Msxml2.XMLHTTP');
+		} catch (e) {
+			try {
+				http_request = new ActiveXObject('Microsoft.XMLHTTP');
+			} catch (e) {
+			}
+		}
+	}
+
+	if (!http_request) {
+		alert('FATAL ERROR: Cannot create an XMLHTTP instance.');
+		return false;
+	}
+
+	http_request.onreadystatechange = function() {
+		if (http_request.readyState == 4) {
+			if (http_request.status == 200) {
+				eval(doneFunc+'(http_request.responseText)');
+			} else {
+				alert('Error while connecting to the server. Please try again leter.');
+			}
+		} else {
+			if (this.isOpera||!document.all||!navigator.userAgent.match(/msie/gi)) {
+				eval(loadingFunc+'(http_request.responseText)');
+			}
+		}
+	}
+
+	try {
+		http_request.open('POST', 'http://www.travaasa.com/press-room/wp-content/plugins/ajaxified-expand-post-now.php', true);
+		http_request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+		http_request.send('p='+url);
+	} catch (e) {
+		alert('I have encountered an problem while fetching data due to the cross-domain restriction of the XMLHTTPRequest object.');
+	}
+}
+
+function getData(id) {
+	postID = 'p'+id;
+	makeRequest(id, 'fetchLoading', 'fetchDone');
+	gE('viewBox-'+postID).style.display = 'block';
+	gE('open-'+postID).style.display = 'none';
+	gE('close-'+postID).style.display = 'inline';
+}
+
+function fetchLoading() {
+	wH(gE('viewBox-'+postID), 'Fetching Data...');
+}
+
+function fetchDone(outcome) {
+	wH(gE('viewBox-'+postID), outcome);
+}
+
+function closeView(id) {
+	gE('viewBox-'+id).style.display = 'none';
+	gE('open-'+id).style.display = 'inline';
+	gE('close-'+id).style.display = 'none';
+}
+-->
+</script>
+<!--[if IE]>
+<style type="text/css">
+.addtoany_list a img{filter:alpha(opacity=70)}
+.addtoany_list a:hover img,.addtoany_list a.addtoany_share_save img{filter:alpha(opacity=100)}
+</style>
+<![endif]-->
+
+<script type="text/javascript">
+$(window).load(function() {    
+
+	var theWindow        = $(window),
+	    $bg              = $("#bg"),
+	    aspectRatio      = $bg.width() / $bg.height();
+	    			    		
+	function resizeBg() {
+		
+		if ( (theWindow.width() / theWindow.height()) < aspectRatio ) {
+		    $bg
+		    	.removeClass()
+		    	.addClass('bgheight');
+		} else {
+		    $bg
+		    	.removeClass()
+		    	.addClass('bgwidth');
+		}
+					
+	}
+	                   			
+	theWindow.resize(function() {
+		resizeBg();
+	}).trigger("resize");
+
+});
+</script>
+
+
+
+</head>
+
+<body>
+<header>
+  <div id="logo"><a href="http://www.travaasa.com/"><span>TRAVAASA Experiential Resorts</span></a></div>
+  <nav id="main_nav" class="clearfix">
+    <ul class="location_selector_nav menu_top">
+    	<li class="menu_main"><a href="#" id="current_location">LOCATION</a>
+        	<ul class="menu_sub">
+                <li><a href="http://www.travaasa.com/hana">HANA, MAUI</a></li>
+                <li><a href="http://www.travaasa.com/austin">AUSTIN, TX</a></li>
+             </ul>
+        </li>
+    </ul>
+  </nav>
+</header>
+<section id="feature1_wrapper" class="subpage_bg"><img src="http://www.travaasa.com/assets/images/bg_hana_clouds.jpg" alt=""></section>
+<section id="contact-info">
+	<div id="reservations">
+      <p class="pr-info">Turner PR on Behalf of Travaasa Experiential Resorts</p>
+      <div class="group">
+          <div class="col span_1_of_2">
+              <p>Caitlin Johnson<br>
+              <a href="mailto:caitlin.johnson@turnerpr.com">caitlin.johnson@turnerpr.com</a><br>
+              303-333-1402</p>
+          </div>
+          <div class="col span_1_of_2">
+              <p>Ashley Cothran<br>
+              <a href="mailto:ashley.cothran@turnerpr.com">ashley.cothran@turnerpr.com</a><br>
+              303-333-1402</p>
+          </div>
+      </div>
+  </div>
+</section>
+<section id="content">
+	<article id="main">
+    	<section class="intro pad clearfix notheater">
+            <div class="group clearfix">
+                <div id="side-nav" class="col span_3_of_10">    
+                    <div id="primary" class="tabbed_group">
+        				<h5>PRESS ROOM</h5>
+                        <ul class="nav">
+                     <li class="page_item page-item-2 current_page_item"><a href="http://www.travaasa.com/press-room/" title="Press Room">Press Room</a></li>
+                     <li class="page_item page-item-8"><a href="http://www.travaasa.com/press-room/media-resources/" title="Media Resources">Media Resources</a></li>
+                     <li class="page_item page-item-10"><a href="http://www.travaasa.com/press-room/brand-press-kit/" title="Brand Press Kit">Brand Press Kit</a></li>
+                     <li class="page_item page-item-12"><a href="http://www.travaasa.com/press-room/austin-press-kit/" title="Austin Press Kit">Austin Press Kit</a>
+                     <ul class="children">
+                        <li class="page_item page-item-252"><a href="http://www.travaasa.com/press-room/austin-press-kit/travaasa-austin-fact-sheet/" title="Travaasa&reg; Austin Fact Sheet">Travaasa&reg; Austin Fact Sheet</a></li>
+                        <li class="page_item page-item-483"><a href="http://www.travaasa.com/press-room/austin-press-kit/travaasa-austin-dining/" title="Travaasa&reg; Austin Dining Fact Sheet">Travaasa&reg; Austin Dining Fact Sheet</a></li>
+                        <li class="page_item page-item-489"><a href="http://www.travaasa.com/press-room/austin-press-kit/travaasa-austin-spa/" title="Travaasa&reg; Austin Spa Fact Sheet">Travaasa&reg; Austin Spa Fact Sheet</a></li>
+                        <li class="page_item page-item-566"><a href="http://www.travaasa.com/press-room/austin-press-kit/openingtravaasaaustin/" title="Travaasa&reg; Experiential Resorts Opens First Hotel – Travaasa&reg; Austin">Travaasa&reg; Experiential Resorts Opens First Hotel – Travaasa&reg; Austin</a></li>
+                        <li class="page_item page-item-699"><a href="http://www.travaasa.com/press-room/austin-press-kit/austin-rates-sheet/" title="Your Perfect Travaasa&reg;: Packages and Rates">Your Perfect Travaasa&reg;: Packages and Rates</a></li>
+                        <li class="page_item page-item-1418"><a href="http://www.travaasa.com/press-room/austin-press-kit/kim-grabosky-farm-manager/" title="Kim Grabosky – Farm Manager">Kim Grabosky – Farm Manager</a></li>
+                    </ul>
+                </li>
+                <li class="page_item page-item-16"><a href="http://www.travaasa.com/press-room/hana-press-kit/" title="Hāna Press Kit">Hāna Press Kit</a>
+                    <ul class="children">
+                        <li class="page_item page-item-621"><a href="http://www.travaasa.com/press-room/hana-press-kit/travaasa-hana-fact-sheet-2/" title="Travaasa&reg; Hāna, Maui Fact Sheet">Travaasa&reg; Hāna, Maui Fact Sheet</a></li>
+                        <li class="page_item page-item-625"><a href="http://www.travaasa.com/press-room/hana-press-kit/hana-dining-fact-sheet/" title="Travaasa&reg; Hāna, Maui Dining Fact Sheet">Travaasa&reg; Hāna, Maui Dining Fact Sheet</a></li>
+                        <li class="page_item page-item-629"><a href="http://www.travaasa.com/press-room/hana-press-kit/hana-spa-fact-sheet/" title="Travaasa&reg; Hāna, Maui Spa Fact Sheet">Travaasa&reg; Hāna, Maui Spa Fact Sheet</a></li>
+                        <li class="page_item page-item-827"><a href="http://www.travaasa.com/press-room/hana-press-kit/your-perfect-travaasa-packages-and-rates/" title="Your Perfect Travaasa&reg;: Packages and Rates">Your Perfect Travaasa&reg;: Packages and Rates</a></li>
+                    </ul>
+                </li>
+                 </ul>
+                    </div><!-- #primary .widget-area -->
+                    <div id="tag-nav" class="tabbed_group">
+        				<h5>TAGS</h5>
+                        <ul class="nav">
+                            <li><a href="http://www.travaasa.com/press-room/tag/travaasa-austin-press-release/">Travaasa&reg; Austin Press Release</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/fitness/">Fitness</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/adventure/">Adventure</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/culture/">Culture</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/travaasa%c2%ae-hana/">Travaasa&reg; Hana</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/maui-press-releases/">Maui Press Releases</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/travaasa-austin-press-releases/">Travaasa&reg; Austin Press Releases</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/travaasa-hana-press-releases/">Travaasa&reg; Hana, Maui Press Releases</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/maui/" class="tag-link-66">Maui</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/travaasa-austin/">Travaasa&reg; Austin</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/culinary/">Culinary</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/promotions/">Promotions</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/press-releases/">Travaasa&reg; Experiential Resorts Press Releases</a></li>
+                            <li><a href="http://www.travaasa.com/press-room/tag/travaasa-hana/">Travaasa Hana, Maui</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="container" class="col span_7_of_10">
+                    <div id="content" role="main">  
+        
+        
+                
+            
+        
+        
+                    <div id="post-1429" class="post-1429 post type-post status-publish format-standard hentry category-uncategorized">
+                    <h2 class="entry-title"><a href="http://www.travaasa.com/press-room/travaasa-comes-alive-with-%e2%80%9chana-spring-harvest%e2%80%9d-on-may-11/" title="Permalink to TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11" rel="bookmark">TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11</a></h2>
+        
+                    <div class="entry-meta">
+                        <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.travaasa.com/press-room/travaasa-comes-alive-with-%e2%80%9chana-spring-harvest%e2%80%9d-on-may-11/" title="11:48 am" rel="bookmark"><span class="entry-date">April 4, 2013</span></a>
+                    </div><!-- .entry-meta -->
+        
+                        <div class="entry-content">
+                        <p>“Hana Spring Harvest” benefiting Hana Youth Center and Mahele Farm<br>
+        Saturday, May 11, 2013<br>
+        5:00 p.m. – Cocktail Hour; 6:00 p.m. – Dinner<br>
+        Travaasa Hana’s Plantation Guest House<br>
+        5031 Hana Hwy.<br>
+        Hana, HI 96713<br>
+        Cost: $100 per person, includes tax and gratuity<br>
+        Limited seating. Reservations required. Ages 21+ only.<br>
+        Tickets: <a href="http://www.travaasadinner.com/">www.travaasadinner.com</a></p>
+        <p>HANA, MAUI, HAWAII (April 4, 2013) –The tranquil town of Hana comes alive for an evening of culture, cuisine and community at the “Hana Spring Harvest” on May 11. For one night only, Travaasa Hana and executive chef Barry Villiarimo host the “Hana Spring Harvest,” welcoming three talented, passionate and community-minded innovators representing the next generation of cuisine in the Hawaiian Islands to Hana. Awaken your palates and inspire your senses with a five-course cocktail pairing dinner and live Hawaiian music under the stars in one of Hawaii’s most magical settings.</p>
+        <p>Star chefs headed to Hana will be Sheldon Simeon, executive chef at Star Noodle and fan favorite on <em>Top Chef: Seattle</em> and Mark “Gooch” Noguchi, chef/partner at Taste and Pili Hawaii and contributor on Cooking Channel’s <em>Unique Eats</em>. The dinner will take place at Travaasa Hana’s intimate turn-of-the-century Plantation Guest House, and feature an inspired five-course menu highlighting Hawaii’s cultural diversity and honoring the roots of Hana’s <em>kupuna</em> (elders). Serving a selection of craft cocktails to compliment the menu will be&nbsp;one of the state’s most respected bartenders, Dave Power of The Feral Pig on Kauai.</p>
+        <p>The evening kicks off at 5 p.m. with cocktails, <em>pupu </em>(appetizers), and live entertainment from Hana’s award-winning musicians CJ Helekahi and Leokane Pryor, followed at 6 p.m. by the delectable dinner showcasing the incredible bounty of Hana with the freshest fish, beef, and produce from the area. Tickets are priced at $100 per person, and seating is limited. For tickets, go to <a href="http://www.travaasadinner.com/">www.travaasadinner.com</a>.</p>
+        <p>The “Hana Spring Harvest” will benefit two local nonprofits: Hana Youth Center, promoting Hawaiian values and&nbsp;providing after school programs for youth ages 8-18 and Mahele Farm, a cooperative farm in Hana. Representatives from both nonprofits will be at the Plantation Guest House to engage with<br>
+        dinner guests.</p>
+        <p>The day prior, guests will also have a fun and interactive opportunity to visit Mahele Farm with students from Hana Youth Center to source produce with the chefs.</p>
+        <p>“It’s important for us to give back to the Hana community and honor our people, stories, and agriculture,” said Danny Mynar, general manager of Travaasa Hana. “We look forward to a great collaboration with our visiting chefs and bartender and know this will be a truly memorable experience for all involved.”&nbsp;<em> </em></p>
+        <p><em><span style="text-decoration: underline;">About the Chefs/Bartender:</span></em></p>
+        <p><strong>Sheldon Simeon</strong> is the executive chef at Star Noodle in Lahaina, Maui. Hawaii Regional Cuisine influences his cuisine, and he is known for creating playful twists on classic dishes. In 2013, he competed on <em>Top Chef: Seattle</em>, finishing in the top three and earning fan favorite. He earned the Rising Star Award from StarChefs.com for Concept Chef in 2012, and was nominated for Best New Chef – People’s Choice, Northwest &amp; Pacific by <em>Food &amp; Wine</em>. Simeon is a two-time James Beard semifinalist, for “Rising Star” and “Best New Restaurant” in 2011. He honed his culinary skills at Disney World, where he met his wife. He was born and raised on Hawaii, the Big Island and began his culinary career at Leeward Community College on Oahu.</p>
+        <p><strong>Mark “Gooch” Noguchi</strong> is chef/partner at Taste, a permanent pop-up space in Oahu’s Kakaako neighborhood and Pili Hawaii, a non-traditional catering group focused on the connection between community, education and food. His dedication to empowering his community through food and education has landed him a spot as a leader in Hawaii’s sustainable food movement. He recently began as a contributor on Cooking Channel’s <em>Unique Eats </em>and in 2012, earned the Rising Star Award from StarChefs.com for Community Chef. He is the former co-owner and chef of Heeia Kea Pier, General Store and Deli, an alumnus of Town and Chef Mavro Restaurant in Honolulu, and a graduate of the Culinary Institute of the Pacific and the Culinary Institute of America. He was born and raised in Oahu’s Manoa Valley, and spent his early 20s dancing hula with Halau o Kekuhi in Hilo, a time that deeply shaped his appreciation for his home and ingredients.</p>
+        <p><strong>Dave Power</strong> grew up in Michigan and began working at a family friend’s restaurant at age 13. After graduating from Rhode Island School of Design with a degree in furniture design, he lived in Italy for a year and fell in love with its people, food, and lifestyle, and carried this enthusiasm for food and culture with him when he moved to Hawaii. Power began working with the chefs at Town in Honolulu in 2008 to lovingly build a cocktail program of classically inspired, food friendly, and locally sourced cocktails. In August 2011, he moved back to Kauai to open The Feral Pig, a casual neighborhood restaurant featuring locally sourced and inspired food, craft beers and classic cocktails.</p>
+        <p><strong>Barry Villiarimo</strong> is the executive chef at Travaasa Hana. He was born and raised in Hana and utilizes ingredients like taro, breadfruit, sweet potatoes, coconut milk, and fern shoots in his menus to honor the native Hawaiian way of life. Travaasa Hana showcases fresh organic fare with the majority of the produce, fish and beef sourced from Hana and the island of Maui. Prior to rejoining Travaasa Hana (then known as Hotel Hana-Maui) in 2010, he was chef at Westin Bonaventure in Los Angeles.</p>
+        <p>Located at the end of the famous Road to Hana on Maui’s picturesque eastern shore, Travaasa Hana is a quiet retreat made up of 70 cottages and suites, surrounded by natural beauty and known for its Hawaiian cultural heritage and small town charm.</p>
+        <p>The AAA Four Diamond Hotel was rated the No. 1 resort in Hawaii in the 2011 Condé Nast Traveler Readers’ Choice Awards Poll, while The Spa at Travaasa Hana was named the No. 1 Resort Spa in Hawaii. Formerly the Hotel Hana-Maui, the original property opened in 1946 and became a favorite retreat for generations of travelers seeking barefoot elegance, unspoiled natural beauty and a Hawaiian sense of place. New twice-daily flights on Mokulele Airlines from Kahului to Hana make it easier than ever to get to Hana.</p>
+        <p style="text-align: center;">###</p>
+        <p>&nbsp;</p>
+        <div id="viewBox-p1429"></div>							</div><!-- .entry-content -->
+            
+                    <div class="entry-utility">
+                                            <!--<span class="cat-links">
+                                <span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.travaasa.com/press-room/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a>					</span>-->
+                            <!--<span class="meta-sep">|</span>-->
+                                                        <span class="comments-link"><a href="http://www.travaasa.com/press-room/travaasa-comes-alive-with-%e2%80%9chana-spring-harvest%e2%80%9d-on-may-11/#respond" title="Comment on TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11">Leave a comment</a></span>
+                        <div class="share-links">
+        <div class="a2a_kit addtoany_list"><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save#url=http%3A%2F%2Fwww.travaasa.com%2Fpress-room%2Ftravaasa-comes-alive-with-%25e2%2580%259chana-spring-harvest%25e2%2580%259d-on-may-11%2F&amp;title=TRAVAASA%20COMES%20ALIVE%20WITH%20%E2%80%9CHANA%20SPRING%20HARVEST%E2%80%9D%20ON%20MAY%2011&amp;description="><img src="http://www.travaasa.com/press-room/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share"></a></div>
+        <script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+        <script type="text/javascript"><!--
+        var a2a_config = a2a_config || {};
+        a2a_config.linkname="TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11";
+        a2a_config.linkurl="http://www.travaasa.com/press-room/travaasa-comes-alive-with-%e2%80%9chana-spring-harvest%e2%80%9d-on-may-11/";
+        a2a.init('page');
+        //--></script>
+        
+        
+        <a href="http://www.travaasa.com/press-room/feed/" target="_blank"><img src="http://www.travaasa.com/press-room/wp-content/themes/twentyten/images/rss.png" class="rss"></a>
+        </div>
+                    </div><!-- .entry-utility -->
+                </div><!-- #post-## -->
+        
+                
+            
+        
+        
+                    <div id="post-1411" class="post-1411 post type-post status-publish format-standard hentry category-press-release category-travaasa-destinations-brand category-travaasa-hana tag-maui tag-maui-press-releases tag-travaasa-hana tag-press-releases tag-travaasa-hana">
+                    <h2 class="entry-title"><a href="http://www.travaasa.com/press-room/travaasa%c2%ae-hana-maui-voted-no-1-boutique-hotel-by-hawaii-magazine-readers/" title="Permalink to Travaasa&reg; Hana, Maui Voted No. 1 Boutique Hotel By Hawaii Magazine Readers" rel="bookmark">Travaasa&reg; Hana, Maui Voted No. 1 Boutique Hotel By Hawaii Magazine Readers</a></h2>
+        
+                    <div class="entry-meta">
+                        <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.travaasa.com/press-room/travaasa%c2%ae-hana-maui-voted-no-1-boutique-hotel-by-hawaii-magazine-readers/" title="1:35 pm" rel="bookmark"><span class="entry-date">March 6, 2013</span></a> <!--<span class="meta-sep">by</span>--> <!--<span class="author vcard"><a class="url fn n" href="http://www.travaasa.com/press-room/author/pressroom/" title="View all posts by PressRoom">PressRoom</a></span>-->			</div><!-- .entry-meta -->
+        
+                        <div class="entry-content">
+                        <p>Travaasa Hana, Maui has been recognized as No. 1 Best Boutique Hotel, No. 4 Best Hotel/Resort for a Romantic Getaway, and in the top 20 for Best Luxury Hotel/Resort in HAWAII Magazine’s 2013 Readers’ Choice Awards. The results were announced in the March/April 2013 issue.</p>
+        <p>In October 2012, HAWAII Magazine and HawaiiMagazine.com readers voted in categories related to all things Hawaii. Across 60 categories, 315  hotels, resorts, retail stores, restaurants and more have won the HAWAII Magazine’s 2013 Readers’ Choice Awards out of thousands statewide.  Readers picked everything from the Islands’ best hotels and resorts, spas, places to eat, retailers and outdoor activity companies to best beaches, snorkeling spots, parks, wedding spots. The responses were compiled and tallied to determine the winners and finalists of the Readers’ Choice Awards.</p>
+        <p>&nbsp;</p>
+        <div id="viewBox-p1411"></div>							</div><!-- .entry-content -->
+            
+                    <div class="entry-utility">
+                                            <!--<span class="cat-links">
+                                <span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.travaasa.com/press-room/category/press-release/" title="View all posts in Press Release" rel="category tag">Press Release</a>, <a href="http://www.travaasa.com/press-room/category/travaasa-destinations-brand/" title="View all posts in Travaasa Destinations - Brand" rel="category tag">Travaasa Destinations - Brand</a>, <a href="http://www.travaasa.com/press-room/category/travaasa-hana/" title="View all posts in Travaasa Hana, Maui" rel="category tag">Travaasa Hana, Maui</a>					</span>-->
+                            <!--<span class="meta-sep">|</span>-->
+                                        
+                            <span class="tag-links">
+                                <span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="http://www.travaasa.com/press-room/tag/maui/" rel="tag">Maui</a>, <a href="http://www.travaasa.com/press-room/tag/maui-press-releases/" rel="tag">Maui Press Releases</a>, <a href="http://www.travaasa.com/press-room/tag/travaasa-hana/" rel="tag">Travaasa Hana, Maui</a>, <a href="http://www.travaasa.com/press-room/tag/press-releases/" rel="tag">Travaasa&reg; Experiential Resorts Press Releases</a>, <a href="http://www.travaasa.com/press-room/tag/travaasa%c2%ae-hana/" rel="tag">Travaasa&reg; Hana</a>					</span>
+                            <span class="meta-sep">|</span>
+        
+                                        <span class="comments-link"><a href="http://www.travaasa.com/press-room/travaasa%c2%ae-hana-maui-voted-no-1-boutique-hotel-by-hawaii-magazine-readers/#respond" title="Comment on Travaasa&reg; Hana, Maui Voted No. 1 Boutique Hotel By Hawaii Magazine Readers">Leave a comment</a></span>
+                        <div class="share-links">
+        <div class="a2a_kit addtoany_list"><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save#url=http%3A%2F%2Fwww.travaasa.com%2Fpress-room%2Ftravaasa%25c2%25ae-hana-maui-voted-no-1-boutique-hotel-by-hawaii-magazine-readers%2F&amp;title=Travaasa%C2%AE%20Hana%2C%20Maui%20Voted%20No.%201%20Boutique%20Hotel%20By%20Hawaii%20Magazine%20Readers&amp;description="><img src="http://www.travaasa.com/press-room/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share"></a></div>
+        <script type="text/javascript"><!--
+        a2a_config.linkname="Travaasa&reg; Hana, Maui Voted No. 1 Boutique Hotel By Hawaii Magazine Readers";
+        a2a_config.linkurl="http://www.travaasa.com/press-room/travaasa%c2%ae-hana-maui-voted-no-1-boutique-hotel-by-hawaii-magazine-readers/";
+        a2a.init('page');
+        //--></script>
+        
+        
+        <a href="http://www.travaasa.com/press-room/feed/" target="_blank"><img src="http://www.travaasa.com/press-room/wp-content/themes/twentyten/images/rss.png" class="rss"></a>
+        </div>
+                    </div><!-- .entry-utility -->
+                </div><!-- #post-## -->
+        
+                
+            
+        
+        
+                    <div id="post-1404" class="post-1404 post type-post status-publish format-standard hentry category-press-release category-travaasa-destinations-brand category-travaasa-hana tag-maui tag-maui-press-releases tag-travaasa-hana tag-press-releases tag-travaasa-hana">
+                    <h2 class="entry-title"><a href="http://www.travaasa.com/press-room/travaasa-hana-maui-unveils-elopement-package/" title="Permalink to Travaasa Hana, Maui Unveils Elopement Package" rel="bookmark">Travaasa Hana, Maui Unveils Elopement Package</a></h2>
+        
+                    <div class="entry-meta">
+                        <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.travaasa.com/press-room/travaasa-hana-maui-unveils-elopement-package/" title="4:07 pm" rel="bookmark"><span class="entry-date">February 8, 2013</span></a> <!--<span class="meta-sep">by</span>--> <!--<span class="author vcard"><a class="url fn n" href="http://www.travaasa.com/press-room/author/pressroom/" title="View all posts by PressRoom">PressRoom</a></span>-->			</div><!-- .entry-meta -->
+        
+                        <div class="entry-content">
+                        <p>HANA, MAUI, HAWAII (February 8, 2013) – Elope to heavenly Hana for a secluded wedding (or civil union) and honeymoon. Travaasa Hana, Maui’s special elopement package features an inclusive stay, complete with gourmet meals, spa treatments, and activities, and the personal services of a wedding specialist. Located at the end of the famous Road to Hana on Maui’s picturesque eastern shore, Travaasa Hana is a quiet retreat made up of 70 cottages and suites, surrounded by natural beauty and known for its Hawaiian cultural heritage and small town charm. Lush vegetation and black lava rock bluffs hugging the edge of the sparkling Pacific Ocean provide a dramatic setting for an intimate wedding.</p>
+        <p>“Travaasa Hana is the ideal destination for romantic elopements. When couples dream of an island getaway, or what ‘Hawaii’ looks and feels like, it’s here,” said Danny Mynar, general manager of Travaasa Hana. “Our dedicated staff will make guests’ wedding day effortless and fill it with the genuine aloha spirit Hana is known for.”</p>
+        <p>Travaasa Hana’s elopement package includes:</p>
+        <ul>
+        <li>Two night stay in an ocean view Sea Ranch Cottage with private hot tub</li>
+        <li>Daily breakfast, lunch and dinner for two</li>
+        <li>Choice of one premium activity (such as coastal horseback ride) for two</li>
+        <li>Daily spa treatments for two (four treatments total)</li>
+        <li>Bottle of champagne upon arrival</li>
+        <li>Personal services of Travaasa Hana wedding specialist</li>
+        <li>Arrangement of marriage license or civil union appointment</li>
+        <li>Non-denominational officiant to preside over ceremony</li>
+        <li>Traditional wedding lei for bride and groom, bride and bride, or groom and groom</li>
+        <li>500 count fresh flower scatter at ceremony site</li>
+        <li>Special wedding gift from Travaasa Hana</li>
+        <li>Steaming of couple’s wedding attire</li>
+        <li>Private transportation to and from the ceremony site</li>
+        <li>Witness if needed</li>
+        <li>Fresh flowers scattered in room upon return from the ceremony</li>
+        </ul>
+        <p>The elopement package is priced at $5,000, not including tax and service charge. The Sea Ranch Cottages are exclusive to ages 16 and up. For more information, visit <a href="http://www.travaasa.com/elopement">www.travaasa.com/elopement</a>.</p>
+        <p>While in Hana, guests can experience how authentic Hawaiian traditions are a way of life.&nbsp; Travaasa Hana activities include throw net fishing, hula and ukulele lessons, bicycle rides, ti-leaf or plumeria lei making, frolicking at world-famous Hamoa Beach, or just relaxing at the infinity pool or laying in a hammock.</p>
+        <p>Nearby points of interest and attractions include Kaeleku Caverns, Waianapanapa State Park (Black Sand Beach), Kahanu Botanical Garden, Pools of Oheo (aka Seven Sacred Pools), Charles Lindbergh’s grave, the 400’ Waimoku Falls, Hana Cultural Center, Fagan’s Cross, and Haleakala National Park.</p>
+        <p>The AAA Four Diamond Hotel was rated the No. 1 resort in Hawaii in the 2011 Condé Nast Traveler Readers’ Choice Awards Poll, while The Spa at Travaasa Hana was named the No. 1 Resort Spa in Hawaii. Formerly the Hotel Hana-Maui, the original property opened in 1946 and became a favorite retreat for generations of travelers seeking barefoot elegance, unspoiled natural beauty and a Hawaiian sense of place. New twice-daily flights on Mokulele Airlines from Kahului to Hana make it easier than ever to get to Hana.</p>
+        <div id="viewBox-p1404"></div>							</div><!-- .entry-content -->
+            
+                    <div class="entry-utility">
+                                            <!--<span class="cat-links">
+                                <span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.travaasa.com/press-room/category/press-release/" title="View all posts in Press Release" rel="category tag">Press Release</a>, <a href="http://www.travaasa.com/press-room/category/travaasa-destinations-brand/" title="View all posts in Travaasa Destinations - Brand" rel="category tag">Travaasa Destinations - Brand</a>, <a href="http://www.travaasa.com/press-room/category/travaasa-hana/" title="View all posts in Travaasa Hana, Maui" rel="category tag">Travaasa Hana, Maui</a>					</span>-->
+                            <!--<span class="meta-sep">|</span>-->
+                                        
+                            <span class="tag-links">
+                                <span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="http://www.travaasa.com/press-room/tag/maui/" rel="tag">Maui</a>, <a href="http://www.travaasa.com/press-room/tag/maui-press-releases/" rel="tag">Maui Press Releases</a>, <a href="http://www.travaasa.com/press-room/tag/travaasa-hana/" rel="tag">Travaasa Hana, Maui</a>, <a href="http://www.travaasa.com/press-room/tag/press-releases/" rel="tag">Travaasa&reg; Experiential Resorts Press Releases</a>, <a href="http://www.travaasa.com/press-room/tag/travaasa%c2%ae-hana/" rel="tag">Travaasa&reg; Hana</a>					</span>
+                            <span class="meta-sep">|</span>
+        
+                                        <span class="comments-link"><a href="http://www.travaasa.com/press-room/travaasa-hana-maui-unveils-elopement-package/#respond" title="Comment on Travaasa Hana, Maui Unveils Elopement Package">Leave a comment</a></span>
+                        <div class="share-links">
+        <div class="a2a_kit addtoany_list"><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save#url=http%3A%2F%2Fwww.travaasa.com%2Fpress-room%2Ftravaasa-hana-maui-unveils-elopement-package%2F&amp;title=Travaasa%20Hana%2C%20Maui%20Unveils%20Elopement%20Package&amp;description="><img src="http://www.travaasa.com/press-room/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share"></a></div>
+        <script type="text/javascript"><!--
+        a2a_config.linkname="Travaasa Hana, Maui Unveils Elopement Package";
+        a2a_config.linkurl="http://www.travaasa.com/press-room/travaasa-hana-maui-unveils-elopement-package/";
+        a2a.init('page');
+        //--></script>
+        
+        
+        <a href="http://www.travaasa.com/press-room/feed/" target="_blank"><img src="http://www.travaasa.com/press-room/wp-content/themes/twentyten/images/rss.png" class="rss"></a>
+        </div>
+                    </div><!-- .entry-utility -->
+                </div><!-- #post-## -->
+        
+                
+            
+        
+        
+        
+        
+                        <!--<div id="nav-below" class="navigation">
+                            <div class="nav-previous"><a href="http://www.travaasa.com/press-room/page/2/" ><span class="meta-nav">&larr;</span></a></div>
+                            <div class="nav-next"></div>
+                        </div>--><!-- #nav-below -->
+                    </div><!-- #content -->
+                    <div id="nav-below" class="navigation clearfix">
+                        <div class="navigation"><ol class="wp-paginate"><li><span class="title"></span></li><li><span class="page current">1</span></li><li><a href="http://www.travaasa.com/press-room/page/2/" title="2" class="page">2</a></li><li><a href="http://www.travaasa.com/press-room/page/3/" title="3" class="page">3</a></li><li><a href="http://www.travaasa.com/press-room/page/4/" title="4" class="page">4</a></li><li><a href="http://www.travaasa.com/press-room/page/5/" title="5" class="page">5</a></li><li><a href="http://www.travaasa.com/press-room/page/6/" title="6" class="page">6</a></li><li><a href="http://www.travaasa.com/press-room/page/7/" title="7" class="page">7</a></li><li><span class="gap">...</span></li><li><a href="http://www.travaasa.com/press-room/page/30/" title="30" class="page">30</a></li><li><a href="http://www.travaasa.com/press-room/page/2/" class="next">»</a></li></ol></div>	
+                    </div><!-- #nav-below -->
+                    <div id="pnumber">
+                        <span id="call">CALL 1.855.TO.TRAVAASA FOR MORE INFORMATION</span>
+                    </div>
+                </div><!-- #container -->
+            </div>
+        </section>
+    </article><!-- #main -->
+	</div>	
+</section>
+
+
+
+<footer class="clear global">
+  <nav id="footer_links" class="group">
+    <div class="col span_2_of_4">
+      <h2 class="hdr">TRAVAASA EXPERIENTIAL RESORTS</h2>
+        <p>Introducing Travaasa, a new collection of experiential spa resorts that emphasizes real travel and the unique, authentic qualities that make a destination magical. Learn more about the <a href="http://www.travaasa.com/about-us">Travaasa Vision</a>. Our hotels are tailored to the intellectually active and culturally curious, offering a resort experience that is defined by guided adventures, culinary classes, cultural encounters, healing spa treatments, as well as fitness and wellness workshops.</p>
+    </div>
+    <div class="col span_1_of_4">
+      <h2 class="hdr">INQUIRIES</h2>
+      <p><a href="http://www.travaasa.com/about-us">ABOUT TRAVAASA</a><br>
+      <a href="http://www.travaasa.com/contact-us">CONTACT US</a><br>
+      <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
+      <a href="http://www.travaasa.com/blog">BLOG</a><br>
+      <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
+      <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
+	  <a href="http://www.travaasa.com/site-map">SITE MAP</a></p>
+    </div>
+    <div class="col span_1_of_4">
+      <h2 class="hdr">FOLLOW US</h2>
+      <ul id="social" class="clearfix">
+      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="http://www.travaasa.com/assets/images/global/transparent.gif" alt="Facebook"></a></li>
+        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="http://www.travaasa.com/assets/images/global/transparent.gif" alt="Twitter"></a></li>
+        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="http://www.travaasa.com/assets/images/global/transparent.gif" alt="YouTube"></a></li>
+        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="http://www.travaasa.com/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
+        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="http://www.travaasa.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
+      </ul>
+      <p><a class="btn" href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a></p>
+    </div>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/hana/travaasa-hana/"><img src="http://www.travaasa.com/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
+  </nav>
+</footer>
+<script type="text/javascript">
+var loc = "all";
+</script>
+</body>
+</html>

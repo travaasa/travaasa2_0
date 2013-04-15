@@ -1,0 +1,25 @@
+ul.nav { margin:0; padding:0; width:90%; }    
+ul.nav li {	background:#CFCCC7; color:#666666; display:block; padding:0; margin:0; list-style:none; font-size:.75em; text-transform:uppercase; font-family:'Gill Sans W04 Book', "Gill Sans MT", Calibri, sans-serif; 	; margin-bottom:1px; text-align:left; }
+ul.nav li a { display:block; padding:1em; color:#666666; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; text-decoration:none; }
+ul.nav li a:hover, ul.nav li.current_page_item a { background:#D7385E; color:white; }
+ul.nav li ul { margin:0; padding:0; display:none; }
+ul.nav li.current_page_item ul { display:block; }
+
+.post { padding:30px 0; text-align:left; border-bottom:1px solid #ededed; }
+.entry-utility { font-size:80%; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; color:#979797; }
+.entry-utility a { color:#cdcdcd; }
+.meta-sep { padding:0 14px; }
+.entry-meta { font-size:80%; color:#cdcdcd; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; }
+.entry-meta a { color:#cdcdcd; }
+.share-links { clear:both; padding-top:14px; }
+
+#reservations { position:absolute; top:0; right:20px; width:50%; background:#333; color:#FFF; font-size:90%; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; border-bottom-left-radius:8px; border-bottom-right-radius:8px;  }
+#reservations .pr-info { padding:14px; margin:0; font-size:130%; }
+
+#content h2 { font-size:2.6em; }
+
+.wp-paginate { padding-top:20px; height:80px; }
+.wp-paginate li { display:block; float:left; margin-right:2px; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; padding:0; }
+.wp-paginate li span, .wp-paginate li a, .wp-paginate .current { display:block; margin:0; line-height:160%; padding:4px 16px; }
+.wp-paginate a, .wp-paginate a:visited { background:#CFCCC7; color:#666666; border:none; }
+.wp-paginate .current, .wp-paginate a:hover { background:#D7385E; color:white; border:none; }
