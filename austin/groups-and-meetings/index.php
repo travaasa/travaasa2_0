@@ -368,9 +368,10 @@
             <div class="group">  
             	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>					
                 <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Group-Activities-Brochure.pdf" class="btn fitwidth" target="_blank">Group Activities Guide</a></div>
-                <div class="col span_1_of_3"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Travaasa Austin Spa Guide</a></div>
+                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn fitwidth" target="_blank">Teambuilding</a></div>
             </div>   
             <div class="group">
+                <div class="col span_1_of_3"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Travaasa Austin Spa Guide</a></div>
                 <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Sustainability.pdf" class="btn fitwidth" target="_blank">Sustainability</a></div>
                 <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Golf.pdf" class="btn fitwidth" target="_blank">Golf at Travaasa</a></div>
 			</div>
