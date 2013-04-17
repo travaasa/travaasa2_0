@@ -267,10 +267,10 @@ $(window).load(function() {
         
         
                     <div id="post-1429" class="post-1429 post type-post status-publish format-standard hentry category-uncategorized">
-                    <h2 class="entry-title"><a href="http://www.travaasa.com/press-room/travaasa-comes-alive-with-%e2%80%9chana-spring-harvest%e2%80%9d-on-may-11/" title="Permalink to TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11" rel="bookmark">TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11</a></h2>
+                    <h2 class="entry-title"><a href="test.html" title="Permalink to TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11" rel="bookmark">TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11</a></h2>
         
                     <div class="entry-meta">
-                        <span class="meta-prep meta-prep-author">Posted on</span> <a href="http://www.travaasa.com/press-room/travaasa-comes-alive-with-%e2%80%9chana-spring-harvest%e2%80%9d-on-may-11/" title="11:48 am" rel="bookmark"><span class="entry-date">April 4, 2013</span></a>
+                        <span class="meta-prep meta-prep-author">Posted on</span> <a href="test.html" title="11:48 am" rel="bookmark"><span class="entry-date">April 4, 2013</span></a>
                     </div><!-- .entry-meta -->
         
                         <div class="entry-content">
@@ -305,14 +305,14 @@ $(window).load(function() {
                                             <!--<span class="cat-links">
                                 <span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://www.travaasa.com/press-room/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a>					</span>-->
                             <!--<span class="meta-sep">|</span>-->
-                                                        <span class="comments-link"><a href="http://www.travaasa.com/press-room/travaasa-comes-alive-with-%e2%80%9chana-spring-harvest%e2%80%9d-on-may-11/#respond" title="Comment on TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11">Leave a comment</a></span>
+                                                        <span class="comments-link"><a href="test.html#respond" title="Comment on TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11">Leave a comment</a></span>
                         <div class="share-links">
         <div class="a2a_kit addtoany_list"><a class="a2a_dd addtoany_share_save" href="http://www.addtoany.com/share_save#url=http%3A%2F%2Fwww.travaasa.com%2Fpress-room%2Ftravaasa-comes-alive-with-%25e2%2580%259chana-spring-harvest%25e2%2580%259d-on-may-11%2F&amp;title=TRAVAASA%20COMES%20ALIVE%20WITH%20%E2%80%9CHANA%20SPRING%20HARVEST%E2%80%9D%20ON%20MAY%2011&amp;description="><img src="http://www.travaasa.com/press-room/wp-content/plugins/add-to-any/share_save_171_16.png" width="171" height="16" alt="Share"></a></div>
         <script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
         <script type="text/javascript"><!--
         var a2a_config = a2a_config || {};
         a2a_config.linkname="TRAVAASA COMES ALIVE WITH “HANA SPRING HARVEST” ON MAY 11";
-        a2a_config.linkurl="http://www.travaasa.com/press-room/travaasa-comes-alive-with-%e2%80%9chana-spring-harvest%e2%80%9d-on-may-11/";
+        a2a_config.linkurl="test.html";
         a2a.init('page');
         //--></script>
         
@@ -481,6 +481,27 @@ $(window).load(function() {
 </footer>
 <script type="text/javascript">
 var loc = "all";
+$(document).ready(function(e) {
+	$(".children").parent().hoverIntent({
+	  timeout: 1000,
+	  over: function () {
+		  slideMenuOpen($(this).find('.children').first());
+	  },
+	  out: function () {
+		  slideMenuClosed($(this).find('.children').first());
+	  }
+	});
+});
+function slideMenuOpen(current) {
+	if (current && $(current).length > 0) {
+		$(current).slideDown(100, function() {});
+	}
+}
+function slideMenuClosed(current) {
+	if (current && $(current).length > 0) {
+		$(current).slideUp(200);
+	}
+}
 </script>
 </body>
 </html>
