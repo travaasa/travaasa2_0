@@ -23,3 +23,5 @@ ul.nav li.current_page_item ul { display:block; }
 .wp-paginate li span, .wp-paginate li a, .wp-paginate .current { display:block; margin:0; line-height:160%; padding:4px 16px; }
 .wp-paginate a, .wp-paginate a:visited { background:#CFCCC7; color:#666666; border:none; }
 .wp-paginate .current, .wp-paginate a:hover { background:#D7385E; color:white; border:none; }
+
+#comments { padding:14px; }
