@@ -67,7 +67,6 @@ endif;
                 <h6>Cherish Your Pilates Practice <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Pilates practice is a well-rounded exercise method that works with the deeper muscles along the spine. They are very important for one's posture and mobility. Pilates encourages a strong torso and core stability, which creates greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
             </div>
-            v
             <div class="listing">
                 <h6>Core Support Training <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>You have probably at least heard the term core or core stability. These terms are now commonly used by physical therapists, fitness professionals and even some doctors. The "core" is a word used to describe a group of deeper muscles along the torso which support the spine, pelvis and shoulder girdle. Strengthening these muscles will not only give you a thinner, sleeker waist-line, they also help reduce and prevent lower back pain and improve postural alignment. This class focuses on strengthening and toning the core muscles.</p>
