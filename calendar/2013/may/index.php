@@ -65,7 +65,7 @@ endif;
             </div>
             <div class="listing">
                 <h6>Cherish Your Pilates Practice <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Pilates practice is a well rounded exercise method that works with the deeper muscles along the spine. They are very important for one's posture and mobilitiy. Cherishing your Pilates practice will allow for a strong torso and core stability which creates greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
+                <p>Pilates practice is a well-rounded exercise method that works with the deeper muscles along the spine. They are very important for one's posture and mobility. Pilates encourages a strong torso and core stability, which creates greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
             </div>
             v
             <div class="listing">
@@ -78,7 +78,7 @@ endif;
             </div>
             <div class="listing">
                 <h6>Embrace Your Hips &amp; Knees Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Our hips and knees are all connected and often they are in need of some nurturing. Using yoga asana that will create more awareness,  range of motion and strengthen the muscles around these joints for better mobilitiy and enjoyment of life.</p>
+                <p>Our hips and knees are all connected and often they are in need of some nurturing. Using yoga asana that will create more awareness,  range of motion and strengthen the muscles around these joints for better mobility and enjoyment of life.</p>
             </div>
         </div>
         <div class="col span_1_of_2">
