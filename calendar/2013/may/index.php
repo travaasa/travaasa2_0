@@ -60,24 +60,24 @@ endif;
                 <p>Let this nature-filled workout be your morning coffee. This outdoor boot camp class incorporates many different training modalities, including strength, cardio, core, speed, agility, flexibility and injury prevention. This high-energy, outdoor/indoor workout will leave you feeling refreshed and ready to take on your day!</p>
             </div>
             <div class="listing">
-                <h6>Bosu Uplifting <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>This total body BOSU workout will uplift and re-focus your mind and body. These core and balance focused exercises will strengthen every muscle group in your body while re-enforcing your mind to body connection.</p>
+                <h6>BOSU Uplifting <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This total body BOSU workout will uplift and refocus your mind and body. These core and balance-focused exercises will strengthen every muscle group in your body while reinforcing your mind-to-body connection.</p>
             </div>
             <div class="listing">
                 <h6>Cherish Your Pilates Practice <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Pilates practice is a well-rounded exercise method that works with the deeper muscles along the spine. They are very important for one's posture and mobility. Pilates encourages a strong torso and core stability, which creates greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
+                <p>Pilates practice is a well-rounded exercise method that works with the deeper muscles along the spine. They are very important for one's posture and mobility. Pilates encourages a strong torso and core stability, which creates greater range of motion; stronger, more controlled movement; and a leaner, more toned physique.</p>
             </div>
             <div class="listing">
                 <h6>Core Support Training <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>You have probably at least heard the term core or core stability. These terms are now commonly used by physical therapists, fitness professionals and even some doctors. The "core" is a word used to describe a group of deeper muscles along the torso which support the spine, pelvis and shoulder girdle. Strengthening these muscles will not only give you a thinner, sleeker waist-line, they also help reduce and prevent lower back pain and improve postural alignment. This class focuses on strengthening and toning the core muscles.</p>
+                <p>You have probably at least heard the term core or core stability. These terms are now commonly used by physical therapists, fitness professionals and even some doctors. The "core" is a word used to describe a group of deeper muscles along the torso which support the spine, pelvis and shoulder girdle. Strengthening these muscles will not only give you a thinner, sleeker waistline, they also help reduce and prevent lower back pain and improve postural alignment. This class focuses on strengthening and toning the core muscles.</p>
             </div>
             <div class="listing">
                 <h6>Zumba Fitness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Dance as you explore other cultures and their moves. Discover your natural happiness that arises when we move freely to various ethnical rhythms. Zumba is a fun dance party that can burn as many as 600 calories per hour.</p>
+                <p>Dance as you explore other cultures and their moves. Discover your natural happiness that arises when we move freely to various ethnic rhythms. Zumba is a fun dance party that can burn as many as 600 calories per hour.</p>
             </div>
             <div class="listing">
                 <h6>Embrace Your Hips &amp; Knees Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Our hips and knees are all connected and often they are in need of some nurturing. Using yoga asana that will create more awareness,  range of motion and strengthen the muscles around these joints for better mobility and enjoyment of life.</p>
+                <p>Our hips and knees are all connected and often they are in need of some nurturing. Using yoga asanas will create more awareness,  range of motion and strengthen the muscles around these joints for better mobility and enjoyment of life.</p>
             </div>
         </div>
         <div class="col span_1_of_2">
@@ -87,11 +87,11 @@ endif;
             </div>
             <div class="listing">
                 <h6>Nurture Your Feet <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Your feet are an extremely vital part of your musculo-skeletal system. They can influence all the other joints above including your spine. Learning about your feet, massaging them and strengthening the muscles that are necessary for good posture and alignment is imperative. It is also important to note that areas in the foot that when stimulated will affect some of our organs. Thus good foot care will certainly be great for your posture, mobility and general health.</p>
+                <p>Your feet are an extremely vital part of your musculoskeletal system. They can influence all the other joints above, including your spine. Learning about your feet, massaging them and strengthening the muscles that are necessary for good posture and alignment is imperative. It is also important to note areas in the foot that, when stimulated, will affect some of our organs. Thus good foot care will certainly be great for your posture, mobility and general health.</p>
             </div>
             <div class="listing">
                 <h6>Embrace &amp; Dance <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Let's embrace our inner dancer and your dance partner. Begin with the basic foot work, embrace your partner and move in harmony around the dance floor. In this salsa dance class, you will learn the basic salsa steps, how to properly lead, turn and some beginner to intermediate patterns to go salsa dance with confidence!</p>
+                <p>Let's embrace our inner dancer and your dance partner. Begin with the basic footwork, embrace your partner and move in harmony around the dance floor. In this salsa dance class, you will learn the basic salsa steps, how to properly lead and turn, and some beginner-to-intermediate patterns to go salsa dance with confidence!</p>
             </div>
             <h2>Culinary</h2>
             <div class="listing">
@@ -101,12 +101,12 @@ endif;
             <h2>Culture</h2>
              <div class="listing">
                 <h6>May Lei Celebration <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Ancient Polynesians honored the gods by twining flowers and greens into adornments for the body.  Learn the art of Lei making from our Makana Team.  Craft a ti leaf, feather or shell lei to take home and cherish for years to come.</p>
+                <p>Ancient Polynesians honored the gods by twining flowers and greens into adornments for the body.  Learn the art of lei making from our Makana team.  Craft a ti leaf, feather or shell lei to take home and cherish for years to come.</p>
             </div>
             <h2>Spa &amp; Wellness</h2>
             <div class="listing">
                 <h6>Nurturing Breath <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Connect with mother earth and use your breath to direct healing the healing energy of life throughout your body.</p>
+                <p>Connect with Mother Earth and use your breath to direct the healing energy of life throughout your body.</p>
             </div>
         </div>
     </div>  
