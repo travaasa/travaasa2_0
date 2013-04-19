@@ -69,11 +69,11 @@ endif;
             </div>
             <div class="listing">
                 <h6>Growing Natural Rhythm Salsa Class <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Dance to Salsa music that will inspire your natural rhythm to unleash and grow. Dancing is a great and fun way to become confortable with your body, build confidence and self-esteem. The side effects are bursts of laughter and burning calories.</p>
+                <p>Dance to Salsa music that will inspire your natural rhythm to unleash and grow. Dancing is a great and fun way to become comfortable with your body, build confidence and self-esteem. The side effects are bursts of laughter and burning calories.</p>
             </div>
             <div class="listing">
                 <h6>Tai Chi &amp; Nature <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Tai Chi means moving the energy of our bodies in harmony with the energy of the universe. This practice bring us closer to nature as it can be practice outdoors where we can appreciate, enjoy and explore the energy in our surroundings.</p>
+                <p>Tai Chi means moving the energy of our bodies in harmony with the energy of the universe. This practice brings us closer to nature as it can be practiced outdoors where we can appreciate, enjoy and explore the energy in our surroundings.</p>
             </div>
             <div class="listing">
                 <h6>Food Care &amp; Awareness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
@@ -117,8 +117,8 @@ endif;
             </div>
             <div class="listing">
                 <h6>East Maui Taro Festival <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>The taro plant, also known as kalo in Hawai’i, plays a central role in Hawaiian mythology. Taro came to Hawai`i with the earliest Polynesian settlers in their canoes, and has been cultivated as a staple since ancient times. The East Maui Taro Festival is an opportunity for the community to share with others the importance and value of this heritage food. 
-                <br/>This two day event that takes place at Hana Ballpark, located just a few steps away from Travaasa Hotel Hana. There will be live entertainment, concession booths and local vendors celebrating the Taro.
+                <p>The taro plant, also known as kalo in Hawaii, plays a central role in Hawaiian mythology. Taro came to Hawaii with the earliest Polynesian settlers in their canoes, and has been cultivated as a staple since ancient times. The East Maui Taro Festival is an opportunity for the community to share with others the importance and value of this heritage food. 
+                <br/>This two day event that takes place at Hana Ballpark, located just a few steps away from Travaasa Hana. There will be live entertainment, concession booths and local vendors celebrating the Taro.
                 </p>
             <//div>
            
@@ -134,15 +134,11 @@ endif;
             </div>
             <div class="listing">
                 <h6>Meditation | Tune into Nature <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Stop and savior the surrounding beauty of the Balcones Canyonlands Preserve. Quiet introspection and silence allow you to deepen your level of appreciation, establish a space within, and leave you replenished and revitalized.</p>
-            </div>
-            <div class="listing">
-                <h6>Nature &amp; Wisdom Journaling <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Grow more into your complete self by discovering and integrating different parts of your psyche. We will explore ways that we deny ourselves and others.</p>
+                <p>Stop and savor the surrounding beauty of the Balcones Canyonlands Preserve. Quiet introspection and silence allow you to deepen your level of appreciation, establish a space within, and leave you replenished and revitalized.</p>
             </div>
             <div class="listing">
                 <h6>Journal &amp; Grow <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Grow more into your complete self by integrating different parts of your psyche. We will explore ways that we deny ourselves and others.</p>
+                <p>Grow more into your complete self by integrating different parts of your psyche.</p>
             </div>
              <div class="listing">
                 <h6>Explore Watercolors <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
