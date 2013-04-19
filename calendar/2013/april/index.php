@@ -1,26 +1,26 @@
 <?php
-	session_start();
-	$loc = @$_GET['loc']; 
-	if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){ 
-	  $_SESSION["origLoc"] = $loc;
-	} elseif (isset($_SESSION["origLoc"])) {
-	  $loc = $_SESSION["origLoc"];
-	} else {
-	  $loc = "default";
-	}
+    session_start();
+    $loc = @$_GET['loc']; 
+    if (strlen($loc) > 0 && ($loc == 'hana' || $loc == 'austin')){ 
+      $_SESSION["origLoc"] = $loc;
+    } elseif (isset($_SESSION["origLoc"])) {
+      $loc = $_SESSION["origLoc"];
+    } else {
+      $loc = "default";
+    }
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
 <!DOCTYPE html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa - Real Travel for Real Experiences.</title>
-	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Travaasa - Real Travel for Real Experiences.</title>
+    <meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
+    <meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
+    <?php 
    include_once($path."/Library/Travaasa_Head.php");
-	?>
+    ?>
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php 
 if ($loc == 'hana') :
@@ -53,7 +53,7 @@ endif;
 <article id="main">
   <section class="intro pad clearfix">    
     <div class="section group">
-    	<div class="col span_1_of_2">
+        <div class="col span_1_of_2">
             <h2>Fitness</h2>
             <div class="listing">
                 <h6>SPRING TRAINING <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
@@ -69,11 +69,15 @@ endif;
             </div>
             <div class="listing">
                 <h6>Growing Natural Rhythm Salsa Class <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+<<<<<<< HEAD
                 <p>Dance to Salsa music that will inspire your natural rhythm to unleash and grow. Dancing is a great and fun way to become confortable with your body, build confidence and self-esteem. The side effects are bursts of laughter and burning calories.</p>
+=======
+                <p>Dance to Salsa music that will inspire your natural rhythm to unleash and grow. Dancing is a great and fun way to become comfortable with your body, build confidence and self-esteem. The side effects are bursts of laughter and burning calories.</p>
+>>>>>>> dev
             </div>
             <div class="listing">
                 <h6>Tai Chi &amp; Nature <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Tai Chi means moving the energy of our bodies in harmony with the energy of the universe. This practice bring us closer to nature as it can be practice outdoors where we can appreciate, enjoy and explore the energy in our surroundings.</p>
+                <p>Tai Chi means moving the energy of our bodies in harmony with the energy of the universe. This practice brings us closer to nature as it can be practiced outdoors where we can appreciate, enjoy and explore the energy in our surroundings.</p>
             </div>
             <div class="listing">
                 <h6>Food Care &amp; Awareness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
@@ -117,10 +121,17 @@ endif;
             </div>
             <div class="listing">
                 <h6>East Maui Taro Festival <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+<<<<<<< HEAD
                 <p>The taro plant, also known as kalo in Hawai’i, plays a central role in Hawaiian mythology. Taro came to Hawai`i with the earliest Polynesian settlers in their canoes, and has been cultivated as a staple since ancient times. The East Maui Taro Festival is an opportunity for the community to share with others the importance and value of this heritage food. 
                 <br/>This two day event that takes place at Hana Ballpark, located just a few steps away from Travaasa Hotel Hana. There will be live entertainment, concession booths and local vendors celebrating the Taro.
                 </p>
             <//div>
+=======
+                <p>The taro plant, also known as kalo in Hawaii, plays a central role in Hawaiian mythology. Taro came to Hawaii with the earliest Polynesian settlers in their canoes, and has been cultivated as a staple since ancient times. The East Maui Taro Festival is an opportunity for the community to share with others the importance and value of this heritage food. 
+                <br/>This two day event that takes place at Hana Ballpark, located just a few steps away from Travaasa Hana. There will be live entertainment, concession booths and local vendors celebrating the Taro.
+                </p>
+            </div>
+>>>>>>> dev
            
             
             <h2>Spa &amp; Wellness</h2>
@@ -134,15 +145,19 @@ endif;
             </div>
             <div class="listing">
                 <h6>Meditation | Tune into Nature <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+<<<<<<< HEAD
                 <p>Stop and savior the surrounding beauty of the Balcones Canyonlands Preserve. Quiet introspection and silence allow you to deepen your level of appreciation, establish a space within, and leave you replenished and revitalized.</p>
             </div>
             <div class="listing">
                 <h6>Nature &amp; Wisdom Journaling <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Grow more into your complete self by discovering and integrating different parts of your psyche. We will explore ways that we deny ourselves and others.</p>
+=======
+                <p>Stop and savor the surrounding beauty of the Balcones Canyonlands Preserve. Quiet introspection and silence allow you to deepen your level of appreciation, establish a space within, and leave you replenished and revitalized.</p>
+>>>>>>> dev
             </div>
             <div class="listing">
                 <h6>Journal &amp; Grow <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Grow more into your complete self by integrating different parts of your psyche. We will explore ways that we deny ourselves and others.</p>
+                <p>Grow more into your complete self by integrating different parts of your psyche.</p>
             </div>
              <div class="listing">
                 <h6>Explore Watercolors <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
@@ -155,7 +170,7 @@ endif;
   
   <section class="grey pad">
         <h4>See upcoming months</h4>
-  		<div class="group">
+        <div class="group">
             <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2013/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2013/may/"><img src="/assets/images/months/may-nuture.png" alt="May is Nuture Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2013/june/"><img src="/assets/images/months/jun-man.png" alt="June is Man Month"></a></div></div>
@@ -176,7 +191,7 @@ endif;
 include_once($path."/Library/Travaasa_Scripts.php");
 ?><script type="text/javascript">
 $(function() {
-	createSubpageStorylines(true, true);
+    createSubpageStorylines(true, true);
 });
 </script>
 </body>
