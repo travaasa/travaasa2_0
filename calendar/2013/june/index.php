@@ -61,16 +61,16 @@ endif;
             </div>
             <div class="listing">
                 <h6>Tidal Pool Hunt <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Join our guide on a fun and invigorating walk down the spectacular Hāna Coastline and explore four different tidal pools of the reef. Learn about the history of Hāna, its eco-systems and marine life.</p>
+                <p>Join our guide on a fun and invigorating walk down the spectacular Hana coastline and explore four different tidal pools of the reef. Learn about the history of Hana, its ecosystems and marine life.</p>
             </div>
             <h2>Fitness</h2>
             <div class="listing">
                 <h6>Six-Pack Abs <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>The abs are important for our posture and healthy spine. With awareness of these muscles and effective exercises you can rediscover your six pack abs. This is a workout that will enhance your ability to activate your core muscles and help to uncover them</p>
+                <p>The abs are important for our posture and healthy spine. With awareness of these muscles and effective exercises, you can rediscover your six-pack abs. This is a workout that will enhance your ability to activate your core muscles and help to uncover them.</p>
             </div>
             <div class="listing">
                 <h6>HardCORE Workout <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>The name of this class is both a description and a goal! This is an intense, 45 minute class that focuses on strengthening and toning your core or "power house" muscles. </p>
+                <p>The name of this class is both a description and a goal! This is an intense, 45-minute class that focuses on strengthening and toning your core or "powerhouse" muscles. </p>
             </div>
             <div class="listing">
                 <h6>Zumba Fitness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
@@ -84,11 +84,11 @@ endif;
         <div class="col span_1_of_2">
             <div class="listing">
                 <h6>Kettlebells Full Strength <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Kettlebell Full Strength will help kick all your fitness goals into high gear! These functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance while burning many calories. In this 45 minute, high-intensity class, you will focus on functional movement, power, strength, joint-stability, alignment, balance and control. Working with the kettlebell is combined with BOSU and body weight exercises for an all around heart-pumping workout.</p>
+                <p>Kettlebell Full Strength will help kick all your fitness goals into high gear! These functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance while burning many calories. In this 45-minute, high-intensity class, you will focus on functional movement, power, strength, joint stability, alignment, balance and control. Working with the kettlebell is combined with BOSU and body weight exercises for an all-around heart-pumping workout.</p>
             </div>
             <div class="listing">
                 <h6>Salsa Dance &amp; Abs <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Partner up with your abs to move to salsa music and watch your six packs to soar and get sore.</p>
+                <p>Partner up with your abs to move to salsa music and watch your six packs soar and get sore.</p>
             </div>
             <h2>Culinary</h2>
             <div class="listing">
@@ -97,11 +97,11 @@ endif;
             </div>
             <div class="listing">
                 <h6>Beer Tasting <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Beer is the third most popular drinks in the world, so this is the perfect opportunity to learn how to make different styles of beer.  Hop on over get to brewing!</p>
+                <p>Beer is the third most popular drink in the world, so this is the perfect opportunity to learn how to make different styles of beer.  Hop on over to get brewing!</p>
             </div>
             <div class="listing">
                 <h6>Grilling &amp; Smoking Demonstration <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Summer is the perfect time to light up the grill and enjoy some great BBQ!  And what Dad doesn’t appreciate a big Texas steak on a hot summer day?  Come learn some new smoking and grilling techniques and recipes to enjoy at home on the deck!</p>
+                <p>Summer is the perfect time to light up the grill and enjoy some great BBQ!  And what dad doesn’t appreciate a big Texas steak on a hot summer day?  Come learn some new smoking and grilling techniques and recipes to enjoy at home on the deck!</p>
             </div>
         </div>
     </div>  

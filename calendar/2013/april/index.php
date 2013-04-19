@@ -69,14 +69,14 @@ endif;
             </div>
             <div class="listing">
                 <h6>Growing Natural Rhythm Salsa Class <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Dance to Salsa music that will inspire your natural rhythm to unleash and grow. Dancing is a great and fun way to become comfortable with your body, build confidence and self-esteem. The side effects are bursts of laughter and burning calories.</p>
+                <p>Dance to salsa music that will inspire your natural rhythm to unleash and grow. Dancing is a great and fun way to become comfortable with your body, build confidence and self-esteem. The side effects are bursts of laughter and burning calories.</p>
             </div>
             <div class="listing">
                 <h6>Tai Chi &amp; Nature <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Tai Chi means moving the energy of our bodies in harmony with the energy of the universe. This practice brings us closer to nature as it can be practiced outdoors where we can appreciate, enjoy and explore the energy in our surroundings.</p>
+                <p>Tai chi means moving the energy of our bodies in harmony with the energy of the universe. This practice brings us closer to nature as it can be practiced outdoors where we can appreciate, enjoy and explore the energy in our surroundings.</p>
             </div>
             <div class="listing">
-                <h6>Food Care &amp; Awareness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <h6>Foot Care &amp; Awareness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>This workout teaches how to maintain healthy feet, nature's foundation for the joints above. Grow your foot awareness and rebalance your body as you acquire better postural alignment, overall function and coordination.</p>
             </div>
             <div class="listing">
@@ -118,7 +118,7 @@ endif;
             <div class="listing">
                 <h6>East Maui Taro Festival <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>The taro plant, also known as kalo in Hawaii, plays a central role in Hawaiian mythology. Taro came to Hawaii with the earliest Polynesian settlers in their canoes, and has been cultivated as a staple since ancient times. The East Maui Taro Festival is an opportunity for the community to share with others the importance and value of this heritage food. 
-                <br/>This two day event that takes place at Hana Ballpark, located just a few steps away from Travaasa Hana. There will be live entertainment, concession booths and local vendors celebrating the Taro.
+                <br/>This two-day event that takes place at Hana Ballpark, located just a few steps away from Travaasa Hana. There will be live entertainment, concession booths and local vendors celebrating the Taro.
                 </p>
             </div>
            
