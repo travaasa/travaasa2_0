@@ -83,12 +83,12 @@ endif;
         </div>
         <div class="col span_1_of_2">
             <div class="listing">
-                <h6>Kettle Bells Full Strength <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Kettlebell Full Strength will help kick all your fitness goals into high gear! These functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance while burning lots of calories! In this 45 minute, high-intensity class, you will focus on functional movement, power, strength, joint-stability, alignment, balance and control. Working with the kettlebell is combined with BOSU and body weight exercises for an all around heart-pumping workout.</p>
+                <h6>Kettlebells Full Strength <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Kettlebell Full Strength will help kick all your fitness goals into high gear! These functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance while burning many calories. In this 45 minute, high-intensity class, you will focus on functional movement, power, strength, joint-stability, alignment, balance and control. Working with the kettlebell is combined with BOSU and body weight exercises for an all around heart-pumping workout.</p>
             </div>
             <div class="listing">
                 <h6>Salsa Dance &amp; Abs <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Partner up with your abs to move to salsa musice and watch your six packs to soar and get sore.</p>
+                <p>Partner up with your abs to move to salsa music and watch your six packs to soar and get sore.</p>
             </div>
             <h2>Culinary</h2>
             <div class="listing">
