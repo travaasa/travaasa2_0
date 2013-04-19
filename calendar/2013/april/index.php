@@ -57,7 +57,7 @@ endif;
             <h2>Fitness</h2>
             <div class="listing">
                 <h6>SPRING TRAINING <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Train like a pro and join our fitness team as we perform excerise drills to help warm up for the summer season.</p>
+                <p>Train like a pro and join our fitness team as we perform exercise drills to help warm up for the summer season.</p>
             </div>
             <div class="listing">
                 <h6>Back to Nature Boot Camp <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
@@ -65,11 +65,11 @@ endif;
             </div>
             <div class="listing">
                 <h6>Cultivate Happiness Collage <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Create a lovely magazine collage and strech your perpective.</p>
+                <p>Create a lovely magazine collage and stretch your perspective.</p>
             </div>
             <div class="listing">
                 <h6>Growing Natural Rhythm Salsa Class <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Dance to Salsa music that will inspire your natural rhythm to unleash and grow. Dancing is a great and fun way to become confortable with your body, build confidence and self-steem. The side effects are bursts of laughter and burning calories.</p>
+                <p>Dance to Salsa music that will inspire your natural rhythm to unleash and grow. Dancing is a great and fun way to become confortable with your body, build confidence and self-esteem. The side effects are bursts of laughter and burning calories.</p>
             </div>
             <div class="listing">
                 <h6>Tai Chi &amp; Nature <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
@@ -77,48 +77,50 @@ endif;
             </div>
             <div class="listing">
                 <h6>Food Care &amp; Awareness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>This workout will teach how to keep your feet healthy and learn that by nature they are our base of support, the foundation of the joints above. Grow your feet awareness and rebalance your body as you acquire better postural alignment, overall function and coordination.</p>
+                <p>This workout teaches how to maintain healthy feet, nature's foundation for the joints above. Grow your foot awareness and rebalance your body as you acquire better postural alignment, overall function and coordination.</p>
             </div>
             <div class="listing">
                 <h6>Grow an Inch Pilates <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Pilates exercises are about learning how to control your inner unit, the muscles from the bottom of your spine all the way up to the back of your skull. Pilates exercises are based on axial skeleton elongation and stability. Their nature is to strengthen as you lenghten, creating more space withing the joints, therefore making it possible to grow an inch or more as you get stronger.</p>
+                <p>Learn to control your inner core&#8212;the muscles from the bottom of your spine all the way up to the back of your skull. Pilates exercises are based on axial skeleton elongation and stability, designed to strengthen as you lengthen. Create more space within the joints, enabling growth of an inch or more as you develop strength.</p>
             </div>
             <div class="listing">
                 <h6>Cultivate Heat Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>An intermediate yoga class designed to build strenght ans heat. Flowing sun salutations combined with longer held poses for to build stamina. </p>
+                <p>An intermediate yoga class designed to warm the muscles. Flowing sun salutations combine with longer-held poses to increase stamina and strength.</p>
             </div>
             <div class="listing">
                 <h6>Hatha Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>This is a great class for all levels. A combination of a mild warming flow and longer held poses. </p>
+                <p>A combination of mild warming flow and longer-held poses, suitable for both new and returning Yogis.</p>
             </div>
             <div class="listing">
                 <h6>Explore Your Hips &amp; Knees Yoga Therapy <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn how to explore the mobility of your hisps and knees using Yoga Therapy asanas. Create more awareness, range of motion and strength in the muscles around your hips and knees and then use your new found mobility to explore the world.</p>
+                <p>Explore the mobility of the hips and knees through the use of Yoga Therapy <em>asanas</em>, or postures, experiencing a greater awareness of your true range of motion and strength.</p>
             </div>
             <div class="listing">
                 <h6>Explore Quiet Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Yin yoga is a more passive slow-paced style of yoga with postures or asanas that are held for five minutes each, allowing for a deeper release.</p>
+                <p>Yin Yoga is a more passive, slow-paced style of yoga. Asanas are held for five minutes each, allowing for a deeper state of each posture. </p>
             </div>
             <div class="listing">
                 <h6>Zumba Fitness <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Dance as you explore other cultures and their moves. Discover your natural happiness that rises when we move freely to various ethnical rhythms. Zumba is a fun dance party that can burn 400 to 600 calories in an hour. </p>
+                <p>Explore other cultures through the art of dance, burning 400 to 600 calories in an hour along the way.</p>
             </div>            
         </div>
         <div class="col span_1_of_2">
             <h2>Culinary</h2>
             <div class="listing">
                 <h6>Sprouts Galore <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Sprouts are rich in vitamins, minerals and other phytochemicals and can be a delicious part of your daily meals.  Learn the art of sprouting as well as simple ways to use your sprouts in simple dishes at every meal.</p>
+                <p>Rich in vitamins, minerals and other phytochemicals, sprouts are a wise and delicious addition to daily meals. Learn the art of sprouting as well as simple methods to integrate them into a variety of dishes.</p>
             </div>
             <h2>Culture</h2>
              <div class="listing">
                 <h6>Taro Tasting <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Taro is a traditional Hawaiian staple and over 300 different forms are grown in the Hawaiian Islands. All parts of the plant can be eaten.  Join our team in preparing and sampling some simple taro dishes.</p>
+                <p>Taro has earned its place as a traditional Hawaiian staple&#8212;it’s abundant, appetizing, and all parts of the plant can be eaten. Prepare and taste a sampling from the more than 300 varieties present on the Hawaiian islands.</p>
             </div>
             <div class="listing">
                 <h6>East Maui Taro Festival <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>The taro plant, also known as kalo in Hawai’i, plays a central role in Hawaiian mythology. Taro came to Hawai`i with the earliest Polynesian settlers in their canoes and has been cultivated as a staple from ancient times. East Maui Taro Festival is a time for our community to share with others the importance and value of this staple. Taro Festival is a two day event that takes place at Hāna Ballpark, which is located just a few steps away from Travaasa Hotel Hāna and was built in the 1940s to hold the San Francisco Seals summer camp. The Seals were owned by Paul Fagan who began Travaasa Hotel Hāna in 1946 and was also the original owner of Hāna Ranch. There will be Lively Entertainment and various concession booths which can be seen and heard from our property. Learn about poi pounding, taste the flavor of cooked taro and meet some of our local vendors.</p>
-            </div>
+                <p>The taro plant, also known as kalo in Hawai’i, plays a central role in Hawaiian mythology. Taro came to Hawai`i with the earliest Polynesian settlers in their canoes, and has been cultivated as a staple since ancient times. The East Maui Taro Festival is an opportunity for the community to share with others the importance and value of this heritage food. 
+                <br/>This two day event that takes place at Hana Ballpark, located just a few steps away from Travaasa Hotel Hana. There will be live entertainment, concession booths and local vendors celebrating the Taro.
+                </p>
+            <//div>
            
             
             <h2>Spa &amp; Wellness</h2>
@@ -132,11 +134,11 @@ endif;
             </div>
             <div class="listing">
                 <h6>Meditation | Tune into Nature <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Head outdoors to stop and savior the beauty all around us. Take the opportunity for quiet introspection and silence to deepen your appreciation for the change in season, and create space within that will leave you replenished and revitalized.</p>
+                <p>Stop and savior the surrounding beauty of the Balcones Canyonlands Preserve. Quiet introspection and silence allow you to deepen your level of appreciation, establish a space within, and leave you replenished and revitalized.</p>
             </div>
             <div class="listing">
                 <h6>Nature &amp; Wisdom Journaling <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Journaling about  what we know and experience in Nature can be enlightening. Reflecting on how that affects our wisdown is our theme. Nature and Wisdom journaling helps with self discovery as we explore and appreciate the world around us.</p>
+                <p>Grow more into your complete self by discovering and integrating different parts of your psyche. We will explore ways that we deny ourselves and others.</p>
             </div>
             <div class="listing">
                 <h6>Journal &amp; Grow <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
