@@ -25,7 +25,7 @@
 <article id="main">
   <section class="intro pad clearfix notheater">
           <h2>Directions to Travaasa Austin</h2>
-          <p>Address: <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Travaasa+Austin,+Austin,+TX&aq=0&oq=travaasa&sll=30.444937,-97.862262&sspn=0.007705,0.013894&vpsrc=0&g=13500+Fm+2769,+Austin,+TX&ie=UTF8&hq=Travaasa&hnear=Austin+Office,+510+Rathervue+Pl,+Austin,+Texas+78768-2247&ll=30.409301,-97.791023&spn=0.246644,0.444603&t=m&z=12&iwloc=A&cid=5151063792531704065">13500 Farm to Market Road 2769 Austin, TX 78726</a></p>
+          <p>Address: <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Travaasa+Austin,+Austin,+TX&aq=0&oq=travaasa&sll=30.444937,-97.862262&sspn=0.007705,0.013894&vpsrc=0&g=13500+Fm+2769,+Austin,+TX&ie=UTF8&hq=Travaasa&hnear=Austin+Office,+510+Rathervue+Pl,+Austin,+Texas+78768-2247&ll=30.409301,-97.791023&spn=0.246644,0.444603&t=m&z=12&iwloc=A&cid=5151063792531704065" TARGET="_blank">13500 Farm to Market Road 2769 Austin, TX 78726</a></p>
   		  <img src="/assets/images/austin-directions-map.png" width="373">
   </section>
   <section class="grey pad group">
