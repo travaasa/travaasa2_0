@@ -16,13 +16,6 @@
 <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_AUSTIN ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
 <!-- end NAVIS Code -->
-<!--crocadoc map style -->
-<style>
-    .page { position:relative; display:inline-block; margin:10px 10px 10px 40px; }
-    .page > * { position:absolute; top:0; left:0; width:100%; height:100%; }
-</style>
-<link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
-<!-- end crocadoc map style -->
 </head>
 <body>
 <?php 
@@ -33,13 +26,9 @@
   <section class="intro pad clearfix notheater">
           <h2>Directions to Travaasa Austin</h2>
           <p>Address: <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Travaasa+Austin,+Austin,+TX&aq=0&oq=travaasa&sll=30.444937,-97.862262&sspn=0.007705,0.013894&vpsrc=0&g=13500+Fm+2769,+Austin,+TX&ie=UTF8&hq=Travaasa&hnear=Austin+Office,+510+Rathervue+Pl,+Austin,+Texas+78768-2247&ll=30.409301,-97.791023&spn=0.246644,0.444603&t=m&z=12&iwloc=A&cid=5151063792531704065">13500 Farm to Market Road 2769 Austin, TX 78726</a></p>
-  		  <div class="page" id="Page1" style="width:373.937pt; height:498.166pt;">
-	      <object data="page-1.svg" type="image/svg+xml"></object>
-</div>
+  		  <img src="/assets/images/austin-directions-map.png" width="373">
   </section>
   <section class="grey pad group">
-
-    
     <h2>From Austin-Bergstrom International Airport</h2>
     <ol>
 					<li>Head east toward Presidential Blvd
