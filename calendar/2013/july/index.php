@@ -61,7 +61,7 @@ endif;
             </div>
             <div class="listing">
                 <h6>Salsa Dance &amp; Joy <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Zumba&#174; is a revolutionary fitness experience. It takes you on an unforgettable, exhilarating journey to a healthier and happier lifestyle. Jam-packed with steaming-hot dance moves, pulsating Latin and international rhythms and feel-it-to-the-core routines, this invigorating dance-fitness party will have you movin' and groovin' the fat right off.</p>
+                <p>Let's experience the joy of dancing. Begin with the basic footwork, embrace your partner and move in harmony around the dance floor. In this Salsa Dance class, you will learn the basic salsa steps, how to properly lead and turn, and some beginner-to-intermediate patterns to go salsa dance with confidence!</p>
             </div>
             <div class="listing">
                 <h6>Tai Chi Joy <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
