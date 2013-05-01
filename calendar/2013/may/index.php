@@ -115,9 +115,9 @@ endif;
   <section class="grey pad">
         <h4>See upcoming months</h4>
   		<div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2013/may/"><img src="/assets/images/months/may-nuture.png" alt="May is Nuture Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2013/may/"><img src="/assets/images/months/may-nuture.png" alt="May is Nurture Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2013/june/"><img src="/assets/images/months/jun-man.png" alt="June is Man Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/july/"><img src="/assets/images/months/jul-independence.png" alt="July is Independence Month"></a></div></div>
         </div>
   </section>
 </article>
