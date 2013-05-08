@@ -140,7 +140,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
                   &#8226;&nbsp;&nbsp;Kahului Airport (OGG) to Travaasa Hana, Maui<br />
                   &#8226;&nbsp;&nbsp;Travaasa Hana, Maui to Kahului Airport (OGG)
                   </p>
-                <p><em>Ask a reservations team member for full pricing and availability.</em></p>
+                <p><em>Ask a reservations team member for full pricing and availability. Prices are seasonal and subject to change.</em></p>
         </div>
     </div>
   </section>
