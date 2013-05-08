@@ -36,7 +36,7 @@
           <p>Located in a gorgeous valley across from the property on the edge of the Balcones Canyonlands Preserve, the farm features more than 80 varieties of vegetable crops, perennial fruit orchards, native pecans, edible flowers, and culinary and medical herbs, all of which are used extensively in the resorts food and beverage offerings as well as in treatments at the award winning spa. Additionally, the farm includes a 360-square foot greenhouse, a 2,300-square foot activity garden for hands-on growing classes, and a 680-square foot chicken coop with more than 100 laying hens of five different breeds and two roosters, as well as the property’s new equine center which is home to seven horses and our Equine Encounter program.</p>
           <p>It’s the real deal. Come roll your sleeves up and get down with us on the farm.</p>
 
-          <img src="/assets/images/farm-fruit-logo-533.png" alt="The Farm at Travaasa Austin" width="300">
+          <img src="/assets/images/farm-fruit-logo-533.png" alt="The Farm at Travaasa Austin" width="320">
       <!--<dl class="floatright span_3_of_7 inset">
       <dt><img src="/assets/images/farm-fruit-logo-533.png" alt="The Farm at Travaasa Austin" class="fitwidth"></dt>
         <dd></dd>
