@@ -26,6 +26,7 @@
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_view.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>AS AUTHENTIC AS HAWAII GETS / <span>THE MAGIC OF HANA SIMPLY HAS TO BE EXPERIENCED TO BE BELIEVED.</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_hospitality.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>HO'OKIPA (HOSPITALITY) / <span>IT'S A HAWAIIAN WAY OF LIFE.</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_history.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>THE HISTORY OF HANA / <span>UNPARALLELED BEAUTY AND A BASEBALL TEAM PUT IT ON THE MAP.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_rentalcars.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>RENT A CAR AND EXPLORE HANA / <span>TRAVERSE BEAUTIFUL EASTERN MAUI IN YOUR OWN JEEP OR CAR.</span></h2></div></div>   
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -47,6 +48,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
             <li id="tab_2"><a href="#journey">The Journey to Hana</a></li>
             <li id="tab_3"><a href="#history">History</a></li>
             <li id="tab_4"><a href="#stories">Hana Stories</a></li>
+            <li id="tab_5"><a href="#carrental">Rental Cars</a></li>
         </ul>
     </div>
     <div id="hospitality" class="tab_data">
@@ -125,6 +127,20 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
             
             
             
+        </div>
+    </div>
+    <div id="carrental" class="tab_data">
+        <div class="tab_data_inner">
+                <img src="/assets/images/rental-cars-500.jpg" width="435" alt="Rental Cars at Travaasa Hana, Maui">
+                <br />
+                <h3>Car Rental at Travaasa Hana</h3>
+                <p>Travaasa Hana, Maui is proud to offer car rentals locally in partnership with <strong>Enterprise Rent-A-Car&#174;</strong>.</p>
+                <p><strong>CHEVY MALIBU</strong><br /> $90 daily&nbsp;&nbsp;/&nbsp;&nbsp;$450 per week<br /><strong>JEEP UNLIMITED</strong><br /> $150 daily&nbsp;&nbsp;/&nbsp;&nbsp;$750 per week</p>
+                <p><strong>One-way rentals available from:</strong><br />
+                  &#8226;&nbsp;&nbsp;Kahului Airport (OGG) to Travaasa Hana, Maui<br />
+                  &#8226;&nbsp;&nbsp;Travaasa Hana, Maui to Kahului Airport (OGG)
+                  </p>
+                <p><em>Ask a reservations team member for full pricing and availability. Prices are seasonal and subject to change.</em></p>
         </div>
     </div>
   </section>
