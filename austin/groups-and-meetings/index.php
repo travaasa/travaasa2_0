@@ -47,7 +47,7 @@
 <p>Austin Bergstrom International Airport is easily accessible with nonstop and direct flights from numerous cities. With Austin’s warm and sunny climate, Travaasa is the perfect setting year-round.</p>
       </div>
       <div class="col span_3_of_9">
-      	<p>CONTACT SALES AT</p>
+      	<p>TALK TO OUR SALES DEPARTMENT</p>
         <h2 class="big">512-334-4649</h2>
         <p>or <a href="mailto:austinsales@travaasa.com">austinsales@travaasa.com</a></p>
       </div>
@@ -58,6 +58,7 @@
             <li id="tab_1"><a href="#facilities">Meeting Facilities</a></li>
             <li id="tab_2"><a href="#toolkit">Planners Toolkit &amp; Gallery</a></li>
             <li id="tab_3"><a href="#experiences">Group Experiences &amp; Team Building</a></li>
+            <!--<li id="tab_5"><a href="#weddings">Weddings</a></li>-->
             <li id="tab_4"><a href="#proposal">Request for Proposal</a></li>
         </ul>
     </div>
@@ -459,9 +460,23 @@
                  <li>Experiences that require interdependence, shared responsibility and accountability</li>
                  <li>Developing a common language &amp; take home reminders of experience</li>
              </ul>
-             <p><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" class="btn">Team Building Menu</a></p>
+             <p><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" class="btn">Meeting Facilities &amp; Outdoor Venues</a></p>
         </div>
     </div>
+    <!--<div id="weddings" class="tab_data">
+        <div class="tab_data_inner">
+            <h4>Weddings at Travaasa Austin</h4>
+            <p>Weddings Copy</p>
+            <ul>
+                 <li>bullet</li>
+                 <li>bullet</li>
+                 <li>bullet</li>
+                 <li>bullet</li>
+                 <li>bullet</li>
+             </ul>
+             <p><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" class="btn">Meeting Facilities &amp; Outdoor Venues</a></p>
+        </div>
+    </div>-->
     <div id="proposal" class="tab_data">
         <div class="tab_data_inner">
            <iframe height="2200" style="width:100%;border:none" src="https://travaasa.wufoo.com/embed/z7x3k1/"></iframe> 
