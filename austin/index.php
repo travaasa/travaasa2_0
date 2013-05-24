@@ -69,6 +69,23 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
       </div>
       <a class="carousel_prev" id="story1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story1_next" href="#"><span><b>next</b></span></a> </div>
   </section>
+  <section class="grey pad">
+    <h4>AS FEATURED IN</h4>  
+    <div class="group">
+    	<div class="col span_1_of_3 accolade">
+        	<img class="lazy" data-original="/assets/images/logo-chicago-tribune.png" src="/assets/images/global/placeholder.gif" alt="Chicago Tribune">
+            <p class="description">"For a yoga and spa getaway, this resort that overlooks Lake Travis may be a fit. With 70 guests rooms, Travaasa Austin is brimming with amenities, including a fitness center and yoga studio, an infinity-edge pool, horse stables, a labyrinth and a challenge course." <a href="http://articles.chicagotribune.com/2012-10-23/travel/sc-trav-1023-yoga-getaways-20121023_1_yoga-students-yoga-health-yoga-getaways" target="_blank" class="more">Read article</a></p>
+        </div>
+    	<div class="col span_1_of_3 accolade">
+       		<img class="lazy" data-original="/assets/images/logo-ladies-home-journal.png" src="/assets/images/global/placeholder.gif" alt="Ladies Home Journal">
+            <p class="description">"In addition to spa treatments at Travaasa Austin, guests can try mechanical bull riding workouts, take cooking classes and learn to dance the Texas two-step." <a href="http://www.lhj.com/relationships/friendships/girlfriend-getaway/" target="_blank" class="more">Read article</a></p>
+        </div>
+    	<div class="col span_1_of_3 accolade">
+        	<img class="lazy" data-original="/assets/images/logo-wall-street-journal.png" src="/assets/images/global/placeholder.gif" alt="The Wall Street Journal">
+            <p class="description">"All it takes to learn how to raise chickens in your backyard is a few nights at a spa ­ specifically, the Travaasa Austin resort in Texas hill country. In the retreat’s new farming program, organic farmer Kim Grabosky teaches city slickers about seed germination, plant transferring and a handful of other topics." <a href="http://online.wsj.com/article/SB10001424127887324789504578384941838075034.html" target="_blank" class="more">Read article</a></p>
+        </div>
+    </div>
+  </section>
 </article>
 </section>
 <?php 

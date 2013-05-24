@@ -88,7 +88,7 @@
             <p class="description">"At the end of a long, winding road is remote Hana and the Travaasa Hana resort. The area has beautiful beaches, the Seven Sacred Pools and star-filled skies." <a href="http://articles.latimes.com/2012/apr/22/travel/la-tr-hana-20120422" target="_blank" class="more">Read article</a></p>
         </div>
     	<div class="col span_1_of_3 accolade">
-        	<a href="http://tmagazine.blogs.nytimes.com/2012/05/07/the-new-new-list-3/" target="_blank"><img class="lazy" data-original="/assets/images/logo-ny-times.png" src="/assets/images/global/placeholder.gif" alt=""></a>
+        	<img class="lazy" data-original="/assets/images/logo-ny-times.png" src="/assets/images/global/placeholder.gif" alt="">
             <p class="description">"Hotel planes are the new hotel cars"<br><br>"Travaasa Hana on Maui will fly you on its six-seat Airbus from Kahului and, soon, Honolulu." <a href="http://tmagazine.blogs.nytimes.com/2012/05/07/the-new-new-list-3/" target="_blank" class="more">Read article</a></p>
         </div>
     </div>
