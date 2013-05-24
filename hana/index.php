@@ -77,26 +77,21 @@
       <a class="carousel_prev" id="story1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story1_next" href="#"><span><b>next</b></span></a> </div>
   </section>
   <section class="grey pad">
-    <h4>AS FEATURED IN</h4>    
-    <div id="story2-wrapper" class="storyline_carousel">
-      <div id="story1" class="storyline">
-        <div class="slide">
-          <div class="slide_inner"><a href="http://hub.aa.com/en/cl/journey-in-time" target="_blank"><img data-original="/assets/images/logo-celebrated-living.png" src="/assets/images/global/placeholder.gif" alt=""></a>
+    <h4>AS FEATURED IN</h4>  
+    <div class="group">
+    	<div class="col span_1_of_3 accolade">
+        	<img data-original="/assets/images/logo-celebrated-living.png" src="/assets/images/global/placeholder.gif" alt="">
             <p class="description">"...We found that we were wonderfully transported back to the same 'Old Hawaii' we once knew, a Hawaii with only the ocean breeze to keep us cool, tropical surroundings to soothe us, and a sense of adventure that only the true Hawaii gave us. Travaasa Hana…was that experience." <a href="http://hub.aa.com/en/cl/journey-in-time" target="_blank" class="more">Read article</a></p>
-          </div>
         </div>
-        <div class="slide">
-          <div class="slide_inner"><a href="http://articles.latimes.com/2012/apr/22/travel/la-tr-hana-20120422" target="_blank"><img data-original="/assets/images/logo-la-times.png" src="/assets/images/global/placeholder.gif" alt=""></a>
+    	<div class="col span_1_of_3 accolade">
+       		<img data-original="/assets/images/logo-la-times.png" src="/assets/images/global/placeholder.gif" alt="">
             <p class="description">"At the end of a long, winding road is remote Hana and the Travaasa Hana resort. The area has beautiful beaches, the Seven Sacred Pools and star-filled skies." <a href="http://articles.latimes.com/2012/apr/22/travel/la-tr-hana-20120422" target="_blank" class="more">Read article</a></p>
-          </div>
         </div>
-        <div class="slide">
-          <div class="slide_inner"><a href="http://tmagazine.blogs.nytimes.com/2012/05/07/the-new-new-list-3/" target="_blank"><img data-original="/assets/images/logo-ny-times.png" src="/assets/images/global/placeholder.gif" alt=""></a>
+    	<div class="col span_1_of_3 accolade">
+        	<a href="http://tmagazine.blogs.nytimes.com/2012/05/07/the-new-new-list-3/" target="_blank"><img data-original="/assets/images/logo-ny-times.png" src="/assets/images/global/placeholder.gif" alt=""></a>
             <p class="description">"Hotel planes are the new hotel cars"<br><br>"Travaasa Hana on Maui will fly you on its six-seat Airbus from Kahului and, soon, Honolulu." <a href="http://tmagazine.blogs.nytimes.com/2012/05/07/the-new-new-list-3/" target="_blank" class="more">Read article</a></p>
-          </div>
         </div>
-      </div>
-      <a class="carousel_prev" id="story1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story1_next" href="#"><span><b>next</b></span></a> </div>
+    </div>
   </section>
 </article>
 </section>
