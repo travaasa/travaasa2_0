@@ -19,8 +19,17 @@
 </head>
 <body>
 <?php 
-   include_once($path."/Library/Travaasa_Menu_Austin.php");
-?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
+   include_once($path."/Library/Travaasa_Menu_Austin.php");?>
+<!--<section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>-->
+<section id="feature1_wrapper" class="subpage400_bg"><a href="https://travaasabbqbash.ticketbud.com/travaasa-bbq-bash" target="_blank"><img data-original="/assets/images/feature_400_austin_1600x400_bbq-bash.jpg" src="/assets/images/feature_400_austin_1600x400_bbq-bash.jpg" alt=""></section>
+
+<!--<section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
+    <div id="feature1" class="feature">
+      <div class="slide"><a href="https://travaasabbqbash.ticketbud.com/travaasa-bbq-bash" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_bbq-bash.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+    </div>
+    <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
+    <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
+</section>-->
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
