@@ -19,9 +19,9 @@
 </head>
 <body>
 <?php 
-   include_once($path."/Library/Travaasa_Menu_Austin.php");
-?><!--<section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>-->
-<section id="feature1_wrapper" class="feature_carousel sub_feature clearfix"><img src="/assets/images/feature_austin_1600x640_bbq-bash.jpg" alt=""></section>
+   include_once($path."/Library/Travaasa_Menu_Austin.php");?>
+<!--<section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>-->
+<section id="feature1_wrapper" class="subpage400_bg"><a href="https://travaasabbqbash.ticketbud.com/travaasa-bbq-bash" target="_blank"><img data-original="/assets/images/feature_400_austin_1600x400_bbq-bash.jpg" src="/assets/images/feature_400_austin_1600x400_bbq-bash.jpg" alt=""></section>
 
 <!--<section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
     <div id="feature1" class="feature">
