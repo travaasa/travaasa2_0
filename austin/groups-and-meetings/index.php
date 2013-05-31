@@ -22,8 +22,12 @@
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_1.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
-      <div class="slide"><a href="/pdf/Travaasa_Austin_Meeting_Planners_Guide_web.pdf" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_groups_2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_001.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_002.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_003.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
+      <div class="slide"><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_groups_004.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_005.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
+      <!--<div class="slide"><a href="/pdf/Travaasa_Austin_Meeting_Planners_Guide_web.pdf" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_groups_2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_3.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_4.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_5.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
@@ -31,7 +35,7 @@
       <div class="slide"><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_groups_7.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_8.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_9.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_10.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_10.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>-->
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -412,7 +416,7 @@
             
             <div class="group">		
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1024-welcome-center.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Welcome Center"><img class="lazy" data-original="/assets/images/gallery/austin/100-welcome-center.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Welcome Center"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1229-infinity-pool-cool.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Infinity Edge Pool"><img class="lazy" data-original="/assets/images/gallery/austin/100-infinity-pool-cool.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Infinity Edge Pool"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-austin-daytime-pool.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Infinity Edge Pool"><img class="lazy" data-original="/assets/images/gallery/austin/100-austin-daytime-pool.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Infinity Edge Pool"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-mesquite-patio-sunset.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="A sunset view from the Mesquite Patio"><img class="lazy" data-original="/assets/images/gallery/austin/100-mesquite-patio-sunset.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Sunset on the Mesquite Patio"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-spa-entrance.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Spa at Travaasa Austin"><img class="lazy" data-original="/assets/images/gallery/austin/100-spa-entrance.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Spa at Travaasa Austin"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-path-sunrise.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sunrise on the way to Breakfast"><img class="lazy" data-original="/assets/images/gallery/austin/100-path-sunrise.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Sunrise on path"></a></div>
@@ -460,6 +464,22 @@
                  <li>Experiences that require interdependence, shared responsibility and accountability</li>
                  <li>Developing a common language &amp; take home reminders of experience</li>
              </ul>
+
+             <h4>Beyond The Meeting Room</h4>
+             <p>Travaasa will help you create the perfect teambuilding experience for your group. Using our exciting array of experiences, we’ll custom-design a program to meet your team’s specific needs.</p>
+             <h4>Adventure Packed</h4>
+             <p>Whether you’re looking to get out of the office or out of the box, choose an adventure activity that everyone in your group can be involved in.</p>
+             <h4>Culinary Delights</h4>
+             <p>Grab a knife, choose your ingredients and work together to create the most delicious teambuilding experience; and then relax and enjoy the fruits or other tasty treats of your labors.</p> 
+            <h4>Texas Culture</h4>
+            <p>Whether you’re from around these parts or you’re experiencing culture shock, welcome to Texas. And during your stay we would like to share some of the unique cultural activities we treasure as part of our everyday life. Learn a new skill such as roping, discover if you have a poker face, and find out why the stars at night truly are bigger and brighter than anywhere else.</p>
+            <h4>Social Responsibility</h4>
+            <p>Take your group’s experience and use it to benefit others. All of our social responsibility activities benefit local organizations, making a real difference to those in need.</p>
+            <h4>Hand-Mind Coordination</h4>
+            <p>Tap into your team’s creative flow, help your team members create a collaborative vision for the future, or get everyone on the same rhythm with these dynamic activities.</p>
+            <h4>Constructive Challenges</h4>
+            <p>These leadership activities involve a series of fun and challenging scenarios, requiring participation and collaboration from the entire group. Our facilitators lead your team through activity stations, each taking 15-45 minutes. We offer a full range of options for stations, from simple group games to complex mental and physical challenges. For example, the team must cross a “river” using only the materials provided. Afterwards, facilitators offer a short debriefing session and encourage participants to share insights and make connections to real world situations.
+            Check out our most popular packages below or completely customize your own. Our leadership staff is available to help you choose which package fits your team and desired outcome.</p>
              <p><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" class="btn">Meeting Facilities &amp; Outdoor Venues</a></p>
         </div>
     </div>
