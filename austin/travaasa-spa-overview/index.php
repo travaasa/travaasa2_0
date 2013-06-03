@@ -24,8 +24,9 @@
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ULTIMATE BLISS FULL-DAY PACKAGE / <span>EXPERIENCE THE BLISS AND RELAXATION OF BEING NURTURED FROM HEAD TO TOE.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>WESTERN STAR ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ORGANIC ULTIMATE HYDRATION FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>
+      <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>PERFECT BALANCE FACIAL / <span>ORGANIC SAGE OIL AND GRAPE SEEDS RESTORE SKIN'S HARMONY.</span></h2></div></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
@@ -372,7 +373,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <h6>Not staying the night? When available, these packages allow you to experience Travaasa for the day.</h6>
             
             <section class="spa_package">
-                <h4>FULL DAY ESCAPE</h4>
+                <h4>THE DAYCATION PACKAGE</h4>
                 <p>Discover all that Travaasa Austin has to offer through our experiential day package. It's our version of Choose Your Own Adventure – get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to the challenge course, and recharge with a healthy lunch. Offered from 9:00am until 5:00pm. Includes all on-property activities; use of the infinity pool; spa locker rooms; whirlpool; dry sauna; and one $125.00 spa credit. All gratuities are included; tax is additional.</p>
                 <h5>$229.00</h5>
             </section>
