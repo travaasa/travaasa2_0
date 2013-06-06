@@ -373,7 +373,7 @@
             <div class="group">  
             	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>					
                 <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Group-Activities-Brochure.pdf" class="btn fitwidth" target="_blank">Group Activities Guide</a></div>
-                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn fitwidth" target="_blank">Group Activities &amp; Teambuilding</a></div>
+                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn fitwidth" target="_blank">Group Activities Pricing</a></div>
             </div>   
             <div class="group">
                 <div class="col span_1_of_3"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Travaasa Austin Spa Guide</a></div>
@@ -480,7 +480,7 @@
             <h4>Constructive Challenges</h4>
             <p>These leadership activities involve a series of fun and challenging scenarios, requiring participation and collaboration from the entire group. Our facilitators lead your team through activity stations, each taking 15-45 minutes. We offer a full range of options for stations, from simple group games to complex mental and physical challenges. For example, the team must cross a “river” using only the materials provided. Afterwards, facilitators offer a short debriefing session and encourage participants to share insights and make connections to real world situations.
             Check out our most popular packages below or completely customize your own. Our leadership staff is available to help you choose which package fits your team and desired outcome.</p>
-             <p><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn">Group Activities &amp; Teambuilding</a></p>
+             <p><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn">Group Activities Pricing</a></p>
         </div>
     </div>
     <!--<div id="weddings" class="tab_data">
