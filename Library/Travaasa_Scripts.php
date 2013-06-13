@@ -49,11 +49,11 @@ document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityS
 </noscript>
 <!-- end Adserving Tag-->
 <script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
-<!-- start IMI -->
+<!-- start IMI
 <script type="text/javascript">
 document.write(unescape('%3Cscript src="' + document.location.protocol + '//d1ivexoxmp59q7.cloudfront.net/imi/live.js" type="text/javascript"%3E%3C/script%3E'));
 </script>
-<!-- end IMI -->
+end IMI -->
 <!-- start Retargeting Tag -->
 <script type="text/javascript">
 // Retargeting Tag Name: Travaasa Home Page Retargeting
