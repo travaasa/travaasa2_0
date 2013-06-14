@@ -35,6 +35,8 @@
           <p>Our culinary staff is obsessed with two things: nourishing our guests with delicious dishes composed of fresh, organic, and locally sourced ingredients whenever possible; and fostering a sense of community at the table. It is these two obsessions that make dining at Travaasa Austin so special.</p>
 <p>In fact, we named our restaurant Jean's Kitchen, after the mother of one of our founders. <a href="./jean-berry">Jean Berry</a> was known to say that sharing your day’s story over the kitchen table was always the most magical time of the day. Our executive chef, Benjamin Baker, has taken great strides to not only live up to Jean’s awesome cooking, but to deliver an experience where guests can share their story over breakfast, lunch or dinner.</p>
 <p>Dining is included in some packages at Travaasa Austin. See our <a href="/austin/rates-and-packages">rates &amp; packages</a> for more.</p>
+<p>Purchase tickets to the June 15th BBQ Bash:</p>
+<p><iframe id="widget-frame" src="https://travaasabbqbash.ticketbud.com/travaasa-bbq-bash/external" scrolling="yes" frameborder="0" style="height: 250px; width: 300px;"></iframe></p>
       </div>
   </section>
   <section class="grey pad group">
