@@ -373,13 +373,13 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <h6>Not staying the night? When available, these packages allow you to experience Travaasa for the day.</h6>
             
             <section class="spa_package">
-                <h4>THE DAYCATION PACKAGE</h4>
+                <h4>FULL DAY ESCAPE</h4>
                 <p>Discover all that Travaasa Austin has to offer through our experiential day package. It's our version of Choose Your Own Adventure – get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to the challenge course, and recharge with a healthy lunch. Offered from 9:00am until 5:00pm. Includes all on-property activities; use of the infinity pool; spa locker rooms; whirlpool; dry sauna; and one $125.00 spa credit. All gratuities are included; tax is additional.</p>
                 <h5>$229.00</h5>
             </section>
             <section class="spa_package">
                 <h4>TRAVAASA SPA</h4>
-                <p>Escape to somewhere beautiful – treat yourself to the Travaasa Spa and get pampered with a $125.00 spa credit. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, dry sauna, and jealousy-inducing views from the infinity edge pool. All gratuities are included; tax is additional.</p>
+                <p>Slip away to somewhere beautiful – treat yourself to the Travaasa Spa and get pampered with a $125.00 spa credit. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, dry sauna, and jealousy-inducing views from the infinity edge pool. All gratuities are included; tax is additional.</p>
                 <h5>Monday - Thursday $155; Friday - Sunday $175</h5>
     </section>
     <p class="description">All package gratuities are included; tax is additional.</p>
