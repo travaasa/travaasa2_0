@@ -23,7 +23,6 @@
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
       <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="/assets/images/feature_austin_1600x640_dayvideo_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
-      <div class="slide"><a href="https://travaasabbqbash.ticketbud.com/travaasa-bbq-bash" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_bbq-bash.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="/assets/images/feature_home_1600x640_mondavi-wine-dinner.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>    
       <div class="slide"><a href="/austin/farm/" ><img data-original="/assets/images/farm_teaser_1600x640.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
