@@ -62,6 +62,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <li id="tab_3"><a href="#hands_feet_scalp">Hands, Feet &amp; Scalp</a></li>
                 <li id="tab_5"><a href="#waxing">Waxing &amp; Tinting Services</a></li>
                 <li id="tab_7"><a href="#healing">Holistic Healing</a></li>
+                <li id="tab_8"><a href="feet_and_nails">Feet &amp; Nails</a></li>
             </ul>
          </div>
     	<div class="tabbed_group">
@@ -393,6 +394,105 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>Experience the art of channeling energy to create a deep state of tranquility on both the physical and spiritual planes. Explore a number of techniques such as Reiki, healing touch, polarity therapy, Pranic Healing and Chakra clearing to balance and heal your internal energy. Each session is unique and tailored to the individual's needs.</p>
                 <h5>50 or 80 minutes - $125/$170</h5>
             </section>
+        </div>
+    </div>
+    <div id="feet_and_nails" class="tab_data">
+        <div class="tab_data_inner">
+            <p>Whether you opt for a simple clean and buff or an exhilerating massage-meets-manicure, our signature nail treatments leave you looking and feeling perfectly polished.</p>
+
+            <h2>MANICURE</h2>
+
+            <section class="spa_package">
+                <h4>AU NATUREL HANDS</h4>
+                <p>Clean, shape and buff.</p>
+                <h5>25 minutes – $35</h5>
+            </section>
+            
+            <section class="spa_package">
+                <h4>SNAP</h4>
+                <p>Clean, shape, light massage and polish.</p>
+                <h5>25 minutes – $40</h5>
+            </section>
+            
+            <section class="spa_package">
+                <h4>ORGANIC LAVENDER & VANILLA MANICURE</h4>
+                <p>Exfoliate and hydrate with organic lavender and vanilla, followed by warm stone massage. Polish or buff.</p>
+                <h5>50 minutes – $70</h5>
+            </section>
+
+            <section class="spa_package">
+                <h4>MEDITATION MANICURE</h4>
+                <p>Experience Zen with this calming and hydrating manicure. Using essential oils of jasmine and frankincense, vegan body butter, masque, warm stone arm and hand massage, your hands will be soft and supple. Polish or buff.</p>
+                <h5>50 minutes – $70</h5>
+            </section>
+
+            <section class="spa_package">
+                <h4>CLEAN GEL MANICURE</h4>
+                <p>Vitamin-infused gel lacquer is applied to the natural nail. Final result is an effortlessly durable manicure that delivers up to two weeks of chip-free color. Clean, hydrate, shape and polish.</p>
+                <h5>50 minutes – $65</h5>
+            </section>
+
+            <h2>PEDICURE</h2>
+
+            <section class="spa_package">
+                <h4>AU NATUREL FEET</h4>
+                <p>Clean, shape and buff.</p>
+                <h5>25 minutes – $40</h5>
+            </section>
+
+            <section class="spa_package">
+                <h4>PEPPERMINT ZENERGY PEDICURE</h4>
+                <p>Revitalize tired and achy feet with essential oils of peppermint and grapefruit followed by an organic sugar scrub to exfoliate. Finish with peppermint foot cream to soften and hydrate. Warm stone massage followed by polish or buff.</p>
+                <h5>50 minutes – $75</h5>
+            </section>
+
+            <section class="spa_package">
+                <h4>ORGANIC COFFEE PEDICURE</h4>
+                <p>Herbs and homeopathics, relied on for centuries to detoxify and relieve acute and chronic pain, are used in this treatment to soothe overworked feet. Perfect if you are an active and sports-minded individual. Warm stone massage followed by polish or buff.</p>
+                <h5>50 minutes – $75</h5>
+            </section>
+
+            <section class="spa_package">
+                <h4>THE JOURNEY</h4>
+                <p>Start your journey by selecting your intent: relaxation–geranium; love–jasmine; introspection–frankincense; energy–ginger. A soothing sugar scrub is followed by a masque, warm oil and stone massage. Polish or buff.</p>
+                <h5>25 minutes – $40</h5>
+            </section>
+
+            <h2>NAIL UPGRADES & ADD-ONS</h2>
+
+            <section class="spa_package">
+                <h4>FRENCH POLISH ADD-ON</h4>
+                <h5>10 minutes – $10</h5>
+            </section>
+
+             <section class="spa_package">
+                <h4>FRENCH POLISH CHANGE</h4>
+                <h5>25 minutes – $30</h5>
+            </section>
+
+             <section class="spa_package">
+                <h4>POLISH CHANGE</h4>
+                <h5>15 minutes – $20</h5>
+            </section>
+
+             <section class="spa_package">
+                <h4>GEL POLISH REMOVAL</h4>
+                <h5>20 minutes – $15</h5>
+            </section>
+
+             <section class="spa_package">
+                <h4>MEN'S POLISH</h4>
+                <p>Black, navy blue or racer green, with any polish manicure or pedicure.</p>
+                <h5>$10 add-on to Au Naturel</h5>
+            </section>
+
+            <h2>FOR OFF-PROPERTY GUESTS</h2>
+
+             <section class="spa_package">
+                <h4>NAIL OF THE DAY*</h4>
+                <p>Offered from 9 a.m. to 5 p.m., this inclusive day allows you to get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to tai chi, and recharge with a healthy lunch. Experience our Snap Manicure and choose from one of three $75 pedicures. 18% gratuity included in package price on nail services and lunch.</p>
+             </section>
+             <p class="description">Upgrades and add-ons not included. 18% gratuity not included unless stated. Tax on lunch additional.</p>
         </div>
     </div>
     <div id="reservation_information" class="tab_data">
