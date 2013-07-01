@@ -62,7 +62,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <li id="tab_3"><a href="#hands_feet_scalp">Hands, Feet &amp; Scalp</a></li>
                 <li id="tab_5"><a href="#waxing">Waxing &amp; Tinting Services</a></li>
                 <li id="tab_7"><a href="#healing">Holistic Healing</a></li>
-                <li id="tab_8"><a href="feet_and_nails">Feet &amp; Nails</a></li>
+                <li id="tab_8"><a href="#nails">Nails</a></li>
             </ul>
          </div>
     	<div class="tabbed_group">
@@ -396,7 +396,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             </section>
         </div>
     </div>
-    <div id="feet_and_nails" class="tab_data">
+    <div id="nails" class="tab_data">
         <div class="tab_data_inner">
             <p>Whether you opt for a simple clean and buff or an exhilerating massage-meets-manicure, our signature nail treatments leave you looking and feeling perfectly polished.</p>
 
@@ -455,7 +455,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <section class="spa_package">
                 <h4>THE JOURNEY</h4>
                 <p>Start your journey by selecting your intent: relaxation–geranium; love–jasmine; introspection–frankincense; energy–ginger. A soothing sugar scrub is followed by a masque, warm oil and stone massage. Polish or buff.</p>
-                <h5>25 minutes – $40</h5>
+                <h5>80 minutes – $90</h5>
             </section>
 
             <h2>NAIL UPGRADES & ADD-ONS</h2>
@@ -491,6 +491,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
              <section class="spa_package">
                 <h4>NAIL OF THE DAY*</h4>
                 <p>Offered from 9 a.m. to 5 p.m., this inclusive day allows you to get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to tai chi, and recharge with a healthy lunch. Experience our Snap Manicure and choose from one of three $75 pedicures. 18% gratuity included in package price on nail services and lunch.</p>
+                <h5>$218</h5>
              </section>
              <p class="description">Upgrades and add-ons not included. 18% gratuity not included unless stated. Tax on lunch additional.</p>
         </div>
