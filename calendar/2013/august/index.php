@@ -119,7 +119,7 @@ endif;
                 <p> There are seven energy centers in the human body called chakras. Each chackra builds on the next. The first, called the root chakra, is located at the beginning of the spine by the tailbone and relates to the feet, legs and feelings of groundedness. In this class, you will learn about the foundations of each chakra and the psychological aspects of the root chakra.</p>
             </div>
             <div class="listing">
-                <h6>Dive into Pilates <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <h6>Dive Into Pilates <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Try this well-rounded exercise method that works the deeper muscles along the spine – muscles vital to posture and mobilitiy. Dive into this practice to strengthen your torso and increase core stability for greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
             </div>
 

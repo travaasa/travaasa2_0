@@ -94,6 +94,19 @@
          </div>
      </div>
 </section>
+<section class="grey pad">  
+    <h4>TRAVAASA ADS</h4>
+    <div id="gallery5-wrapper" class="gallery section">
+      <div class="group">
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/ads-austin-01.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin Ad 1"><img class="lazy" data-original="/assets/images/gallery/austin/ads-austin-01-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Austin Ad 1"></a></div>
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/ads-austin-02.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin Ad 2"><img class="lazy" data-original="/assets/images/gallery/austin/ads-austin-02-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Austin Ad 2"></a></div>
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/ads-austin-03.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin Ad 3"><img class="lazy" data-original="/assets/images/gallery/austin/ads-austin-03-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Austin Ad 3"></a></div>
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/ads-austin-04.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin Ad 4"><img class="lazy" data-original="/assets/images/gallery/austin/ads-austin-04-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Austin Ad 4"></a></div>
+            <div class="col span_1_of_5"><a  href="http://www.youtube.com/watch?v=YLFU16k-6f8" id="lnk" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Austin Video"><img class="lazy" data-original="/assets/images/gallery/austin/ads-austin-play-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Austin Video"></a></div>
+            <!--<div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="/assets/images/feature_austin_1600x640_dayvideo_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->
+         </div>
+     </div>
+</section>
 </article>
 </section>
 <?php 

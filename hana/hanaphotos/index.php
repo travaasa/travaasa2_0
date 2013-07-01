@@ -105,6 +105,18 @@
          </div>
     </div>
   </section>
+<section class="grey pad">  
+    <h4>TRAVAASA ADS</h4>
+    <div id="gallery5-wrapper" class="gallery section">
+      <div class="group">
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/hana/ads-hana-01.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Hana Ad 1"><img class="lazy" data-original="/assets/images/gallery/hana/ads-hana-01-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Hana Ad 1"></a></div>
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/hana/ads-hana-02.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Hana Ad 2"><img class="lazy" data-original="/assets/images/gallery/hana/ads-hana-02-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Hana Ad 2"></a></div>
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/hana/ads-hana-03.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Hana Ad 3"><img class="lazy" data-original="/assets/images/gallery/hana/ads-hana-03-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Hana Ad 3"></a></div>
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/hana/ads-hana-04.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Hana Ad 4"><img class="lazy" data-original="/assets/images/gallery/hana/ads-hana-04-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Hana Ad 4"></a></div>
+            <div class="col span_1_of_5"><a  href="http://www.youtube.com/watch?v=NOtwkBLTFzM" id="lnk" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Hana Video"><img class="lazy" data-original="/assets/images/gallery/hana/ads-hana-play-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Hana Video"></a></div>
+         </div>
+     </div>
+</section>
 </article>
 </section>
 <?php 
