@@ -28,7 +28,7 @@
           <p>This schedule is subject to change.</p>
   </section>
   <section class="grey pad group">
-  	   
+  	<p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="630" src="http://forecast.io/embed/#lat=12.823034&lon=23.642578&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
     <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=630&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hanaactivities%40travaasa.com&amp;color=%23f05033&amp;ctz=Pacific%2FHonolulu" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
     
   </section>
