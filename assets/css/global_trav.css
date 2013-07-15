@@ -739,3 +739,6 @@ only screen and (min-device-pixel-ratio: 2) {
 	}
 	#content { background-image:url(../images/global/swoosh2x.png); background-size: 170px auto; }
 }
+
+/* Forcast.io embed */
+#fe_forecast_link {display:none !important;}

@@ -28,7 +28,8 @@
           <p>This schedule is subject to change. View our selection of <a href="/austin/austin-experiences/austin-private-classes.php">private classes</a>.</p>
   </section>
   <section class="grey pad group">
-  	   <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=900&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=travaasa.com_a8hp6jo2ugd1l3dmunvcqgdu3s%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FChicago" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
+      <p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="630" src="http://forecast.io/embed/#lat=30.444271&lon=-97.864709&name=Travaasa Austin&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
+  	  <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=900&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=travaasa.com_a8hp6jo2ugd1l3dmunvcqgdu3s%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FChicago" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
     
   </section>
 </article>
