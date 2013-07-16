@@ -26,7 +26,7 @@
   <section class="intro pad clearfix notheater">
   		<div class="group">
   			<div class="col span_1_of_5">
-              <h1>Contact Us</h1>
+              <!--<h1>Contact Us</h1>-->
               <p>Are you ready to Travaasa? Start your journey today and get ready to experience the world in a completely different way. <strong>Call <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>(855) 868-7282</noscript> to book your stay.</strong><br><br>Interested in a career with Travaasa? Visit our <a href="http://theapplicantmanager.com/php/careers.php?co=tv">careers</a> page.</p>
             </div>
             <div class="col span_1_of_5">
@@ -62,7 +62,27 @@
          </div>
   </section>
   <section class="pad grey group">
-        	<div class="col span_1_of_5">
+        	<div class="col span_1_of_2">
+            <div id="wufoo-z7p8s1">
+<p>Having trouble? Fill out the <a href="http://travaasa.wufoo.com/forms/z7p8s1">online form</a>.
+</div>
+<script type="text/javascript">var z7p8s1;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'travaasa', 
+'formHash':'z7p8s1', 
+'autoResize':true,
+'height':'1042',
+'async':true,
+'header':'show', 
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { z7p8s1 = new WufooForm();z7p8s1.initialize(options);z7p8s1.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
+          </div>
+          <!--<div class="col span_1_of_5">
             	<h4>Questions?</h4>
             </div>
         	<div class="col span_2_of_5">
@@ -91,7 +111,7 @@
                     <div class="clear"></div>
                 </form>
             </div>
-  </section>
+  </section>-->
 </article>
 </section>
 <?php 
