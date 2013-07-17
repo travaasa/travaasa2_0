@@ -80,7 +80,7 @@ endif;
                 <p>Cool off with a game of soaker golf. This game uses water blasters and small cups in place of golf balls. The concept is simple: Launch the cup and have it land in the bucket using as few squirts as possible.</p>
             </div>
             <div class="listing">
-                <h6>Stand Up Paddling <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <h6>Stand Up Paddling <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Develop balance and core strength as you enjoy a popular water sport that honors Hana’s Hawaiian culture.</p>
             </div>
             <!--<div class="listing">
@@ -115,14 +115,10 @@ endif;
                 <p>Dive into fitness without breaking a sweat. Join us for a cool time in the pool.</p>
             </div>
             <div class="listing">
-                <h6>Delve Into Your Root Chakra Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p> There are seven energy centers in the human body called chakras. Each chackra builds on the next. The first, called the root chakra, is located at the beginning of the spine by the tailbone and relates to the feet, legs and feelings of groundedness. In this class, you will learn about the foundations of each chakra and the psychological aspects of the root chakra.</p>
-            </div>
-            <div class="listing">
                 <h6>Dive Into Pilates <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Try this well-rounded exercise method that works the deeper muscles along the spine – muscles vital to posture and mobilitiy. Dive into this practice to strengthen your torso and increase core stability for greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
             </div>
-
+            
         </div>
         <div class="col span_1_of_2">
             <div class="listing">
@@ -167,8 +163,8 @@ endif;
                 <p>Reflect on water/beach excursions from your past and capture memories from your current adventures at Travaasa.</p>
             </div>
             <div class="listing">
-                <h6>Delve Into Your Root <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>There are seven energy centers in the human body called chakras. Each chackra builds on the next. The first, called the root chakra, is located at the beginning of the spine by the tailbone and relates to the feet, legs and feelings of groundedness. In this class, you will learn about the foundations of each chakra and the psychological aspects of the root chakra.</p>
+                <h6>Delve Into Your Root Chakra Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p> There are seven energy centers in the human body called chakras. Each chackra builds on the next. The first, called the root chakra, is located at the beginning of the spine by the tailbone and relates to the feet, legs and feelings of groundedness. In this class, you will learn about the foundations of each chakra and the psychological aspects of the root chakra.</p>
             </div>
         </div>
     </div>  
