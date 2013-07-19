@@ -1,4 +1,5 @@
 
+
 <?php 
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
@@ -24,7 +25,7 @@
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ULTIMATE BLISS FULL-DAY PACKAGE / <span>EXPERIENCE THE BLISS AND RELAXATION OF BEING NURTURED FROM HEAD TO TOE.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>WESTERN STAR ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>WESTERN SKY ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ORGANIC ULTIMATE HYDRATION FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>PERFECT BALANCE FACIAL / <span>ORGANIC SAGE OIL AND GRAPE SEEDS RESTORE SKIN'S HARMONY.</span></h2></div></div>
@@ -39,7 +40,8 @@
           <h1>THE SPA AT TRAVAASA AUSTIN</h1>
           <p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Featuring 11 treatment rooms, including a couple's room, as well as a hot tub and dry sauna, the spa sits adjacent to the property's infinity pool, which overlooks the serene and scenic hill country landscape.<br><br>
 We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p>
-<div class="col span_1_of_1"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Download Spa Guide</a></div>
+<div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Download Spa Guide</a></div>
+<div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa-Mens-Guide.pdf" class="btn fitwidth" target="_blank">Download Men's Spa Guide</a></div>
       </div>
       <div class="pricing_grp col span_3_of_9">
       		<h2>Hours of Operation</h2>
