@@ -744,4 +744,5 @@ only screen and (min-device-pixel-ratio: 2) {
 #fe_forecast_link {display:none !important;}
 
 /* austin dining */
-#powered_by_locu {display:none !important;
+#powered_by_locu {display:none !important;}
+.powered_by_locu {display:none !important;}
