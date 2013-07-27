@@ -742,3 +742,6 @@ only screen and (min-device-pixel-ratio: 2) {
 
 /* Forcast.io embed */
 #fe_forecast_link {display:none !important;}
+
+/* austin dining */
+#powered_by_locu {display:none !important;
