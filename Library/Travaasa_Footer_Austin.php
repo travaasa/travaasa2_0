@@ -8,11 +8,11 @@
         <ul class="pricing">
             <li>
                 <h2>INCLUSIVE<br><span>Starting at</span></h2>
-                <h3><sup>$</sup>350</h3>
+                <h3><sup>$</sup>475</h3>
             </li>
             <li>
-                <h2>A LA CARTE<br><span>Starting at</span></h2>
-                 <h3><sup>$</sup>200</h3>
+                <h2>&#192; LA CARTE<br><span>Starting at</span></h2>
+                 <h3><sup>$</sup>250</h3>
             </li>
         </ul>
     </div>

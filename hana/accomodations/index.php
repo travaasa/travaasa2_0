@@ -61,7 +61,7 @@
         <ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>475</h3>
+                <h3><sup>$</sup>450</h3>
             </li>
         </ul>
         <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
@@ -101,7 +101,7 @@
     	<ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>325</h3>
+                <h3><sup>$</sup>350</h3>
             </li>
         </ul>
         <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>

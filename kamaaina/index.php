@@ -41,7 +41,7 @@
             <li>$50 total food &#38; beverage credit</li>
             </ul>
 
-            <p><em>Based on double occupancy; excluding taxes and service charges. Two-night minimum stay required. Certain restrictions and blackout dates apply. Flights on Mokulele Airlines only. Proof of Hawaii residency is required at check-in.</em></p>
+            <p><em>Based on double occupancy; excluding taxes. Two-night minimum stay required. Certain restrictions and blackout dates apply. Flights on Mokulele Airlines only. Proof of Hawaii residency is required at check-in.</em></p>
 
             <br />
 
@@ -56,7 +56,7 @@
             <li>$50 total food &#38; beverage credit</li>
             </ul>
 
-            <p><em>Based on double occupancy; excluding taxes and service charges. Two-night minimum stay required. Must be 16 years or older to stay in Sea Ranch Cottage. Certain restrictions and blackout dates apply. Flights on Mokulele Airlines only. Proof of Hawaii residency is required at check-in.</em></p>
+            <p><em>Based on double occupancy; excluding taxes. Two-night minimum stay required. Must be 16 years or older to stay in Sea Ranch Cottage. Certain restrictions and blackout dates apply. Flights on Mokulele Airlines only. Proof of Hawaii residency is required at check-in.</em></p>
   </section>
   
 </article>
