@@ -96,9 +96,9 @@
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
         </tr>
-        <!--<tr class="compare-table-row">
-          <td colspan="3" class="compare-table-description-box-service-charge"><strong>An 18% daily service charge</strong> covers highlighted items above, local phone calls, access to fitness center, resort facilities and self parking.</td>
-        </tr>-->
+        <tr class="compare-table-row">
+          <td colspan="3" class="compare-table-description-box-service-charge">Travaasa has <strong>no service charge</strong>. Yes, you read that right.<br /> Access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities and self parking is included in your rate. Relax and enjoy.</td>
+        </tr>
         <tr class="compare-summary">
           <td class="compare-table-title">&nbsp;</td>
           <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>

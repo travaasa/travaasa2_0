@@ -91,9 +91,9 @@
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
         </tr>
-        <!--<tr class="compare-table-row">
-          <td colspan="3" class="compare-table-description-box-service-charge"><strong>An 18% daily service charge</strong> covers highlighted items above, local phone calls, access to fitness center, resort facilities and self parking.</td>
-        </tr>-->
+        <tr class="compare-table-row">
+          <td colspan="3" class="compare-table-description-box-service-charge">Travaasa has <strong>no service charge</strong>. Yes, you read that right.<br /> Access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities and self parking is included in your rate. Relax and enjoy.</td>
+        </tr>
         <tr class="compare-summary">
           <td class="compare-table-title">&nbsp;</td>
           <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
@@ -130,7 +130,7 @@
           <li>An advance deposit of one night is required to guarantee your reservation. Advance deposit becomes non-refundable 10 days prior to arrival date of your reservation.</li>
           <li>All rates are per person, per night.</li>
           <li>Rates are exclusive of applicable taxes.</li>
-          <li>Access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, self parking and gratuities on all package components is included.</li>
+          <!--<li>Access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, self parking and gratuities on all package components is included.</li>-->
           <li>Travaasa Austin is a non-tipping resort property.</li>
           <li>Travaasa Austin does not allow smoking on property.</li>
         </ul>
