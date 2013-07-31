@@ -42,7 +42,7 @@
           <td class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box">In-room complimentary bottled water &amp; organic fair-trade coffee</td>
+          <td class="compare-table-description-box">bobble<sup>&#8482;</sup> carbon filter water bottle &amp; organic fair-trade coffee</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
