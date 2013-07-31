@@ -129,7 +129,8 @@
           <li>High season is July 1–August 31; Holiday Season is December 22–January 5, 2013.</li>
           <li>An advance deposit of one night is required to guarantee your reservation. Advance deposit becomes non-refundable 10 days prior to arrival date of your reservation.</li>
           <li>All rates are per person, per night.</li>
-          <li>Rates are exclusive of applicable taxes. Access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, self parking and gratuities on all package components is included.</li>
+          <li>Rates are exclusive of applicable taxes.</li>
+          <li>Access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, self parking and gratuities on all package components is included.</li>
           <li>Travaasa Austin is a non-tipping resort property.</li>
           <li>Travaasa Austin does not allow smoking on property.</li>
         </ul>

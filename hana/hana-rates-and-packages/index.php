@@ -136,7 +136,8 @@
           <li>Premium activities and private sessions may be purchased on an individual basis.</li>
           <li>High season is July 1–August 31; Holiday Season is December 22–January 5, 2013.</li>
           <li>An advance deposit of one night is required to guarantee your reservation. Advance deposit becomes non-refundable 10 days prior to arrival date of your reservation.</li>
-          <li>Rates are exclusive of applicable taxes. All regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, transportation from and to the Hana Airport (HNM), valet parking and gratuities on all package components are included.</li>
+          <li>Rates are exclusive of applicable taxes.</li>
+          <li>Access to all regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, transportation from and to the Hana Airport (HNM), valet parking and gratuities on all package components are included.</li>
           <li>Trail rides and tasting tours at Ono Farms are an additional charge. Total Travaasa resort credits may be used toward these activities.</li>
           <li>Please note: Travaasa Hana is a non-tipping resort property other than food &amp; beverage areas.</li>
         </ul>
