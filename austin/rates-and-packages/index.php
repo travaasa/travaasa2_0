@@ -38,8 +38,8 @@
         </tr>
         <tr class="compare-table-row">
           <td class="compare-table-description-box-resort-fee"><strong>No resort fee</strong>. Yes, you read that right. All of the below items are included in your rate. Relax and enjoy.</td>
-          <td class="compare-table-check total_travaasa">✔</td>
-          <td class="compare-table-check">✔</td>
+          <td style="background-color:#E6EEF0;" class="compare-table-check total_travaasa">✔</td>
+          <td style="background-color:#EEF9FC;" class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
           <td class="compare-table-description-box">Unlimited access to a <a href="/austin/austinschedule/">robust schedule</a> of programs &amp; activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
