@@ -42,37 +42,42 @@
           <th class="compare-table-title">Á LA CARTE<br><span>Your Travaasa</span></th>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box-inc">Unlimited access to a <a href="/hana/hanaschedule/">robust schedule</a> of programs &amp; activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
+          <td class="compare-table-description-box-resort-fee"><strong>No resort fee</strong>. Yes, you read that right. All of the below items are included in your rate. Relax and enjoy.</td>
+          <td style="background-color:#E6EEF0;" class="compare-table-check total_travaasa">✔</td>
+          <td style="background-color:#EEF9FC;" class="compare-table-check">✔</td>
+        </tr>
+        <tr class="compare-table-row">
+          <td class="compare-table-description-box">Unlimited access to a <a href="/hana/hanaschedule/">robust schedule</a> of programs &amp; activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box-inc">In-room complimentary bottled water &amp; organic fair-trade coffee</td>
+          <td class="compare-table-description-box">bobble<sup>&#8482;</sup> carbon filter water bottle &amp; organic fair-trade coffee</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box-inc">Welcome snack and refreshments upon arrival</td>
+          <td class="compare-table-description-box">Welcome snack and refreshments upon arrival</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box-inc">Gratuities on all packages components</td>
+          <td class="compare-table-description-box">Gratuities on all packages components</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box-inc">Organic cotton linens</td>
+          <td class="compare-table-description-box">Organic cotton linens</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box-inc">Complete access to resort facilities</td>
+          <td class="compare-table-description-box">Complete access to resort facilities</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box-inc">Wi-Fi</td>
+          <td class="compare-table-description-box">Wi-Fi</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
@@ -96,9 +101,6 @@
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
         </tr>
-        <tr class="compare-table-row">
-          <td colspan="3" class="compare-table-description-box-service-charge"><strong>An 18% daily service charge</strong> covers highlighted items above, local phone calls, access to fitness center, resort facilities and self parking.</td>
-        </tr>
         <tr class="compare-summary">
           <td class="compare-table-title">&nbsp;</td>
           <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
@@ -106,8 +108,8 @@
         </tr>
         <tr class="compare-summary">
           <td>&nbsp;</td>
-          <td class="compare-price"><p>Starting at</p><p class="compare-price-copy"><sup>$</sup>825</p></td>
-          <td class="compare-price"><p>Starting at</p><p class="compare-price-copy"><sup>$</sup>375</p></td>
+          <td class="compare-price"><p>Starting at</p><p class="compare-price-copy"><sup>$</sup>600</p></td>
+          <td class="compare-price"><p>Starting at</p><p class="compare-price-copy"><sup>$</sup>350</p></td>
         </tr>  
      </tbody>
     </table>
@@ -136,7 +138,8 @@
           <li>Premium activities and private sessions may be purchased on an individual basis.</li>
           <li>High season is July 1–August 31; Holiday Season is December 22–January 5, 2013.</li>
           <li>An advance deposit of one night is required to guarantee your reservation. Advance deposit becomes non-refundable 10 days prior to arrival date of your reservation.</li>
-          <li>Rates are exclusive of applicable taxes and an 18% daily service charge. The service charge is designed to cover access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, transportation from and to the Hana Airport (HNM), valet parking and gratuities on all package components.</li>
+          <li>Rates are exclusive of applicable taxes.</li>
+          <li>Access to all regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, transportation from and to the Hana Airport (HNM), valet parking and gratuities on all package components are included.</li>
           <li>Trail rides and tasting tours at Ono Farms are an additional charge. Total Travaasa resort credits may be used toward these activities.</li>
           <li>Please note: Travaasa Hana is a non-tipping resort property other than food &amp; beverage areas.</li>
         </ul>

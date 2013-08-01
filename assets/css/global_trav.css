@@ -625,13 +625,15 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 .compare-table td.compare-table-description-box-inc {
     border-left:8px solid #FBDBDD;
 }
-.compare-table td.compare-table-description-box-service-charge {
+.compare-table td.compare-table-description-box-resort-fee {
     font-style: italic;
     text-align: left-justify;
-    color: #EA5965;
-    background-color: #FDEDEE;
+    color: #56C4DC;
+    background-color:#EEF9FC;
+    colorOLD: #EA5965;
+    background-colorOLD: #FDEDEE;
     vertical-align: middle;
-	border:none;
+	border-bottom: 1px solid #636363;
 }
 .compare-table .compare-summary td {
 	padding-top:20px;

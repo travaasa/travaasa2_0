@@ -47,7 +47,7 @@
             <li>Witness if needed</li>
             <li>Fresh flowers scattered in room upon return from the ceremony</li>
           </ul>
-          <p>Tax & service charge additional.</p>
+          <p>Tax additional.</p>
   </section>
   
 </article>
