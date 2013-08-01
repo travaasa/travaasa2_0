@@ -33,7 +33,7 @@
           <ul>
             <li>Two night stay in an ocean view Sea Ranch Cottage with private hot tub</li>
             <li>Daily breakfast, lunch and dinner for two</li>
-            <li>Choice of one premium activity (such as coastal horseback ride) for two</li>
+            <li>Choice of one premium activity</li>
             <li>Daily spa treatments for two (four treatments total)</li>
             <li>Bottle of champagne upon arrival</li>
             <li>Personal services of Travaasa Hana wedding specialist</li>
