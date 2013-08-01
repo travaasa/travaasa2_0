@@ -52,8 +52,8 @@
 					
 					<h2>ONO Organic Farms</h2>
 					<p>This family-owned farm where everything is hand picked and certified organic is aptly named. ONO is the Hawaiian word for delicious. You'll tour this pure organic paradise and enjoy a tropical fruit tasting adventure by sampling 12 varieties of tropical fruit and ONO-grown coffee.</p>
-					<h2>Maui Stables</h2>
-					<p>Go on a historical and cultural horseback ride through the ancient unspoiled landscape of Maui. This isn't your typical stable. Maui Stables is native owned and operated. The <em>Alaka'i</em> (guides) and <em>Kako'o</em> (apprentice) who accompany you can trace their family roots back hundreds of years. Each tour will begin with a <em>pule</em> (prayer) and <em>oli</em>, or call to our ancestors. Throughout the ride they'll share stories of their ancestors and the land.</p>
+					<!--<h2>Maui Stables</h2>
+					<p>Go on a historical and cultural horseback ride through the ancient unspoiled landscape of Maui. This isn't your typical stable. Maui Stables is native owned and operated. The <em>Alaka'i</em> (guides) and <em>Kako'o</em> (apprentice) who accompany you can trace their family roots back hundreds of years. Each tour will begin with a <em>pule</em> (prayer) and <em>oli</em>, or call to our ancestors. Throughout the ride they'll share stories of their ancestors and the land.</p>-->
     
     
     
