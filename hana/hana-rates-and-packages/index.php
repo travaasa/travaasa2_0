@@ -42,6 +42,11 @@
           <th class="compare-table-title">Á LA CARTE<br><span>Your Travaasa</span></th>
         </tr>
         <tr class="compare-table-row">
+          <td class="compare-table-description-box-resort-fee"><strong>No resort fee</strong>. Yes, you read that right. All of the below items are included in your rate. Relax and enjoy.</td>
+          <td class="compare-table-check total_travaasa">✔</td>
+          <td class="compare-table-check">✔</td>
+        </tr>
+        <tr class="compare-table-row">
           <td class="compare-table-description-box">Unlimited access to a <a href="/hana/hanaschedule/">robust schedule</a> of programs &amp; activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
@@ -95,9 +100,6 @@
           <td class="compare-table-description-box"><strong>$125</strong> resort credit per person per day, good toward <a href="/hana/hana-the-spa-at-travaasa-hana/">spa treatments</a> and private classes.</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
-        </tr>
-        <tr class="compare-table-row">
-          <td colspan="3" class="compare-table-description-box-service-charge">Travaasa has <strong>no service charge</strong>. Yes, you read that right.<br /> Access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities and self parking is included in your rate. Relax and enjoy.</td>
         </tr>
         <tr class="compare-summary">
           <td class="compare-table-title">&nbsp;</td>
