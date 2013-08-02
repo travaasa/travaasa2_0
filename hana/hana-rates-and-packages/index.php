@@ -127,10 +127,6 @@
           <li>Children are welcome on the Garden View Suite side of the property throughout the year.</li>
         </ul>
 
-        <h5>Stay Longer, Save More</h5>
-         
-        <p>Multiple night discounts are applied when you choose your dates.</p>
-
         <h5>The Fine Print</h5>
 
         <ul>
