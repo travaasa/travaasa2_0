@@ -118,10 +118,6 @@
         <h5>Age Policy</h5>
         <p>Travaasa welcomes guests aged <strong>16 and up</strong>.</p>
 
-        <h5>Stay Longer, Save More</h5>
-         
-        <p>Multiple night discounts are applied when you <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">choose your dates</a>.</p>
-
         <h5>The Fine Print</h5>
 
         <ul>
