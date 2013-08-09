@@ -13,3 +13,4 @@
       
       <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2')]); return false;" class="btn">MAKE A RESERVATION</a></p>
       <p><a href="/hana/hana-rates-and-packages/">See rates and packages</a></p>
+      <h1 style="display:block; color:#999999; font-size:13px; line-height:20px;">TRAVAASA IS RESORT FEE-FREE</h1>

@@ -628,16 +628,20 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 .compare-table td.compare-table-description-box-resort-fee {
     font-style: italic;
     text-align: left-justify;
-    color: #56C4DC;
-    background-color:#EEF9FC;
-    colorOLD: #EA5965;
-    background-colorOLD: #FDEDEE;
+    colorOLDBLUE: #56C4DC;
+    background-colorOLDBLUEGRAY:#EEF9FC;
+    color: #EA5965;
+    background-color: #FDEDEE;
     vertical-align: middle;
 	border-bottom: 1px solid #636363;
 }
 .compare-table .compare-summary td {
-	padding-top:20px;
+	padding-top:17px;
 	border:none;
+}
+.compare-table .compare-summary2 td {
+	padding:0 0 0 0;
+	border-bottom:none;
 }
 .compare-table-check {
     color: #D7385E;
