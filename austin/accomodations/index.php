@@ -50,7 +50,7 @@ Rates at Travaasa Austin are dependent upon length of stay and room type. The lo
                 <li>Plush, queen-sized beds (some with two queen beds)</li>
                 <li>Organic cotton comforters and linens</li>
                 <li>Bed lamps for easy reading</li>
-                <li>Bathrooms with showers (several with bathtubs)</li>
+                <li>Bathrooms with walk-in showers</li>
                 <li>Complimentary light refreshments</li>
                 <li>Sundry items</li>
                 <li>Robes</li>
@@ -88,7 +88,7 @@ Rates at Travaasa Austin are dependent upon length of stay and room type. The lo
                 <li>Plush, queen-sized beds (some with two queen beds)</li>
                 <li>Organic cotton comforters and linens</li>
                 <li>Bed lamps for easy reading</li>
-                <li>Bathrooms with showers (several with bathtubs)</li>
+                <li>Bathrooms with walk-in showers</li>
                 <li>Complimentary light refreshments</li>
                 <li>Sundry items</li>
                 <li>Robes</li>
