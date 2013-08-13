@@ -9,6 +9,7 @@
 	<title>Travaasa - Real Travel for Real Experiences.</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
+  <meta name="p:domain_verify" content="8b5fe67201926cfeb859a9501821fc80"/>
 <?php 
    include_once($path."/Library/Travaasa_Head.php");
 ?>
