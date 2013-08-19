@@ -9,6 +9,7 @@
 	<title>Travaasa - Real Travel for Real Experiences.</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
+  <meta name="p:domain_verify" content="8b5fe67201926cfeb859a9501821fc80"/>
 <?php 
    include_once($path."/Library/Travaasa_Head.php");
 ?>
@@ -45,6 +46,7 @@
              </div>
          </div>
         <div class="col span_3_of_7 col_reservation">
+            <h1 style="display:block; color:#666666; font-size:13px; line-height:20px;">NO RESORT FEES AT TRAVAASA</h1>
             <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
             <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2')]); return false;" class="btn">BOOK HANA</a>
          </div> 

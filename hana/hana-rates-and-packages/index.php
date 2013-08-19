@@ -42,9 +42,9 @@
           <th class="compare-table-title">Á LA CARTE<br><span>Your Travaasa</span></th>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box-resort-fee"><strong>No resort fee</strong>. Yes, you read that right. All of the below items are included in your rate. Relax and enjoy.</td>
-          <td style="background-color:#E6EEF0;" class="compare-table-check total_travaasa">✔</td>
-          <td style="background-color:#EEF9FC;" class="compare-table-check">✔</td>
+          <td class="compare-table-description-box-resort-fee"><strong>NO RESORT FEE</strong>.&nbsp;&nbsp;Yes, you read that right.&nbsp;&nbsp;All of the below items are included in your rate.&nbsp;&nbsp;Relax and enjoy.</td>
+          <td style="background-color:#F0E5E7;" class="compare-table-check total_travaasa">✔</td>
+          <td style="background-color:#FDEDEE;" class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
           <td class="compare-table-description-box">Unlimited access to a <a href="/hana/hanaschedule/">robust schedule</a> of programs &amp; activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
@@ -106,10 +106,20 @@
           <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
           <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
         </tr>
-        <tr class="compare-summary">
+        <!--<tr class="compare-summary">
           <td>&nbsp;</td>
           <td class="compare-price"><p>Starting at</p><p class="compare-price-copy"><sup>$</sup>600</p></td>
           <td class="compare-price"><p>Starting at</p><p class="compare-price-copy"><sup>$</sup>350</p></td>
+        </tr>-->
+        <tr class="compare-summary">
+          <td>&nbsp;</td>
+          <td class="compare-price"><p><strong>SINGLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>600</p></td>
+          <td class="compare-price"><p><strong>SINGLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>350</p></td>
+        </tr>
+        <tr class-"compare-summary2">
+          <td style="border:1px solid #FFFFFF;" >&nbsp;</td>
+          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>925</p></td>
+          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>400</p></td>
         </tr>  
      </tbody>
     </table>
