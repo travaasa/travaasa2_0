@@ -22,7 +22,7 @@
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/farm_teaser_1600x640.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_farm.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
