@@ -49,6 +49,7 @@ document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityS
 </noscript>
 <!-- end Adserving Tag-->
 <script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
+<script type="text/javascript">SetNavisP2TalkLink("lnkP2Talk");</script>
 <!-- start IMI
 <script type="text/javascript">
 document.write(unescape('%3Cscript src="' + document.location.protocol + '//d1ivexoxmp59q7.cloudfront.net/imi/live.js" type="text/javascript"%3E%3C/script%3E'));
