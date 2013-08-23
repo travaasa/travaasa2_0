@@ -24,7 +24,7 @@
 <section id="content">
 <article id="main">
 <section class="grey pad">  
-  	<h4>ACCOMODATIONS</h4>
+  	<h4>ACCOMMODATIONS</h4>
     <div id="gallery1-wrapper" class="gallery section">
         <div class="group">
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img class="lazy" data-original="/assets/images/gallery/austin/canyon-signature-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Canyon View Room"></a></div>
