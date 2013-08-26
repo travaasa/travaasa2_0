@@ -24,10 +24,9 @@
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <h1>ROOMS &amp; ACCOMODATIONS</h1>
+          <h1>ROOMS &amp; ACCOMMODATIONS</h1>
           	<p>The accommodations at Travaasa Austin are comfortable, stylish and relaxing — perfect for unwinding and resting after an ambitious workout, nature hike or meeting. Each of the 70 guest rooms offers a private deck or patio welcoming the fresh outdoor air in. It's a perfect place to just breathe.</p>
-			<p>Accommodations are located in seven dwellings linked together by meandering paths across the property — allowing for privacy and a closer experience with nature.
-Rates at Travaasa Austin are dependent upon length of stay and room type. The longer you stay to savor the experience, the lower the nightly rate.</p>
+			<p>Accommodations are located in seven dwellings linked together by meandering paths across the property — allowing for privacy and a closer experience with nature.</p>
 <div class="col span_1_of_1"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
   </section>
   <section class="grey pad group">

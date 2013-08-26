@@ -56,16 +56,16 @@
           </div>
         </div>
         <div class="slide">
-          <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_equine.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
-            <h5>Equine Encounters</h5>
-            <p class="description">Develop your self-awareness through close interaction with this intelligent creature and allow our equine team to guide you on a journey of heightened personal understanding. Learn to lead and project your intentions as you are guided by our equine team. No previous horse experience needed for this experience that will teach you how to establish communication with another being through respect, sensitivity and awareness.</p>
-          </div>
-        </div>
-        <div class="slide">
-          <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_equine_2.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
+          <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_trail-ride.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Horseback Riding</h5>
             <p class="description">Riding properly requires constant physical activity by the rider and focus on developing core strength. When you ride a horse the goal is to be more than just a passenger—it's to achieve a bond with the horse. A one-hour riding lesson in the Travaasa Arena with one of our expert cowboys will focus on developing strength while connecting with your horse. These lessons are tailored to your level of skill and interest.</p>
             <p class="disclaimer">*Horseback Riding lessons are subject to an additional charge. Total Travaasa resort credits may be used toward this activity.</p>
+          </div>
+        </div>
+        <div class="slide">
+          <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_equine.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
+            <h5>Equine Encounters</h5>
+            <p class="description">Develop your self-awareness through close interaction with this intelligent creature and allow our equine team to guide you on a journey of heightened personal understanding. Learn to lead and project your intentions as you are guided by our equine team. No previous horse experience needed for this experience that will teach you how to establish communication with another being through respect, sensitivity and awareness.</p>
           </div>
         </div>
         <div class="slide">

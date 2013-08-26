@@ -58,7 +58,7 @@
         <div class="slide">
           <div class="slide_inner"><a href="/hana/accomodations/"><img data-original="/assets/images/exp_hana_accommodations_overview.jpg" src="/assets/images/global/placeholder.gif" alt=""></a>
             <h5>Rooms designed with R&amp;R in mind</h5>
-            <p class="description">The town of Hana feels like it is a world away from the rest of Maui. So it is only appropriate that our accommodations envelop you in a similar state of mind. Whether you are staying in one of our all-inclusive, luxurious cottages or checking in to one of our spacious suites , you will find the peace and quiet you deserve. <a href="/hana/accomodations" class="more">Explore</a></p>
+            <p class="description">The town of Hana feels like it is a world away from the rest of Maui. So it is only appropriate that our accommodations envelop you in a similar state of mind. Whether you are staying in one of our luxurious cottages or checking in to one of our spacious suites , you will find the peace and quiet you deserve. <a href="/hana/accomodations" class="more">Explore</a></p>
           </div>
         </div>
         <div class="slide">
