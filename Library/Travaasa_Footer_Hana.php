@@ -59,8 +59,8 @@ Fax: 808-248-7202<br>
         <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>
       <p><a class="btn" href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a><br />
-      <!--<a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO TALK WITH US</a><br />-->
-      <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO CHAT WITH US</a></p>
+      <!--<a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO TALK WITH US</a><br />
+      <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO CHAT WITH US</a>--></p>
     </div>
 <p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/hana/travaasa-hana/"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
   </nav>
