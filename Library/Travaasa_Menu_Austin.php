@@ -26,6 +26,14 @@
                </ul>
           </li>
       </ul>
+      <!--<div class="location_nav menu_topright">
+        <form>
+          <ul>
+            <li><label for "email">GET ON OUR EMAIL LIST:</label><input type="text" name="email" size="15"/></li>
+            <li><input type="submit" value="COUNT ME IN"></li>
+          </ul>
+        </form>
+      </div>-->
       <ul class="location_condensed_nav menu_top">
           <li class="menu_main"><a href="#">EXPLORE</a>
               <ul class="menu_sub">

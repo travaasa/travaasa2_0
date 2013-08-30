@@ -337,6 +337,11 @@ p {
 
 .peFlareLightbox { text-align:left; }
 
+/* EMAIL LIST FORM DEMO 8.30.2013 */
+.menu_topright {float:right; display:block; text-decoration:none; padding:8px; font-size:.75em; color:#333333; font-weight:bold; margin:0; position:absolute; top:0; right:0; background-color:rgba(237, 237, 237, .8);}
+.menu_topright li { display:inline-block; margin:0; padding:0 3px; border:none !important; list-style:none; text-align:left; }
+.menu_topright li a { display:block; padding:3px; text-decoration:none; font-size:.75em; border:none; color:#333333; font-weight:bold; }
+.menu_topright li a:hover, .menu_top li a.on, .menu_top li.open a.plus { color:white; border:none; background-color:#D7385E; }
 
 /* HEADER ============================================================================= */
 #main_nav { float:left; margin-left:190px; }
