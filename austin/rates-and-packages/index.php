@@ -24,8 +24,13 @@
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
+    <div class="col span_1_of_2">
           <h1>Rates &amp; Packages</h1>
           <p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up.</strong><br><br><a class="btn scroll" href="#policies">View our policies</a></p>
+    </div>
+    <div class="col span_1_of_2" style="margin:0">
+      <img src="/assets/images/no-resort-fee-seal.png" style="float:right;" width="270" />
+    </div>
   </section>
   <section class="pad group">
 
