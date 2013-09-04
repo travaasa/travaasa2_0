@@ -35,10 +35,10 @@
           <p>Travaasa Resort &amp; Spa provides you with different rate and package selections so that you can make the most of your time with us. These special offerings are designed to customize your journey.<br><br><a class="btn scroll" href="#policies">View our policies</a></p>
     </div>
     <div class="col span_1_of_2" style="margin:0">
-      <img src="/assets/images/no-resort-fee-seal.png" style="float:right;" width="270" />
+      <img src="/assets/images/no-resort-fee-seal.png" style="float:right; margin-right:80px;" width="270" />
     </div>
   </section>
-  <section class="pad group">
+  <section class="pad group" style="padding-top:0;">
   	<table class="compare-table fitwidth">  
       <tbody>
         <tr>
