@@ -53,7 +53,8 @@
       <div class="col span_3_of_9">
       	<p>TALK TO OUR SALES DEPARTMENT</p>
         <h2 class="big">512-334-4649</h2>
-        <p>or <a href="mailto:austinsales@travaasa.com">austinsales@travaasa.com</a></p>
+        <p>or <a href="mailto:austinsales@travaasa.com" target="_blank">austinsales@travaasa.com</a><br><br>
+        <a class="btn" href="#proposal">REQUEST FOR PROPOSAL</a></p>
       </div>
   </section>
   <section class="tabbed_container pad">
