@@ -1,5 +1,6 @@
 <meta name="author" content="www.doner.com">
-<link rel="shortcut icon" href="/favicon.ico">
+<!--<link rel="shortcut icon" href="/assets/images/global/favicon.png">-->
+<link rel="icon" type="image/png" href="/assets/images/global/favicon.png" />
 <!-- Responsive and mobile friendly stuff -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
