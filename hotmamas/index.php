@@ -13,7 +13,7 @@
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
-<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
+<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_AUSTIN ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
 <!-- end NAVIS Code -->
 </head>
@@ -22,7 +22,7 @@
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?>
 <!--<section id="feature1_wrapper" class="subpage400_bg"><img src="/assets/images/feature_400_hana_1600x400_hotmamas" alt=""></section>-->
-<section id="feature1_wrapper" class="subpage400_bg"><img data-original="/assets/images/feature_400_hana_1600x400_hotmamas-austin.jpg" src="/assets/images/feature_400_hana_1600x400_hotmamas.jpg" alt=""></section>
+<section id="feature1_wrapper" class="subpage400_bg"><img data-original="/assets/images/feature_400_austin_1600x400_hotmamas.jpg" src="/assets/images/feature_400_austin_1600x400_hotmamas.jpg" alt=""></section>
 <section id="content">
 <article id="main">
   <section style="padding-top:10px;" class="intro pad clearfix notheater">
@@ -50,7 +50,7 @@
 ?><script type="text/javascript">
 $(function() {
 	$('a[data-target="flare"]').peFlareLightbox();
-	setLocation("Hana", "rooms");
+	setLocation("Austin");
 });
 </script>
 </body>
