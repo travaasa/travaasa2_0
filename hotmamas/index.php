@@ -27,7 +27,7 @@
 <article id="main">
   <section style="padding-top:10px;" class="intro pad clearfix notheater">
             <h1>HOT MAMAS RETREAT</h1>
-          <H2>April 10-13, 2013&nbsp;&nbsp;<span style="color:#505050">|&nbsp;&nbsp;$1,500</span></H2></div>
+          <H2>April 10-13, 2014&nbsp;&nbsp;<span style="color:#505050">|&nbsp;&nbsp;$1,500</span></H2></div>
            <p><em><strong>Package Includes:</strong></em></p>
           <ul>
              <li>Three nights accommodations</li>
