@@ -1,4 +1,3 @@
-
 <?php 
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
@@ -20,33 +19,19 @@
 </head>
 <body>
 <?php 
-   include_once($path."/Library/Travaasa_Menu_Hana.php");?>
-<!--<section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>-->
-<section id="feature1_wrapper" class="subpage400_bg"><a href="http://hotmamasexercise.com/" target="_blank"><img data-original="/assets/images/feature_400_hana_1600x400_hotmamas.jpg" src="/assets/images/feature_400_hana_1600x400_hotmamas.jpg" alt=""></section>
-
-<!--<section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
-    <div id="feature1" class="feature">
-      <div class="slide"><a href="https://travaasabbqbash.ticketbud.com/travaasa-bbq-bash" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_bbq-bash.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
-    </div>
-    <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
-    <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
-</section>-->
+   include_once($path."/Library/Travaasa_Menu_Hana.php");
+?>
+<!--<section id="feature1_wrapper" class="subpage400_bg"><img src="/assets/images/feature_400_hana_1600x400_hotmamas" alt=""></section>-->
+<section id="feature1_wrapper" class="subpage400_bg"><img data-original="/assets/images/feature_400_hana_1600x400_hotmamas.jpg" src="/assets/images/feature_400_hana_1600x400_hotmamas.jpg" alt=""></section>
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <h1>HOT MAMAS RETREAT</h1>
-          <h2>November 1-4, 2013&nbsp;&nbsp;|&nbsp;&nbsp;<span style="color:#505050">$1,800</span></h2> 
-          <!--<ul>
-            <li>Accommodations in a low-rise bungalow Garden Suite</li>
-            <li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) for two (valued at $240)</li>
-            <li>Ground transportation to and from the Hana Airport</li>
-            <li>$25 per person spa credit</li>
-            <li>$25 per person private activity credit</li>
-            <li>$50 total food &#38; beverage credit</li>
-          </ul>-->
+            <h1>HOT MAMAS RETREAT</h1>
+          <H2>November 1-4, 2013&nbsp;&nbsp;<span style="color:#505050">|&nbsp;&nbsp;$1,800</span></H2></div>
+          <p>You haven’t experienced a real group exercise class until you’ve experienced a <a href="http://hotmamasexercise.com/" target="_blank">Hot Mamas</a> group exercise class. Hundreds of women are challenged every week at Hot Mamas with a wide variety of classes to suit everyone’s needs &amp; mood: All designed to work you from head to toe and everywhere in between! Each class is unique, eliminating the typical boredom from repetition so common in group classes. What sets Hot Mamas apart from other classes? We understand a woman’s physique and know that a woman’s body is trained differently than a man. Even our bootcamps focus on getting you strong, but with the mindset of helping you creating a long, lean feminine form — not bulky and thick. And, if weight-loss is your goal, we have classes for that too. Plus amazing dietitians to help get your eating on track!</p>
           <p><a href="mailto:info@hotmamasexercise.com?Subject=Hana%20Retreat" class="btn" target="_blank">EMAIL TEDDI B. FOR MORE INFO</a></p>
-          <br><br><br>
   </section>
+  
 </article>
 </section>
 <?php 
@@ -55,6 +40,8 @@
    include_once($path."/Library/Travaasa_Scripts.php");
 ?><script type="text/javascript">
 $(function() {
+	$('a[data-target="flare"]').peFlareLightbox();
+	setLocation("Hana", "rooms");
 });
 </script>
 </body>
