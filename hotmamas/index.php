@@ -34,8 +34,17 @@
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <h1>HOT MAMAS RETREAT&nbsp;&nbsp;|&nbsp;&nbsp;November 1-4, 2013</h1>
-          <a href="mailto:info@hotmamasexercise.com?Subject=Hana%20Retreat" class="btn" target="_blank">EMAIL TEDDI B. FOR MORE INFO</a>
+          <h1>HOT MAMAS RETREAT</h1>
+          <h2>November 1-4, 2013&nbsp;&nbsp;|&nbsp;&nbsp;<span style="color:#505050">$1,800</span></h2> 
+          <!--<ul>
+            <li>Accommodations in a low-rise bungalow Garden Suite</li>
+            <li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) for two (valued at $240)</li>
+            <li>Ground transportation to and from the Hana Airport</li>
+            <li>$25 per person spa credit</li>
+            <li>$25 per person private activity credit</li>
+            <li>$50 total food &#38; beverage credit</li>
+          </ul>-->
+          <p><a href="mailto:info@hotmamasexercise.com?Subject=Hana%20Retreat" class="btn" target="_blank">EMAIL TEDDI B. FOR MORE INFO</a></p>
           <br><br><br>
   </section>
 </article>
