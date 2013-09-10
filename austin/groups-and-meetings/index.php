@@ -63,7 +63,7 @@
             <li id="tab_1"><a href="#facilities">Meeting Facilities</a></li>
             <li id="tab_2"><a href="#toolkit">Planners Toolkit &amp; Gallery</a></li>
             <li id="tab_3"><a href="#experiences">Group Experiences &amp; Team Building</a></li>
-            <!--<li id="tab_5"><a href="#weddings">Weddings</a></li>-->
+            <li id="tab_5"><a href="#weddings">Weddings</a></li>
             <li id="tab_4"><a href="#proposal">Request for Proposal</a></li>
         </ul>
     </div>
@@ -484,20 +484,21 @@
              <p><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn">Group Activities Pricing</a></p>
         </div>
     </div>
-    <!--<div id="weddings" class="tab_data">
+    <div id="weddings" class="tab_data">
         <div class="tab_data_inner">
             <h4>Weddings at Travaasa Austin</h4>
-            <p>Weddings Copy</p>
-            <ul>
+            <p>Travaasa Austin's unique Hill Country location provides a stunning backdrop to any ceremony.  A variety of facilities assures flexibility in planning, so the memory of your nuptials won't soon be forgotten.</p>
+            <p>Contact a member of our team to learn about packages and availability.</p>
+            <!--<ul>
                  <li>bullet</li>
                  <li>bullet</li>
                  <li>bullet</li>
                  <li>bullet</li>
                  <li>bullet</li>
-             </ul>
+             </ul>-->
              <p><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" class="btn">Meeting Facilities &amp; Outdoor Venues</a></p>
         </div>
-    </div>-->
+    </div>
     <div id="proposal" class="tab_data">
         <div class="tab_data_inner">
            <iframe height="2200" style="width:100%;border:none" src="https://travaasa.wufoo.com/embed/z7x3k1/"></iframe> 
