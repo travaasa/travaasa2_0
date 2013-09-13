@@ -503,7 +503,7 @@
                  <li>bullet</li>
                  <li>bullet</li>
              </ul>-->
-             <p><a href="/pdf/Travaasa-Austin-Weddings.pdf" class="btn">Weddings at Travaasa Austin</a></p>
+             <p><a href="/pdf/Travaasa-Austin-Weddings.pdf" target="_blank" class="btn">Weddings at Travaasa Austin</a></p>
         </div>
     </div>
     <div id="proposal" class="tab_data">
