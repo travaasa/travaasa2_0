@@ -373,8 +373,8 @@
             </div>   
             <div class="group">  
             	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>					
-                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Group-Activities-Brochure.pdf" class="btn fitwidth" target="_blank">Group Activities Guide</a></div>
-                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn fitwidth" target="_blank">Group Activities Pricing</a></div>
+                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Wine-Pairings.pdf" class="btn fitwidth" target="_blank">Wine Pairings</a></div>
+                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Group-Activities.pdf" class="btn fitwidth" target="_blank">Group Activities</a></div>
             </div>   
             <div class="group">
                 <div class="col span_1_of_3"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Travaasa Austin Spa Guide</a></div>
@@ -487,6 +487,13 @@
     <div id="weddings" class="tab_data">
         <div class="tab_data_inner">
             <h4>Weddings at Travaasa Austin</h4>
+            <div class="group">
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-01-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-01-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Weddings at Travaasa"></a></div>
+                  <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-02-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-02-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Weddings at Travaasa"></a></div>
+                  <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-03-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-03-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Weddings at Travaasa"></a></div>
+                  <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-04-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-04-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Weddings at Travaasa"></a></div>
+                  <div class="col span_1_of_5"><a class="fancy frame-left" href="/assets/images/gallery/austin/wedding-05-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-05-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Weddings at Travaasa"></a></div>
+            </div>
             <p>Travaasa Austin's unique Hill Country location provides a stunning backdrop to any ceremony.  A variety of facilities assures flexibility in planning, so the memory of your nuptials won't soon be forgotten.</p>
             <p>Contact a member of our team to learn about packages and availability.</p>
             <!--<ul>
@@ -496,7 +503,7 @@
                  <li>bullet</li>
                  <li>bullet</li>
              </ul>-->
-             <p><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" class="btn">Meeting Facilities &amp; Outdoor Venues</a></p>
+             <p><a href="/pdf/Travaasa-Austin-Weddings.pdf" target="_blank" class="btn">Weddings at Travaasa Austin</a></p>
         </div>
     </div>
     <div id="proposal" class="tab_data">

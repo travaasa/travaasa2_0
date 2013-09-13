@@ -155,10 +155,10 @@ color : #B70B39;
 }
 #content a { font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; }
 footer a { 
--webkit-transition: all 0.3s ease;
--moz-transition: all 0.3s ease;
--o-transition: all 0.3s ease;
-transition: all 0.3s ease;
+-webkit-transition: all 0.25s ease;
+-moz-transition: all 0.25s ease;
+-o-transition: all 0.25s ease;
+transition: all 0.25s ease;
 color:white;
 text-decoration:none;
 }
@@ -486,7 +486,7 @@ footer p { font-size:.75em; color:#aeaeae; }
 #social li { width:32px; height:32px; padding:4px; float:left; display:block; }
 #social li a { display:block; width:32px; height:32px; }
 #social li img { width:100%; height:100%; }
-footer .btn { font-size:80%; background-color:#666666; margin-top:8px; }
+footer .btn { font-size:80%; background-color:#666666; margin-top:8px; width:170px; text-align: center; }
 footer .btn:hover { background-color:#D7385E; color:#FFFFFF; text-decoration:none; }
 #facebook { background:url(../images/global/sprite.png) no-repeat -272px -320px; }
 #twitter { background:url(../images/global/sprite.png) no-repeat -240px -320px; }
