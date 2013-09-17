@@ -403,6 +403,10 @@
                             <tr>
                                 <th colspan="2">The Farm at Travaasa</th>
                             </tr>
+                            <tr>
+                                <td colspan="2" class="meetings-table-labels">Contact our sales team for more information:<br />512-334-4649 or <a href="mailto:austinsales@travaasa.com?Subject=The%20Farm" target="_top">
+austinsales@travaasa.com</a></td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
@@ -423,6 +427,10 @@
                         <tbody>
                             <tr>
                                 <th colspan="2">Mesquite Patio</th>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="meetings-table-labels">Contact our sales team for more information:<br />512-334-4649 or <a href="mailto:austinsales@travaasa.com?Subject=Mesquite%20Patio" target="_top">
+austinsales@travaasa.com</a></td>
                             </tr>
                         </tbody>
                     </table>
