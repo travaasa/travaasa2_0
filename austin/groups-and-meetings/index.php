@@ -360,6 +360,79 @@
             <p>The Solidago Gardens, featuring a spacious handcrafted wood and stone structure, is accessible by way of a forested trail and is designed as an intimate setting for meetings and receptions.</p>   	
 					
 			<br><hr><br>
+
+            <!--<div class="group">
+                <div class="col span_1_of_2">
+                <div class="magnify">
+                  <a href="/assets/images/gallery/austin/large-spur-dinner.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"></a>
+                </div>
+                <a href="/assets/images/gallery/austin/large-spur.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-the-spur.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Spur"></a>
+                </div>
+                <div class="col span_1_of_2">   
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Stables</th>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Width x Length</td>
+                                <td class="meetings-table-data">22.5' x 48'</td>
+                            </tr>
+                                
+                                <tr><td class="meetings-table-labels">Square Feet</td>
+                                <td class="meetings-table-data">1080</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>  
+            <p>Example Paragraph</p>    
+                    
+            <br><hr><br>
+            -->
+            <div class="group">
+                <div class="col span_1_of_2">
+                <div class="magnify">
+                  <a href="/assets/images/gallery/austin/large-the-farm2.jpg" data-flare-gallery="galleryFarm" data-target="flare" data-flare-scale="fitmax" title="The Farm at Travaasa Austin"></a>
+                </div>
+                <a href="/assets/images/gallery/austin/large-the-farm.jpg" data-flare-gallery="galleryFarm" data-target="flare" data-flare-scale="fitmax" title="The Farm at Travaasa Austin"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-the-farm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Farm at Travaasa Austin"></a>
+                </div>
+                <div class="col span_1_of_2">   
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">The Farm at Travaasa</th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>  
+            <!--<p>Example Paragraph</p>-->    
+                    
+            <br><hr><br>
+
+            <div class="group">
+                <div class="col span_1_of_2">
+                <div class="magnify">
+                  <a href="/assets/images/gallery/austin/large-mesquite-patio2.jpg" data-flare-gallery="galleryPatio" data-target="flare" data-flare-scale="fitmax" title="Mesquite Patio"></a>
+                </div>
+                <a href="/assets/images/gallery/austin/large-mesquite-patio.jpg" data-flare-gallery="galleryPatio" data-target="flare" data-flare-scale="fitmax" title="Mesquite Patio"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-mesquite-patio.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Spur"></a>
+                </div>
+                <div class="col span_1_of_2">   
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Mesquite Patio</th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>  
+            <!--<p>Example Paragraph</p>-->  
+                    
+            <br><hr><br>
+
+
 					
 			<p><strong>All Classroom and U-Shape figures are based on 2 people per 6' table.</strong></p>
         </div>

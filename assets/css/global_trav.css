@@ -591,6 +591,16 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 #content .tab_data_inner { padding:1.5em; }
 #content .tabbed_list li.featured { background:#B9B9B9; }
 
+#content .tabbed_pdf { display:block; margin:0; padding:0; list-style:none; }
+#content .tabbed_pdf li { background:#CFCCC7; color:#666666; display:block; padding:0; margin:0; list-style:none; font-size:.75em; text-transform:uppercase; font-family:'Gill Sans W04 Book', "Gill Sans MT", Calibri, sans-serif; margin-bottom:1px; }
+#content .tabbed_pdf li a { display:block; padding:1em; color:#666666; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; text-decoration:none; background:url('/assets/images/pdf.png') no-repeat 95% 50%; background-size: 30px 28px; }
+#content .tabbed_pdf li.on a, #content .tabbed_pdf li a:hover { background:#D7385E; color:white; }
+
+.box{
+        background:url('images/box-bg@2x.png') no-repeat top left;
+        background-size: 200px 200px;
+    }
+
 /* ROOMS */
 .room-details { padding:0 1em; }
 
