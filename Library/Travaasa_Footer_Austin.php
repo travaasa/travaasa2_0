@@ -58,8 +58,8 @@ Fax: 512-506-9737<br>
         <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>
       <p><a class="btn" href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a><br />
-      <!--<a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO TALK WITH US</a><br />
-      <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO CHAT WITH US</a>--></p>
+      <a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO TALK WITH US</a><br />
+      <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO CHAT WITH US</a></p>
     </div>
 <p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/united-states/texas/austin/travaasa-austin"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2013 Green Tea, LLC.</span></p>
     
