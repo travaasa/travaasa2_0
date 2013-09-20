@@ -88,7 +88,7 @@
                 <li>Availability for up to 50 guests for ceremony and/or reception at Solidago Gardens, including setup*</li>
                 <li>One-hour rehearsal time</li>
                 <li>Use of Travaasa banquet tables, including 60” round tables, white resin folding chairs (up to 100), 6’ banquet tables and standing cocktail tables (up to four)</li>
-                <li>Use of the Parlor for a bridal changing or prep area on the event day</li>
+                <li>Use of the Parlor for changing or prep area on the event day</li>
                 <li>Use of Travaasa wedding décor including:
             <ul>
                     <li>Two candelabras with electric pillar candles</li>
@@ -100,11 +100,9 @@
                 <li>Choice of linen color</li>
                 <li>Cake cutting by Travaasa Event Staff</li>
                 <li>Champagne toast for all guests</li>
-                <li>Complimentary self-parking in Travaasa event parking lot</li>
+                <li>Self-parking in Travaasa event parking lot</li>
                 <li>Spa discount at 10% for guests</li>
-                <li>Complimentary night stay for the bride &amp; groom with a minimum of 15 or more</li>
-                <li>Confirmed room nights
-                <em>Setup does not include setup of outside vendor décor or equipment</em></li>
+                <em>*Does not include setup of outside vendor décor or equipment</em></li>
             </ul>
 
             <h4 id="otherrequirements">OTHER REQUIREMENTS</h4>
@@ -114,12 +112,12 @@
                 <li>Guests room block requirement of 8 rooms for the night of the event or an
                 accumulative 15-room total</li>
                 <li>No children under the age of 16 allowed</li>
-                <li>Event Fee is subject to 22% service and 7.25% Sales Tax</li>
+                <li>Event Fee is subject to 22% service and 8.25% Sales Tax</li>
             </ul>
 
             <h4 id="pricing:">PRICING:</h4>
 
-            <p>Offered with a $2,000.00 Event Fee and a $4,000.00 Food &amp; Beverage Minimum</p>
+            <p>$2,000.00 Event Fee and a $4,000.00 Food &amp; Beverage Minimum</p>
     	</div>
     </div>
     <div id="the_farm" class="tab_data">
@@ -129,11 +127,11 @@
         <h4 id="includesthefollowing:">INCLUDES THE FOLLOWING:</h4>
 
         <ul>
-            <li>Availability for up to 75 guests for ceremony and or reception at the Travaasa lower farm including setup*</li>
+            <li>Availability for up to 75 guests for ceremony and/or reception at the Grove at the farm including setup*</li>
             <li>One-hour rehearsal time</li>
             <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables, standing cocktail tables (up to four)</li>
             <li>Use of event platform under live oak tree and hanging lights</li>
-            <li>Use of the parlor for a bridal changing or prep area the day of the event</li>
+            <li>Use of the parlor for changing or prep area the day of the event</li>
             <li>Use of Travaasa wedding décor including:
             <ul>
                 <li>Two candelabras with electric pillar candles</li>
@@ -148,8 +146,7 @@
             <li>Self-parking in Travaasa event parking lot</li>
             <li>Travaasa event shuttle to transport guests from parking lot to the event venue</li>
             <li>Spa discount at 10% for guests</li>
-            <li>One night stay for the bride &amp; groom with a minimum of 15 or more confirmed room nights
-            <em>Setup does not include setup of outside vendor décor or equipment. There is an additional $10.00 per person fee for each guest over 75 persons.</em></li>
+            <em>*Does not include setup of outside vendor décor or equipment. There is an additional $10.00 per person fee for each guest over 75 persons.</em></li>
         </ul>
 
         <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
@@ -158,12 +155,12 @@
             <li>The client is required to hire an outside wedding coordinator/planner.</li>
             <li>Guest room block requirement of 8 guest rooms the night of the event or an accumulative 15-room night total</li>
             <li>Allowance for children during event. Children are not allowed in the public areas of Travaasa Resort or guestrooms</li>
-            <li>Event Fee is subject to 22% service and 7.25% sales tax</li>
+            <li>Event Fee is subject to 22% service and 8.25% sales tax</li>
         </ul>
 
         <h4 id="pricing:">PRICING:</h4>
 
-        <p>Offered with a $2,750.00 Event Fee and a $6,000.00 Food &amp; Beverage Minimum $5,000 (without a room block)</p>
+        <p>$2,750.00 Event Fee and a $6,000.00 Food &amp; Beverage Minimum $5,000 (without a room block)</p>
         </div>
     </div>
     <div id="stables" class="tab_data">
@@ -176,6 +173,7 @@
         <li>Availability for up to 75 guests for ceremony and or reception at the Travaasa stables including setup*</li>
         <li>One-hour rehearsal time</li>
         <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables, standing cocktail tables</li>
+        <li>Use of the parlor for changing or prep area the day of the event</li>
         <li>Use of Travaasa wedding décor including:</li>
         <li>Two candelabras with electric pillar candles
         <ul>
@@ -190,23 +188,21 @@
         <li>Self-parking in Travaasa event parking lot</li>
         <li>Travaasa event shuttle to transport guests from parking lot to the event venue</li>
         <li>Spa discount at 10% for guests</li>
-        <li>One-night stay for the bride &amp; groom with a minimum of 15 or more confirmed room nights
-        <em>Setup does not include setup of outside vendor décor or equipment. There is an additional $10.00 per person fee for each guest over 75 persons.</em></li>
+        <em>*Does not include setup of outside vendor décor or equipment. There is an additional $10.00 per person fee for each guest over 75 persons.</em></li>
         </ul>
 
         <h4 id="otherrequirements">OTHER REQUIREMENTS</h4>
 
         <ul>
-        <li>The Client is required to hire an outside wedding coordinator/planner.</li>
+        <li>The Client is required to hire an outside wedding coordinator/planner</li>
         <li>Guests room block requirement of 8 guest rooms the night of the event or an accumulative 15-room night total</li>
         <li>No children under the age of 16 allowed</li>
-        <li>Event fee is subject to 22% service and 7.25% Sales Tax</li>
+        <li>Event fee is subject to 22% service and 8.25% Sales Tax</li>
         </ul>
 
         <h4 id="pricing:">PRICING:</h4>
 
-        <p>Offered with a $2,750.00 Event Fee and a $6,000.00 Food &amp; Beverage Minimum.
-        $4000 without rooms.</p>
+        <p>$2,750 Event Fee ($5000 Event Fee without guest room block) and a $6,000 Food & Beverage Minimum.</p>
         </div>
     </div>
     <div id="buy-out" class="tab_data">
@@ -218,7 +214,7 @@
                 <li>Availability for up to 150 guests for ceremony and or reception at choice of venue based on existing capacity (includes cost for setup fees)</li>
                 <li>One-hour rehearsal time</li>
                 <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs (up to 120), 6’ banquet tables, standing cocktail tables (up to four)</li>
-                <li>Use of the parlor for a bridal changing or prep area during buy out</li>
+                <li>Use of the parlor for changing or prep area during buy out</li>
                 <li>Use of Travaasa wedding décor including:
                     <ul>
                         <li>Two candelabras with electric pillar candles</li>
@@ -232,7 +228,7 @@
                 <li>Champagne toast for all guests</li>
                 <li>Spa discount at 10% for guests</li>
                 <li>Couples massage</li>
-                <li>Two-night stay for bride and groom
+                <li>Two-night stay for couple
                 <em>Buy out begins at 3 p.m. on the day of the arrival and ends at 12 p.m. the day of check out</em></li>
                 </ul>
                 <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
@@ -240,11 +236,11 @@
                 <li>The client is required to hire an outside wedding coordinator/planner.</li>
                 <li>Guests room block requirement of 70 guest rooms for a two night minimum including the night of the event</li>
                 <li>Allowance for children during buy out dates/times</li>
-                <li>Setup does not include setup of outside vendor décor or equipment</li>
+                <li>*Does not include setup of outside vendor décor or equipment</li>
                 <li>Event fee is subject to 22% service and 7.25% sales tax</li>
             </ul>
             <h4 id="pricing:">PRICING:</h4>
-            <p>Offered with a $2,500.00 Event Fee, a $24,000.00 Food &amp; Beverage Minimum and a $22,000.00 Spa Guarantee</p>
+            <p>Room rates vary with season/day of the week. $2,500 Event Fee, a $24,000 Food & Beverage Minimum and a $22,000 Spa Guarantee.</p>
         </div>
     </div>
     <div id="gallery" class="tab_data">
@@ -309,7 +305,7 @@
 <h4 id="whathappensifitrains">What happens if it rains?</h4>
 
 <ul>
-<li>A rain back-up plan should be decided upon during the booking phase of the wedding. Due to the make-up of the facility, not all venues within the property offer a rain backup at your selected site (i.e. the farm). Any additional costs including tenting, outdoor flooring, umbrellas, heaters, etc. are at the discretion of the Bride and Groom and will incur additional costs.</li>
+<li>A rain back-up plan should be decided upon during the booking phase of the wedding. Due to the make-up of the facility, not all venues within the property offer a rain backup at your selected site (i.e. the farm). Any additional costs including tenting, outdoor flooring, umbrellas, heaters, etc. are at the discretion of the weddng party and will incur additional costs.</li>
 </ul>
 
 <h4 id="willibeallowedtohaveaceremonyrehearsal">Will I be allowed to have a ceremony rehearsal?</h4>
@@ -358,19 +354,19 @@
 <h4 id="doyouhaveadancefloor">Do you have a dance floor?</h4>
 
 <ul>
-<li>A number of Travaasa wedding sites have surfaces suitable for dancing however Travaasa does not provide a wooden dance floor. Considerations should be made when booking the site, as dance floor rentals are an additional cost to the bride &amp; groom.</li>
+<li>A number of Travaasa wedding sites have surfaces suitable for dancing however Travaasa does not provide a wooden dance floor. Considerations should be made when booking the site, as dance floor rentals are an additional cost to the wedding party.</li>
 </ul>
 
 <h4 id="whatareyourinsurancepolicies">What are your insurance policies?</h4>
 
 <ul>
-<li>Any vendor contracted to perform services at Travaasa is required to provide proof of liability insurance in the amount of $1,000,000.00. A copy of the policy along with a signed Travaasa Vendor Contract should be provided at minimum 14 days in advance of the event. It is the responsibility of the bride and/or groom and/or their representative to procure the documentation. Service providers from Travaasa’s Approved Vendor List have already been pre-screened and are not required to provide the noted documentation.</li>
+<li>Any vendor contracted to perform services at Travaasa is required to provide proof of liability insurance in the amount of $1,000,000.00. A copy of the policy along with a signed Travaasa Vendor Contract should be provided at minimum 14 days in advance of the event. It is the responsibility of the wedding party and/or their representative to procure the documentation. Service providers from Travaasa’s Approved Vendor List have already been pre-screened and are not required to provide the noted documentation.</li>
 </ul>
 
 <h4 id="amirequiredtousetravaasasrecommendedvendors">Am I required to use Travaasa’s recommended vendors?</h4>
 
 <ul>
-<li>No, you are not required to use Travaasa’s recommended vendors however any vendor contracted to provide services at Travaasa must provide proof of liability insurance in the amount of $1,000,000.00. A copy of the policy along with a signed Travaasa Vendor Contract should be provided at minimum 14 days in advance of the event. It is the responsibility of the bride and/or groom and/or their representative to procure the documentation.</li>
+<li>No, you are not required to use Travaasa’s recommended vendors however any vendor contracted to provide services at Travaasa must provide proof of liability insurance in the amount of $1,000,000.00. A copy of the policy along with a signed Travaasa Vendor Contract should be provided at minimum 14 days in advance of the event. It is the responsibility of the wedding party and/or their representative to procure the documentation.</li>
 </ul>
 
 <h4 id="isthevenuewheelchairaccessible">Is the venue wheelchair accessible?</h4>
@@ -404,7 +400,7 @@
 <h4 id="isoutsidecateringallowed">Is outside catering allowed?</h4>
 
 <ul>
-<li>As a full service event facility, outside catering is not permitted. All food &amp; beverage consumed in event space must be purchased through the hotel. The only exceptions to this rule are the Wedding and Grooms Cakes.</li>
+<li>As a full service event facility, outside catering is not permitted. All food &amp; beverage consumed in event space must be purchased through the hotel. The only exceptions to this rule are the Wedding Cakes.</li>
 </ul>
 
 <h4 id="canibringinmyownweddingcakeordesserts">Can I bring in my own wedding cake or desserts?</h4>
@@ -434,7 +430,7 @@
 <h4 id="doyouchargeacorkagefee">Do you charge a corkage fee?</h4>
 
 <ul>
-<li>Travaasa does not allow outside wine to be served in our event spaces. However, if the Bride &amp; Groom have a special bottle that Travaasa is unable to obtain, we will allow a maximum of (3) bottles to be brought in with a $25.00 corkage fee per bottle.</li>
+<li>Travaasa does not allow outside wine to be served in our event spaces. However, if the couple have a special bottle that Travaasa is unable to obtain, we will allow a maximum of (3) bottles to be brought in with a $25.00 corkage fee per bottle.</li>
 </ul>
 
 <h4 id="whyaremymenuandbarpricessomuchhigherthanifiworkdirectlywithacatererorbuymyownalcohol">Why are my menu and bar prices so much higher than if I work directly with a caterer or buy my own alcohol?</h4>
