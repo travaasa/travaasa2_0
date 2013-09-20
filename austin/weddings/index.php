@@ -176,7 +176,6 @@
         <li>Availability for up to 75 guests for ceremony and or reception at the Travaasa stables including setup*</li>
         <li>One-hour rehearsal time</li>
         <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables, standing cocktail tables</li>
-        <li>Use of the parlor for a bridal changing or prep area the day of the event</li>
         <li>Use of Travaasa wedding décor including:</li>
         <li>Two candelabras with electric pillar candles
         <ul>
