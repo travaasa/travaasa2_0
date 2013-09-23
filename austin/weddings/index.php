@@ -28,7 +28,6 @@
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago-table.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>WESTERN SKY ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago_chairs.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ORGANIC ULTIMATE HYDRATION FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>PERFECT BALANCE FACIAL / <span>ORGANIC SAGE OIL AND GRAPE SEEDS RESTORE SKIN'S HARMONY.</span></h2></div></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
