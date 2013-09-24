@@ -45,7 +45,7 @@
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>Groups and Meetings</h1>
-          <p>Travaasa sits nestled in 210 acres of the Balcones Canyonlands Preserve overlooking beautiful Lake Travis just 30 minutes from downtown Austin. There are 70 guestrooms located within seven buildings set along meandering paths with scenic Texas Hill Country views. The property includes horse stables, a challenge course, a state-of-the-art fitness center, a tranquil spa with infinity edge pool, a beautifully appointed dining area with an exhibition kitchen, and an outdoor patio with sunset views.</p>
+          <p>Travaasa sits nestled in 210 acres of the Balcones Canyonlands Preserve overlooking beautiful Lake Travis just 30 minutes from downtown Austin. There are 70 guestrooms located within seven buildings set along meandering paths with scenic Texas Hill Country views. The property includes a 3.25-acre working organic farm, a challenge course, a state-of-the-art fitness center, a tranquil spa with infinity edge pool, a beautifully appointed dining area with an exhibition kitchen, and an outdoor patio with sunset views.</p>
 <h4>A New Type of Experiential Hotel</h4>
 <p>Travaasa is an ideal location for Corporate Meetings and Executive Retreats. The boutique hotel property boasts invigorating group activities and team building, regional culinary experiences, and authentic customizable meetings.</p>
 <p>Austin Bergstrom International Airport is easily accessible with nonstop and direct flights from numerous cities. With Austin’s warm and sunny climate, Travaasa is the perfect setting year-round.</p>

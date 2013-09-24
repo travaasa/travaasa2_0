@@ -24,9 +24,9 @@
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_flower_hand_logo.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ULTIMATE BLISS FULL-DAY PACKAGE / <span>EXPERIENCE THE BLISS AND RELAXATION OF BEING NURTURED FROM HEAD TO TOE.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago-table.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>WESTERN SKY ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago_chairs.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ORGANIC ULTIMATE HYDRATION FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_flower_hand_logo.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>A DESTINATION UNLIKE ANY OTHER / <span>SPEND YOUR MOST MEMORABLE DAY AT TRAVAASA AUSTIN</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago-table.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>A PICTURESQUE CELEBRATION / <span>CREATE A MAGICAL EXPERIENCE YOUR GUESTS WON'T SOON FORGET</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago_chairs.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>BREATHTAKING BACKDROPS / <span>FIND INTIMACY AND ENCHANTMENT WITHIN OUR UNIQUE VENUES</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
@@ -187,7 +187,7 @@
         <li>Self-parking in Travaasa event parking lot</li>
         <li>Travaasa event shuttle to transport guests from parking lot to the event venue</li>
         <li>Spa discount at 10% for guests</li>
-        <em>*Does not include setup of outside vendor décor or equipment. There is an additional $10.00 per person fee for each guest over 75 persons.</em></li>
+        <em>*Does not include setup of outside vendor décor or equipment. There is an additional $10.00 per person fee for each guest over 75 persons.</em>
         </ul>
 
         <h4 id="otherrequirements">OTHER REQUIREMENTS</h4>
@@ -210,7 +210,7 @@
             <h4 id="includesthefollowing:">INCLUDES THE FOLLOWING:</h4>
             <ul>
                 <li>Exclusive use of the Travaasa facilities during buy out**</li>
-                <li>Availability for up to 150 guests for ceremony and or reception at choice of venue based on existing capacity (includes cost for setup fees)</li>
+                <li>Availability for up to 150 guests for ceremony and or reception at choice of venue based on existing capacity (includes cost for setup fees*)</li>
                 <li>One-hour rehearsal time</li>
                 <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs (up to 120), 6’ banquet tables, standing cocktail tables (up to four)</li>
                 <li>Use of the parlor for changing or prep area during buy out</li>
@@ -227,15 +227,15 @@
                 <li>Champagne toast for all guests</li>
                 <li>Spa discount at 10% for guests</li>
                 <li>Couples massage</li>
-                <li>Two-night stay for couple
-                <em>Buy out begins at 3 p.m. on the day of the arrival and ends at 12 p.m. the day of check out</em></li>
+                <li>Two-night stay for couple</li> 
+                <em>*Does not include setup of outside vendor décor or equipment</em>
+                <p><em>**Buy out begins at 3 p.m. on the day of the arrival and ends at 12 p.m. the day of check out</em></p>
                 </ul>
                 <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
             <ul>
                 <li>The client is required to hire an outside wedding coordinator/planner.</li>
                 <li>Guests room block requirement of 70 guest rooms for a two night minimum including the night of the event</li>
                 <li>Allowance for children during buy out dates/times</li>
-                <li>*Does not include setup of outside vendor décor or equipment</li>
                 <li>Event fee is subject to 22% service and 7.25% sales tax</li>
             </ul>
             <h4 id="pricing:">PRICING:</h4>
