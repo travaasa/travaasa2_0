@@ -86,8 +86,8 @@
             <ul>
                 <li>Availability for up to 50 guests for ceremony and/or reception at Solidago Gardens, including setup*</li>
                 <li>One-hour rehearsal time</li>
-                <li>Use of Travaasa banquet tables, including 60” round tables, white resin folding chairs (up to 100), 6’ banquet tables and standing cocktail tables (up to four)</li>
-                <li>Use of the Parlor for changing or prep area on the event day</li>
+                <li>Use of Travaasa banquet tables, including 60” round tables, white resin folding chairs, 6’ banquet tables and standing cocktail tables (up to four)</li>
+                <li>Use of The Parlor for changing or prep area on the event day</li>
                 <li>Use of Travaasa wedding décor including:
             <ul>
                     <li>Two candelabras with electric pillar candles</li>
@@ -107,9 +107,8 @@
             <h4 id="otherrequirements">OTHER REQUIREMENTS</h4>
 
             <ul>
-                <li>Client is required to hire outside wedding coordinator/planner.</li>
-                <li>Guests room block requirement of 8 rooms for the night of the event or an
-                accumulative 15-room total</li>
+                <li>The Wedding Couple is required to hire outside wedding coordinator/planner.</li>
+                <li>A minimum of 8 rooms each night or 15 cumulative room nights are required.</li>
                 <li>No children under the age of 16 allowed</li>
                 <li>Event Fee is subject to 22% service and 8.25% Sales Tax</li>
             </ul>
@@ -130,7 +129,7 @@
             <li>One-hour rehearsal time</li>
             <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables, standing cocktail tables (up to four)</li>
             <li>Use of event platform under live oak tree and hanging lights</li>
-            <li>Use of the parlor for changing or prep area the day of the event</li>
+            <li>Use of The Parlor for changing or prep area the day of the event</li>
             <li>Use of Travaasa wedding décor including:
             <ul>
                 <li>Two candelabras with electric pillar candles</li>
@@ -151,9 +150,9 @@
         <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
 
         <ul>
-            <li>The client is required to hire an outside wedding coordinator/planner.</li>
-            <li>Guest room block requirement of 8 guest rooms the night of the event or an accumulative 15-room night total</li>
-            <li>Allowance for children during event. Children are not allowed in the public areas of Travaasa Resort or guestrooms</li>
+            <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
+            <li>A minimum of 8 rooms each night or 15 cumulative room nights are required.</li>
+            <li>Children are permitted at The Farm. Children are not allowed on resort property.</li>
             <li>Event Fee is subject to 22% service and 8.25% sales tax</li>
         </ul>
 
@@ -172,7 +171,7 @@
         <li>Availability for up to 75 guests for ceremony and or reception at the Travaasa stables including setup*</li>
         <li>One-hour rehearsal time</li>
         <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables, standing cocktail tables</li>
-        <li>Use of the parlor for changing or prep area the day of the event</li>
+        <li>Use of The Parlor for changing or prep area the day of the event</li>
         <li>Use of Travaasa wedding décor including:</li>
         <li>Two candelabras with electric pillar candles
         <ul>
@@ -193,8 +192,8 @@
         <h4 id="otherrequirements">OTHER REQUIREMENTS</h4>
 
         <ul>
-        <li>The Client is required to hire an outside wedding coordinator/planner</li>
-        <li>Guests room block requirement of 8 guest rooms the night of the event or an accumulative 15-room night total</li>
+        <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
+        <li>A minimum of 8 rooms each night or 15 cumulative room nights are required.</li>
         <li>No children under the age of 16 allowed</li>
         <li>Event fee is subject to 22% service and 8.25% Sales Tax</li>
         </ul>
@@ -206,14 +205,14 @@
     </div>
     <div id="buy-out" class="tab_data">
         <div class="tab_data_inner">
-            <h2 id="buyoutevent">BUY-OUT EVENT</h2>
+            <h2 id="buyoutevent">RESORT BUY OUT</h2>
             <h4 id="includesthefollowing:">INCLUDES THE FOLLOWING:</h4>
             <ul>
                 <li>Exclusive use of the Travaasa facilities during buy out**</li>
                 <li>Availability for up to 150 guests for ceremony and or reception at choice of venue based on existing capacity (includes cost for setup fees*)</li>
                 <li>One-hour rehearsal time</li>
                 <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs (up to 120), 6’ banquet tables, standing cocktail tables (up to four)</li>
-                <li>Use of the parlor for changing or prep area during buy out</li>
+                <li>Use of The Parlor for changing or prep area during buy out</li>
                 <li>Use of Travaasa wedding décor including:
                     <ul>
                         <li>Two candelabras with electric pillar candles</li>
@@ -226,20 +225,19 @@
                 <li>Cake cutting by Travaasa event staff</li>
                 <li>Champagne toast for all guests</li>
                 <li>Spa discount at 10% for guests</li>
-                <li>Couples massage</li>
-                <li>Two-night stay for couple</li> 
+                <li>Complimentary couples massage</li>
                 <em>*Does not include setup of outside vendor décor or equipment</em>
                 <p><em>**Buy out begins at 3 p.m. on the day of the arrival and ends at 12 p.m. the day of check out</em></p>
                 </ul>
                 <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
             <ul>
-                <li>The client is required to hire an outside wedding coordinator/planner.</li>
+                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
                 <li>Guests room block requirement of 70 guest rooms for a two night minimum including the night of the event</li>
                 <li>Allowance for children during buy out dates/times</li>
                 <li>Event fee is subject to 22% service and 7.25% sales tax</li>
             </ul>
             <h4 id="pricing:">PRICING:</h4>
-            <p>Room rates vary with season/day of the week. $2,500 Event Fee, a $24,000 Food & Beverage Minimum and a $22,000 Spa Guarantee.</p>
+            <p>Room rates vary with season/day of the week. $2,500 Event Fee, a $24,000 Food & Beverage Minimum and a $18,000 Spa Guarantee.</p>
         </div>
     </div>
     <div id="gallery" class="tab_data">
@@ -285,26 +283,19 @@
 <li>Farm Events: Weddings booked at the Travaasa Farm do not require guests rooms and minors are allowed at the Farm with appropriate adult supervision.</li>
 </ul>
 
-<h4 id="whathappensifalloftheroomswecontractarenotreserved">What happens if all of the rooms we contract are not reserved?</h4>
-
-<ul>
-<li>Buy-Outs are required to book all 70-guest rooms each night. If all 70 are not reserved the Responsible Party will be responsible for paying for the remainder.</li>
-<li>Non buy-out contracts will have a cut-off date by which your guests must make their reservations. At that time, based on the total number of rooms contracted, you will have the opportunity to reduce your block by 10%. If there are still unreserved rooms after the reduction you will be responsible for payment for the unoccupied rooms.</li>
-</ul>
-
 <h2 name="faq2">CEREMONY/ RECEPTION</h2>
 
 <h4 id="isthereanon-siteweddingcoordinator">Is there an on-site wedding coordinator?</h4>
 
 <ul>
 <li>As the selected venue for your wedding ceremony and/or reception Travaasa will provide expert assistance with food and beverage service and set up of all included items in the Travaasa Event Fee. Your event will be assigned a Venue Coordinator who will provide a detailed questionnaire to assist in your menu selections, set up requirements, proposed timeline, and vendor requirements. The Venue Coordinator will assist in ensuring that you have met all of your contractual obligations to the hotel and offer suggestions on how best to utilize the venue.</li>
-<li>Travaasa recommends that you work with a professional wedding planner to assist in planning your ceremony &amp; reception, facilitation of the ceremony rehearsal, finding outside vendors for needs beyond the inclusions of the hotel, and to orchestrate coordination the day of your ceremony and reception. Please note that a professional wedding planner is required when buying out the hotel for an exclusive wedding.</li>
+<li>Travaasar equires that you work with a professional wedding planner to assist in planning your ceremony &amp; reception, facilitation of the ceremony rehearsal, finding outside vendors for needs beyond the inclusions of the hotel, and to orchestrate coordination the day of your ceremony and reception.</li>
 </ul>
 
 <h4 id="whathappensifitrains">What happens if it rains?</h4>
 
 <ul>
-<li>A rain back-up plan should be decided upon during the booking phase of the wedding. Due to the make-up of the facility, not all venues within the property offer a rain backup at your selected site (i.e. the farm). Any additional costs including tenting, outdoor flooring, umbrellas, heaters, etc. are at the discretion of the weddng party and will incur additional costs.</li>
+<li>A rain back-up plan should be decided upon during the booking phase of the wedding. Due to the make-up of the facility, not all venues within the property offer a rain backup at your selected site (i.e. The Farm). Any additional costs including tenting, outdoor flooring, umbrellas, heaters, etc. are at the discretion of The Wedding Couple and will incur additional costs.</li>
 </ul>
 
 <h4 id="willibeallowedtohaveaceremonyrehearsal">Will I be allowed to have a ceremony rehearsal?</h4>
@@ -335,7 +326,7 @@
 <h4 id="wherecanwetakephotos">Where can we take photos?</h4>
 
 <ul>
-<li>Photos can be taken at Solidago Gardens, the Farm, and Stables by pre-arranging a date and time with your Venue Coordinator. Photos at the pool may also be coordinated in the early morning hours before pool use begins.</li>
+<li>Photos can be taken at Solidago Gardens, The Farm, and The Travaasa Stables by pre-arranging a date and time with your Venue Coordinator. Photos at the pool may also be coordinated in the early morning hours before pool use begins.</li>
 </ul>
 
 <h4 id="whatarethenoiselevelrestrictions">What are the noise level restrictions?</h4>
@@ -353,19 +344,19 @@
 <h4 id="doyouhaveadancefloor">Do you have a dance floor?</h4>
 
 <ul>
-<li>A number of Travaasa wedding sites have surfaces suitable for dancing however Travaasa does not provide a wooden dance floor. Considerations should be made when booking the site, as dance floor rentals are an additional cost to the wedding party.</li>
+<li>A number of Travaasa wedding sites have surfaces suitable for dancing however Travaasa does not provide a wooden dance floor. Considerations should be made when booking the site, as dance floor rentals are an additional cost to The Wedding Couple.</li>
 </ul>
 
 <h4 id="whatareyourinsurancepolicies">What are your insurance policies?</h4>
 
 <ul>
-<li>Any vendor contracted to perform services at Travaasa is required to provide proof of liability insurance in the amount of $1,000,000.00. A copy of the policy along with a signed Travaasa Vendor Contract should be provided at minimum 14 days in advance of the event. It is the responsibility of the wedding party and/or their representative to procure the documentation. Service providers from Travaasa’s Approved Vendor List have already been pre-screened and are not required to provide the noted documentation.</li>
+<li>Any vendor contracted to perform services at Travaasa is required to provide proof of liability insurance in the amount of $1,000,000.00. A copy of the policy along with a signed Travaasa Vendor Contract should be provided at minimum 14 days in advance of the event. It is the responsibility of The Wedding Couple and/or their representative to procure the documentation. Service providers from Travaasa’s Approved Vendor List have already been pre-screened and are not required to provide the noted documentation.</li>
 </ul>
 
 <h4 id="amirequiredtousetravaasasrecommendedvendors">Am I required to use Travaasa’s recommended vendors?</h4>
 
 <ul>
-<li>No, you are not required to use Travaasa’s recommended vendors however any vendor contracted to provide services at Travaasa must provide proof of liability insurance in the amount of $1,000,000.00. A copy of the policy along with a signed Travaasa Vendor Contract should be provided at minimum 14 days in advance of the event. It is the responsibility of the wedding party and/or their representative to procure the documentation.</li>
+<li>No, you are not required to use Travaasa’s recommended vendors however any vendor contracted to provide services at Travaasa must provide proof of liability insurance in the amount of $1,000,000.00. A copy of the policy along with a signed Travaasa Vendor Contract should be provided at minimum 14 days in advance of the event. It is the responsibility of The Wedding Couple and/or their representative to procure the documentation.</li>
 </ul>
 
 <h4 id="isthevenuewheelchairaccessible">Is the venue wheelchair accessible?</h4>
@@ -379,7 +370,7 @@
 <h4 id="wherewillmyguestspark">Where will my guests park?</h4>
 
 <ul>
-<li>Travaasa event parking is located approximately .6 miles from the entrance gate on FM 2769 (at the top of the hill past the guest parking). The hotel will provide directional signage. A shuttle will be provided for events at the Travaasa Farm or Stables that will pick up at the Event Parking location.</li>
+<li>Travaasa event parking is located approximately .6 miles from the entrance gate on FM 2769 (at the top of the hill past the guest parking). The hotel will provide directional signage. A shuttle will be provided for events at the Travaasa Farm or The Travaasa Stables that will pick up at the Event Parking location.</li>
 </ul>
 
 <h4 id="arethereparkingvaletcharges">Are there parking/valet charges?</h4>
@@ -399,7 +390,7 @@
 <h4 id="isoutsidecateringallowed">Is outside catering allowed?</h4>
 
 <ul>
-<li>As a full service event facility, outside catering is not permitted. All food &amp; beverage consumed in event space must be purchased through the hotel. The only exceptions to this rule are the Wedding Cakes.</li>
+<li>As a full service event facility, outside catering is not permitted. All food &amp; beverage consumed in event space must be purchased through the hotel. The only exceptions to this rule are the wedding cakes.</li>
 </ul>
 
 <h4 id="canibringinmyownweddingcakeordesserts">Can I bring in my own wedding cake or desserts?</h4>
@@ -423,13 +414,13 @@
 <h4 id="willtherebeatastingbeforetheeventdate">Will there be a tasting before the event date?</h4>
 
 <ul>
-<li>Yes! As part of our Travaasa wedding offerings a tasting will be done once your contract has been signed and menu options selected. We recommend scheduling your tasting for 2&#8211;3 month in advance of your event reception.</li>
+<li>Yes! As part of our Travaasa Wedding Events a tasting will be offered once your contract has been signed and menu options selected. We recommend scheduling your tasting 2&#8211;3 months prior to your wedding reception.</li>
 </ul>
 
 <h4 id="doyouchargeacorkagefee">Do you charge a corkage fee?</h4>
 
 <ul>
-<li>Travaasa does not allow outside wine to be served in our event spaces. However, if the couple have a special bottle that Travaasa is unable to obtain, we will allow a maximum of (3) bottles to be brought in with a $25.00 corkage fee per bottle.</li>
+<li>Travaasa does not allow outside wine to be served in our event spaces. However, if the Wedding Couple have a special bottle that Travaasa is unable to obtain, we will allow a maximum of (3) bottles to be brought in with a $25.00 corkage fee per bottle.</li>
 </ul>
 
 <h4 id="whyaremymenuandbarpricessomuchhigherthanifiworkdirectlywithacatererorbuymyownalcohol">Why are my menu and bar prices so much higher than if I work directly with a caterer or buy my own alcohol?</h4>
@@ -441,7 +432,7 @@
 <h4 id="amirequiredtotipontopoftheservicechargewhyareservicechargestaxed">Am I required to tip on top of the service charge? Why are service charges taxed?</h4>
 
 <ul>
-<li>Additional gratuity is not required above the contracted 22% service charge. In the state of Texas, contracted service fees are different than optional “tips” or gratuities and are therefor subject to taxation.</li>
+<li>Additional gratuity is not required above the contracted 22% service charge. In the state of Texas, contracted service fees are different than optional “tips” or gratuities and are therefore subject to taxation.</li>
 </ul>
 
 <h2 name="faq5">SPA</h2>
@@ -449,7 +440,7 @@
 <h4 id="istherearequirementtohavespaservices">Is there a requirement to have spa services?</h4>
 
 <ul>
-<li>Weekend Buy-Outs require a Spa Revenue Minimum based on time of year and day of the week. Spa Revenue Minimum’s can be met by booking appointments. Should the actualized spa revenue fall below the Minimum the Responsible Party will be responsible for the difference.</li>
+<li>Buy-Outs require a Spa Revenue Minimum, which is determined by the time of year and day of the week. Spa Revenue Minimum’s can be met by booking appointments. Should the actualized spa revenue fall below the Minimum the Responsible Party will be responsible for the difference.</li>
 <li>Non Buy-Out’s are not required to book spa treatments at the spa. Keep in mind that the Travaasa Austin Spa is open to the public and takes appointments from 9 a.m. to 7 p.m. daily. The spa is also located at the pool deck and the pool must be made available to spa day guests. In order to use the pool exclusively it is required to buy-out the spa during the time you wish to use the space.</li>
 </ul>
 
@@ -459,10 +450,10 @@
 <li>Spa services acquired by guests can be applied towards any contracted spa minimum as long as the services are rendered during the contracted event period. Spa revenue cannot be applied towards other commitments such as food &amp; beverage minimums or room rental commitments.</li>
 </ul>
 
-<h4 id="whathappensifsomeonecancelstheirspaorno-showsfortheirappointment">What happens if someone cancels their spa or no-shows for their appointment?</h4>
+<h4 id="whathappensifsomeonecancelstheirspaorno-showsfortheirappointment">What happens if someone cancels or no-shows for their spa appointment?</h4>
 
 <ul>
-<li>If a guest cancels their spa or no-shows the charges for the spa appointment will be charged to the Responsible Party unless the individual provided a form of payment at the time of booking the appointment. Travaasa can advise guests of the cancellation policy at the time of booking their appointments and obtain a form of payment if guests call in to make their own reservations.</li>
+<li>If a guest cancels no-shows their spa appointment, the charges for the spa appointment will be charged to the Responsible Party unless the individual provided a form of payment at the time of booking the appointment. Travaasa can advise guests of the cancellation policy at the time of booking their appointments and obtain a form of payment if guests call in to make their own reservations.</li>
 </ul>
         </div>
     </div>
