@@ -103,8 +103,8 @@
         </tr>
         <tr class="compare-summary">
           <td class="compare-table-title">&nbsp;</td>
-          <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
-          <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
+          <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
+          <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
         </tr>
         <tr class="compare-summary">
           <td>&nbsp;</td>

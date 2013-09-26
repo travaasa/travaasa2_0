@@ -64,7 +64,7 @@
                 <h3><sup>$</sup>300</h3>
             </li>
         </ul>
-        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
+        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
     </div>
   </section>
   <section class="grey pad group">
@@ -101,7 +101,7 @@
                 <h3><sup>$</sup>250</h3>
             </li>
         </ul>
-        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
+        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
     </div>
   </section>
 </article>
