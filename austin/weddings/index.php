@@ -469,7 +469,7 @@
 ?><script type="text/javascript">
 $(function() {
 	createSubpageStorylines(true, false);
-	setLocation("Austin", "spa");
+	setLocation("Austin");
 	activateTabbedList();
 });
 </script>
