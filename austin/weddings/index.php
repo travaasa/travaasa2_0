@@ -66,7 +66,7 @@
         	<h5>Additional Resources</h5>
             <ul class="tabbed_list">
                 <li id="tab_5"><a href="#gallery">Gallery</a></li>
-                <li id="tab_6"><a href="#catering_menu">Catering Menu</a></li>
+                <!--<li id="tab_6"><a href="#catering_menu">Catering Menu</a></li>-->
                 <li id="tab_7"><a href="#policies">Policies &amp; Procedures</a></li>
                 
             </ul>
