@@ -69,6 +69,12 @@
           </div>
         </div>
         <div class="slide">
+          <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_bike-pump.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
+            <h5>Bike Pump Track</h5>
+            <p class="description">Built for all skill levels&#8212;from limited experience to advanced bike riders&#8212;the pump bike track boasts something for everyone.  Focus on the fundamentals and have fun challenging yourself to get all the way around without having to pedal, or take it to the next level by riding high and fast into the berms.  For the really adventurous and skilled rider, see how high you can go on the wall.  No matter your skill level, you will get a full body workout while you hone your ability to focus, break out of your shell, and have an amazing time doing so.</p>
+          </div>
+        </div>
+        <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_archery.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Archery</h5>
             <p class="description">Learn the fundamentals that create the foundation of archery while boosting your mental attention and connecting your breath to physical performance. Experience techniques to develop your focus, patience, flexibility, concentration, and attention skills and understand why great archers continually develop these simple concepts to heighten all aspects of their lives.</p>
