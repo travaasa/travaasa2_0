@@ -45,7 +45,7 @@
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>Groups and Meetings</h1>
-          <p>Travaasa sits nestled in 210 acres of the Balcones Canyonlands Preserve overlooking beautiful Lake Travis just 30 minutes from downtown Austin. There are 70 guestrooms located within seven buildings set along meandering paths with scenic Texas Hill Country views. The property includes horse stables, a challenge course, a state-of-the-art fitness center, a tranquil spa with infinity edge pool, a beautifully appointed dining area with an exhibition kitchen, and an outdoor patio with sunset views.</p>
+          <p>Travaasa sits nestled in 210 acres of the Balcones Canyonlands Preserve overlooking beautiful Lake Travis just 30 minutes from downtown Austin. There are 70 guestrooms located within seven buildings set along meandering paths with scenic Texas Hill Country views. The property includes a 3.25-acre working organic farm, a challenge course, a state-of-the-art fitness center, a tranquil spa with infinity edge pool, a beautifully appointed dining area with an exhibition kitchen, and an outdoor patio with sunset views.</p>
 <h4>A New Type of Experiential Hotel</h4>
 <p>Travaasa is an ideal location for Corporate Meetings and Executive Retreats. The boutique hotel property boasts invigorating group activities and team building, regional culinary experiences, and authentic customizable meetings.</p>
 <p>Austin Bergstrom International Airport is easily accessible with nonstop and direct flights from numerous cities. With Austin’s warm and sunny climate, Travaasa is the perfect setting year-round.</p>
@@ -360,6 +360,87 @@
             <p>The Solidago Gardens, featuring a spacious handcrafted wood and stone structure, is accessible by way of a forested trail and is designed as an intimate setting for meetings and receptions.</p>   	
 					
 			<br><hr><br>
+
+            <!--<div class="group">
+                <div class="col span_1_of_2">
+                <div class="magnify">
+                  <a href="/assets/images/gallery/austin/large-spur-dinner.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"></a>
+                </div>
+                <a href="/assets/images/gallery/austin/large-spur.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-the-spur.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Spur"></a>
+                </div>
+                <div class="col span_1_of_2">   
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Stables</th>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Width x Length</td>
+                                <td class="meetings-table-data">22.5' x 48'</td>
+                            </tr>
+                                
+                                <tr><td class="meetings-table-labels">Square Feet</td>
+                                <td class="meetings-table-data">1080</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>  
+            <p>Example Paragraph</p>    
+                    
+            <br><hr><br>
+            -->
+            <div class="group">
+                <div class="col span_1_of_2">
+                <div class="magnify">
+                  <a href="/assets/images/gallery/austin/large-the-farm2.jpg" data-flare-gallery="galleryFarm" data-target="flare" data-flare-scale="fitmax" title="The Farm at Travaasa Austin"></a>
+                </div>
+                <a href="/assets/images/gallery/austin/large-the-farm.jpg" data-flare-gallery="galleryFarm" data-target="flare" data-flare-scale="fitmax" title="The Farm at Travaasa Austin"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-the-farm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Farm at Travaasa Austin"></a>
+                </div>
+                <div class="col span_1_of_2">   
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">The Farm at Travaasa</th>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="meetings-table-labels">Contact our sales team for more information:<br />512-334-4649 or <a href="mailto:austinsales@travaasa.com?Subject=The%20Farm" target="_top">
+austinsales@travaasa.com</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>  
+            <!--<p>Example Paragraph</p>-->    
+                    
+            <br><hr><br>
+
+            <div class="group">
+                <div class="col span_1_of_2">
+                <div class="magnify">
+                  <a href="/assets/images/gallery/austin/large-mesquite-patio2.jpg" data-flare-gallery="galleryPatio" data-target="flare" data-flare-scale="fitmax" title="Mesquite Patio"></a>
+                </div>
+                <a href="/assets/images/gallery/austin/large-mesquite-patio.jpg" data-flare-gallery="galleryPatio" data-target="flare" data-flare-scale="fitmax" title="Mesquite Patio"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-mesquite-patio.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Spur"></a>
+                </div>
+                <div class="col span_1_of_2">   
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Mesquite Patio</th>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="meetings-table-labels">Contact our sales team for more information:<br />512-334-4649 or <a href="mailto:austinsales@travaasa.com?Subject=Mesquite%20Patio" target="_top">
+austinsales@travaasa.com</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>  
+            <!--<p>Example Paragraph</p>-->  
+                    
+            <br><hr><br>
+
+
 					
 			<p><strong>All Classroom and U-Shape figures are based on 2 people per 6' table.</strong></p>
         </div>

@@ -38,7 +38,7 @@
                 <li>$25 per person per stay Private Activity Credit</li>
                 <li>$25 total per stay Lunch or Dinner Credit</li>
               </ul>              
-            <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
+            <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2')]); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
             <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2&rateCode=April Fools" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2&rateCode=April Fools')]); return false;" class="btn">BOOK HANA</a></p>
       </div>
   </section>

@@ -3,7 +3,7 @@
         <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-877-261-7792</noscript></p>
         <ul class="reservation_nav menu_top">
             <li class="reservation">
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC')]); return false;">MAKE A RESERVATION</a></li>
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2')]); return false;">MAKE A RESERVATION</a></li>
         </ul>
         <ul class="pricing">
             <li>

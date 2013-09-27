@@ -21,7 +21,8 @@
           <li class="menu_main menu_plus"><a href="#" class="plus"><span>+</span></a>
               <ul class="menu_sub">
                   <li><a class="lnk_farm" href="/austin/farm">THE FARM</a></li>
-                  <li><a class="lnk_farm" href="/austin/food-truck">FOOD TRUCK</a></li>
+                  <li><a class="lnk_food-truck" href="/austin/food-truck">FOOD TRUCK</a></li>
+                  <li><a class="lnk_weddings" href="/austin/weddings">WEDDINGS</a></li>
                   <li><a class="lnk_schedule" href="/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
                </ul>
           </li>
@@ -45,6 +46,8 @@
                   <li><a class="lnk_rates" href="/austin/rates-and-packages">RATES</a></li>
                   <li><a class="lnk_groups" href="/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
                   <li><a class="lnk_farm" href="/austin/farm">THE FARM</a></li>
+                  <li><a class="lnk_food-truck" href="/austin/food-truck">FOOD TRUCK</a></li>
+                  <li><a class="lnk_weddings" href="/austin/weddings">WEDDINGS</a></li>
                   <li><a class="lnk_schedule" href="/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
                </ul>
            </li>
