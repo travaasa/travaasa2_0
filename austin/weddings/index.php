@@ -24,9 +24,9 @@
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_flower_hand_logo.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>A DESTINATION UNLIKE ANY OTHER / <span>SPEND YOUR MOST MEMORABLE DAY AT TRAVAASA AUSTIN</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago-table.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>A PICTURESQUE CELEBRATION / <span>CREATE A MAGICAL EXPERIENCE YOUR GUESTS WON'T SOON FORGET</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago_chairs.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>BREATHTAKING BACKDROPS / <span>FIND INTIMACY AND ENCHANTMENT WITHIN OUR UNIQUE VENUES</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_flower_hand_logo.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>A DESTINATION UNLIKE ANY OTHER&nbsp;&nbsp;/&nbsp;&nbsp;<span>SPEND YOUR MOST MEMORABLE DAY AT TRAVAASA AUSTIN</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago-table.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>A PICTURESQUE CELEBRATION&nbsp;&nbsp;/&nbsp;&nbsp;<span>CREATE A MAGICAL EXPERIENCE YOUR GUESTS WON'T SOON FORGET</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago_chairs.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>BREATHTAKING BACKDROPS&nbsp;&nbsp;/&nbsp;&nbsp;<span>FIND INTIMACY AND ENCHANTMENT WITHIN OUR UNIQUE VENUES</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
