@@ -40,7 +40,7 @@
             <p>Travaasa Austin's unique Hill Country location provides a stunning backdrop to any ceremony.  A variety of facilities assures flexibility in planning, so the memory of your nuptials won't soon be forgotten.</p>
             <p>Contact a member of our team to learn about packages and availability.</p>
 <div class="col span_1_of_2"><a href="/pdf/Travaasa-Austin-Weddings.pdf" class="btn fitwidth" target="_blank">Weddings Guide</a></div>
-<div class="col span_1_of_2"><a href="/pdf/Travaasa-Austin-Weddings-Catering-Menu.pdf" class="btn fitwidth" target="_blank">Catering Menus</a></div>
+<div class="col span_1_of_2"><a href="/pdf/Travaasa-Austin-Weddings-Catering-Menu.pdf" class="btn fitwidth" target="_blank">Catering Menu</a></div>
       </div>
       <!--<div class="pricing_grp col span_3_of_9">
       		<h2>Hours of Operation</h2>
