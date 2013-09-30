@@ -34,10 +34,10 @@
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <h1>Travaasa Austin Preferred Vendors</h1>
-          <h3>Photography</h3>
-          <h4><a href="http://merrickales.com" target="_blank">Merrick Ales</a></h4>
-          
+          <h2>Preferred Vendors</h2>
+          <h4>Photography</h4>
+          <p><strong>MERRICK ALES</strong>&nbsp;&nbsp;|&nbsp;&nbsp;<em>Commercial &amp; Residential Photography</em>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://merrickales.com/?utm_source=travaasa&utm_medium=website&utm_campaign=preferred-vendors" target="_blank">merrickales.com</a></p>
+
   </section>
 </article>
 </section>
