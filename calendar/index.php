@@ -1,5 +1,5 @@
 <?php
-$base = "/calendar/2013/september/";
+$base = "/calendar/2013/october/";
 $referrer = $_SERVER["HTTP_REFERER"];
 if (strlen($referrer) <= 0)
 	$referrer = "blank";
