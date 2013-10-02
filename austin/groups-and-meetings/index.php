@@ -575,7 +575,7 @@ austinsales@travaasa.com</a></td>
                   <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-04-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-04-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Weddings at Travaasa"></a></div>
                   <div class="col span_1_of_5"><a class="fancy frame-left" href="/assets/images/gallery/austin/wedding-05-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-05-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Weddings at Travaasa"></a></div>
             </div>-->
-            <!--<p>Contact a member of our team to learn about packages and availability.</p>-->
+            <p>Thinking of tying the knot at Travaasa Austin? Click below for more information.</p>
             <!--<ul>
                  <li>bullet</li>
                  <li>bullet</li>
