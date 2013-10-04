@@ -108,13 +108,13 @@
         </tr>
         <tr class="compare-summary">
           <td>&nbsp;</td>
-          <td class="compare-price"><p><strong>SINGLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>475</p></td>
-          <td class="compare-price"><p><strong>SINGLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>250</p></td>
+          <td class="compare-price"><p><strong>ONE ADULT</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>475</p></td>
+          <td class="compare-price"><p><strong>ONE ADULT</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>250</p></td>
         </tr>
         <tr class-"compare-summary2">
           <td style="border:1px solid #FFFFFF;" >&nbsp;</td>
-          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>800</p></td>
-          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>350</p></td>
+          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>TWO ADULTS</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>800</p></td>
+          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>TWO ADULTS</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>350</p></td>
         </tr>
      </tbody>
     </table>
