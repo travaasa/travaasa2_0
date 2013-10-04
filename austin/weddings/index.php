@@ -107,8 +107,8 @@
             <h4 id="otherrequirements">OTHER REQUIREMENTS</h4>
 
             <ul>
-                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
-                <li>A minimum of 8 rooms each night or 15 cumulative room nights is required.</li>
+                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
+                <li>A minimum of 8 rooms each night or 15 cumulative room nights is required</li>
                 <li>No children under the age of 16 allowed</li>
                 <li>Event Fee is subject to 22% service and 8.25% Sales Tax</li>
                 <li>$2,000.00 Event Fee and a $4,000.00 Food &amp; Beverage Minimum</li>
@@ -149,9 +149,9 @@
         <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
 
         <ul>
-            <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
-            <li>A minimum of 8 rooms each night or 15 cumulative room nights is required.</li>
-            <li>Children are permitted at The Farm. Children are not allowed on resort property.</li>
+            <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
+            <li>A minimum of 8 rooms each night or 15 cumulative room nights is required</li>
+            <li>Children are permitted at The Farm. Children are not allowed on resort property</li>
             <li>Event Fee is subject to 22% service and 8.25% sales tax</li>
             <li>$3,250 Event Fee and a $6,000 Food &amp; Beverage Minimum</li>
         </ul>
@@ -190,10 +190,10 @@
 
         <ul>
         <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
-        <li>A minimum of 8 rooms each night or 15 cumulative room nights is required.</li>
-        <li>Children are permitted at The Stables. Children are not allowed on resort property.</li>
+        <li>A minimum of 8 rooms each night or 15 cumulative room nights is required</li>
+        <li>Children are permitted at The Stables. Children are not allowed on resort property</li>
         <li>Event fee is subject to 22% service and 8.25% Sales Tax</li>
-        <li>$2,750 Event Fee and a $6,000 Food & Beverage Minimum.</li>
+        <li>$2,750 Event Fee and a $6,000 Food & Beverage Minimum</li>
         </ul>
 
         </div>
@@ -221,12 +221,12 @@
                 <li>Champagne toast for all guests</li>
                 <li>One complimentary couples massage</li>
                 <em>*Does not include setup of outside vendor décor or equipment</em>
-                <p><em>**Buy out begins at 3 p.m. on the day of the arrival and ends at 12 p.m. the day of check out</em></p>
+                <p><em>**Buy out begins at 3 p.m. on the day of the arrival and ends at 12 p.m. the day of check out.</em></p>
                 </ul>
                 <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
             <ul>
-                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
-                <li>Guests room block requirement of 70 guest rooms for a two night minimum.</li>
+                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
+                <li>Guests room block requirement of 70 guest rooms for a two night minimum</li>
                 <li>Allowance for children during buy out dates/times</li>
                 <li> A Food & Beverage minimum guarentee</li>
                 <li> A Spa minimum guarentee</li>
