@@ -84,7 +84,7 @@
             <h4 id="includesthefollowing:">INCLUDES THE FOLLOWING:</h4>
 
             <ul>
-                <li>Availability for up to 50 guests for ceremony and/or reception at Solidago Gardens, including setup*</li>
+                <li>Availability for up to 75 guests for ceremony and/or reception at Solidago Gardens, including setup*</li>
                 <li>One-hour rehearsal time</li>
                 <li>Use of Travaasa banquet tables, including 60” round tables, white resin folding chairs, 6’ banquet tables and standing cocktail tables (up to 4)</li>
                 <li>Use of The Parlor as changing or prep area on event day</li>
