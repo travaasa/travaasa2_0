@@ -75,11 +75,6 @@ endif;
                 <p>Enter Travaasa’s Wacky Turkey Shoot and you may win a prize. During each of our Archery classes this month, the participant with the best score will win a coupon good for a free dessert. Pumpkin pie anyone?</p>
             </div>
 
-            <div class="listing">
-              <h6>T1 RACES <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Join us at Travaasa's Wild Arena Track for our T1 Races. Learn the basics of driving our sleek fleet of remote control cars and compete to win the grand prize.</p>
-            </div>
-
              <h2>Culinary</h2>
 
             <div class="listing">
