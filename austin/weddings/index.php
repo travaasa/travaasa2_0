@@ -95,8 +95,8 @@
                 <li>Two framed event signs on easels</li>
                 <li>Microphone with portable PA</li>
                 <li>House table centerpieces</li>
-            </ul></li>
                 <li>Choice of linen color</li>
+                </ul></li>
                 <li>Cake cutting by Travaasa event staff</li>
                 <li>Champagne toast for all guests</li>
                 <li>Self-parking in Travaasa event parking lot</li>
@@ -226,7 +226,7 @@
                 <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
             <ul>
                 <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
-                <li>Guests room block requirement of 70 guest rooms for a two night minimum.</li>
+                <li>Guests room block requirement of 70 guest rooms for a two-night minimum.</li>
                 <li>Allowance for children during buyout dates/times</li>
                 <li>A Food & Beverage minimum guarentee</li>
                 <li>A Spa minimum guarentee</li>
