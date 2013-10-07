@@ -59,7 +59,7 @@
                 <li id="tab_1"><a href="#solidago_gardens">Solidago Gardens</a></li>
                 <li id="tab_2"><a href="#the_farm">The Farm at Travaasa Austin</a></li>
                 <li id="tab_3"><a href="#stables">Travaasa Stables</a></li>
-                <li id="tab_4"><a href="#buy-out">Property Buy-Out</a></li>
+                <li id="tab_4"><a href="#buy-out">Property Buyout</a></li>
             </ul>
          </div>
     	<div class="tabbed_group">
@@ -86,7 +86,7 @@
             <ul>
                 <li>Availability for up to 50 guests for ceremony and/or reception at Solidago Gardens, including setup*</li>
                 <li>One-hour rehearsal time</li>
-                <li>Use of Travaasa banquet tables, including 60” round tables, white resin folding chairs, 6’ banquet tables and standing cocktail tables (up to four)</li>
+                <li>Use of Travaasa banquet tables, including 60” round tables, white resin folding chairs, 6’ banquet tables and standing cocktail tables (up to 4)</li>
                 <li>Use of The Parlor as changing or prep area on event day</li>
                 <li>Use of Travaasa wedding décor including:
             <ul>
@@ -94,10 +94,10 @@
                 <li>Fabric swag for use over Solidago doors to frame ceremony</li>
                 <li>Two framed event signs on easels</li>
                 <li>Microphone with portable PA</li>
-                <li>House Table centerpieces</li>
+                <li>House table centerpieces</li>
             </ul></li>
                 <li>Choice of linen color</li>
-                <li>Cake cutting by Travaasa Event Staff</li>
+                <li>Cake cutting by Travaasa event staff</li>
                 <li>Champagne toast for all guests</li>
                 <li>Self-parking in Travaasa event parking lot</li>
                 <li>Spa discount at 10% for guests</li>
@@ -107,11 +107,11 @@
             <h4 id="otherrequirements">OTHER REQUIREMENTS</h4>
 
             <ul>
-                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
-                <li>A minimum of 8 rooms each night or 15 cumulative room nights is required</li>
+                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
+                <li>A minimum of 8 rooms each night or 15 cumulative room nights is required.</li>
                 <li>No children under the age of 16 allowed</li>
-                <li>Event Fee is subject to 22% service and 8.25% Sales Tax</li>
-                <li>$2,000.00 Event Fee and a $4,000.00 Food &amp; Beverage Minimum</li>
+                <li>Event Fee is subject to 22% service and 8.25% sales tax.</li>
+                <li>$2,000 Event Fee and a $4,000 Food &amp; Beverage Minimum</li>
 
             </ul>
 
@@ -124,11 +124,11 @@
         <h4 id="includesthefollowing:">INCLUDES THE FOLLOWING:</h4>
 
         <ul>
-            <li>Availability for up to 150 guests for ceremony and/or reception at the Grove at the farm including setup*</li>
+            <li>Availability for up to 150 guests for ceremony and/or reception at The Grove at The Farm, including setup*</li>
             <li>One-hour rehearsal time</li>
-            <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables, standing cocktail tables (up to four)</li>
+            <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables and standing cocktail tables (up to 4)</li>
             <li>Use of event platform under live oak tree and hanging lights</li>
-            <li>Use of The Parlor as changing or prep area the day of event</li>
+            <li>Use of The Parlor as changing or prep area on event day</li>
             <li>Use of Travaasa wedding décor including:
             <ul>
                 <li>Two candelabras with electric pillar candles</li>
@@ -143,16 +143,16 @@
             <li>Self-parking in Travaasa event parking lot</li>
             <li>Travaasa event shuttle to transport guests from parking lot to the event venue</li>
             <li>Spa discount at 10% for guests</li>
-            <em>*Does not include setup of outside vendor décor or equipment.</em></li>
+            <em>*Does not include setup of outside vendor décor or equipment</em></li>
         </ul>
 
         <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
 
         <ul>
-            <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
-            <li>A minimum of 8 rooms each night or 15 cumulative room nights is required</li>
-            <li>Children are permitted at The Farm. Children are not allowed on resort property</li>
-            <li>Event Fee is subject to 22% service and 8.25% sales tax</li>
+            <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
+            <li>A minimum of 8 rooms each night or 15 cumulative room nights is required.</li>
+            <li>Children are permitted at The Farm. Children are not allowed on resort property.</li>
+            <li>Event Fee is subject to 22% service and 8.25% sales tax.</li>
             <li>$3,250 Event Fee and a $6,000 Food &amp; Beverage Minimum</li>
         </ul>
 
@@ -165,13 +165,13 @@
         <h4 id="includesthefollowing">INCLUDES THE FOLLOWING</h4>
 
         <ul>
-        <li>Availability for up to 75 guests for ceremony and or reception at the Travaasa stables including setup*</li>
+        <li>Availability for up to 75 guests for ceremony and/or reception at the Travaasa stables including setup*</li>
         <li>One-hour rehearsal time</li>
-        <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables, standing cocktail tables</li>
-        <li>Use of The Parlor as changing or prep area the day of event</li>
-        <li>Use of Travaasa wedding décor including:</li>
-        <li>Two candelabras with electric pillar candles
+        <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs, 6’ banquet tables and standing cocktail tables</li>
+        <li>Use of The Parlor as changing or prep area on event day</li>
+        <li>Use of Travaasa wedding décor including:
         <ul>
+        <li>Two candelabras with electric pillar candles</li>
         <li>Fabric swag</li>
         <li>Two framed event signs on easels</li>
         <li>Microphone with portable PA</li>
@@ -183,16 +183,16 @@
         <li>Self-parking in Travaasa event parking lot</li>
         <li>Travaasa event shuttle to transport guests from parking lot to the event venue</li>
         <li>Spa discount at 10% for guests</li>
-        <em>*Does not include setup of outside vendor décor or equipment.</em>
+        <em>*Does not include setup of outside vendor décor or equipment</em>
         </ul>
 
         <h4 id="otherrequirements">OTHER REQUIREMENTS</h4>
 
         <ul>
-        <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
-        <li>A minimum of 8 rooms each night or 15 cumulative room nights is required</li>
-        <li>Children are permitted at The Stables. Children are not allowed on resort property</li>
-        <li>Event fee is subject to 22% service and 8.25% Sales Tax</li>
+        <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
+        <li>A minimum of 8 rooms each night or 15 cumulative room nights is required.</li>
+        <li>Children are permitted at The Stables. Children are not allowed on resort property.</li>
+        <li>Event fee is subject to 22% service and 8.25% sales tax.</li>
         <li>$2,750 Event Fee and a $6,000 Food & Beverage Minimum</li>
         </ul>
 
@@ -200,14 +200,14 @@
     </div>
     <div id="buy-out" class="tab_data">
         <div class="tab_data_inner">
-            <h2 id="buyoutevent">RESORT BUY OUT</h2>
+            <h2 id="buyoutevent">RESORT BUYOUT</h2>
             <h4 id="includesthefollowing:">INCLUDES THE FOLLOWING:</h4>
             <ul>
-                <li>Exclusive use of the Travaasa facilities during buy out**</li>
-                <li>Availability for up to 150 guests for ceremony and or reception at choice of venue based on existing capacity (includes cost for setup fees*)</li>
+                <li>Exclusive use of the Travaasa facilities during buyout**</li>
+                <li>Availability for up to 150 guests for ceremony and/or reception at choice of venue based on existing capacity (includes cost for setup fees*)</li>
                 <li>One-hour rehearsal time</li>
-                <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs (up to 150), 6’ banquet tables, standing cocktail tables (up to four)</li>
-                <li>Use of The Parlor as changing or prep area during buy out</li>
+                <li>Use of Travaasa banquet tables including 60” round tables, white resin folding chairs (up to 150), 6’ banquet tables and standing cocktail tables (up to 4)</li>
+                <li>Use of The Parlor as changing or prep area during buyout</li>
                 <li>Use of Travaasa wedding décor including:
                     <ul>
                         <li>Two candelabras with electric pillar candles</li>
@@ -221,17 +221,17 @@
                 <li>Champagne toast for all guests</li>
                 <li>One complimentary couples massage</li>
                 <em>*Does not include setup of outside vendor décor or equipment</em>
-                <p><em>**Buy out begins at 3 p.m. on the day of the arrival and ends at 12 p.m. the day of check out.</em></p>
+                <p><em>**Buyout begins at 3 p.m. on the day of the arrival and ends at 12 p.m. the day of check out.</em></p>
                 </ul>
                 <h4 id="otherrequirements:">OTHER REQUIREMENTS:</h4>
             <ul>
-                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner</li>
-                <li>Guests room block requirement of 70 guest rooms for a two night minimum</li>
-                <li>Allowance for children during buy out dates/times</li>
-                <li> A Food & Beverage minimum guarentee</li>
-                <li> A Spa minimum guarentee</li>
-                <li>$2,750 Event Fee. Event fee is subject to 22% service and 7.25% sales tax</li>
-                <li>There is a reset fee for the following locations: Infinity Pool, Jeans Kitchen and Mesquite Patio</li>
+                <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
+                <li>Guests room block requirement of 70 guest rooms for a two night minimum.</li>
+                <li>Allowance for children during buyout dates/times</li>
+                <li>A Food & Beverage minimum guarentee</li>
+                <li>A Spa minimum guarentee</li>
+                <li>$2,750 Event Fee. Event fee is subject to 22% service and 7.25% sales tax.</li>
+                <li>There is a reset fee for the following locations: Infinity Pool, Jeans Kitchen and Mesquite Patio.</li>
 
 
             </ul>
@@ -321,7 +321,7 @@
         <h4 id="whatistheguestroomrequirementtohavemyweddingattravaasa">What is the guest room requirement to have my wedding at Travaasa?</h4>
         <ul>
             <li>Travaasa Events: In order to book a wedding and secure event space at Travaasa a minimum of 8 rooms each night or 15 cumulative room nights is required as part of your contract. Please keep in mind that Travaasa does not allow minors under the age of 16 on the grounds.</li>
-            <li>Property Buy-Out: An exclusive buy-out of the property allows you and your guests’ exclusive use of the grounds. Site fees are still applicable. A buy-out requires a signed contract for all 70-guest rooms with a two night minimum stay (must include the night of the event). Children are permitted during the hours of the buy-out; beginning at 3 p.m. on the arrival date and ending at 12 p.m. on departure day. Minors are not allowed on property outside of those time periods. Buy-outs also require a Food &amp; Beverage Minimum Revenue and a Spa Minimum Revenue.</li>
+            <li>Property Buyout: An exclusive buyout of the property allows you and your guests’ exclusive use of the grounds. Site fees are still applicable. A buyout requires a signed contract for all 70-guest rooms with a two night minimum stay (must include the night of the event). Children are permitted during the hours of the buyout; beginning at 3 p.m. on the arrival date and ending at 12 p.m. on departure day. Minors are not allowed on property outside of those time periods. Buyouts also require a Food &amp; Beverage Minimum Revenue and a Spa Minimum Revenue.</li>
             <li>Farm Events: Weddings booked at the Travaasa Farm do not require guests rooms and minors are allowed at the Farm with appropriate adult supervision.</li>
         </ul>
         <h2 name="faq2">CEREMONY/ RECEPTION</h2>
@@ -455,8 +455,8 @@
         <h2 name="faq5">SPA</h2>
         <h4 id="istherearequirementtohavespaservices">Is there a requirement to have spa services?</h4>
         <ul>
-            <li>Buy-Outs require a Spa Revenue Minimum, which is determined by the time of year and day of the week. Spa Revenue Minimum’s can be met by booking appointments. Should the actualized spa revenue fall below the Minimum the Responsible Party will be responsible for the difference.</li>
-            <li>Non Buy-Out’s are not required to book spa treatments at the spa. Keep in mind that the Travaasa Austin Spa is open to the public and takes appointments from 9 a.m. to 7 p.m. daily. The spa is also located at the pool deck and the pool must be made available to spa day guests. In order to use the pool exclusively it is required to buy-out the spa during the time you wish to use the space.</li>
+            <li>Buyouts require a Spa Revenue Minimum, which is determined by the time of year and day of the week. Spa Revenue Minimum’s can be met by booking appointments. Should the actualized spa revenue fall below the Minimum the Responsible Party will be responsible for the difference.</li>
+            <li>Non-buyout’s are not required to book spa treatments at the spa. Keep in mind that the Travaasa Austin Spa is open to the public and takes appointments from 9 a.m. to 7 p.m. daily. The spa is also located at the pool deck and the pool must be made available to spa day guests. In order to use the pool exclusively it is required to buyout the spa during the time you wish to use the space.</li>
         </ul>
         <h4 id="doservicesacquiredbymyguestscounttowardstheminimumrequirement">Do services acquired by my guests count towards the minimum requirement?</h4>
         <ul>
