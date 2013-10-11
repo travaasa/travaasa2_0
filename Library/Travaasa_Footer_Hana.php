@@ -46,7 +46,7 @@ Fax: 808-248-7202<br>
       <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
       <a href="http://www.travaasa.com/blog">BLOG</a><br>
       <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
-      <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
+      <a href="http://travaasa.com/careers">CAREERS</a><br>
       <a href="/hana/hana-groups-and-meetings/#/proposal">REQUEST FOR PROPOSAL</a><br>
 	  <a href="/site-map">SITE MAP</a></p>
     </div>
