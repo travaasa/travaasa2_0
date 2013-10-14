@@ -54,7 +54,7 @@
       	<p>TALK TO OUR SALES DEPARTMENT</p>
         <h2 class="big">512-334-4649</h2>
         <p>or <a href="mailto:austinsales@travaasa.com" target="_blank">austinsales@travaasa.com</a><br><br>
-        <a class="btn" href="#proposal">REQUEST FOR PROPOSAL</a></p>
+        <a class="btn-jorah" href="#proposal">REQUEST FOR PROPOSAL</a></p>
       </div>
   </section>
   <section class="tabbed_container pad">
@@ -448,19 +448,19 @@ austinsales@travaasa.com</a></td>
     <div id="toolkit" class="tab_data">
         <div class="tab_data_inner">
             <div class="group">
-            	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Meeting-Planners-Guide.pdf" class="btn fitwidth" target="_blank">Meeting Planners Guide</a></div>
-            	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Meeting-Space-Capacities.pdf" class="btn fitwidth" target="_blank">Meeting Space Capacites</a></div>
-            	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Meeting-Packages.pdf" class="btn fitwidth" target="_blank">Meeting Packages</a></div>
+            	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Meeting-Planners-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Planners Guide</a></div>
+            	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Meeting-Space-Capacities.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Space Capacites</a></div>
+            	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Meeting-Packages.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Packages</a></div>
             </div>   
             <div class="group">  
-            	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>					
-                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Wine-Pairings.pdf" class="btn fitwidth" target="_blank">Wine Pairings</a></div>
-                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Group-Activities.pdf" class="btn fitwidth" target="_blank">Group Activities</a></div>
+            	<div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn-jorah fitwidth" target="_blank">Property Map</a></div>					
+                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Wine-Pairings.pdf" class="btn-jorah fitwidth" target="_blank">Wine Pairings</a></div>
+                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Group-Activities.pdf" class="btn-jorah fitwidth" target="_blank">Group Activities</a></div>
             </div>   
             <div class="group">
-                <div class="col span_1_of_3"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Travaasa Austin Spa Guide</a></div>
-                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Sustainability.pdf" class="btn fitwidth" target="_blank">Sustainability</a></div>
-                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Golf.pdf" class="btn fitwidth" target="_blank">Golf at Travaasa</a></div>
+                <div class="col span_1_of_3"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn-jorah fitwidth" target="_blank">Travaasa Austin Spa Guide</a></div>
+                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Sustainability.pdf" class="btn-jorah fitwidth" target="_blank">Sustainability</a></div>
+                <div class="col span_1_of_3"><a href="/pdf/Travaasa-Austin-Golf.pdf" class="btn-jorah fitwidth" target="_blank">Golf at Travaasa</a></div>
 			</div>
             <br><hr><br>
             <h4>Meeting Facilities</h4>
@@ -562,7 +562,7 @@ austinsales@travaasa.com</a></td>
             <h4>Constructive Challenges</h4>
             <p>These leadership activities involve a series of fun and challenging scenarios, requiring participation and collaboration from the entire group. Our facilitators lead your team through activity stations, each taking 15-45 minutes. We offer a full range of options for stations, from simple group games to complex mental and physical challenges. For example, the team must cross a “river” using only the materials provided. Afterwards, facilitators offer a short debriefing session and encourage participants to share insights and make connections to real world situations.
             Check out our most popular packages below or completely customize your own. Our leadership staff is available to help you choose which package fits your team and desired outcome.</p>
-             <p><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn">Group Activities Pricing</a></p>
+             <p><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn-jorah">Group Activities Pricing</a></p>
         </div>
     </div>
     <div id="weddings" class="tab_data">
