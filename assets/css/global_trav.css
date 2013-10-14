@@ -177,6 +177,44 @@ text-decoration:underline;
 .more,  #content .more { text-decoration:none; font-size:70%; padding:4px 8px; display:inline-block; background-color:#E16986; color:white; font-weight:bold; margin-left:8px; line-height:110%; }
 .more:hover { background-color:#D7385E; color:white; }
 
+.btn-jorah { 
+	display:inline-block; 
+	margin:0; 
+	padding:11px 14px 8px 14px; 
+	background:#D7385E; 
+	font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif;
+	color:white;
+	text-decoration:none;
+	font-size:.8em;
+	cursor:pointer;
+	-webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+
+	position: relative;
+    -webkit-box-shadow: 0px 6px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.5);
+    -moz-box-shadow: 0px 6px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.5);
+    box-shadow: 0px 6px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.5);
+    marginOLD: 100px auto;
+	widthOLD: 160px;
+	text-align: center;
+	
+	-webkit-transition: all .1s ease;
+	-moz-transition: all .1s ease;
+	-ms-transition: all .1s ease;
+	-o-transition: all .1s ease;
+	transition: all .1s ease;
+}
+
+.btn-jorah:hover {
+    -webkit-box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.8);
+    -moz-box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.8);
+    box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.8);
+    position: relative;
+    top: 5px;
+    color:#f1f1f1;
+}
+
 
 /* IMAGES ============================================================================= */
 
