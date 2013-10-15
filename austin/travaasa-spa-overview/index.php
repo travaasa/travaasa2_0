@@ -353,20 +353,20 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
             <h4>SEASONAL HARVEST TREATMENTS</h4>
-            <p>This season, until November 30th harvest treatments for face and body. Pumpkin, known for its detoxifying qualities, skin feeding nutrients, minerals and enzymes, will give your skin a radiant, healthy glow.</p>
+            <p>In the spirit of fall, we invite you to enjoy exclusive harvest treatments through November 30th. Featuring pumpkin, an ingredient known for its detoxifying qualities and skin-perfecting nutrients, minerals and enzymes, these unique treatments leave skin glowing and healthy.</p>
             <section class="spa_package">
                 <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
-                <p>Taking advantage of the cleansing and soothing properties of nettle, grape and carrot, your skin will be gently cleansed and toned. A pumpkin, orange and cinnamon mask will increase circulation and feed your skin with vitamins A, E and C. A soothing carrot mask followed by a carotene cream massage completes this facial. Perfect for dry, devitalized skin.</p>
+                <p>Utilizing the cleansing and soothing properties of nettle, grape and carrot, this facial gently cleanses and tones. Infusing skin with vitamins A, E and C, the pumpkin, orange and cinnamon mask increases circulation. Following, the soothing carrot mask and carotene cream massage, revitalizes dry, dehydrated skin.</p>
                 <h5>80 minutes &#8211; $180.00</h5>
             </section>
             <section class="spa_package">
                 <h4>PUMPKIN PEEL FACIAL</h4>
-                <p>This is our Farm to Face Facial, we add a third mask, by including a Pumpkin Peel to your facial. Great for skin that needs to be toned and balanced, or acne-prone skin. Brightens the skin immediately.</p>
+                <p>An add-on to the Farm-to-Face Facial, our unique Pumpkin Peel balances uneven complexion and is ideal for acne-prone skin. Skin is left instantly brighter and more vibrant.</p>
                 <h5>80 minutes &#8211; $195.00</h5>
             </section>
             <section class="spa_package">
                 <h4>FARM-TO-BODY PUMPKIN DETOX BODY WRAP</h4>
-                <p>Detox and sooth your body with organic Pumpkin from our farm, and our base line of ilike organic body care. Stimulating and exfoliating, Orange and Cinnamon will clean and balance your body, while pumpkin nourishes and rehydrates. A calming Linden and Marigold cream massage completes this fall harvest treatment.</p>
+                <p>For a whole-body detox, try a soothing body wrap that incorporates organic pumpkin (sourced from Travaasa’s own farm) in addition to products from our spa's base line, ilike organic body care. The orange and cinnamon ingredients clean and balance skin, while the nutrient-rich pumpkin works to nourish and rehydrate. A calming linden and marigold cream massage completes the treatment.</p>
                 <h5>80 minutes &#8211; $185.00</h5>
             </section>
             <h4>SPECIAL PACKAGES</h4>
