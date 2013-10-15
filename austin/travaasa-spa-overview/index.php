@@ -57,7 +57,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     	<div class="tabbed_group">
         	<h5>For guests staying at Travaasa Austin</h5>
             <ul class="tabbed_list">
-                <li id="tab_6"><a href="#special_packages">Special Packages</a></li>
+                <li id="tab_6"><a href="#special_packages">Special Packages&nbsp;&nbsp;&#38;&nbsp;&nbsp;Seasonal Treatments</a></li>
                 <li id="tab_1"><a href="#body_treatments">Body Treatments</a></li>
                 <li id="tab_2"><a href="#facials">Facials</a></li>
                 <li id="tab_4"><a href="#massage_therapy">Massage Therapy</a></li>
@@ -352,21 +352,39 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     </div>
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
+            <h4>SEASONAL HARVEST TREATMENTS</h4>
+            <p>This season, until November 30th harvest treatments for face and body. Pumpkin, known for its detoxifying qualities, skin feeding nutrients, minerals and enzymes, will give your skin a radiant, healthy glow.</p>
+            <section class="spa_package">
+                <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
+                <p>Taking advantage of the cleansing and soothing properties of nettle, grape and carrot, your skin will be gently cleansed and toned. A pumpkin, orange and cinnamon mask will increase circulation and feed your skin with vitamins A, E and C. A soothing carrot mask followed by a carotene cream massage completes this facial. Perfect for dry, devitalized skin.</p>
+                <h5>80 minutes &#8211; $180.00</h5>
+            </section>
+            <section class="spa_package">
+                <h4>PUMPKIN PEEL FACIAL</h4>
+                <p>This is our Farm to Face Facial, we add a third mask, by including a Pumpkin Peel to your facial. Great for skin that needs to be toned and balanced, or acne-prone skin. Brightens the skin immediately.</p>
+                <h5>80 minutes &#8211; $195.00</h5>
+            </section>
+            <section class="spa_package">
+                <h4>FARM-TO-BODY PUMPKIN DETOX BODY WRAP</h4>
+                <p>Detox and sooth your body with organic Pumpkin from our farm, and our base line of ilike organic body care. Stimulating and exfoliating, Orange and Cinnamon will clean and balance your body, while pumpkin nourishes and rehydrates. A calming Linden and Marigold cream massage completes this fall harvest treatment.</p>
+                <h5>80 minutes &#8211; $185.00</h5>
+            </section>
+            <h4>SPECIAL PACKAGES</h4>
             <p>For those who want the convenience of choosing a spa package, Travaasa offers several different options—including full- and half-day packages.</p>
             <section class="spa_package">
                 <h4>ULTIMATE BLISS FULL-DAY PACKAGE</h4>
                 <p>Experience bliss and total relaxation with a Full-Day Spa Package that will nurture your body from head to toe. It begins with an Ancient Purification Body Treatment, a Swedish Massage and Nurturing Scalp Treatment followed by a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment. A healthy lunch in Jean's Kitchen is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
-                <h5>5 hours - $615.00</h5>
+                <h5>5 hours &#8211; $615.00</h5>
             </section>
             <section class="spa_package">
                 <h4>SERENE &amp; CALM HALF-DAY PACKAGE</h4>
                 <p>Unwind and renew with an amazing Half-Day Spa Package that will restore and renew your mind, body and spirit. Begin with an Invigorating Avocado Wrap Body Treatment followed by an Organic Ultimate Hydration Facial and finally a Lavender Vanilla Hand Treatment. All gratuities are included; tax is additional.</p>
-                <h5>3 hours - $380.00</h5>
+                <h5>3 hours &#8211; $380.00</h5>
             </section>
             <section class="spa_package">
                 <h4>MEN'S "WHAT ALES YOU" PACKAGE</h4>
                 <p>Let your aches and pains melt away like a Texas Sunset. This exclusive men's package begins with an Energetic Edge 80-minute massage followed by a Peppermint Zenergy Foot Treatment. End your experience with an organic Texas ale, included in the price. All gratuities are included; tax is additional.</p>
-                <h5>2 hours - $265.00</h5>
+                <h5>2 hours &#8211; $265.00</h5>
             </section>
     		<p class="description">All package gratuities are included; tax is additional.</p>
         </div>
