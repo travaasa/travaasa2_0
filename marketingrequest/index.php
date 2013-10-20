@@ -34,11 +34,7 @@
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <div class="group">
-  <div class="col span_3_of_3" style="text-align:center;"><a class="btn-jorah scroll" href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank">CLICK HERE TO PURCHASE TICKETS</a></div>
-  <div class="col span_3_of_3" style="text-align:center;"><a href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank"><img src="/assets/images/harvest-dinner-poster-2013.png"></a></div>
-  <!--<div class="col span_1_of_3"><iframe id="widget-frame" src="https://travaasaharvestdinner.ticketbud.com/houston2013/external" scrolling="yes" frameborder="0" style="height: 500px; width: 460px;"></iframe></div>-->
-</div>
+          <iframe height="1700" allowTransparency="true" frameborder="0" scrolling="no" style="width:666px; border:none; padding: 20px 20px 20px 20px;"  src="https://travaasa.wufoo.com/embed/zkmeq3x09f1rlc/"></iframe>
   </section>
 </article>
 </section>

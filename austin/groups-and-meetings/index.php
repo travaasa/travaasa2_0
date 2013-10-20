@@ -44,11 +44,8 @@
 <article id="main">
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
-          <h1>Groups and Meetings</h1>
-          <p>Travaasa sits nestled in 210 acres of the Balcones Canyonlands Preserve overlooking beautiful Lake Travis just 30 minutes from downtown Austin. There are 70 guestrooms located within seven buildings set along meandering paths with scenic Texas Hill Country views. The property includes a 3.25-acre working organic farm, a challenge course, a state-of-the-art fitness center, a tranquil spa with infinity edge pool, a beautifully appointed dining area with an exhibition kitchen, and an outdoor patio with sunset views.</p>
-<h4>A New Type of Experiential Hotel</h4>
-<p>Travaasa is an ideal location for Corporate Meetings and Executive Retreats. The boutique hotel property boasts invigorating group activities and team building, regional culinary experiences, and authentic customizable meetings.</p>
-<p>Austin Bergstrom International Airport is easily accessible with nonstop and direct flights from numerous cities. With Austin’s warm and sunny climate, Travaasa is the perfect setting year-round.</p>
+          <h1>Groups &amp; Meetings</h1>
+            <p>Travaasa is an ideal location for Corporate Meetings and Executive Retreats. The boutique hotel property boasts invigorating group activities and team building, regional culinary experiences, and authentic customizable meetings.</p>
       </div>
       <div class="col span_3_of_9">
       	<p>TALK TO OUR SALES DEPARTMENT</p>
@@ -562,7 +559,7 @@ austinsales@travaasa.com</a></td>
             <h4>Constructive Challenges</h4>
             <p>These leadership activities involve a series of fun and challenging scenarios, requiring participation and collaboration from the entire group. Our facilitators lead your team through activity stations, each taking 15-45 minutes. We offer a full range of options for stations, from simple group games to complex mental and physical challenges. For example, the team must cross a “river” using only the materials provided. Afterwards, facilitators offer a short debriefing session and encourage participants to share insights and make connections to real world situations.
             Check out our most popular packages below or completely customize your own. Our leadership staff is available to help you choose which package fits your team and desired outcome.</p>
-             <p><a href="/pdf/Travaasa-Austin-Teambuilding.pdf" class="btn-jorah">Group Activities Pricing</a></p>
+             <p><a href="/pdf/Travaasa-Austin-Group-Activities.pdf" class="btn-jorah">Group Activities Pricing</a></p>
         </div>
     </div>
     <div id="weddings" class="tab_data">
