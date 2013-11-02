@@ -96,7 +96,7 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_december_2013_1600x640.jpg" alt="December is joy month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_december_2013_1600x640_austin.jpg" alt="December is joy month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
