@@ -131,12 +131,12 @@
             </div>
 
             <div class="listing">
-              <h6>JUMP FOR JOY WITH INTERVAL TRAINING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+              <h6>JUMP FOR JOY WITH INTERVAL TRAINING <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Dread cardio days? Mix it up with jump roping and a variety of other plyometric exercises that utilize the BOSU ball and other small props to blast away fat. You'll torch as many as 700 calories in less than 45 minutes! In this intense yet fun-filled class, you’ll stay mentally focused and physically challenged, all throughout your workout.</p>
             </div>
 
             <div class="listing">
-              <h6>CORE ELATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+              <h6>CORE ELATION <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Experience the joy of finding your powerhouse at the center of your body with this core elation class.</p>
             </div>
 
@@ -154,6 +154,11 @@
             <div class="listing">
               <h6>PILATES IN MOTION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Flow from one Pilates move to the other, unwrapping all the energy that comes from mindful breathing and identifying your center. Find joy in the freedom of movement inherent to this practice.</p>
+            </div>
+
+            <div class="listing">
+              <h6>"Celebrate your Inner Joy" Yoga <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Activate and celebrate inner joy a unique yoga practice that focuses on sequences designed to stimulate nourish and open the heart. To facilitate an expansion of the physical and emotional heart-space, this class will combine asana (physical postures), Mudras (yogic hand positions) and vocal toning.</p>
             </div>
 
             
