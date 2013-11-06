@@ -45,7 +45,7 @@
             <h4>Sea Ranch Cottages</h4>
             <p>Features and amenities include:</p>
             <ul class="description">
-                <li>All-inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
+                <li>Inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
                 <li>Private, expansive lanais with <a href="/assets/images/gallery/hana/1433-sea-ranch-view.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage View">views</a> of the Pacific Ocean, some with their own private hot tubs</li>
                 <li>Organic linens and blankets</li>
                 <li>Made in Maui bath products</li>
