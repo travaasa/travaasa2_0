@@ -1,12 +1,12 @@
 
 <!DOCTYPE html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa - Real Travel for Real Experiences.</title>
-	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<meta name="author" content="www.doner.com">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Travaasa - Real Travel for Real Experiences.</title>
+  <meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
+  <meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
+  <meta name="author" content="www.doner.com">
 <!--<link rel="shortcut icon" href="/assets/images/global/favicon.png">-->
 <link rel="icon" type="image/png" href="/assets/images/global/favicon.png" />
 <!-- Responsive and mobile friendly stuff -->
@@ -42,8 +42,8 @@
   <div id="logo"><a href="/"><span>TRAVAASA Experiential Resorts</span></a></div>
   <nav id="main_nav" class="clearfix">
     <ul class="location_selector_nav menu_top">
-    	<li class="menu_main"><a href="/austin" id="current_location">AUSTIN, TX</a>
-        	<ul class="menu_sub">
+      <li class="menu_main"><a href="/austin" id="current_location">AUSTIN, TX</a>
+          <ul class="menu_sub">
                 <li><a href="/hana">HANA, MAUI</a></li>
                 <li><a href="/austin">AUSTIN, TX</a></li>
              </ul>
@@ -103,7 +103,7 @@
 <article id="main">
   <section class="intro pad clearfix">    
     <div class="section group">
-    	<div class="col span_1_of_2">
+      <div class="col span_1_of_2">
             <!--<div class="listing">
                 <h6>XXXXXX <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>OOOOOOOOOOOOOOO</p>
@@ -121,89 +121,117 @@
             <h2>Fitness</h2>
 
             <div class="listing">
-              <h6>DANCE, DANCE, DANCE <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Find the joy in movement as you play with various forms of dance, from traditional hula dancing to rumba and Texas two-step.</p>
-            </div>
-
-            <div class="listing">
-              <h6>JOYOUS CHI <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Practice this ancient art to unleash the blissful energy found within your mind and body.</p>
-            </div>
-
-            <div class="listing">
-              <h6>JUMP FOR JOY WITH INTERVAL TRAINING <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+              <h6>BOOST YOUR CARDIO - JUMP ROPE INTERVALS <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Dread cardio days? Mix it up with jump roping and a variety of other plyometric exercises that utilize the BOSU ball and other small props to blast away fat. You'll torch as many as 700 calories in less than 45 minutes! In this intense yet fun-filled class, you’ll stay mentally focused and physically challenged, all throughout your workout.</p>
             </div>
 
             <div class="listing">
-              <h6>CORE ELATION <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Experience the joy of finding your powerhouse at the center of your body with this core elation class.</p>
+              <h6>POWER UP METABOLIC WORKOUT <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Get the “biggest bang for your buck" using your stabilization, balance, power exercises and fun props to improve the capacity of your energy systems. Alternating intense exercises with rest intervals, you can complete a large amount of work in minimal time. Get ready for metabolic training that increases your capacity for high-intensity exercise while torching calories.</p>
             </div>
 
-            <div class="listing">
-              <h6>REACHING FOR NEW HEIGHTS WITH STICK EXERCISE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Find joy in a more functional and aesthetically balanced body using The Stick. Reach new heights with targeted stretches and exercises that help increase your range of motion, improve flexibility and develop muscle strength.</p>
+             <div class="listing">
+              <h6>VITAL BREATH WORK <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Breathing is vital to our wellbeing and the proper function of our muscular and organ systems. Learn the various types of breath and how to connect with your inner body. The result is greater awareness of your breathing patterns plus improved functionality, range of motion and state of mind.</p>
             </div>
 
-            <div class="listing">
-              <h6>EXPLORE THE JOY OF HULA HOOPING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Re-connect with your inner child and find the joy of hula hooping (while burning loads of calories). This back-to-basics fitness hula-hooping class will show you how hula hooping can be fun and fat blasting!</p>
+             <div class="listing">
+              <h6>BOOST YOUR GABA YOGA THERAPY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Yoga, the popular joint-loosening, muscle-toning exercise method, cranks up brain levels of gamma-aminobutyric acid (GABA), a neurotransmitter that helps take the edge off anxiety and bust up blue moods. Get into the present moment and into the physical body by practicing yoga poses that activate your vagus nerve, enabling a whole chain of all-around good feelings.</p>
+            </div>
+
+             <div class="listing">
+              <h6>VIVA FOOTWORKS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>We constantly put our feet to work without giving them proper care. Viva your feet for better mobility, posture and a healthier lifestyle! With this class, you will learn the proper massage and mechanics that can help strengthen muscles and heal aches and pains associated with overworked feet.</p>
+            </div>
+
+             <div class="listing">
+              <h6>EXPLORE THE VIGOR OF PILATES <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Beneficial to your overall health, mobility, strength and power, Pilates method works to activate the inner unit of the axial body, helping to develop the deeper muscles of your core. With proper breath and form, just one Pilates class can improve your posture, as well as increase your stamina and vigor.</p>
+            </div>
+
+             <div class="listing">
+              <h6>TAI CHI AND ENERGY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Learn the fundamentals of Tai Chi and the energy centers of your physical body and the world around you. You will leave with a heightened awareness of both your physical vitality and your spiritual energy. </p>
+            </div>
+
+             <div class="listing">
+              <h6>ZUMBA POWER <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Zumba is a revolutionary fitness experience that takes you on an unforgettable, exhilarating journey to a healthier and happier lifestyle. Jam-packed with steaming hot dance moves, pulsating Latin and international rhythms and feel-it-to-the-core routines, this invigorating dance-fitness party will have you movin' and groovin' all class long.</p>
+            </div>
+
+             <div class="listing">
+              <h6>YOGA FOR VITALITY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Cultivate vitality during this intermediate yoga class that mixes flow, vinyasa and longer held poses to increase blood flow, flexibility, awareness and detoxification.</p>
             </div>
 
 
-            <div class="listing">
-              <h6>PILATES IN MOTION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Flow from one Pilates move to the other, unwrapping all the energy that comes from mindful breathing and identifying your center. Find joy in the freedom of movement inherent to this practice.</p>
-            </div>
-
-            <div class="listing">
-              <h6>"Celebrate your Inner Joy" Yoga <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Activate and celebrate inner joy a unique yoga practice that focuses on sequences designed to stimulate nourish and open the heart. To facilitate an expansion of the physical and emotional heart-space, this class will combine asana (physical postures), Mudras (yogic hand positions) and vocal toning.</p>
-            </div>
-
-            
-               </div>
+                       </div>
           <div class="col span_1_of_2">
 
-            <div class="listing">
-              <h6>FOOT CARE UNWRAPPED <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn relaxing massage, strengthening techniques and all the postural benefits that come with proper foot care.</p>
+             <div class="listing">
+              <h6>NEW TO YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This beginner’s yoga class will cover the basics and fundamentals of hatha yoga. You will leave with a better understanding of how to find proper alignment and alter poses to better suit your body.</p>
             </div>
 
+             <div class="listing">
+              <h6>AWAKENING WALKING MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Awaken to all the sensations of this present moment through a walking mind/body awareness meditation.</p>
+            </div>
 
-            <div class="listing">
-              <h6>BREATH OF JOY AND YOUR CORE | YOGA THERAPY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Practice the breath of joy. Learn how to connect your breathing with your inner unit, the intrinsic muscles of your core. Feel this renewed inner girdle of strength that will bring expansiveness to your body and its movement.</p>
+             <div class="listing">
+              <h6>VITALITY PRANAYAMA<span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Learn the anatomy of breath as well as a few "pranayama" (breathing techniques) geared towards helping balance the mind.</p>
+            </div>
+
+             <div class="listing">
+              <h6>JUMP INTO MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Learn the basics of sitting and clearing the mind as we lead you through a brief, single-pointed focus meditation, an exercise meant to motivate frequent, purposeful meditation on a daily basis.</p>
+            </div>
+
+             <div class="listing">
+              <h6>HATHA YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Hatha yoga is a general yoga class that can be altered to suit a variety of levels.</p>
             </div>
 
             <div class="listing">
-              <h6>JOURNALING | JOURNEY INTO JOYOUS THOUGHTS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Preserve your most joyous moments in your journal. Journaling helps to allow positive moments to continuously unfold in your thoughts and daily life.</p>
+              <h6>INCREASE YOUR COMPASSION MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Allow our staff to lead you through the ancient compassion cultivating technique Tonglen, often referred to as “exchanging oneself with others.”</p>
+            </div>
+
+            <div class="listing">
+              <h6>YOGA – SHINE WITH VITALITY <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Shine with vitality and salute the new year with sun salutations! Highlighting individual postures, and focusing on various nuances of the sun salutation, this practice will deepen the foundation of individual postures, while building to a fluid, repetitive sequence that strengthens and revitalizes the body-spirit.</p>
             </div>
 
           <h2>Culinary</h2>
 
             <div class="listing">
-              <h6>COOKIE DECORATING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Baking and decorating cookies may seem like a daunting task.  Learn simple decorating secrets from the pros.</p>
-            </div>
-
-          <h2>Culture</h2>
-
-            <div class="listing">
-              <h6>NATURAL ORNAMENTS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Nature provides us with beautiful objects that can be crafted into unique gifts and ornaments for our holiday trees.  Our team will help you create decorations that will last for years to come.</p>
+              <h6>JUICING FOR VITALITY <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Excellent for physically active people, these energy-boosting juicing recipes can provide a boost of energy and vital nutrients, promoting muscle growth and improved physical performance.</p>
             </div>
 
             <div class="listing">
-              <h6>MELE `UKULELE <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Christmas is the happiest time of year shared with loved ones through singing, gifts and laughter. This year, take a new Christmas carol home with you. Learn a Hawaiian Christmas carol also known as a "mele" and play it on the `ukulele.</p>
+              <h6>VITAL HEALTHY EATING HABITS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This year, stick to your New Year’s resolution with a few tips and tricks for easier, healthier meals at home. Learn to quickly whip up easy, healthy meals that can improve your health and overall wellbeing. </p>
             </div>
 
-                     <div class="listing">
-              <h6>HAPPY HULA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Hula is a fun way to share stories through dance and music. Take your childhood Christmas carols and put them in motion, "Hawaiian Style." You’ll learn all the graceful hand and foot movements that go along with these beloved carols.</p>
+             <h2>Culture</h2>
+
+            <div class="listing">
+              <h6>NĀ HULA KA`I – BASIC HULA STEPS <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Move your feet to the beat of an Ipu Heke (gourd). You will learn the ancient form of hula while strengthening your core and balance. Come ready to sweat!</p>
             </div>
+                   <div class="listing">
+              <h6>A STRONG THROW <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Discover your inner strength through learning the art of fish net throwing. You will develop a technique this method of fishing while simultaneously getting a great workout by diving in for your own catch!</p>
+            </div>
+
+
+
+
+
+            
 
      </div>
     </div>   
@@ -211,7 +239,7 @@
   
   <section class="grey pad">
         <h4>See upcoming months</h4>
-  		<div class="group">
+      <div class="group">
             <div class="col span_1_of_3 month"><div><a href="/calendar/2013/october/"><img src="/assets/images/months/oct-harvest.png" alt="October is Harvest Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2013/november/"><img src="/assets/images/months/nov-stop.png" alt="November is Stop Month"></a></div></div>
             <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2013/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
@@ -221,7 +249,7 @@
 </article>
 </section>
 <section id="comments" class="section group">
-	<div class="pad">
+  <div class="pad">
         <div class="col span_1_of_7">
             <img src="/assets/images/global/trip-advisor.png" alt="As seen of TripAdvisor">
         </div>
@@ -236,7 +264,7 @@
         </div>
      </div>
 </section><div id="reservations-bar">
-	<div class="reservations-bar-inner">
+  <div class="reservations-bar-inner">
         <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-877-261-7792</noscript></p>
         <ul class="reservation_nav menu_top">
             <li class="reservation">
@@ -283,12 +311,12 @@ Fax: 512-506-9737<br>
       <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
       <a href="http://travaasa.com/careers">CAREERS</a><br>
       <a href="/austin/groups-and-meetings/#/proposal">REQUEST FOR PROPOSAL</a><br>
-	  <a href="/site-map">SITE MAP</a></p>
+    <a href="/site-map">SITE MAP</a></p>
     </div>
     <div class="col span_1_of_4">
       <h2 class="hdr">FOLLOW US</h2>
       <ul id="social" class="clearfix">
-      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
+        <li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
         <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="/assets/images/global/transparent.gif" alt="Twitter"></a></li>
         <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="/assets/images/global/transparent.gif" alt="YouTube"></a></li>
         <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
@@ -432,7 +460,7 @@ if(oldonload){oldonload()}};
 </script>
 <!-- end IMI retargeting --><script type="text/javascript">
 $(function() {
-	createSubpageStorylines(true, true);
+  createSubpageStorylines(true, true);
 });
 </script>
 </body>
