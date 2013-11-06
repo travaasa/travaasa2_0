@@ -365,7 +365,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             </section>
             <section class="spa_package">
                 <h4>PUMPKIN PEEL FACIAL</h4>
-                <p>An add-on to the Farm-to-Face Facial, our unique Pumpkin Peel balances uneven complexion and is ideal for acne-prone skin. Skin is left instantly brighter and more vibrant.</p>
+                <p>Our unique Pumpkin Peel balances uneven complexion and is ideal for acne-prone skin. Skin is left instantly brighter and more vibrant.</p>
                 <h5>80 minutes &#8211; $195.00</h5>
             </section>
             <section class="spa_package">
