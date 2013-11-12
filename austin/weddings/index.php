@@ -228,9 +228,9 @@
                 <li>The Wedding Couple is required to hire an outside wedding coordinator/planner.</li>
                 <li>Guests room block requirement of 70 guest rooms for a two-night minimum.</li>
                 <li>Allowance for children during buyout dates/times</li>
-                <li>A Food & Beverage minimum guarentee</li>
-                <li>A Spa minimum guarentee</li>
-                <li>$2,750 Event Fee. Event fee is subject to 22% service and 7.25% sales tax.</li>
+                <li>A Food & Beverage minimum guarantee</li>
+                <li>A Spa minimum guarantee</li>
+                <li>$2,750 Event Fee. Event fee is subject to 22% service and 8.25% sales tax.</li>
                 <li>There is a reset fee for the following locations: Infinity Pool, Jeans Kitchen and Mesquite Patio.</li>
 
 
@@ -328,7 +328,7 @@
         <h4 id="isthereanon-siteweddingcoordinator">Is there an on-site wedding coordinator?</h4>
         <ul>
             <li>As the selected venue for your wedding ceremony and/or reception Travaasa will provide expert assistance with food and beverage service and set up of all included items in the Travaasa Event Fee. Your event will be assigned a Venue Coordinator who will provide a detailed questionnaire to assist in your menu selections, set up requirements, proposed timeline, and vendor requirements. The Venue Coordinator will assist in ensuring that you have met all of your contractual obligations to the hotel and offer suggestions on how best to utilize the venue.</li>
-            <li>Travaasar equires that you work with a professional wedding planner to assist in planning your ceremony &amp; reception, facilitation of the ceremony rehearsal, finding outside vendors for needs beyond the inclusions of the hotel, and to orchestrate coordination the day of your ceremony and reception.</li>
+            <li>Travaasa requires that you work with a professional wedding planner to assist in planning your ceremony &amp; reception, facilitation of the ceremony rehearsal, finding outside vendors for needs beyond the inclusions of the hotel, and to orchestrate coordination the day of your ceremony and reception.</li>
         </ul>
         <h4 id="whathappensifitrains">What happens if it rains?</h4>
         <ul>
