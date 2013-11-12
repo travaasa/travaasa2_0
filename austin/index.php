@@ -23,7 +23,7 @@
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">  
       <div class="slide"><a href="/austin/farm/" ><img data-original="/assets/images/feature_austin_1600x640_farm2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
-      <div class="slide"><a href="https://travaasa.ticketbud.com/texas-monthly-bbq-fest-travaasa-pre-sale" target="_blank"><img data-original="/assets/images/feature_home_1600x640_tmbbq.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank"><img data-original="/assets/images/feature_home_1600x640_harvest-dinner-2013.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="/assets/images/feature_austin_1600x640_dayvideo_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <!--<div class="slide"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="/assets/images/feature_home_1600x640_mondavi-wine-dinner.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->    
       <!--<div class="slide"><a href="/austin/travaasa-spa-overview/" ><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt="The Spa at Travaasa Austin"></a></div>-->

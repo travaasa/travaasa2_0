@@ -38,13 +38,13 @@
           <p>With the incredible abundance and inspiration of Hana to draw from, our Executive Chef has created a dining experience that's pure Travaasa – a celebration of life and the bounty of the earth that nourishes us body and soul. He's coined a name for his eclectic, creative culinary style: Hana Fusion, a combination of techniques from classical to innovative blending bold flavors with a focus on in-season, local ingredients.</p>
       </div>
   </section>
-  <section class="grey pad group">
+  <!--<section class="grey pad group">
     <dl class="floatright span_3_of_7 inset">
     	<dt><img src="/assets/images/hana_dining_executive_chef.jpg" alt="Executive Chef, Barry Villiarimo" class="fitwidth"></dt>
         <dd></dd>
     </dl>
     <p><strong>Executive Chef, Barry Villiarimo</strong><br>Chef Barry Villiarimo returned to Hana in 2010, coming full circle to where his career began. Raised in Hana, Chef Barry spent the previous twenty years heading up some of the finest hotel restaurants on the West Coast, including the Westin Bonaventure Hotel &amp; Suites in Los Angeles.<br><br>With a focus on farm-to-table cuisine, coupled with a blending of indigenous Hawaiian ingredients whenever possible, Chef Barry's attention to healthy eating is the perfect complement to Travaasa Hana's commitment to our guest's culinary enjoyment, health and well being.</p>
-  </section>
+  </section>-->
 </article>
 </section>
 <?php 
