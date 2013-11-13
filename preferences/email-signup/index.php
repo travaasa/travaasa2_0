@@ -50,8 +50,8 @@ endif;
     <section class="intro pad clearfix notheater">
           <!--<iframe height="700" allowTransparency="true" frameborder="0" scrolling="no" style="width:666px; border:none; padding: 20px 20px 20px 20px;"  src="https://travaasa.wufoo.com/embed/m1gbj6ka06fc414/"></iframe>
           <p></p>-->
-          <div id="wufoo-m1gbj6ka06fc414">
-Fill out my <a href="https://travaasa.wufoo.com/forms/m1gbj6ka06fc414">online form</a>.
+          <div style="margin-left:50px;" id="wufoo-m1gbj6ka06fc414">
+<!--<a href="https://travaasa.wufoo.com/forms/m1gbj6ka06fc414"></a>-->
 </div>
 <script type="text/javascript">var m1gbj6ka06fc414;(function(d, t) {
 var s = d.createElement(t), options = {
@@ -72,7 +72,7 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 })(document, 'script');</script>
   </section>
 
-  <p><a class="btn-list" href="/preferences/">GET ON THE LIST</a></p>
+  <!--<p><a class="btn-list" href="/preferences/">GET ON THE LIST</a></p>-->
   <!--<section class="intro pad clearfix">    
     <div class="section group">
 
