@@ -1,4 +1,4 @@
-/* BASIC PAGE SETUP ============================================================================= */
+#d BASIC PAGE SETUP ============================================================================= */
 html, body { 
 height: 100%;
 padding: 0;
@@ -75,7 +75,10 @@ p, ol, ul, dl, address {
 margin-bottom : 1.5em; 
 font-size : 1em; /* 16 / 16 = 1 */ }
 
-p { hyphens : auto;  }
+p {
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto; }
 
 ul, 
 ol { 
@@ -386,10 +389,10 @@ float: right;
 /* VENDOR-SPECIFIC ============================================================================= */
 
 html { 
--webkit-overflow-scrolling : touch; 
--webkit-tap-highlight-color : rgb(52,158,219); 
--webkit-text-size-adjust : 100%; 
--ms-text-size-adjust : 100%; }
+-webkit-overflow-scrolling: touch;
+-webkit-tap-highlight-color: rgb(52,158,219); 
+-webkit-text-size-adjust: 100%; 
+-ms-text-size-adjust: 100%; }
 
 .clear { clear:both; }
 .clearfix { zoom : 1; }
@@ -446,11 +449,12 @@ border : 0; }
 
 p {
 /* http://www.w3.org/TR/css3-text/#hyphenation */
--webkit-hyphens : auto;
--webkit-hyphenate-character : "\2010";
--webkit-hyphenate-limit-after : 1;
--webkit-hyphenate-limit-before : 3;
--moz-hyphens : auto; }
+-webkit-hyphens: auto;
+-webkit-hyphenate-character: "\2010";
+-webkit-hyphenate-limit-after: 1;
+-webkit-hyphenate-limit-before: 3;
+-moz-hyphens: auto;
+hyphens: auto; }
 
 .peFlareLightbox { text-align:left; }
 
@@ -507,7 +511,7 @@ p {
 .pricing li:last-child { border-right:none; }
 .pricing h2 { font-size:1.1em; margin:0; }
 .pricing p { font-size:.9em; margin:0; }
-.pricing h3 { font-size: 2.875em; font-family: 'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; 	; line-height:1; margin:0; }
+.pricing h3 { font-size: 2.875em; font-family: 'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; line-height:1; margin:0; }
 .pricing sup { font-size:60%; }
 .pricing_grp_sub .pricing li { width:98%; }
 #reservations-bar { position:fixed; bottom:-100px; right:0; width:100%; height:60px; overflow:hidden; z-index:9999; background: rgb(107,107,107); /* Old browsers */
@@ -526,7 +530,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b6b6b', end
 #reservations-bar .pricing { float:right; width:400px; font-size:70%; }
 #reservations-bar .pricing * { color:white; }
 #reservations-bar .pricing h2 { width:50%; float:left; text-align:right; }
-#reservations-bar .pricing h2 span { font-size:.7em; margin:0; font-family: 'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; 	; }
+#reservations-bar .pricing h2 span { font-size:.7em; margin:0; font-family: 'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; }
 #reservations-bar .pricing h3 { width:50%; float:right; }
 #reservations-bar .menu_top {
 	padding:0;
@@ -645,7 +649,7 @@ background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.6) 100%); /*
 background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.6) 100%); /* W3C */
 }
 .overlay-content-new h2 { color:white; font-size:.85em; text-align:right; padding:40px 140px 8px 24px; }
-.overlay-content-new h2 span { font-family: 'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; 	; }
+.overlay-content-new h2 span { font-family: 'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; }
 
 
 .mini_feature_carousel { height: 90%; width:100%; position: relative; }
@@ -711,7 +715,7 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 #content .tabbed_container { position:relative; }
 #content .tabbed_list_nav { display:block; float:left; width:30%; }
 #content .tabbed_list { display:block; margin:0; padding:0; list-style:none; }
-#content .tabbed_list li { background:#CFCCC7; color:#666666; display:block; padding:0; margin:0; list-style:none; font-size:.75em; text-transform:uppercase; font-family:'Gill Sans W04 Book', "Gill Sans MT", Calibri, sans-serif; 	; margin-bottom:1px; }
+#content .tabbed_list li { background:#CFCCC7; color:#666666; display:block; padding:0; margin:0; list-style:none; font-size:.75em; text-transform:uppercase; font-family:'Gill Sans W04 Book', "Gill Sans MT", Calibri, sans-serif; margin-bottom:1px; }
 #content .tabbed_list li a { display:block; padding:1em; color:#666666; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; text-decoration:none; }
 #content .tabbed_list li.on a, #content .tabbed_list li a:hover { background:#D7385E; color:white; }
 #content .tabbed_group { padding-bottom:14px; }
@@ -736,9 +740,9 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 
 /* SPA */
 .spa_package { padding:12px 0 20px; }
-.spa_package h4 { font-size:1em; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; 	; color:#0A1F25; }
+.spa_package h4 { font-size:1em; font-family:'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; color:#0A1F25; }
 .spa_package p { margin-bottom:12px; }
-.spa_package h5 { font-size:1.4em; font-family:'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; 	; color:#0A1F25; }
+.spa_package h5 { font-size:1.4em; font-family:'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; color:#0A1F25; }
 
 
 .frame-right { float:right; margin-left:30px; margin-bottom:30px; }
@@ -772,7 +776,7 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 }
 .compare-table td.compare-table-description-box-resort-fee {
     font-style: italic;
-    text-align: left-justify;
+    text-align: left;
     colorOLDBLUE: #56C4DC;
     background-colorOLDBLUEGRAY:#EEF9FC;
     color: #EA5965;
@@ -869,8 +873,16 @@ header { position:relative; background-color:#63CADF; }
 .experience-title { display:block; }
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio: 2), 
-only screen and (min-device-pixel-ratio: 2) {
+(-webkit-min-device-pixel-ratio: 2), 
+(min-resolution: 192dpi)
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
 	#logo,
 	.magnify,
 	.location_selector_nav li.menu_main a,
