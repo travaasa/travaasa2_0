@@ -23,10 +23,10 @@
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">  
       <div class="slide"><a href="/austin/farm/" ><img data-original="/assets/images/feature_austin_1600x640_farm2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
-      <div class="slide"><a href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank"><img data-original="/assets/images/feature_home_1600x640_harvest-dinner-2013.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <!--<div class="slide"><a href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank"><img data-original="/assets/images/feature_home_1600x640_harvest-dinner-2013.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->
       <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="/assets/images/feature_austin_1600x640_dayvideo_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <!--<div class="slide"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="/assets/images/feature_home_1600x640_mondavi-wine-dinner.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->    
-      <!--<div class="slide"><a href="/austin/travaasa-spa-overview/" ><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt="The Spa at Travaasa Austin"></a></div>-->
+      <div class="slide"><a href="/austin/travaasa-spa-overview/" ><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt="The Spa at Travaasa Austin"></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -39,6 +39,7 @@
           <p>The location of Travaasa Austin alone will inspire you. Surrounded by the ancient live oaks and undulating hills of the Balcones Canyonlands Preserve, our resort embraces nature … and is embraced by nature in return.<br><br>
 <strong>But this isn’t just another resort.</strong><br><br>
 As Texas's most active destination resort and spa, Travaasa Austin takes pride in offering its guests a compelling menu of inclusive guided adventures, culinary classes, cultural encounters, healing spa treatments, and fitness and wellness workshops, all located in a Zen-like preserve for the soul.</p>
+<a href="/austin/video/"><img class="videobox" width="350" src="/assets/images/play-button-600px-austin.jpg"></a>
       </div>
       <div class="pricing_grp col span_3_of_9"><br><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>

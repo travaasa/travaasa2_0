@@ -33,6 +33,7 @@
       <div class="col span_6_of_9">
           <h1>TRAVAASA HANA: MAUI'S LAST TRULY HAWAIIAN PLACE</h1>
           <p>Long considered one of the most remarkable resorts in Hawaii, Travaasa Hana (formerly known as Hotel Hana Maui) is now even better. In fact, it was voted the "No. 1 Resort in Hawaii" in <em>Condé Nast Traveler</em>'s 2011 Reader's Choice Awards.<br><br>Located in the town of Hana on the eastern tip of Maui, Travaasa Hana is the first resort on the island to greet the rising sun. Set amid rolling grass fields and palm trees above Kaihalulu Bay, Travaasa Hana will immerse you in the real Hawaii.</p>
+          <a href="/hana/video/"><img class="videobox" width="350" src="/assets/images/play-button-600px-hana.jpg"></a>
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?></div>
   </section>
