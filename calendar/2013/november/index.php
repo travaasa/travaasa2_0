@@ -72,7 +72,7 @@ endif;
 
             <div class="listing">
               <h6>ARCHERY: TURKEY SHOOT <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Enter Travaasa’s Wacky Turkey Shoot and you may win a prize. During each of our Archery classes this month, the participant with the best score will win a coupon good for a free dessert. Pumpkin pie anyone?</p>
+                <p>Enter Travaasa’s Wacky Turkey Shoot and you may win a prize.</p>
             </div>
 
              <h2>Culinary</h2>
