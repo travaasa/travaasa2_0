@@ -39,6 +39,7 @@
           <p>The location of Travaasa Austin alone will inspire you. Surrounded by the ancient live oaks and undulating hills of the Balcones Canyonlands Preserve, our resort embraces nature … and is embraced by nature in return.<br><br>
 <strong>But this isn’t just another resort.</strong><br><br>
 As Texas's most active destination resort and spa, Travaasa Austin takes pride in offering its guests a compelling menu of inclusive guided adventures, culinary classes, cultural encounters, healing spa treatments, and fitness and wellness workshops, all located in a Zen-like preserve for the soul.</p>
+<a href="/austin/video/"><img class="videobox" width="350" src="/assets/images/play-button-600px-austin.jpg"></a>
       </div>
       <div class="pricing_grp col span_3_of_9"><br><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>
