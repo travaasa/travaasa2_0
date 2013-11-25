@@ -120,118 +120,55 @@
              
             <h2>Fitness</h2>
 
+             <div class="listing">
+              <h6>PARTNER YOGA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Connect with others through creative, interactive asana. Come to class with a friend, or pair up with a partner upon arrival. Postural sequences encourage a playful, supportive, heart-opening practice. Use conscious breath and skillful techniques to help deepen your experience with each asana.</p>
+            </div>
+
+              <div class="listing">
+              <h6>THE HEART OF YOGA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>A heart-centered practice with a mix of hatha, vinyasa and meditation, allows you to open your heart, body and mind. Rooted in the foundational techniques of yoga asanas, each class focuses on alignment of poses and intention to open the heart toward kindness and compassion. </p>
+            </div>
+
+              <div class="listing">
+              <h6>OPEN YOUR HEART PILATES <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Work the intrinsic, deep muscles that support your spine and keep your extremities strong and flexible. The Pilates method helps with improving posture, joint range of motion, mobility and mind-body connection. Increase your body awareness and open your heart to learning to move with grace and fluidity.</p>
+            </div>
+
+              <div class="listing">
+              <h6>CARDIO CHALLENGE <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Get ready to go through some tough intervals that make your heart rate soar. Boot camp circuit training delivers maximum results in a minimum amount of time while promoting all-around fitness. We’ll challenge your body and mind as we mix up the moves and intensity of your workout to keep you motivated - while surrounded by 360° views of stunning Hana scenery. And our circuit wouldn’t be complete if we didn’t hit the beach!</p>
+            </div>
+
             <div class="listing">
-              <h6>BOOST YOUR CARDIO - JUMP ROPE INTERVALS <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Dread cardio days? Mix it up with jump roping and a variety of other plyometric exercises that utilize the BOSU ball and other small props to blast away fat. You'll torch as many as 700 calories in less than 45 minutes! In this intense yet fun-filled class, you’ll stay mentally focused and physically challenged, all throughout your workout.</p>
+              <h6>HED <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>TEXT.</p>
             </div>
 
             <div class="listing">
-              <h6>POWER UP METABOLIC WORKOUT <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Get the “biggest bang for your buck" using your stabilization, balance, power exercises and fun props to improve the capacity of your energy systems. Alternating intense exercises with rest intervals, you can complete a large amount of work in minimal time. Get ready for metabolic training that increases your capacity for high-intensity exercise while torching calories.</p>
+              <h6>HED <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>TEXT </p>
             </div>
 
-             <div class="listing">
-              <h6>VITAL BREATH WORK <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Breathing is vital to our wellbeing and the proper function of our muscular and organ systems. Learn the various types of breath and how to connect with your inner body. The result is greater awareness of your breathing patterns plus improved functionality, range of motion and state of mind.</p>
-            </div>
-
-             <div class="listing">
-              <h6>BOOST YOUR GABA YOGA THERAPY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Yoga, the popular joint-loosening, muscle-toning exercise method, cranks up brain levels of gamma-aminobutyric acid (GABA), a neurotransmitter that helps take the edge off anxiety and bust up blue moods. Get into the present moment and into the physical body by practicing yoga poses that activate your vagus nerve, enabling a whole chain of all-around good feelings.</p>
-            </div>
-
-             <div class="listing">
-              <h6>VIVA FOOTWORKS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>We constantly put our feet to work without giving them proper care. Viva your feet for better mobility, posture and a healthier lifestyle! With this class, you will learn the proper massage and mechanics that can help strengthen muscles and heal aches and pains associated with overworked feet.</p>
-            </div>
-
-             <div class="listing">
-              <h6>EXPLORE THE VIGOR OF PILATES <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Beneficial to your overall health, mobility, strength and power, Pilates method works to activate the inner unit of the axial body, helping to develop the deeper muscles of your core. With proper breath and form, just one Pilates class can improve your posture, as well as increase your stamina and vigor.</p>
-            </div>
-
-             <div class="listing">
-              <h6>TAI CHI AND ENERGY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn the fundamentals of Tai Chi and the energy centers of your physical body and the world around you. You will leave with a heightened awareness of both your physical vitality and your spiritual energy. </p>
-            </div>
-
-             <div class="listing">
-              <h6>ZUMBA POWER <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Zumba is a revolutionary fitness experience that takes you on an unforgettable, exhilarating journey to a healthier and happier lifestyle. Jam-packed with steaming hot dance moves, pulsating Latin and international rhythms and feel-it-to-the-core routines, this invigorating dance-fitness party will have you movin' and groovin' all class long.</p>
-            </div>
-
-             <div class="listing">
-              <h6>YOGA FOR VITALITY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Cultivate vitality during this intermediate yoga class that mixes flow, vinyasa and longer held poses to increase blood flow, flexibility, awareness and detoxification.</p>
-            </div>
-
-
-                       </div>
+               </div>
           <div class="col span_1_of_2">
 
-             <div class="listing">
-              <h6>NEW TO YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>This beginner’s yoga class will cover the basics and fundamentals of hatha yoga. You will leave with a better understanding of how to find proper alignment and alter poses to better suit your body.</p>
-            </div>
-
-             <div class="listing">
-              <h6>AWAKENING WALKING MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Awaken to all the sensations of this present moment through a walking mind/body awareness meditation.</p>
-            </div>
-
-             <div class="listing">
-              <h6>VITALITY PRANAYAMA<span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn the anatomy of breath as well as a few "pranayama" (breathing techniques) geared towards helping balance the mind.</p>
-            </div>
-
-             <div class="listing">
-              <h6>JUMP INTO MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn the basics of sitting and clearing the mind as we lead you through a brief, single-pointed focus meditation, an exercise meant to motivate frequent, purposeful meditation on a daily basis.</p>
-            </div>
-
-             <div class="listing">
-              <h6>HATHA YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Hatha yoga is a general yoga class that can be altered to suit a variety of levels.</p>
-            </div>
-
-            <div class="listing">
-              <h6>INCREASE YOUR COMPASSION MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Allow our staff to lead you through the ancient compassion cultivating technique Tonglen, often referred to as “exchanging oneself with others.”</p>
-            </div>
-
-            <div class="listing">
-              <h6>YOGA – SHINE WITH VITALITY <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Shine with vitality and salute the new year with sun salutations! Highlighting individual postures, and focusing on various nuances of the sun salutation, this practice will deepen the foundation of individual postures, while building to a fluid, repetitive sequence that strengthens and revitalizes the body-spirit.</p>
-            </div>
 
           <h2>Culinary</h2>
 
-            <div class="listing">
-              <h6>JUICING FOR VITALITY <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Excellent for physically active people, these energy-boosting juicing recipes can provide a boost of energy and vital nutrients, promoting muscle growth and improved physical performance.</p>
-            </div>
+           
+         <h2>Culture</h2>
 
-            <div class="listing">
-              <h6>VITAL HEALTHY EATING HABITS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>This year, stick to your New Year’s resolution with a few tips and tricks for easier, healthier meals at home. Learn to quickly whip up easy, healthy meals that can improve your health and overall wellbeing. </p>
-            </div>
-
-             <h2>Culture</h2>
-
-            <div class="listing">
-              <h6>NĀ HULA KA`I – BASIC HULA STEPS <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Move your feet to the beat of an Ipu Heke (gourd). You will learn the ancient form of hula while strengthening your core and balance. Come ready to sweat!</p>
-            </div>
-                   <div class="listing">
-              <h6>A STRONG THROW <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Discover your inner strength through learning the art of fish net throwing. You will develop a technique this method of fishing while simultaneously getting a great workout by diving in for your own catch!</p>
+           <div class="listing">
+           <h6>LOVE TUNE <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+            <p>You'll learn basic chords and a special song on the `ukulele. Serenade loved ones at your next lū‘au.</p>
             </div>
 
 
-
-
-
-            
+           <div class="listing">
+           <h6>CUPID'S ARCHERY <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+            <p>Cupid, draw back your bow and let your arrows go straight through the target we’ve set for you. Learn the fundamentals of archery while boosting your mental attention and connecting your breath to physical performance.</p>
+            </div>
 
      </div>
     </div>   
@@ -240,9 +177,9 @@
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/october/"><img src="/assets/images/months/oct-harvest.png" alt="October is Harvest Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/november/"><img src="/assets/images/months/nov-stop.png" alt="November is Stop Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2013/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
+            <div class="col span_1_of_3 month"><di><a href="/calendar/2013/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/january/"><img src="/assets/images/months/jan-vitality.png" alt="January is Vitality Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/february/"><img src="/assets/images/months/feb-heart.png" alt="February is Heart Month"></a></div></div>
         </div>
   </section>
   
