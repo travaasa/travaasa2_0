@@ -96,7 +96,7 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_january_2013_1600x640_austin.jpg" alt="January is vitality month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_january_2014_1600x640_austin.jpg" alt="January is vitality month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -122,7 +122,7 @@
 
             <div class="listing">
               <h6>BOOST YOUR CARDIO - JUMP ROPE INTERVALS <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Dread cardio days? Mix it up with jump roping and a variety of other plyometric exercises that utilize the BOSU ball and other small props to blast away fat. You'll torch as many as 700 calories in less than 45 minutes! In this intense yet fun-filled class, you’ll stay mentally focused and physically challenged, all throughout your workout.</p>
+                <p>Dread those cardio days? Mix it up with jump roping and a variety of other plyometric exercises that utilize the BOSU ball and other small props to blast away fat&#8212;you'll torch as many as 700 calories in less than 45 minutes. In this intense yet fun-filled class, you’ll stay mentally focused and physically challenged, all throughout your workout.</p>
             </div>
 
             <div class="listing">
@@ -142,7 +142,7 @@
 
              <div class="listing">
               <h6>VIVA FOOTWORKS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>We constantly put our feet to work without giving them proper care. Viva your feet for better mobility, posture and a healthier lifestyle! With this class, you will learn the proper massage and mechanics that can help strengthen muscles and heal aches and pains associated with overworked feet.</p>
+                <p>We constantly put our feet to work without giving them proper care. With this class, you will learn the proper massage and mechanics that can help strengthen muscles and heal aches and pains associated with overworked feet, aiding mobility and posture.</p>
             </div>
 
              <div class="listing">
@@ -152,7 +152,7 @@
 
              <div class="listing">
               <h6>TAI CHI AND ENERGY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn the fundamentals of Tai Chi and the energy centers of your physical body and the world around you. You will leave with a heightened awareness of both your physical vitality and your spiritual energy. </p>
+                <p>Learn the fundamentals of Tai Chi and the energy centers of your physical body and the world around you. Leave with a heightened awareness of both your physical vitality and your spiritual energy. </p>
             </div>
 
              <div class="listing">
@@ -201,7 +201,7 @@
 
             <div class="listing">
               <h6>YOGA – SHINE WITH VITALITY <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Shine with vitality and salute the new year with sun salutations! Highlighting individual postures, and focusing on various nuances of the sun salutation, this practice will deepen the foundation of individual postures, while building to a fluid, repetitive sequence that strengthens and revitalizes the body-spirit.</p>
+                <p>Salute the new year with sun salutations. Highlighting individual postures, and focusing on various nuances of the sun salutation, this practice will deepen the foundation of individual postures, while building to a fluid, repetitive sequence that strengthens and revitalizes the body-spirit.</p>
             </div>
 
           <h2>Culinary</h2>
@@ -213,7 +213,7 @@
 
             <div class="listing">
               <h6>VITAL HEALTHY EATING HABITS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>This year, stick to your New Year’s resolution with a few tips and tricks for easier, healthier meals at home. Learn to quickly whip up easy, healthy meals that can improve your health and overall wellbeing. </p>
+                <p>Stick to your New Year’s resolution with a few tips and tricks for easier, healthier meals at home. Learn to quickly whip up easy, healthy meals that can improve your health and overall wellbeing. </p>
             </div>
 
              <h2>Culture</h2>
@@ -224,7 +224,7 @@
             </div>
                    <div class="listing">
               <h6>A STRONG THROW <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Discover your inner strength through learning the art of fish net throwing. You will develop a technique this method of fishing while simultaneously getting a great workout by diving in for your own catch!</p>
+                <p>Discover your inner strength through learning the art of fish net throwing. You will develop a technique this method of fishing while simultaneously getting a great workout by diving in for your own catch.</p>
             </div>
 
 
@@ -241,7 +241,7 @@
         <h4>See upcoming months</h4>
       <div class="group">
             <div class="col span_1_of_3 month"><div><a href="/calendar/2013/november/"><img src="/assets/images/months/nov-stop.png" alt="November is Stop Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/december/"><img src="/assets/images/months/oct-harvest.png" alt="December is Joy Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
             <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/january/"><img src="/assets/images/months/jan-vitality.png" alt="January is Vitality Month"></a></div></div>
         </div>
   </section>
