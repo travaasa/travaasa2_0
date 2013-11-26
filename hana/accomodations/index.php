@@ -126,7 +126,6 @@
                 <li>Full Kitchen</li>
                 <li>Organic Linens</li>
                 <li>Cable TV in Living Room</li>
-                <li>Wireless Internet</li>
                 <li>Coffee &amp; Tea</li>
             </ul>
          </div>
