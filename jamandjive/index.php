@@ -21,7 +21,7 @@
 <body>
 <?php 
    include_once($path."/Library/Travaasa_Menu_Austin.php");?>
-<!-- <section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
+<section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <!--<section id="feature1_wrapper" class="subpage400_bg"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="/assets/images/feature_400_austin_1600x400_mondavi-wine-dinner.jpg" src="/assets/images/feature_400_austin_1600x400_mondavi-wine-dinner.jpg" alt=""></section>-->
 
 <!--<section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
@@ -35,8 +35,16 @@
 <article id="main">
   <section class="intro pad clearfix notheater">
     <div class="group">
-  <div class="col span_3_of_3" style="text-align:center;"><a class="btn-jorah scroll" href="http://www.edibleaustin.com/index.php/events-calendar/1661-featured-events/359-jam-jive-at-travaasa" target="_blank">EVENT DETAILS</a></div>
-  <div class="col span_3_of_3" style="text-align:center;"><a class="btn-list scroll" href="/preferences"target="_blank">GET ON THE LIST</a>
+      <h2>Jam &amp; Jive&nbsp;&nbsp;|&nbsp;&nbsp;January 25th&#8211;26th</h2>
+      <p>Celebrate the season with a weekend of learning, eating, dancing and exploring!<br> 
+      
+      &#8226;&nbsp;Learn how to preserve the winter harvest bounty with workshops on canning and food preservation with <a href="http://hipgirlshome.com/about-me/" target="_blank">Kate Payne</a>.<br>
+      &#8226;&nbsp;Enjoy a seasonal dinner prepared by Travaasa Executive Chef Benjamin Baker.<br>
+      &#8226;&nbsp;Dance the night away with live music from the 1920s and professional dance lessons.</br></p>
+
+      <p>Stay overnight at Travaasa and join us for a jammin' Sunday Brunch and tours of the Travaasa farm.<br><br> <strong><em>TICKET INFO COMING SOON.</em></strong> </p>
+
+  <div class="col span_3_of_3" style="margin-left:5px;"><a class="btn-list scroll" href="/preferences"target="_blank">GET ON THE LIST</a></div><br>
   <div class="col span_3_of_3" style="text-align:center;"><a href="http://www.edibleaustin.com/index.php/events-calendar/1661-featured-events/359-jam-jive-at-travaasa" target="_blank"><img src="/assets/images/Ad_EdibleAustin_FA_HIRES-final.png"></a></div>
   <!--<div class="col span_1_of_3"><iframe id="widget-frame" src="https://travaasaharvestdinner.ticketbud.com/houston2013/external" scrolling="yes" frameborder="0" style="height: 500px; width: 460px;"></iframe></div>-->
 
