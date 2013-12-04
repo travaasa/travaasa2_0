@@ -21,9 +21,10 @@
 <?php 
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
-	<div id="feature1" class="feature">    
+	<div id="feature1" class="feature">
+      <div class="slide"><a href="http://mokuleleairlines.com" target="_blank"><img data-original="/assets/images/feature_hana_1600x640_loc_fly_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a><div class="overlay-content-new"><h2>FLY TO TRAVAASA HANA / <span>MOKULELE AIRLINES FEATURES TWICE-DAILY FLIGHTS FROM KAHULUI (OGG) to HANA AIRPORT (HNM).</span></h2></div></div>   
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_journey.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>THE JOURNEY TO TRAVAASA HANA / <span>THE ROAD HUGS MAUI'S NORTHEASTERN COAST, SKIRTING FORESTED RAVINES AND COUNTLESS WATERFALLS.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_view.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>AS AUTHENTIC AS HAWAII GETS / <span>THE MAGIC OF HANA SIMPLY HAS TO BE EXPERIENCED TO BE BELIEVED.</span></h2></div></div>
+      <!--<div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_view.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>AS AUTHENTIC AS HAWAII GETS / <span>THE MAGIC OF HANA SIMPLY HAS TO BE EXPERIENCED TO BE BELIEVED.</span></h2></div></div>-->
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_hospitality.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>HO'OKIPA (HOSPITALITY) / <span>IT'S A HAWAIIAN WAY OF LIFE.</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_history.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>THE HISTORY OF HANA / <span>UNPARALLELED BEAUTY AND A BASEBALL TEAM PUT IT ON THE MAP.</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_rentalcars.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>RENT A CAR AND EXPLORE HANA / <span>TRAVERSE BEAUTIFUL EASTERN MAUI IN YOUR OWN JEEP OR CAR.</span></h2></div></div>   
@@ -49,6 +50,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
             <li id="tab_3"><a href="#history">History</a></li>
             <li id="tab_4"><a href="#stories">Hana Stories</a></li>
             <li id="tab_5"><a href="#carrental">Rental Cars</a></li>
+            <li id="tab_6"><a href="#flights">Flights to Hana</a></li>
         </ul>
     </div>
     <div id="hospitality" class="tab_data">
@@ -141,6 +143,15 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
                   &#8226;&nbsp;&nbsp;Travaasa Hana, Maui to Kahului Airport (OGG)
                   </p>
                 <p><em>Ask a reservations team member for full pricing and availability. Prices are seasonal and subject to change.</em></p>
+        </div>
+    </div>
+    <div id="flights" class="tab_data">
+        <div class="tab_data_inner">
+                <img src="/assets/images/hana-runway.jpg" width="885" alt="Hana Airport (HNM) Runway">
+                <br><br>
+                <h3>Roundtrip Flights from Kahului (OGG) to Hana Airport (HNM)</h3>
+                <p>Getting to Hana has never been easier. In partership with <a href="http://mokuleleairlines.com" taret="_blank"><strong>Mokulele Airlines</strong></a>, Travaasa offers the ability connect from Kahului (OGG), with two-way shuttle service from the resort to Hana Airport (HNM).  We'll even include roundtrip airfare from Kahului to Hana Airport when you book three or more consecutive nights on a <a href="/hana/hana-rates-and-packages">Total Travaasa Package</a>.</p>
+                <p><em>Ask a reservations team member for details.</em></p>
         </div>
     </div>
   </section>
