@@ -36,16 +36,62 @@
   <section class="intro pad clearfix notheater">
     <div class="group">
       <h2>Jam &amp; Jive&nbsp;&nbsp;|&nbsp;&nbsp;January 25th&#8211;26th</h2>
-      <p>Celebrate the season with a weekend of learning, eating, dancing and exploring!<br> 
-      
-      &#8226;&nbsp;Learn how to preserve the winter harvest bounty with workshops on canning and food preservation with <a href="http://hipgirlshome.com/about-me/" target="_blank">Kate Payne</a>.<br>
-      &#8226;&nbsp;Enjoy a seasonal dinner prepared by Travaasa Executive Chef Benjamin Baker.<br>
-      &#8226;&nbsp;Dance the night away with live music from the 1920s and professional dance lessons.</br></p>
+      <p>Celebrate the season with a weekend of learning, eating, dancing and exploring!<br><br>
+      <a class="btn-list scroll" href="https://travaasa.ticketbud.com/jamandjive" target="_blank">PURCHASE TICKETS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn-list scroll" href="/preferences"target="_blank">GET UPDATES</a></p>
+      <br>
 
-      <p>Stay overnight at Travaasa and join us for a jammin' Sunday Brunch and tours of the Travaasa farm.<br><br> <strong><em>TICKET INFO COMING SOON.</em></strong> </p>
+      <h3>Saturday</h3>
+<p><em>Check-in starts at  2:00p.m.</em><br>
+Workshop One 3:30 – 4:30p.m.<br>
+Workshop Two 5:00 – 6:00p.m.<br>
+Social Hour 6:00 – 7:00p.m.<br>
+Dinner 7:00 – 8:30p.m.<br>
+The Jive 8:30 – 10:00p.m.<br>
+Live Music by La Strada with hand jive lessons &amp; dance demonstration</p>
 
-  <div class="col span_3_of_3" style="margin-left:5px;"><a class="btn-list scroll" href="/preferences"target="_blank">GET ON THE LIST</a></div><br>
-  <div class="col span_3_of_3" style="text-align:center;"><a href="http://www.edibleaustin.com/index.php/events-calendar/1661-featured-events/359-jam-jive-at-travaasa" target="_blank"><img src="/assets/images/Ad_EdibleAustin_FA_HIRES-final.png"></a></div>
+<h3>Sunday</h3>
+<p>a.m. Brunch<br>
+a.m. Farm Tour<br>
+<em>Check-out 1:00p.m.</em></p>
+
+
+  <section class="spa_package">
+    <h4>DAY GUEST</h4>
+    <p>for Jam & Jive on Saturday only: includes workshops, dinner and live music show</p>
+    <h5>$75 per person</h5>
+  </section>
+  <section class="spa_package">
+    <h4>SINGLE OCCUPANCY</h4>
+    <p>1 night stay at Travaasa Austin for one guest + 1 ticket to Jam &amp; Jive, farm tour and brunch on Sunday</p>
+    <h5>$279 per person</h5>
+  </section>
+  <section class="spa_package">
+    <h4>Double OCCUPANCY</h4>
+    <p>1 night stay at Travaasa Austin for two guests + 2 tickets to Jam &amp; Jive, farm tour and brunch on Sunday</p>
+    <h5>$279 per person</h5>
+  </section>
+
+  <section class="spa_package">
+    <h3>SESSION ONE | 3:30 – 4:30p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
+    <h4>Jammin’ with Confituras &#8211; Preserving the Seasons Workshop with <a href="http://confituras.net/" target="_blank">Stephanie McClenny</a></h4>
+    <p>Two-time Good Food award-winner Stephanie McClenny will talk about the history of canning and preserving and her personal travels along the path to forming a small-production jam company. She’ll share some of her favorite seasonal fruit and vegetable jam ingredients combinations and demonstrate the process of making jam. Participants will learn valuable tips and techniques and take away a recipe or two!</p>
+    <h4>Sourdough Bread &#8211; Fermenting Grains Workshops with Executive Chef Ben Baker</h4>
+    <p>The sourdough workshop, hosted by Travaasa Executive Chef Benjamin Baker, will focus on fermenting grains as a historical method for increasing nutritional value and aiding in digestibility. Chef Ben will detail the progress that sourdough has made traveling the planet for the past 172 years, where it stayed, and for how long. Participants will learn the process involved in storing the starter and making the bread.</p>
+  </section>
+  <section class="spa_package">
+    <h3>SESSION TWO | 5:00 – 6:00p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
+    <h4>Oh Kimchi! &#8211; Ancient Art of Making Kimchi Workshop with <a href="http://facebook.com/OhKimchiAustin" target="_blank">Abigail Lunde</a></h4>
+    <p>Explore the ancient art of making kimchi in the traditional Korean method. Abbi will cover everything from the historic and cultural roots of kimchi to how to select seasonal veggies good for Kimchi making (the winter growing season in Austin is perfect for this), to a step-by-step and hands on demo of making and jarring your own! Attendees will take home their own 32 oz jar of a seasonal variety they will prepare themselves.</p>
+    <h4>Rind to Seed &#8211; Citrus Preservation Workshop with <a href="http://katepayne.net/" target="_blank">Kate Payne</a></h4>
+    <p>Participants will learn to deconstruct a grapefruit and utilize each component, from rind to seed, in creative and delicious ways. Projects will include infused syrups and vinegars (and beverages you can make with them called shrubs), homemade pectin, citrus salts and sugars, and ideas for preserving the juice for future use. All attendees will take home a jar of grapefruit-infused vinegar and recipes for how to use it up!</p>
+  </section>
+  <section class="spa_package">
+    <h3>Live Music</h3>
+    <h4>La Strada</h4>
+    <p>La Strada's playlist draws from European and American folk and pop, from the ‘20s to the present. During their 2-set break, band members and dancers Laura Agnew and choreographer Dee McCandless will teach the Hand Jive Dance moves and perform their original "Can Dance," a captivating creation with influences from South African women's dance and children clapping dances. <a href="http://www.youtube.com/watch?v=TEeeGMpM_Nk" target="_blank">CLICK HERE</a> for a little taste of “Hand Jive” by Johnny Otis.</p>
+  </section>
+
+  <div class="col span_3_of_3" style="text-align:center;"><a href="https://travaasa.ticketbud.com/jamandjive" target="_blank"><img src="/assets/images/Ad_EdibleAustin_FA_HIRES-final.png"></a></div>
   <!--<div class="col span_1_of_3"><iframe id="widget-frame" src="https://travaasaharvestdinner.ticketbud.com/houston2013/external" scrolling="yes" frameborder="0" style="height: 500px; width: 460px;"></iframe></div>-->
 
 </div>
