@@ -42,33 +42,34 @@
 
       <h3>Saturday</h3>
 <p><em>Check-in starts at  2:00p.m.</em><br>
-Workshop One 3:30 – 4:30p.m.<br>
-Workshop Two 5:00 – 6:00p.m.<br>
-Social Hour 6:00 – 7:00p.m.<br>
-Dinner 7:00 – 8:30p.m.<br>
+Workshop Session One 3:30 – 4:30p.m.<br>
+Workshop Session Two 5:00 – 6:00p.m.<br>
+Social Hour with Cocktails &amp; Hors d'oeuvres 6:00 – 7:00p.m.<br>
+Farm-to-Table Dinner Prepared by Executive Chef Ben Baker 7:00 – 8:30p.m.<br>
 The Jive 8:30 – 10:00p.m.<br>
-Live Music by La Strada with hand jive lessons &amp; dance demonstration</p>
+<em>with live music by La Strada with hand jive lessons &amp; dance demonstration</em></p>
 
 <h3>Sunday</h3>
-<p>a.m. Brunch<br>
-a.m. Farm Tour<br>
+<p>a.m. Farm Tour<br>
+  Farm-to-table Brunch
+<br>
 <em>Check-out 1:00p.m.</em></p>
 
 
   <section class="spa_package">
     <h4>DAY GUEST</h4>
-    <p>for Jam & Jive on Saturday only: includes workshops, dinner and live music show</p>
+    <p>Enjoy the Jam &amp; Jive on Saturday experiences only: includes workshops, dinner and live music show</p>
     <h5>$75 per person</h5>
   </section>
   <section class="spa_package">
     <h4>SINGLE OCCUPANCY</h4>
-    <p>1 night stay at Travaasa Austin for one guest + 1 ticket to Jam &amp; Jive, farm tour and brunch on Sunday</p>
+    <p>One night stay at Travaasa Austin for one guest + one ticket to Jam &amp; Jive, farm tour and brunch on Sunday</p>
     <h5>$279 per person</h5>
   </section>
   <section class="spa_package">
     <h4>Double OCCUPANCY</h4>
-    <p>1 night stay at Travaasa Austin for two guests + 2 tickets to Jam &amp; Jive, farm tour and brunch on Sunday</p>
-    <h5>$279 per person</h5>
+    <p>One night stay at Travaasa Austin for two guests + two tickets to Jam &amp; Jive, farm tour and brunch on Sunday</p>
+    <h5>$379 per person</h5>
   </section>
 
   <section class="spa_package">
