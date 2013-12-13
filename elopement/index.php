@@ -37,9 +37,9 @@
             <li>Daily spa treatments for two (four treatments total)</li>
             <li>Bottle of champagne upon arrival</li>
             <li>Personal services of Travaasa Hana wedding specialist</li>
-            <li>Arrangement of marriage license or civil union appointment</li>
+            <li>Arrangement of marriage license</li>
             <li>Non-denominational officiant to preside over ceremony</li>
-            <li>Traditional wedding lei for bride and groom, bride and bride, or groom and groom</li>
+            <li>Traditional wedding lei for couple</li>
             <li>500 count fresh flower scatter at ceremony site</li>
             <li>Special wedding gift from Travaasa Hana</li>
             <li>Steaming of couple’s wedding attire</li>
