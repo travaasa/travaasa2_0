@@ -81,101 +81,125 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     </div>
     <div id="body_treatments" class="tab_data">
         <div class="tab_data_inner">
+            <h2>HARVEST BODY TREATMENTS </h2>
+            <p>Featuring pumpkin, an ingredient known for its detoxifying qualities and skin-perfecting nutrients, minerals and enzymes, these unique treatments leave skin glowing and healthy. (Treatments offered for a limited time only.)</p>
+            <section class="spa_package">
+                <h4>FARM-TO-BODY PUMPKIN DETOX BODY WRAP</h4>
+                <p>For a whole-body detox, try a soothing body wrap that incorporates organic pumpkin (sourced from Travaasa’s own farm) in addition to products from our spa's base line, ilike organic body care. The orange and cinnamon ingredients clean and balance skin, while the nutrient-rich pumpkin works to nourish and rehydrate. A calming linden and marigold cream massage completes the treatment.)</p>
+                <h5>80 minutes &#8211; $185 </h5>
+            </section><br>
+
+            <h2>SIGNATURE BODY TREATMENTS</h2>
             <p>Therapeutic, energetic, soothing, cleansing or stimulating; you decide which of our body treatments to delight in during your stay.</p>
             <section class="spa_package">
                 <h4>REJUVENATING CLAY &amp; ALOE WRAP</h4>
-    <p>Unrefined, sun-dried green clay blended with French spirulina define this experience to regenerate, oxygenate, clarify, balance and deeply stimulate your skin. Mature or sun-damaged skin will be restored, rehydrated and protected. </p>
-                <h5>80 minutes - $180</h5>
+                 <p>Unrefined, sun-dried green clay blended with French spirulina define this experience to regenerate, oxygenate, clarify, balance and deeply stimulate your skin. Mature or sun-damaged skin will be restored, rehydrated and protected. </p>
+                <h5>80 minutes &#8211; $180</h5>
 			</section>
             <section class="spa_package">
                 <h4>ANCIENT PURIFICATION</h4>
                 <p>To relax your muscles and encourage the elimination of toxins, we begin with an organic panela sugar scrub. Fossilized Dead Sea mud and organic herbs of chamomile, dandelion and lemon balm provide deep detoxification, while pure essential oils of rosemary, eucalyptus and lavender support, strengthen and ground the spirit.</p>
-                <h5>80 minutes - $180</h5>
+                <h5>80 minutes &#8211; $180</h5>
 			</section>
             <section class="spa_package">
                 <h4>DETOXIFYING JUNIPER, OLIVE STONE EXFOLIATION &amp; POLISH</h4>
                 <p>Juniper, seaweed and cypress have a reputation for deep cleansing, stimulating, purifying and revitalizing the body and mind, and together they jump-start the metabolism, aid in circulation and penetrate your skin to help smooth cellulite.</p>
-                <h5>50 minutes - $130</h5>
+                <h5>50 minutes &#8211; $130</h5>
 			</section>
             <section class="spa_package">
                 <h4>INVIGORATING AVOCADO WRAP</h4>
                 <p>Luxuriate in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. Finish with a stimulating scalp massage and full-body mineral mist to invigorate, revitalize and illuminate you from head to toe.</p>
-                <h5>50 minutes - $130</h5>
+                <h5>50 minutes &#8211; $130</h5>
 			</section>
             <section class="spa_package">
                 <h4>NURTURING SCALP TREATMENT</h4>
                 <p>This relaxing treatment begins with an aromatic hot-towel compress over the scalp and hair to calm and soothe. A moisture-rich elixir of pure essential oils are then gently massaged into your head and neck. You are welcome to leave the oils in for a few hours, or shower off after your treatment. Your hair, scalp and neck will thank you. Choose a blend that suits you – Stimulating, a stimulating blend of rosemary and lavender or Soothing, a soothing blend of sandalwood and lavender.</p>
-                <h5>25 minutes - $50</h5>
+                <h5>25 minutes &#8211; $50</h5>
 			</section>
     	</div>
     </div>
     <div id="facials" class="tab_data">
         <div class="tab_data_inner">
+
+            <h2>HARVEST FACIAL TREATMENTS </h2>
+            <p>Featuring pumpkin, an ingredient known for its detoxifying qualities and skin-perfecting nutrients, minerals and enzymes, these unique treatments leave skin glowing and healthy. (Treatments offered for a limited time only.)</p>
+             <section class="spa_package">
+                <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
+                <p>Utilizing the cleansing and soothing properties of nettle, grape and carrot, this facial gently cleanses and tones. Infusing skin with vitamins A, E and C, the pumpkin, orange and cinnamon mask increases circulation. Following, the soothing carrot mask and carotene cream massage, revitalizes dry, dehydrated skin.</p>
+                <h5>80 minutes &#8211; $180 </h5>
+            </section>
+            <section class="spa_package">
+                <h4>PUMPKIN PEEL FACIAL</h4>
+                <p>Our unique Pumpkin Peel balances uneven complexion and is ideal for acne-prone skin. Skin is left instantly brighter and more vibrant.</p>
+                <h5>80 minutes &#8211; $195 </h5>
+            </section><br>
+
+            <h2>FACIAL TREATMENTS</h2>
             <p>Put your face in good hands with a Travaasa facial created expressly for you.</p>
 			<section class="spa_package">
                 <h4>ORGANIC ULTIMATE HYDRATION FACIAL</h4>
     			<p>The skin-purifying effect of sun-dried white and green clays, jojoba beads, aloe vera extract, organic licorice extract and spirulina combine with the rejuvenating properties of organic rose and pomegranate to create the harmonizing effect of this treatment. It will leave your skin feeling fresh and radiant while restoring youthful elasticity.</p>
-                <h5>80 minutes - $170</h5>
+                <h5>80 minutes &#8211; $170</h5>
 			</section>
 			<section class="spa_package">
                 <h4>VITAMIN C BIOENERGETIC HEALING FACIAL</h4>
     			<p>Restore radiance and vitality to every cell with this powerful and refreshing facial. It targets your skin's nutritional needs with skin-renewing antioxidants such as alpha lipoic acid, green and rooibos tea and vitamins A, C and E. Two masks, sun-infused oils and luxurious moisturizers hydrate and restore your skin, while a hand and foot treatment with homeopathic preparations completes this luxurious treatment.</p>
-                <h5>80 minutes - $170</h5>
+                <h5>80 minutes &#8211; $170</h5>
 			</section>
 			<section class="spa_package">
                 <h4>SACRED STONE FACIAL</h4>
     			<p>Experience a cleansing facial followed by a face-lifting massage using warm and cool stones to relieve tension and stimulate a healthy glow.</p>
-                <h5>50 minutes - $130</h5>
+                <h5>50 minutes &#8211;  $130</h5>
 			</section>
 			<section class="spa_package">
                 <h4>NATIVE BLENDS REJUVENATING FACIAL</h4>
     			<p>Luminous skin can be yours with herbal steam wraps, lavender and rosemary cleansers blended with plant phospholipids, deep exfoliation and a super-antioxidant mask.</p>
-                <h5>50 minutes - $125</h5>
+                <h5>50 minutes &#8211; $125</h5>
 			</section>
 			<section class="spa_package">
                 <h4>ECO-LUXE CUSTOM FACIAL</h4>
     			<p>Customized to provide your complexion with the most benefits, we lavish your skin with phytonutrients, antioxidants such as Vitamin C and alpha lipoic acid, organic and wild-crafted botanicals, and pure essential oils.</p>
-                <h5>50 minutes - $125</h5>
+                <h5>50 minutes &#8211; $125</h5>
 			</section>
 			<section class="spa_package">
                 <h4>REPLENISHING DEEP MOISTURE FACIAL</h4>
     			<p>Our organic, fair-trade cultivated and custom-distilled neroli oil, along with organic jojoba and willow bark extract, will soothe dry, flaky skin while calming and balancing your senses.</p>
-                <h5>50 minutes - $125</h5>
+                <h5>50 minutes &#8211; $125</h5>
 			</section>
 			<section class="spa_package">
                 <h4>REMINERALIZING SKIN REPAIR FACIAL</h4>
     			<p>Unrefined, sun-dried white and green clays blended with French spirulina, organic and fair-trade rose and argan oil, pomegranate seed oil, white tea, shea butter and organic licorice extract are at the heart of this facial. It's designed to regenerate, oxygenate, clarify and balance mature or sun-damaged skin.</p>
-                <h5>50 minutes - $125</h5>
+                <h5>50 minutes &#8211; $125</h5>
 			</section>
 			<section class="spa_package">
                 <h4>CLARIFYING OIL CONTROL FACIAL</h4>
     			<p>Restore balance, clarity and radiance to your skin with wild-crafted sandalwood, organic lemon and bitter orange to exfoliate and decongest pores. Fair-trade certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production. Organic licorice extract calms and soothes as it balances uneven pigmentation.</p>
-                <h5>50 minutes - $125</h5>
+                <h5>50 minutes &#8211; $125</h5>
 			</section>
 			<section class="spa_package">
                 <h4>GENTLEMAN'S CLARIFYING FACIAL</h4>
     			<p>A deeply cleansing and hydrating facial that uses wild-crafted sandalwood, organic lemon and bitter orange to exfoliate and purify your skin, decongest pores and lift the spirits.</p>
-                <h5>50 minutes - $125</h5>
+                <h5>50 minutes &#8211; $125</h5>
 			</section>
 			<section class="spa_package">
                 <h4>CALMING GENTLE FACIAL</h4>
     			<p>This organic, botanical facial uses a white clay, sandalwood and camellia-seed-oil face pack to calm and nurture sensitive or overexposed skin back to healthy balance and even tone. In addition, organic neroli and argan oil, black currant, shea butter and rose replenish the skin's moisture level.</p>
-                <h5>50 minutes - $125</h5>
+                <h5>50 minutes &#8211; $125</h5>
 			</section>
 			<section class="spa_package">
                 <h4>PERFECT BALANCE FACIAL</h4>
     			<p>Organic sage essential oil reduces excess oil while reviving the senses, and organic grape seeds' powerful antioxidants and essential fatty acids work to maintain your skin's natural elasticity for an ideal harmony of plant-derived benefits that is ideal for combination to oily skin.</p>
-                <h5>50 minutes - $125</h5>
+                <h5>50 minutes &#8211; $125</h5>
 			</section>
 			<section class="spa_package">
                 <h4>CLARIFYING BACK TREATMENT</h4>
     			<p>Restore balance, clarity and radiance to your skin with wild-crafted sandalwood, organic lemon and bitter orange to exfoliate, purify and decongest pores. Fair-trade certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production and remove clogging impurities, while organic licorice extract calms and soothes.</p>
-                <h5>25 minutes - $75</h5>
+                <h5>25 minutes &#8211; $75</h5>
 			</section>
 			<section class="spa_package">
                 <h4>HYDRATING EYE TREATMENT</h4>
     			<p>Rehydrate and refresh the delicate skin around your eyes. This treatment reduces puffiness and addresses fine lines. It's a great addition to any facial.</p>
-                <h5>25 minutes - $45</h5>
+                <h5>25 minutes &#8211; $45</h5>
 			</section>
         </div>
     </div>
@@ -186,19 +210,19 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <section class="spa_package">
                 <h4>PEPPERMINT ZENERGY FOOT CARE</h4>
     			<p>This treatment starts with exfoliation and then smooths and softens with organic sugar and grapefruit, while the power of peppermint energizes and revitalizes.</p>
-                <h5>25 minutes - $65</h5>
+                <h5>25 minutes &#8211; $65</h5>
 			</section>
             
             <section class="spa_package">
                 <h4>ORGANIC COFFEE FOOT RELIEF</h4>
     			<p>Herbs and homeopathics, relied on for centuries to detoxify and relieve acute and chronic pain, are used in this treatment to soothe overworked feet. Perfect if you are an active and sports-minded individual.</p>
-                <h5>25 minutes - $65</h5>
+                <h5>25 minutes &#8211; $65</h5>
 			</section>
             
             <section class="spa_package">
                 <h4>LAVENDER VANILLA HAND TREATMENT</h4>
     			<p>We cleanse, exfoliate and hydrate your hands with this soothing and healing lavender treatment that smells as good as it feels.</p>
-                <h5>25 minutes - $45</h5>
+                <h5>25 minutes &#8211; $45</h5>
 			</section>
         </div>
     </div>
@@ -211,64 +235,64 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <section class="spa_package">
                 <h4>Watsu&#174; Aquatic Massage</h4>
                 <p>Watsu uses the warmth and buoyancy of 96-degree water and a combination of unique stretches and natural movements in a secluded pool to help improve circulation, relieve nerve pressure and lessen stress, arthritis, anxiety and chronic pain. Our certified Watsu practitioners will fit the 60-minute treatment to your liking and body’s needs.</p>
-                <h5>50 minutes - $140</h5>
+                <h5>50 minutes &#8211; $140</h5>
             </section>
             <section class="spa_package">
                 <h4>TRAVAASA CUSTOM MASSAGE</h4>
     			<p>Let our highly skilled massage therapists create the perfect blend of massage techniques to suite your needs. Customize your experience even further by choosing from the following organic aromatherapy massage oils: Balancing, Energizing, Relaxing, Romance, Warming, Fitness or Unscented Pure Jojoba.</p>
-                <h5>50 minutes - $140<br>
-				80 minutes - $190</h5>
+                <h5>50 minutes &#8211; $140<br>
+				80 minutes &#8211; $190</h5>
 			</section>
             <section class="spa_package">
                 <h4>HILL COUNTRY HONEY BEE MASSAGE AND BODY TREATMENT</h4>
     			<p>All stress and tension will melt away with this blissful organic massage and body treatment. Your skin will be nourished, moisturized and exfoliated with organic honey, ginger and rosemary. Tension, sore muscles and stress will float away with our soothing bee propolis compress, followed by a myofacial massage using warm organic honey and ginger massage oil. A nourishing facial mask of royal jelly, bee propolis, jojoba and avacado oils completes this soothing and highly effective treatment.</p> 
             	<p class="description">A portion of the proceeds from this treatment will be donated to the Texas Beekeepers Association.</p>
-                <h5>80 minutes – $195</h5>
+                <h5>80 minutes &#8211; $195</h5>
 			</section>
             <section class="spa_package">
                 <h4> DETOXIFYING JUNIPER, OLIVE STONE EXFOLIATION &amp; MASSAGE</h4>
     			<p>This treatment starts with a gentle, mineral-rich sea salt and crushed olive stone body polish to exfoliate, stimulate and cleanse the skin. Organic jojoba, almond and apricot kernel oils are mixed with organic juniper and cypress to detoxify and restore healthy tone and texture.</p>
-                <h5>80 minutes - $180</h5>
+                <h5>80 minutes &#8211; $180</h5>
 			</section>
             <section class="spa_package">
                 <h4>THE ENERGETIC EDGE</h4>
     			<p>This is an intensive therapy designed to target the muscle groups you demand maximum output from. Organic sun-infused oils, homeopathic preparations and enzyme therapy will bathe and penetrate during this therapeutic massage.</p>
-                <h5>80 minutes – $185</h5>
+                <h5>80 minutes &#8211;  $185</h5>
 			</section>
             <section class="spa_package">
                 <h4>DEEP SLEEP AROMATHERAPY MASSAGE</h4>
     			<p>Melt away the stress of the day with a gentle Swedish massage enhanced by hot stones, soothing foot wraps, an herbal eye pack and relaxing herbal tea. Sweet dreams!</p>
-                <h5>80 minutes – $180</h5>
+                <h5>80 minutes &#8211; $180</h5>
 			</section>
             <section class="spa_package">
                 <h4>DEEP TISSUE MASSAGE</h4>
     			<p>This is the massage for you if you want to release muscle tension, realign your posture and restore proper range of motion.</p>
-                <h5>50 or 80 minutes – $135/$185</h5>
+                <h5>50 or 80 minutes &#8211;  $135/$185</h5>
 			</section>
             <section class="spa_package">
                 <h4>THAI MASSAGE</h4>
     			<p>A dynamic massage using yoga stretches, compression, joint manipulation and pressure points. Please wear comfortable clothing.</p>
-                <h5>50 or 80 minutes – $135/$185</h5>
+                <h5>50 or 80 minutes &#8211;  $135/$185</h5>
 			</section>
             <section class="spa_package">
                 <h4>SHIATSU</h4>
     			<p>Based on centuries-old Eastern techniques, acupressure is combined with stretches, weight and leverage to alleviate fatigue and pain and make your body feel alive and energized like never before. Please wear comfortable clothing.</p>
-                <h5>80 minutes – $135/$185</h5>
+                <h5>80 minutes &#8211;  $135/$185</h5>
 			</section>
             <section class="spa_package">
                 <h4>SACRED STONES MASSAGE</h4>
     			<p>We use a variety of massage techniques with heated basalt stones to invite deep relaxation and cool marble stones to stimulate your immune system and soothe inflammation.</p>
-                <h5>50 or 80 minutes – $135/$185</h5>
+                <h5>50 or 80 minutes &#8211;  $135/$185</h5>
 			</section>
             <section class="spa_package">
                 <h4>SWEDISH MASSAGE</h4>
     			<p>This deeply relaxing massage uses long, flowing strokes to help reduce pain and stress, ease stiffness and aid in circulation.</p>
-                <h5>50 or 80 minutes – $125/$170</h5>
+                <h5>50 or 80 minutes &#8211;  $125/$170</h5>
 			</section>
             <section class="spa_package">
                 <h4>PRENATAL MASSAGE</h4>
     			<p>A massage that reduces fluid retention, increases muscle tone and soothes a sore back and neck. It's perfect for all stages of pregnancy, even the last month.</p>
-                <h5>50 or 80 minutes – $125/$170</h5>
+                <h5>50 or 80 minutes &#8211;  $125/$170</h5>
 			</section>
             
             <h2>Signature Massages</h2>
@@ -276,17 +300,17 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <section class="spa_package">
                 <h4>ON THE ROAD AGAIN MASSAGE</h4>
     			<p>Inspired by Willie Nelson, this custom massage uses hemp oil with essential oils of orange and patchouli to soothe the road-weary soul.</p>
-                <h5>50 minutes – $135.00</h5>
+                <h5>50 minutes &#8211;  $135 </h5>
 			</section>
             <section class="spa_package">
                 <h4>THE ROSE MASSAGE</h4>
     			<p>Inspired by Janis Joplin, this custom massage uses organic rose oil to uplift your spirits and allay aches and pains. Tie-dyed sheets round out the experience.</p>
-                <h5>50 minutes – $135.00</h5>
+                <h5>50 minutes &#8211;  $135 </h5>
 			</section>
             <section class="spa_package">
                 <h4>COUPLES "DOUBLE TROUBLE" MASSAGE</h4>
     			<p>Inspired by Stevie Ray Vaughn, this blues-influenced experience features blue cypress, agave and sandalwood massage oil. Relax and enjoy with a partner or friend.</p>
-                <h5>50 minutes – $135.00 per person</h5>
+                <h5>50 minutes &#8211;  $135  per person</h5>
 			</section>
         </div>
     </div>
@@ -295,100 +319,101 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
         	<h2>Waxing</h2>
             <section class="spa_package">
                 <h4>LIP</h4>
-                <h5>15 minutes – $20</h5>
+                <h5>15 minutes &#8211;  $20</h5>
 			</section>
             <section class="spa_package">
                 <h4>BROW</h4>
-                <h5>15 minutes – $25</h5>
+                <h5>15 minutes &#8211;  $25</h5>
 			</section>
             <section class="spa_package">
                 <h4>BROW &amp; SHAPE</h4>
-                <h5>15 minutes – $35</h5>
+                <h5>15 minutes &#8211;  $35</h5>
 			</section>
             <section class="spa_package">
                 <h4>CHIN</h4>
-                <h5>15 minutes – $20</h5>
+                <h5>15 minutes &#8211;  $20</h5>
 			</section>
             <section class="spa_package">
                 <h4>FACE</h4>
-                <h5>45 minutes – $60</h5>
+                <h5>45 minutes &#8211;  $60</h5>
 			</section>
             <section class="spa_package">
                 <h4>UNDERARM</h4>
-                <h5>30 minutes – $30</h5>
+                <h5>30 minutes &#8211;  $30</h5>
 			</section>
             <section class="spa_package">
                 <h4>BIKINI</h4>
-                <h5>30 minutes – $45</h5>
+                <h5>30 minutes &#8211;  $45</h5>
 			</section>
             <section class="spa_package">
                 <h4>HALF LEG</h4>
-                <h5>30 minutes – $60</h5>
+                <h5>30 minutes &#8211;  $60</h5>
 			</section>
             <section class="spa_package">
                 <h4>FULL LEG</h4>
-                <h5>60 minutes – $95</h5>
+                <h5>60 minutes &#8211;  $95</h5>
 			</section>
             <section class="spa_package">
                 <h4>BACK</h4>
-                <h5>60 minutes – $95</h5>
+                <h5>60 minutes &#8211;  $95</h5>
 			</section>
             <section class="spa_package">
                 <h4>CHEST</h4>
-                <h5>60 minutes – $95</h5>
+                <h5>60 minutes &#8211;  $95</h5>
 			</section>
             
             
         	<h2>Lash &amp; Brow Tinting</h2>
             <section class="spa_package">
                 <h4>LASH DYE</h4>
-                <h5>15 minutes – $30</h5>
+                <h5>15 minutes &#8211;  $30</h5>
 			</section>
             <section class="spa_package">
                 <h4>BROW DYE</h4>
-                <h5>15 minutes – $30</h5>
+                <h5>15 minutes &#8211;  $30</h5>
 			</section>
             <section class="spa_package">
                 <h4>LASH DYE, BROW DYE &amp; BROW WAX</h4>
-                <h5>25 minutes – $75</h5>
+                <h5>25 minutes &#8211;  $75</h5>
 			</section>
         </div>
     </div>
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
-            <h4>SEASONAL HARVEST TREATMENTS</h4>
-            <p>In the spirit of fall, we invite you to enjoy exclusive harvest treatments through November 30th. Featuring pumpkin, an ingredient known for its detoxifying qualities and skin-perfecting nutrients, minerals and enzymes, these unique treatments leave skin glowing and healthy.</p>
+
+            <h2>SEASONAL TREATMENTS &#8211; WINTER CHEER</h2>
+            <p>In celebration of the holiday season—and all the wonderful flavors that come along with it—we’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
             <section class="spa_package">
-                <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
-                <p>Utilizing the cleansing and soothing properties of nettle, grape and carrot, this facial gently cleanses and tones. Infusing skin with vitamins A, E and C, the pumpkin, orange and cinnamon mask increases circulation. Following, the soothing carrot mask and carotene cream massage, revitalizes dry, dehydrated skin.</p>
-                <h5>80 minutes &#8211; $180.00</h5>
-            </section>
+                <h4>CHOCOLATE PEPPERMINT PEDICURE</h4>
+                <p>Treat your feet for the Holidays! Revitalize tired, achy feet that have carried you through shopping day after shopping day with our Chocolate and Peppermint pedicure. Exfoliate, clean, trim, and moisturize, followed by polish or buff.</p>
+                <h5>50 minutes &#8211; $75 </h5>
+              </section>
+
             <section class="spa_package">
-                <h4>PUMPKIN PEEL FACIAL</h4>
-                <p>Our unique Pumpkin Peel balances uneven complexion and is ideal for acne-prone skin. Skin is left instantly brighter and more vibrant.</p>
-                <h5>80 minutes &#8211; $195.00</h5>
-            </section>
-            <section class="spa_package">
-                <h4>FARM-TO-BODY PUMPKIN DETOX BODY WRAP</h4>
-                <p>For a whole-body detox, try a soothing body wrap that incorporates organic pumpkin (sourced from Travaasa’s own farm) in addition to products from our spa's base line, ilike organic body care. The orange and cinnamon ingredients clean and balance skin, while the nutrient-rich pumpkin works to nourish and rehydrate. A calming linden and marigold cream massage completes the treatment.</p>
-                <h5>80 minutes &#8211; $185.00</h5>
-            </section>
-            <h4>SPECIAL PACKAGES</h4>
+                <h4>ORANGE POMEGRANATE MANICURE</h4>
+                <p>Celebrate the season with a clean burst of orange and pomegranate! Your hands will be cleaned, exfoliated and moisturized, nails trimmed. Polish or buff.</p>
+                <h5>50 minutes &#8211; $70 </h5>
+                </section>
+
+            <p class="description">Fresh mulled cider will be served with both treatments through January 15th.</p>
+
+
+            <h2>SPECIAL PACKAGES</h2>
             <p>For those who want the convenience of choosing a spa package, Travaasa offers several different options—including full- and half-day packages.</p>
             <section class="spa_package">
                 <h4>ULTIMATE BLISS FULL-DAY PACKAGE</h4>
                 <p>Experience bliss and total relaxation with a Full-Day Spa Package that will nurture your body from head to toe. It begins with an Ancient Purification Body Treatment, a Swedish Massage and Nurturing Scalp Treatment followed by a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment. A healthy lunch in Jean's Kitchen is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
-                <h5>5 hours &#8211; $615.00</h5>
+                <h5>5 hours &#8211; $615 </h5>
             </section>
             <section class="spa_package">
                 <h4>SERENE &amp; CALM HALF-DAY PACKAGE</h4>
                 <p>Unwind and renew with an amazing Half-Day Spa Package that will restore and renew your mind, body and spirit. Begin with an Invigorating Avocado Wrap Body Treatment followed by an Organic Ultimate Hydration Facial and finally a Lavender Vanilla Hand Treatment. All gratuities are included; tax is additional.</p>
-                <h5>3 hours &#8211; $380.00</h5>
+                <h5>3 hours &#8211; $380 </h5>
             </section>
             <section class="spa_package">
                 <h4>MEN'S "WHAT ALES YOU" PACKAGE</h4>
                 <p>Let your aches and pains melt away like a Texas Sunset. This exclusive men's package begins with an Energetic Edge 80-minute massage followed by a Peppermint Zenergy Foot Treatment. End your experience with an organic Texas ale, included in the price. All gratuities are included; tax is additional.</p>
-                <h5>2 hours &#8211; $265.00</h5>
+                <h5>2 hours &#8211; $265 </h5>
             </section>
     		<p class="description">All package gratuities are included; tax is additional.</p>
         </div>
@@ -399,12 +424,12 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             
             <section class="spa_package">
                 <h4>FULL DAY ESCAPE</h4>
-                <p>Discover all that Travaasa Austin has to offer through our experiential day package. It's our version of Choose Your Own Adventure – get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to the challenge course, and recharge with a healthy lunch. Offered from 9:00am until 5:00pm. Includes all on-property activities; use of the infinity pool; spa locker rooms; whirlpool; dry sauna; and one $125.00 spa credit. All gratuities are included; tax is additional.</p>
-                <h5>$229.00</h5>
+                <p>Discover all that Travaasa Austin has to offer through our experiential day package. It's our version of Choose Your Own Adventure – get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to the challenge course, and recharge with a healthy lunch. Offered from 9:00am until 5:00pm. Includes all on-property activities; use of the infinity pool; spa locker rooms; whirlpool; dry sauna; and one $125  spa credit. All gratuities are included; tax is additional.</p>
+                <h5>$229 </h5>
             </section>
             <section class="spa_package">
                 <h4>TRAVAASA SPA</h4>
-                <p>Slip away to somewhere beautiful – treat yourself to the Travaasa Spa and get pampered with a $125.00 spa credit. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, dry sauna, and jealousy-inducing views from the infinity edge pool. All gratuities are included; tax is additional.</p>
+                <p>Slip away to somewhere beautiful – treat yourself to the Travaasa Spa and get pampered with a $125  spa credit. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, dry sauna, and jealousy-inducing views from the infinity edge pool. All gratuities are included; tax is additional.</p>
                 <h5>Monday - Thursday $155; Friday - Sunday $175</h5>
     </section>
     <p class="description">All package gratuities are included; tax is additional.</p>
@@ -416,7 +441,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <section class="spa_package">
                 <h4>ENERGY BALANCING &amp; HEALING</h4>
                 <p>Experience the art of channeling energy to create a deep state of tranquility on both the physical and spiritual planes. Explore a number of techniques such as Reiki, healing touch, polarity therapy, Pranic Healing and Chakra clearing to balance and heal your internal energy. Each session is unique and tailored to the individual's needs.</p>
-                <h5>50 or 80 minutes - $125/$170</h5>
+                <h5>50 or 80 minutes &#8211; $125/$170</h5>
             </section>
         </div>
     </div>
@@ -429,31 +454,31 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <section class="spa_package">
                 <h4>AU NATUREL HANDS</h4>
                 <p>Clean, shape and buff.</p>
-                <h5>25 minutes – $35</h5>
+                <h5>25 minutes &#8211;  $35</h5>
             </section>
             
             <section class="spa_package">
                 <h4>SNAP</h4>
                 <p>Clean, shape, light massage and polish.</p>
-                <h5>25 minutes – $40</h5>
+                <h5>25 minutes &#8211; $40</h5>
             </section>
             
             <section class="spa_package">
                 <h4>ORGANIC LAVENDER & VANILLA MANICURE</h4>
                 <p>Exfoliate and hydrate with organic lavender and vanilla, followed by warm stone massage. Polish or buff.</p>
-                <h5>50 minutes – $70</h5>
+                <h5>50 minutes &#8211; $70</h5>
             </section>
 
             <section class="spa_package">
                 <h4>MEDITATION MANICURE</h4>
                 <p>Experience Zen with this calming and hydrating manicure. Using essential oils of jasmine and frankincense, vegan body butter, masque, warm stone arm and hand massage, your hands will be soft and supple. Polish or buff.</p>
-                <h5>50 minutes – $70</h5>
+                <h5>50 minutes &#8211; $70</h5>
             </section>
 
             <section class="spa_package">
                 <h4>CLEAN GEL MANICURE</h4>
                 <p>Vitamin-infused gel lacquer is applied to the natural nail. Final result is an effortlessly durable manicure that delivers up to two weeks of chip-free color. Clean, hydrate, shape and polish.</p>
-                <h5>50 minutes – $65</h5>
+                <h5>50 minutes &#8211; $65</h5>
             </section>
 
             <h2>PEDICURE</h2>
@@ -461,47 +486,47 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <section class="spa_package">
                 <h4>AU NATUREL FEET</h4>
                 <p>Clean, shape and buff.</p>
-                <h5>25 minutes – $40</h5>
+                <h5>25 minutes &#8211; $40</h5>
             </section>
 
             <section class="spa_package">
                 <h4>PEPPERMINT ZENERGY PEDICURE</h4>
                 <p>Revitalize tired and achy feet with essential oils of peppermint and grapefruit followed by an organic sugar scrub to exfoliate. Finish with peppermint foot cream to soften and hydrate. Warm stone massage followed by polish or buff.</p>
-                <h5>50 minutes – $75</h5>
+                <h5>50 minutes &#8211; $75</h5>
             </section>
 
             <section class="spa_package">
                 <h4>ORGANIC COFFEE PEDICURE</h4>
                 <p>Herbs and homeopathics, relied on for centuries to detoxify and relieve acute and chronic pain, are used in this treatment to soothe overworked feet. Perfect if you are an active and sports-minded individual. Warm stone massage followed by polish or buff.</p>
-                <h5>50 minutes – $75</h5>
+                <h5>50 minutes &#8211; $75</h5>
             </section>
 
             <section class="spa_package">
                 <h4>THE JOURNEY</h4>
                 <p>Start your journey by selecting your intent: relaxation–geranium; love–jasmine; introspection–frankincense; energy–ginger. A soothing sugar scrub is followed by a masque, warm oil and stone massage. Polish or buff.</p>
-                <h5>80 minutes – $90</h5>
+                <h5>80 minutes &#8211; $90</h5>
             </section>
 
             <h2>NAIL UPGRADES & ADD-ONS</h2>
 
             <section class="spa_package">
                 <h4>FRENCH POLISH ADD-ON</h4>
-                <h5>10 minutes – $10</h5>
+                <h5>10 minutes &#8211; $10</h5>
             </section>
 
              <section class="spa_package">
                 <h4>FRENCH POLISH CHANGE</h4>
-                <h5>25 minutes – $30</h5>
+                <h5>25 minutes &#8211; $30</h5>
             </section>
 
              <section class="spa_package">
                 <h4>POLISH CHANGE</h4>
-                <h5>15 minutes – $20</h5>
+                <h5>15 minutes &#8211; $20</h5>
             </section>
 
              <section class="spa_package">
                 <h4>GEL POLISH REMOVAL</h4>
-                <h5>20 minutes – $15</h5>
+                <h5>20 minutes &#8211; $15</h5>
             </section>
 
              <section class="spa_package">

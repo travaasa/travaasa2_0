@@ -30,33 +30,38 @@
             <p>Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:</p>
             <br />
 
-            <h2>Garden Suite Getaway Package <br /><span style="color:#505050">$295/night</span></h2> 
+            <h2>Garden Suite + Air<br /><span style="color:#505050">$295/night</span></h2> 
 
             <ul>
-            <li>Accommodations in a low-rise bungalow Garden Suite</li>
-            <li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) for two (valued at $240)</li>
+            <li>Accommodations in a low-rise bungalow Garden Suite (three night minimum)</li>
+            <li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) on Mokulele Airlines for two (valued at $240)</li>
             <li>Ground transportation to and from the Hana Airport</li>
-            <li>$25 per person spa credit</li>
-            <li>$25 per person private activity credit</li>
-            <li>$50 total food &#38; beverage credit</li>
+            <li>Access to a robust schedule of resort activities</li>
+            <li>In-room bottled water and organic fair trade coffee</li>
+            <li>Welcome snack and refreshment upon arrival</li>
+            <li>Gratuities on all package components</li>
+            <li>Organic linens</li>
+            <li>Complete access to resort facilities</li>
+            <li>Wi-Fi</li>
             </ul>
-
-            <p><em>Based on double occupancy; excluding taxes. Two-night minimum stay required. Certain restrictions and blackout dates apply. Flights on Mokulele Airlines only. Proof of Hawaii residency is required at check-in.</em></p>
-
+            <p><em>Based on double occupancy; excluding taxes and service charges. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.</em></p>
             <br />
 
-            <h2>Sea Ranch Romance Package <br /><span style="color:#505050">$395/night</span></h2>
+            <h2>Sea Ranch Cottage + Air<br /><span style="color:#505050">$395/night</span></h2>
 
             <ul>
-            <li>Accommodations in a plantation-style, ocean view Sea Ranch Cottage with private lanai</li>
-            <li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) for two (valued at $240)</li>
-            <li>Ground transportation to and from the Hana Airport</li>
-            <li>$25 per person spa credit</li>
-            <li>$25 per person private activity credit</li>
-            <li>$50 total food &#38; beverage credit</li>
+             <li>Accommodations in a plantation-style, ocean view Sea Ranch Cottage with a private lanai (three night minimum)</li>
+             <li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) on Mokulele Airlines for two (valued at $240)</li>
+             <li>Ground transportation to and from the Hana Airport</li>
+             <li>Access to a robust schedule of resort activities</li>
+             <li>In-room bottled water and organic fair trade coffee</li>
+             <li>Welcome snack and refreshment upon arrival</li>
+             <li>Gratuities on all package components</li>
+             <li>Organic linens</li>
+             <li>Complete access to resort facilities</li>
+             <li>Wi-Fi</li>
             </ul>
-
-            <p><em>Based on double occupancy; excluding taxes. Two-night minimum stay required. Must be 16 years or older to stay in Sea Ranch Cottage. Certain restrictions and blackout dates apply. Flights on Mokulele Airlines only. Proof of Hawaii residency is required at check-in.</em></p>
+            <p><em>Based on double occupancy; excluding taxes and service charges. Three-night minimum stay required. Must be 16 years or older to stay in Sea Ranch Cottage. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.</em></p>
   </section>
   
 </article>
