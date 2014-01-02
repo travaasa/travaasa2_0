@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <head>
   <meta charset="utf-8">
@@ -129,6 +130,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              
             <h2>Fitness</h2>
 
+            <div class="listing">
+              <h6>JUMP ROPE FOR YOUR HEART <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Did you know that you can burn over 700 calories per hour jump roping? And, it's GREAT for your heart!? If so, then what are you waiting for? Get more bang for your buck with jump roping and a variety of other plyometic exercises utilizing the BOSU ball. You will stay mentally entertained and cardio-vascularly challenged the entire time!</p>
+            </div>
+
+          <div class="listing">
+              <h6>FALL BACK IN LOVE WITH YOUR WAISTLINE &amp; CORE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Get a stronger more shapely torso by challenging the powerhouse of your body, the "core." This fitness/core class focuses on the muscles that control and support your spine, pelvis and shoulder girdle. In this 45-minute class, you will improve your posture and alignment while falling back in love with your waist-line.</p>
+            </div>
+
+             <div class="listing">
+              <h6>OPEN YOUR HEART PILATES <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Open your heart in the sense of being open to the mind and body connection that we experience when we perform Pilates method. Also open your heart in the physical body and experience the Pilates breath full capacity, as the rib cage and spine are in perfect alignment to use the inner unit, which is the focus of the Pilates method.</p>
+            </div>
+
+             <div class="listing">
+              <h6>FEEL THE SALSA RHYTHM AND DANCE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p> Salsa dance is a so energetic,fun and your body just wants to move once you feel the Salsa rhythm. </p>
+            </div>
+
              <div class="listing">
               <h6>PARTNER YOGA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Connect with others through creative, interactive asana. Come to class with a friend, or pair up with a partner upon arrival. Postural sequences encourage a playful, supportive, heart-opening practice. Use conscious breath and skillful techniques to help deepen your experience with each asana.</p>
@@ -150,20 +171,63 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
 
             <div class="listing">
-              <h6>HED <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>TEXT.</p>
+              <h6>FOOT - SENSE AND BALANCE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This workout gives you the " biggest bang for your buck". It improves the capacity of all energy systems because uses stabilization, balance and power exercises with fun props. The overall goal is to safely complete a large amount of work in a short amount of time with bouts of harder work followed by important rest intervals.This metabolic training also increases  one's capacity for high-intensity exercise.</p>
             </div>
 
             <div class="listing">
-              <h6>HED <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>TEXT </p>
+              <h6>HEART AND MIND YOGA THERAPY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Yoga therapy focus in the various physical body systems. Practicing the breath and asanas that open your heart for better posture on the physical body encourages the opening of the heart chakra inspiring love and compassion for oneself and others.</p>
             </div>
 
-               </div>
+            
+
+          </div>
           <div class="col span_1_of_2">
 
+            <div class="listing">
+              <h6>PARTNER THAI STRETCH <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Love yourself and your partner with this ancient, healing and soothing practice. As we explore the Thai dotting and paddling technique, throughout the energy lines in the various muscles, we will create expansiveness in the body and mind.</p>
+            </div>
+
+            <div class="listing">
+              <h6>TAI CHI HEARTFELT <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Gathering the energy around and sinking into the energy centers of the body is part of the Tai Chi practice. As we move this energy in harmony with our breath and controling our heart beat brings us closer to our loving and compassionate self. This love and compassion to ourselves and others enhances our lives and connect us with  the universe. </p>
+            </div>
+
+            <div class="listing">
+              <h6>QOYA, CULTIVATING SELF LOVE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This unique movement practice, designed for women, will help you reveal your true essence as a wise, wild and free being. It combines the wisdom of yoga, the feeling of wildness through sensual movement, and freedom of expression with dance to cultivate connectedness to one’s true, authentic self. This fun, one-of-a-kind experience is accompanied by great music. </p>
+            </div>
+
+            <div class="listing">
+              <h6>COUPLES YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Build trust, confidence, and communication with your partner in a supportive environment. We will use conscious breathing and skillful techniques to help deepen the experience of each yoga pose. Experience the gift of giving and receiving in this partner yoga class. </p>
+            </div>
+
+          <h2>Spa &amp; Wellness</h2>
+            <div class="listing">
+              <h6>HEART FOCUS MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>In this Guided Meditation we will use visualization techniques as we focus on the vibrational energies of our heart. </p>
+            </div>
+
+             <div class="listing">
+              <h6>COUPLES CONNECTION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Whether you’re just friends, family members, or married for longer than you can remember, this class will deepen your relationship.  Using a mix of challenges, games, and exercises, you and your partner will finish feeling closer and more connected. This class will help you to build more trust, develop a stronger bond, and feel more understood. </p>
+            </div>
+          
 
           <h2>Culinary</h2>
+
+            <div class="listing">
+              <h6>APHRODISIAC CULINARY DEMONSTRATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>An aphrodisiac is a substance that increases sexual desire. The name comes from Aphrodite, the Greek goddess of sexuality and love. During this culinary demonstration, our chefs will teach you the different effects of certain ingredients such as arugula, basil, fennel, carrots and avocado, while also creating an unforgettable recipe for you to enjoy at home...or in the boudoir. </p>
+            </div>
+
+              <div class="listing">
+              <h6>BREAKFAST IN BED CULINARY DEMONSTRATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Have you ever desired to surprise that special someone with an unforgettable breakfast in bed?  Develop the skills you need to give you confidence in the kitchen as we demonstrate amazing, yet simple, breakfast-in-bed recipes. Our Chefs will guide you through each step of the recipe and give you tips on culinary techniques, such as poaching eggs and how to make hollandaise seem simple.  This also gives you the opportunity to spend time with our Chef. </p>
+            </div>
 
            
          <h2>Culture</h2>
@@ -186,7 +250,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><di><a href="/calendar/2013/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2014/january/"><img src="/assets/images/months/jan-vitality.png" alt="January is Vitality Month"></a></div></div>
             <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/february/"><img src="/assets/images/months/feb-heart.png" alt="February is Heart Month"></a></div></div>
         </div>
