@@ -31,7 +31,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="/calendar/"><img data-original="/assets/images/feature_months_december_2013_1600x640_austin_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="/calendar/"><img data-original="/assets/images/feature_months_january_2014_1600x640_austin_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#" style="display:none"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#" style="display:none"><span><b>next</b></span></a>
@@ -42,7 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col span_6_of_9">
           <h1>Travaasa Austin Experiences</h1>
           <p>You want to embark on a journey without living out of a suitcase. You want to taste real Texas flavors, learn a few new things about yourself, and dance the night away under a banner of stars. <strong>Why not stay at a resort that allows you to have all of these things?</strong> At Travaasa Austin, we get it, and that’s why we created a menu of custom, personalized and authentic experiences just for you. Situated on the edge of the Balcones Canyonlands Preserve, Travaasa Austin offers an extensive selection of guided activities set amidst — and inspired by — the rugged yet hospitable nature of Texas Hill Country.</p>
-<p>Experiences are offered through all-inclusive packages as well as a la carte pricing, depending on the path you choose. See our <a href="/austin/rates-and-packages">rates and packages</a> for details.<br><br><a href="/austin/austinschedule" class="btn">View Experience Schedule</a><br><br><a href="/calendar" class="btn">December's Featured Experiences</a></p>
+<p>Experiences are offered through all-inclusive packages as well as a la carte pricing, depending on the path you choose. See our <a href="/austin/rates-and-packages">rates and packages</a> for details.<br><br><a href="/austin/austinschedule" class="btn">View Experience Schedule</a><br><br><a href="/calendar" class="btn">January's Featured Experiences</a></p>
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>
