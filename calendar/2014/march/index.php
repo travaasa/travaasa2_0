@@ -96,7 +96,7 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_january_2014_1600x640_austin.jpg" alt="January is vitality month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_march_2014_1600x640_austin.jpg" alt="March is Go month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -228,9 +228,9 @@
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/november/"><img src="/assets/images/months/nov-stop.png" alt="November is Stop Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/january/"><img src="/assets/images/months/jan-vitality.png" alt="January is Vitality Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/january/"><img src="/assets/images/months/jan-vitality.png" alt="January is Vitality Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/february/"><img src="/assets/images/months/feb-heart.png" alt="February is Heart Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/january/"><img src="/assets/images/months/mar-go.png" alt="March is Go Month"></a></div></div>
         </div>
   </section>
   
