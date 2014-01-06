@@ -347,7 +347,7 @@ footer { clear:both; width:100%; background-color:#333333; margin:0; padding:0; 
 .pad { padding:1.5em; /* 24 / 16 */  }
 .subpage_bg { height:200px; width:100%; overflow:hidden; text-align:center; }
 .subpage_bg img { height:100%; width:auto; margin:0 auto; }
-.subpage400_bg { height:400px; width:100%; overflow:hidden; text-align:center; }
+.subpage400_bg { height:auto; width:100%; overflow:hidden; text-align:center; }
 .subpage400_bg img { height:auto; width:auto; margin:0 auto; }
 #gallery_cnt #content { background:url(../images/global/placeholder.gif) no-repeat; margin-top:0; padding-top:0; }
 .col { position:relative; }

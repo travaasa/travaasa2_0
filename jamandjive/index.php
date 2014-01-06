@@ -30,7 +30,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <?php 
    include_once($path."/Library/Travaasa_Menu_Austin.php");?>
-<section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
+<!--<section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>-->
+<section id="feature1_wrapper" class="subpage400_bg"><img data-original="/assets/images/feature_austin_1600x400_jam-n-jive.jpg" src="/assets/images/feature_austin_1600x400_jam-n-jive.jpg" alt=""></section>
+
 <!--<section id="feature1_wrapper" class="subpage400_bg"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="/assets/images/feature_400_austin_1600x400_mondavi-wine-dinner.jpg" src="/assets/images/feature_400_austin_1600x400_mondavi-wine-dinner.jpg" alt=""></section>-->
 
 <!--<section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
@@ -82,6 +84,7 @@ The Jive 8:30 – 10:00p.m.<br>
   </section>
 
   <section class="spa_package">
+    <img src="/assets/images/session-one.jpg" style="float:left; margin:0 15px 15px 0;" alt="Session One" width="165"><br>
     <h3>SESSION ONE | 3:30 – 4:30p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
     <h4>Jammin’ with Confituras &#8211; Preserving the Seasons Workshop with <a href="http://confituras.net/" target="_blank">Stephanie McClenny</a></h4>
     <p>Two-time Good Food award-winner Stephanie McClenny will talk about the history of canning and preserving and her personal travels along the path to forming a small-production jam company. She’ll share some of her favorite seasonal fruit and vegetable jam ingredients combinations and demonstrate the process of making jam. Participants will learn valuable tips and techniques and take away a recipe or two!</p>
@@ -89,6 +92,7 @@ The Jive 8:30 – 10:00p.m.<br>
     <p>The sourdough workshop, hosted by Travaasa Executive Chef Benjamin Baker, will focus on fermenting grains as a historical method for increasing nutritional value and aiding in digestibility. Chef Ben will detail the progress that sourdough has made traveling the planet for the past 172 years, where it stayed, and for how long. Participants will learn the process involved in storing the starter and making the bread.</p>
   </section>
   <section class="spa_package">
+    <img src="/assets/images/session-two.jpg" style="float:left; margin:0 15px 15px 0;" alt="Session One" width="165"><br>
     <h3>SESSION TWO | 5:00 – 6:00p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
     <h4>Oh Kimchi! &#8211; Ancient Art of Making Kimchi Workshop with <a href="http://facebook.com/OhKimchiAustin" target="_blank">Abigail Lunde</a></h4>
     <p>Explore the ancient art of making kimchi in the traditional Korean method. Abbi will cover everything from the historic and cultural roots of kimchi to how to select seasonal veggies good for Kimchi making (the winter growing season in Austin is perfect for this), to a step-by-step and hands on demo of making and jarring your own! Attendees will take home their own 32 oz jar of a seasonal variety they will prepare themselves.</p>
