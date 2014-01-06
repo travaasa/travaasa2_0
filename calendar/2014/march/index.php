@@ -123,8 +123,20 @@
             <h2>Culinary</h2>
 
              <div class="listing">
-              <h6>GO GREEN <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BOearn how to make healthy juices that will cleanse away the winter sludge. Juicing is an easy way to do your spring cleaning, internally.DY</p>
+              <h6>GO GREEN – JUICING AND SMOOTHIE CLASSES <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Spring-cleaning from the inside, out! This delicious juicing class will focus on super foods that help cleanse and nourish your body. You will learn how to combine fruit and vegetable juices that please the palate and renew the body and mind!</p>
+            </div>
+
+             <h2>Culture</h2>
+
+             <div class="listing">
+              <h6>SURF'S UP – Paddleboarding <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Learn how to Stand-Up Paddleboard and ride the waves at Hāna Bay. This sport will get you going in the right direction.</p>
+            </div>
+
+             <div class="listing">
+              <h6>GO COCONUTS <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Found across most of the tropics, the coconut, or <em>niu</em>, is known for its great versatility. Learn the origin and many uses of this fruit and drink some too. Let's go nuts for coconuts!</p>
             </div>
 
              <h2>Fitness</h2>
@@ -136,44 +148,59 @@
 
                  <div class="listing">
               <h6>GO THE DISTANCE BOOT CAMP <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Looking to take your cardiovascular strength and endurance to the next level? Interval training, sprints, jumps, agility drills and shuttle runs will drive your heart-rate up while giving you an opportunity to recover in order to keep the intensity-levels high. This workout will challenge your aerobic as well as your anaerobic systems. If you want to take your cardio fitness to the next level, this 45-minute cardio boot camp is the answer!</p>
+                <p>Looking to take your cardiovascular strength and endurance to the next level? Interval training, sprints, jumps, agility drills and shuttle runs will drive your heart-rate up while giving you an opportunity to recover. This 45-minute workout will challenge your aerobic as well as your anaerobic systems.</p>
             </div>
 
                  <div class="listing">
-              <h6>GO HATHA FLOW <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Leap into spring with an invigorating and sweaty Hatha flow class sure to lighten your step. This class utilizes twists that will ring out sluggishness, both in our minds and our bodies.</p>
+              <h6>GO HATHA FLOW <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Leap into spring with an invigorating Hatha flow practice! As you move through various asana’s with precision and focused breathing, you will experience a deeper awareness and vitality coming from within. An increased sense of well-being will help you spring into the new season with a clear mind and a lightened spirit.</p>
             </div>
 
                  <div class="listing">
-              <h6>QOYA- JUST GO FOR IT! <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+              <h6>QOYA — JUST GO FOR IT! <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Qoya is a movement practice for women meant to remind you that you are wise, wild and free. Join us for a little bit of yoga, dance and a ton of fun.</p>
             </div>
+
+
+
+                       </div>
+          <div class="col span_1_of_2">
+
 
                  <div class="listing">
               <h6>GO RELAX - YIN YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Yin yoga is a more passive slow-paced style of yoga where postures (asanas) are held for five minutes each, a practice that allows for deeper release.</p>
             </div>
 
-              
+                 <div class="listing">
+              <h6>PILATES ON THE GO <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>This class focuses on the foundation of Pilates, an incredible core-strengthening workout. Learn to apply 5 basic principles to every exercise and modify them to meet your individual needs. You will feel increased strength, balance and body awareness with your everyday movements, workouts and sports activities.</p>
+            </div>
+
 
                  <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Pilates is a practice of flowing movements that strengthens the inner unit, the muscles that hold the spine in good posture. A stable spine allows for more range of motion in the hips and shoulders as well as improved flexibility. Come learn classic Pilates moves that can be used during home practice, or anywhere on the go.</p>
+              <h6>ALL BEGINS WITH FOOT CARE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>The condition of our feet has a great effect on our body's joints. Achieve greater awareness of the health of our feet and teach the importance of self-care necessary for better mobility.</p>
             </div>
 
                  <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BODY</p>
+              <h6>EXPERIENCE THE DIAPHRAGM YOGA THERAPY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Although breathing is involuntary, learning to create the perfect environment for your breath can be a powerful healing tool for your body, mind and spirit.</p>
             </div>
 
                  <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BODY</p>
+              <h6>TAI CHI IN MOTION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Tai Chi means moving energy—the energy of our body moving in and around us. Keeping the “body in motion” in harmony with the nature helps to revive energy, improve the neuromuscular system, and balance the body and mind.</p>
             </div>
 
-                 <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BODY</p>
+               <div class="listing">
+              <h6>BEGINNING CARDIO CLASS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Build endurance and strength while keeping your body in motion for 30 minutes. Finish with a cool down of toning and stretching exercises.</p>
+            </div>
+
+               <div class="listing">
+              <h6>GO SALSA DANCE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Salsa is a fun and easy-to-learn dance set to Latin music. This class is sure to get more than just your hips moving for a total-body cardio and core workout.</p>
             </div>
 
              <h2>Wellness</h2>
@@ -184,72 +211,14 @@
                 <p>Great for those new to meditation, this class covers how to prepare the body and mind for meditation as well as a lesson in breath meditation.</p>
             </div>
 
-
-                       </div>
-          <div class="col span_1_of_2">
-
-             <div class="listing">
-              <h6>NEW TO YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>This beginner’s yoga class will cover the basics and fundamentals of hatha yoga. You will leave with a better understanding of how to find proper alignment and alter poses to better suit your body.</p>
-            </div>
-
-             <div class="listing">
-              <h6>AWAKENING WALKING MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Awaken to all the sensations of this present moment through a walking mind/body awareness meditation.</p>
-            </div>
-
-             <div class="listing">
-              <h6>VITALITY PRANAYAMA<span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn the anatomy of breath as well as a few "pranayama" (breathing techniques) geared towards helping balance the mind.</p>
-            </div>
-
-             <div class="listing">
-              <h6>JUMP INTO MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn the basics of sitting and clearing the mind as we lead you through a brief, single-pointed focus meditation, an exercise meant to motivate frequent, purposeful meditation on a daily basis.</p>
-            </div>
-
-             <div class="listing">
-              <h6>HATHA YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Hatha yoga is a general yoga class that can be altered to suit a variety of levels.</p>
-            </div>
-
+             
             <div class="listing">
-              <h6>INCREASE YOUR COMPASSION MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Allow our staff to lead you through the ancient compassion cultivating technique Tonglen, often referred to as “exchanging oneself with others.”</p>
+              <h6>LETTING GO OF MEDITATION<span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>As we enter into the renewing energy of spring, use meditation to focus on letting go of whatever is no longer serving us. Intention will be placed on calling in the revitalizing energies of renewal and growth through breathing and visualization techniques for a sense of peace and deep connection within.</p>
             </div>
 
-            <div class="listing">
-              <h6>YOGA – SHINE WITH VITALITY <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Salute the new year with sun salutations. Highlighting individual postures, and focusing on various nuances of the sun salutation, this practice will deepen the foundation of individual postures, while building to a fluid, repetitive sequence that strengthens and revitalizes the body-spirit.</p>
-            </div>
-
-          <h2>Culinary</h2>
-
-            <div class="listing">
-              <h6>JUICING FOR VITALITY <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Excellent for physically active people, these energy-boosting juicing recipes can provide a boost of energy and vital nutrients, promoting muscle growth and improved physical performance.</p>
-            </div>
-
-            <div class="listing">
-              <h6>VITAL HEALTHY EATING HABITS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Stick to your New Year’s resolution with a few tips and tricks for easier, healthier meals at home. Learn to quickly whip up easy, healthy meals that can improve your health and overall wellbeing. </p>
-            </div>
-
-             <h2>Culture</h2>
-
-            <div class="listing">
-              <h6>NĀ HULA KA`I – BASIC HULA STEPS <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Move your feet to the beat of an Ipu Heke (gourd). You will learn the ancient form of hula while strengthening your core and balance. Come ready to sweat!</p>
-            </div>
-                   <div class="listing">
-              <h6>A STRONG THROW <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Discover your inner strength through learning the art of fish net throwing. You will develop a technique this method of fishing while simultaneously getting a great workout by diving in for your own catch.</p>
-            </div>
-
-
-
-
-
+            
+          
             
 
      </div>
