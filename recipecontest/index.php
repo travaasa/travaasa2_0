@@ -93,7 +93,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p><em>13.</em> Entrant&#8217;s Personal Information: Information collected from entrant is subject to Travaasa Experiential Resort’s Privacy Policy http://travaasa.com/privacypolicy. </p>
 
-<p>©2013 Green Tea, LLC. All rights reserved.</p>
+<p>©2014 Green Tea, LLC. All rights reserved.</p>
   </section>
 </article>
 </section>

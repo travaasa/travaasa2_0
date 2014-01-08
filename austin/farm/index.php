@@ -54,7 +54,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!--<section class="grey pad group">
     <h3>Terms &amp; Conditions</h3>
 
-<p>©2013 Green Tea, LLC. All rights reserved.</p>
+<p>©2014 Green Tea, LLC. All rights reserved.</p>
   </section>-->
 </article>
 </section>
