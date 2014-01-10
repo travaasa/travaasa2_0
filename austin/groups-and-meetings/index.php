@@ -596,18 +596,7 @@ austinsales@travaasa.com</a></td>
         <div class="tab_data_inner">
            <iframe height="2000" style="width:100%;border:none" src="https://travaasa.wufoo.com/embed/z7x3k1/"></iframe> 
         <p>We also offer the option to submit your information through SpeedRFP by clicking the button below.<br> SpeedRFP allows you to preload account and RFP info, attach your own RFP documents, <br>and manage all of your RFPs and proposals in one place.</p>
-        <script type="text/javascript" charset="utf-8">
-            var srfp_prot = (("https:" == document.location.protocol) ?
-            "https://" : "http://");
-            document.write(unescape("%3Cscript src='" + srfp_prot + "www.speedrfp.com/irfps/js/widget/' type='text/javascript'%3E%3C/script%3E"));
-            </script>
-            <script type="text/javascript" charset="utf-8">
-            var options = {};
-            options.display = "overlay";
-            options.key = "f9ff710a7d622d53"; 
-            options.uid = "LV83J";
-            var srfp_widget = new srfp.widget(options);
-            </script>
+        <script type="text/javascript" charset="utf-8"> var srfp_prot = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + srfp_prot + "www.speedrfp.com/irfps/js/widget/' type='text/javascript'%3E%3C/script%3E")); </script>  <script type="text/javascript" charset="utf-8"> var options = {}; options.display = "overlay"; options.key = "f9ff710a7d622d53";  options.uid = "LV83J"; var srfp_widget = new srfp.widget(options); </script>
         </div>
     </div>
   </section>
