@@ -52,29 +52,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <br>
 
       <h3>Saturday</h3>
-<p><em>Check-in starts at  2:00p.m.</em><br>
-Workshop Session One 3:30 – 4:30p.m.<br>
-Workshop Session Two 5:00 – 6:00p.m.<br>
-Social Hour with Cocktails &amp; Hors d'oeuvres 6:00 – 7:00p.m.<br>
-Farm-to-Table Dinner Prepared by Executive Chef Ben Baker 7:00 – 8:30p.m.<br>
-The Jive 8:30 – 10:00p.m.<br>
-<em>with live music by La Strada with hand jive lessons &amp; dance demonstration</em></p>
+<p><em>Check-in starts at 2 p.m.</em><br>
+Workshop Session One 3:30–4:30 p.m.<br>
+Workshop Session Two 5–6 p.m.<br>
+Social Hour with Cocktails &amp; Hors d'oeuvres 6–7 p.m.<br>
+Farm-to-Table Dinner Prepared by Executive Chef Ben Baker 7–8:30 p.m.<br>
+The Jive 8:30–10 p.m.<br>
+<em>Enjoy live music by La Strada with hand jive lessons &amp; dance demonstration</em></p>
 
 <h3>Sunday</h3>
-<p>a.m. Farm Tour<br>
-  Farm-to-table Brunch
+<p>Morning Farm Tour<br>
+  Farm-to-Table Brunch
 <br>
-<em>Check-out 1:00p.m.</em></p>
+<em>Check-out 1 p.m.</em></p>
 
 
   <section class="spa_package">
     <h4>DAY GUEST</h4>
-    <p>Enjoy the Jam &amp; Jive on Saturday experiences only: includes workshops, dinner and live music show</p>
+    <p>Enjoy the Jam &amp; Jive Saturday experiences only: includes workshops, dinner and live music show</p>
     <h5>$75 per person</h5>
   </section>
   <section class="spa_package">
     <h4>SINGLE OCCUPANCY</h4>
-    <p>One night stay at Travaasa Austin for one guest + one ticket to Jam &amp; Jive, farm tour and brunch on Sunday</p>
+    <p>One night stay at Travaasa Austin for one guest + one ticket to Jam &amp; Jive (Saturday), farm tour and brunch on Sunday</p>
     <h5>$279 per person</h5>
   </section>
   <section class="spa_package">
@@ -85,7 +85,7 @@ The Jive 8:30 – 10:00p.m.<br>
 
   <section class="spa_package">
     <img src="/assets/images/session-one.jpg" style="float:left; margin:0 15px 15px 0;" alt="Session One" width="165"><br>
-    <h3>SESSION ONE | 3:30 – 4:30p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
+    <h3>SESSION ONE | 3:30–4:30 p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
     <h4>Jammin’ with Confituras &#8211; Preserving the Seasons Workshop with <a href="http://confituras.net/" target="_blank">Stephanie McClenny</a></h4>
     <p>Two-time Good Food award-winner Stephanie McClenny will talk about the history of canning and preserving and her personal travels along the path to forming a small-production jam company. She’ll share some of her favorite seasonal fruit and vegetable jam ingredients combinations and demonstrate the process of making jam. Participants will learn valuable tips and techniques and take away a recipe or two!</p>
     <h4>Sourdough Bread &#8211; Fermenting Grains Workshops with Executive Chef Ben Baker</h4>
@@ -93,7 +93,7 @@ The Jive 8:30 – 10:00p.m.<br>
   </section>
   <section class="spa_package">
     <img src="/assets/images/session-two.jpg" style="float:left; margin:0 15px 15px 0;" alt="Session One" width="165"><br>
-    <h3>SESSION TWO | 5:00 – 6:00p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
+    <h3>SESSION TWO | 5–6 p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
     <h4>Oh Kimchi! &#8211; Ancient Art of Making Kimchi Workshop with <a href="http://facebook.com/OhKimchiAustin" target="_blank">Abigail Lunde</a></h4>
     <p>Explore the ancient art of making kimchi in the traditional Korean method. Abbi will cover everything from the historic and cultural roots of kimchi to how to select seasonal veggies good for Kimchi making (the winter growing season in Austin is perfect for this), to a step-by-step and hands on demo of making and jarring your own! Attendees will take home their own 32 oz jar of a seasonal variety they will prepare themselves.</p>
     <h4>Rind to Seed &#8211; Citrus Preservation Workshop with <a href="http://katepayne.net/" target="_blank">Kate Payne</a></h4>
