@@ -106,7 +106,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_february_2014_1600x640_austin.jpg" alt="February is Heart month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_february_2014_1600x640_hana.jpg" alt="February is Heart month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -250,9 +250,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2013/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2014/january/"><img src="/assets/images/months/jan-vitality.png" alt="January is Vitality Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/february/"><img src="/assets/images/months/feb-heart.png" alt="February is Heart Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/february/"><img src="/assets/images/months/feb-heart.png" alt="February is Hearth Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/march/"><img src="/assets/images/months/mar-go.png" alt="March is Go Month"></a></div></div>
         </div>
   </section>
   
