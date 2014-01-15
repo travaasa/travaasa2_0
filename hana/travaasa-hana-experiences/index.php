@@ -262,7 +262,7 @@ And one way to do this is through our diverse course offerings we call "Travaasa
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_hana_fitness_tennis.jpg" src="/assets/images/global/placeholder.gif" alt="">
             <h5>Tennis</h5>
-            <p class="description">Travaasa Hana features two newly-resurfaced tennis courts on property. Tennis equipment is available for guests to use in the adjacent Makana Center.</p>
+            <p class="description">Travaasa Hana features two newly resurfaced tennis courts on property. Tennis equipment is available for guests to use in the adjacent Makana Center.</p>
           </div>
         </div>
       </div>
