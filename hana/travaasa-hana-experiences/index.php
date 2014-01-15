@@ -259,6 +259,12 @@ And one way to do this is through our diverse course offerings we call "Travaasa
             <p class="description">One of the reasons you might be here is for a relaxing, stress-free, pressure-free Hawaiian experience. Of course, you may need some help releasing all the muscular tension civilization has placed squarely on your shoulders. We suggest foam rollers, a body rolling exercise that helps you release muscular tension with a rolling massage that feels great and helps increase flexibility. You'll also improve balance, core muscles, stability and total body function.</p>
           </div>
         </div>
+        <div class="slide">
+          <div class="slide_inner"><img data-original="/assets/images/exp_hana_fitness_tennis.jpg" src="/assets/images/global/placeholder.gif" alt="">
+            <h5>Tennis</h5>
+            <p class="description">Travaasa Hana features two newly resurfaced tennis courts on property. Tennis equipment is available for guests to use in the adjacent Makana Center.</p>
+          </div>
+        </div>
       </div>
       <a class="carousel_prev" id="story3_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story3_next" href="#"><span><b>next</b></span></a> </div>
   </section>
