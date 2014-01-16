@@ -112,7 +112,7 @@ And one way to do this is through our diverse course offerings we call "Travaasa
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_hana_culinary_juicing.jpg" src="/assets/images/global/placeholder.gif" alt="">
             <h5>Juicing 2.0</h5>
-            <p class="description">If ever there was a more ideal place to for you to try juicing, Hawai'i is the place. The rich and varied bounty of fruits and vegetables lets you whip up a nearly endless list of creations. But this isn't ‘old school' blending filled with chopping, slopping and mopping here. This is Juicing 2.0 Hana style. Together, we'll use whole foods to blend and mix fresh juices, soups, dips, spreads, desserts and salsas.</p>
+            <p class="description">If there was ever an ideal place for you to try juicing, it's Hawai'i. The rich and varied bounty of fruits and vegetables lets you whip up a nearly endless list of creations. But this isn't ‘old school' blending filled with chopping, slopping and mopping here. This is Juicing 2.0 Hana style. Together, we'll use whole foods to blend and mix fresh juices, soups, dips, spreads, desserts and salsas.</p>
           </div>
         </div>
         <div class="slide">
