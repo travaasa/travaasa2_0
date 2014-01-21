@@ -86,8 +86,8 @@ The Jive 8:30–10 p.m.<br>
   <section class="spa_package">
     <img src="/assets/images/session-one.jpg" style="float:left; margin:0 15px 15px 0;" alt="Session One" width="165"><br>
     <h3>SESSION ONE | 3:30–4:30 p.m.<span style="font-family:georgia, serif; color:#606060; font-size:18px; text-transform:lowercase;">&nbsp;&nbsp;&#8211; <em>choose one</em></span></h3>
-    <h4>Jammin’ with Confituras &#8211; Preserving the Seasons Workshop with <a href="http://confituras.net/" target="_blank">Stephanie McClenny</a></h4>
-    <p>Two-time Good Food award-winner Stephanie McClenny will talk about the history of canning and preserving and her personal travels along the path to forming a small-production jam company. She’ll share some of her favorite seasonal fruit and vegetable jam ingredients combinations and demonstrate the process of making jam. Participants will learn valuable tips and techniques and take away a recipe or two!</p>
+    <h4>Preserving Austin with Confituras &#8211; Jam Making Workshop with <a href="http://confituras.net/" target="_blank">Stephanie McClenny</a></h4>
+    <p>Two-time Good Food award-winner Stephanie McClenny will talk about the history of canning and preserving and her personal travels along the path to forming a small-production jam company. She'll share some of her favorite seasonal fruit preserve ingredient combinations and demonstrate the process of preparing a French-inspired chocolate strawberry jam made with local Poteet strawberries. Participants will learn valuable tips and techniques and take away a jar of this luxurious locally-sourced jam!</p>
     <h4>Sourdough Bread &#8211; Fermenting Grains Workshops with Executive Chef Ben Baker</h4>
     <p>The sourdough workshop, hosted by Travaasa Executive Chef Benjamin Baker, will focus on fermenting grains as a historical method for increasing nutritional value and aiding in digestibility. Chef Ben will detail the progress that sourdough has made traveling the planet for the past 172 years, where it stayed, and for how long. Participants will learn the process involved in storing the starter and making the bread.</p>
   </section>
