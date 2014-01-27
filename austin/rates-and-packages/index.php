@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="col span_1_of_2">
           <h1>Rates &amp; Packages</h1>
           <p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a class="btn-list scroll" href="/preferences">GET ON THE LIST</a>
-            <br><br> <a href="/jamandjive"><img class="videobox" width="350" src="/assets/images/jam-and-jive-teaser.jpg"></a></p>
+            <!--<br><br> <a href="/jamandjive"><img class="videobox" width="350" src="/assets/images/jam-and-jive-teaser.jpg"></a></p>-->
     </div>
     <div class="col span_1_of_2" style="margin:0">
       <img src="/assets/images/no-resort-fee-seal.png" style="float:right; margin-right:80px;" width="270" />
