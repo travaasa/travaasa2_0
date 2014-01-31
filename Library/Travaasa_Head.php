@@ -6,7 +6,7 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 <!-- Stylesheets -->
-<link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/219cfca3-6d64-4b4f-98fa-9e9b1197e3d8.css"/>
+<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/855e233c-3953-43b0-abfe-6551b0031c94.css"/>
 <link rel="stylesheet" href="/assets/css/html5reset.css" media="all">
 <link rel="stylesheet" href="/assets/css/col.css" media="all">
 <link rel="stylesheet" href="/assets/css/2cols.css" media="all">
