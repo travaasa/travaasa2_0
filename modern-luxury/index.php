@@ -47,8 +47,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>$25 per person per stay Private Activity Credit</li>
                 <li>$25 total per stay Lunch or Dinner Credit</li>
               </ul>              
-            <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2')]); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2&rateCode=April Fools" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2&rateCode=April Fools')]); return false;" class="btn">BOOK HANA</a></p>
+            <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2&amp;rateCode=PKGMLUX" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2&amp;rateCode=PKGMLUX')]); return false;" class="btn-jorah">BOOK WITH CREDITS</a>&nbsp;&nbsp;&nbsp;
+            <a class="btn-list scroll" href="/preferences">GET ON THE LIST</a></p>
       </div>
   </section>
 </article>
