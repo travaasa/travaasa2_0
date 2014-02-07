@@ -40,14 +40,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix notheater">
       <div class="col span_8_of_9">
-          <h1>TEXAS MONTHLY</h1>
-          <p>Mention “Texas Monthly" and receive <strong>$75 in extra credits</strong> when staying on a <strong>Your Travaasa Package</strong> or the <strong>Total Travaasa Package</strong> for up to two people. Credits include:</p>
+          <h1>MODERN LUXURY</h1>
+          <p>Mention “Modern Luxury" and receive <strong>$75 in extra credits</strong> when staying on a <strong>Your Travaasa Package</strong> or a <strong>Total Travaasa Package</strong> for up to two people. Credits include:</p>
               <ul>
                 <li>$25 per person per stay Spa Credit</li>
                 <li>$25 per person per stay Private Activity Credit</li>
                 <li>$25 total per stay Lunch or Dinner Credit</li>
               </ul>              
-            <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2&amp;rateCode=PKGTXM" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2&amp;rateCode=PKGTXM')]); return false;" class="btn-jorah">BOOK WITH CREDITS</a>&nbsp;&nbsp;&nbsp;
+            <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2&amp;rateCode=PKGMLUX" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2&amp;rateCode=PKGMLUX')]); return false;" class="btn-jorah">BOOK WITH CREDITS</a>&nbsp;&nbsp;&nbsp;
             <a class="btn-list scroll" href="/preferences">GET ON THE LIST</a></p>
       </div>
   </section>
