@@ -136,11 +136,6 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
                 <p>Utilizing the cleansing and soothing properties of nettle, grape and carrot, this facial gently cleanses and tones. Infusing skin with vitamins A, E and C, the pumpkin, orange and cinnamon mask increases circulation. Following, the soothing carrot mask and carotene cream massage, revitalizes dry, dehydrated skin.</p>
                 <h5>80 minutes &#8211; $180 </h5>
-            </section>
-            <section class="spa_package">
-                <h4>PUMPKIN PEEL FACIAL</h4>
-                <p>Our unique Pumpkin Peel balances uneven complexion and is ideal for acne-prone skin. Skin is left instantly brighter and more vibrant.</p>
-                <h5>80 minutes &#8211; $195 </h5>
             </section><br>
 
             <h2>FACIAL TREATMENTS</h2>
@@ -391,7 +386,14 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
         <div class="tab_data_inner">
 
             <h2>SEASONAL TREATMENTS &#8211; WINTER CHEER</h2>
-            <p>In celebration of the holiday season—and all the wonderful flavors that come along with it—we’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
+            <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
+
+            <section class="spa_package">
+                <h4>MONTH OF LOVE CHOCOLATE SCRUB &amp; MASSAGE</h4>
+                <p>Enjoy this seductively delicious chocolate temptation, without the calories. Start with a gentle coco scrub using ingredients including organic Coco and Shea butters, regenerating jojoba oil and vitamins E, A and B. Finish with a warm massage. This treatment offers an unforgettable chocolaty escape that you can take with you when you leave. Relive your spa experience with a few tasty treats from a local Austin Chocolatier along with the same coco massage candle used during your treatment.</p>
+                <h5>80 minutes &#8211; $180 </h5>
+              </section>
+
             <section class="spa_package">
                 <h4>CHOCOLATE PEPPERMINT PEDICURE</h4>
                 <p>Treat your feet for the Holidays! Revitalize tired, achy feet that have carried you through shopping day after shopping day with our Chocolate and Peppermint pedicure. Exfoliate, clean, trim, and moisturize, followed by polish or buff.</p>
@@ -403,9 +405,6 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>Celebrate the season with a clean burst of orange and pomegranate! Your hands will be cleaned, exfoliated and moisturized, nails trimmed. Polish or buff.</p>
                 <h5>50 minutes &#8211; $70 </h5>
                 </section>
-
-            <p class="description">Fresh mulled cider will be served with both treatments through January 15th.</p>
-
 
             <h2>SPECIAL PACKAGES</h2>
             <p>For those who want the convenience of choosing a spa package, Travaasa offers several different options—including full- and half-day packages.</p>

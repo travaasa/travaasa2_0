@@ -58,6 +58,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<div class="tabbed_group">
         	<h5>For guests staying at Travaasa Hana</h5>
             <ul class="tabbed_list">
+                <li id="tab_9"><a href="#seasonal_treatments">Seasonal Treatments</a></li>
                 <li id="tab_4"><a href="#massage_therapy">Massages</a></li>
                 <li id="tab_1"><a href="#body_treatments">Body Treatments</a></li>
                 <li id="tab_2"><a href="#facials">Facials</a></li>
@@ -78,8 +79,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </ul>
          </div>
     </div>
+    <div id="seasonal_treatments" class="tab_data">
+        <div class="tab_data_inner">
+
+            <h2>SEASONAL TREATMENTS</h2>
+
+            <section class="spa_package">
+                <h4>LOKELANI VALENTINES RITUAL</h4>
+                <p>This deeply relaxing and rejuvenating rose ritual is named after one of the official flowers of Hawaii, particularly the island of Maui, the Lokelani Rose. Using organic roses, this ritual starts with a gentle exfoliating milk scrub followed by warm rose oil massage. Indulge in a luxurious rose bath following your treatment (In-room service only). Receive a Valentine’s Day gift and a rose massage candle after your treatment is complete.</p>
+                <h5>90 minutes &#8211; $230 </h5>
+              </section>
+            <p class="description">All package gratuities are included; tax is additional.</p>
+        </div>
+    </div>
     <div id="body_treatments" class="tab_data">
         <div class="tab_data_inner">
+            <h2>BODY TREATMENTS</h2>
             <p>Body treatments at Travaasa Hana are designed to energize or soothe, and at Travaasa Hana we have a special name for the special herbal treatments we use: Pala‘au Kino (heal the body with herbs).</p>
             <section class="spa_package">
                 <h4>Ho'ala ("To Arise") Refining Clay Body Wrap</h4>
@@ -118,6 +133,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="facials" class="tab_data">
         <div class="tab_data_inner">
+            <h2>FACIALS</h2>
         	<p><strong>Pala'au ‘Ili (Heal the Skin with Herbs) Skin Care Facials</strong><br>We believe that natural beauty is best restored using natural remedies. At Travaasa Hana we call it Pala‘au ‘lli (heal the skin with herbs). Let us create a facial expressly for you and your skin type, then lay back and relax as we soothe, heal and clarify your skin with local clay, wild-crafted oils, plants, minerals and flowers.</p>
             <section class="spa_package">
                 <h4>MOST PURE FACIAL</h4>
@@ -163,6 +179,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="hands_feet_scalp" class="tab_data">
         <div class="tab_data_inner">
+            <h2>HANDS, FEET &amp; SCALP</h2>
         	<section class="spa_package">
                 <h4>AROMATHERAPY SCALP TREATMENT</h4>
     <p>This wonderful scalp treatment uses herbal oils of cinnamon and clove to stimulate and nourish your hair and scalp.</p>
@@ -182,6 +199,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="massage_therapy" class="tab_data">
         <div class="tab_data_inner">
+            <h2>MASSAGES</h2>
             <section class="spa_package">
                 <h4>HAWAIIAN LOMILOMI</h4>
     <p>Lomilomi is a powerful native Hawaiian healing tradition. Rhythmic strokes, joint movement and deep kneading open the body and soothe the soul. Enjoy your choice of aromatherapy signature oil blends – $10 additional.</p>
@@ -220,6 +238,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="waxing" class="tab_data">
         <div class="tab_data_inner">
+            <h2>WAXING SERVICES</h2>
             <section class="spa_package">
                 <h4>LIP</h4>
                 <h5>15 minutes – $20</h5>
@@ -240,7 +259,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
-        	<h6>Not staying the night?  When available, these packages allow you to experience Travaasa for the day.</h6><br>
+            <h2>DAY SPA PACKAGES</h2>
+        	Not staying the night?  When available, these packages allow you to experience Travaasa for the day.<br>
             <section class="spa_package">
                 <h4>HANA COUPLE'S ESCAPE</h4>
     <p>In your shared spa suite, this indulgent treatment starts off with an organic myrtle salt water foot soak and unrefined, sun-dried clay foot mask. You and your special someone will slip into deep relaxation with a soothing full body massage using our premium, organic massage oil. Our nourishing scalp treatment finishes this head-to-toe treatment. Price per couple, does not include gratuity.</p>
@@ -260,12 +280,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="spa_facilities" class="tab_data">
         <div class="tab_data_inner">
+            <h2>SPA FACILITIES</h2>
         	<p>Enjoy our well-appointed men's and women's locker rooms complete with steam rooms, cold plunge pool, indoor and outdoor showers, robes, slippers, towels and personal amenities. Beverages, herbal tea and fresh fruit are provided in the relaxation lounge. Relax in our outdoor, lava-rock whirlpool and lounge overlooking Hana Bay in a tropical garden setting. Browse our spa shop, which features a full line of nurturing products, clothing, books, music, jewelry, teas and more.</p>
         </div>
     </div>
     <div id="reservation_information" class="tab_data">
         <div class="tab_data_inner">
-        	<p><strong>Reservations &amp; Spa Information</strong><br>
+        	<h2>Reservations &amp; Spa Information</h2><br>
 To make reservations at The Spa at Travaasa Hana for a spa treatment or spa package, to plan a spa retreat, or to inquire about a customized wellness program, <strong>please call 808-270-5290</strong>.</p>
 			<section class="spa_package">
 				<h4>SPA CONCIERGE</h4>
