@@ -136,11 +136,6 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
                 <p>Utilizing the cleansing and soothing properties of nettle, grape and carrot, this facial gently cleanses and tones. Infusing skin with vitamins A, E and C, the pumpkin, orange and cinnamon mask increases circulation. Following, the soothing carrot mask and carotene cream massage, revitalizes dry, dehydrated skin.</p>
                 <h5>80 minutes &#8211; $180 </h5>
-            </section>
-            <section class="spa_package">
-                <h4>PUMPKIN PEEL FACIAL</h4>
-                <p>Our unique Pumpkin Peel balances uneven complexion and is ideal for acne-prone skin. Skin is left instantly brighter and more vibrant.</p>
-                <h5>80 minutes &#8211; $195 </h5>
             </section><br>
 
             <h2>FACIAL TREATMENTS</h2>
