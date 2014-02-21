@@ -107,7 +107,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <td class="compare-table-check">&nbsp;</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box">A daily snack and all non-alcoholic beverages</td>
+          <td class="compare-table-description-box">All snacks and non-alcoholic beverages</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
         </tr>
