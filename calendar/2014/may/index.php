@@ -96,7 +96,7 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_march_2014_1600x640_austin.jpg" alt="April is Grow month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_march_2014_1600x640_austin.jpg" alt="May is TK month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -123,45 +123,49 @@
             <h2>Culinary</h2>
 
              <div class="listing">
-              <h6>FARM-TO-BLENDER JUICING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Grow green, eat green, drink green, be green, live green— the mantra for those who desire to live healthfully and harmoniously with nature. Green vegetables are said to possess more valuable nutrients than any other food. Learn how to combine these super-greens for more readily available nutrients.</P> 
-                </div>
+              <h6>JUICING AND WELL-BEING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Learn unique combinations of fruit and vegetable juices that nurture your body and promote better health and well-being.</p>
+              </div>
 
              <h2>Culture</h2>
 
              <div class="listing">
-              <h6>GROWING UP IN HĀNA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Join our tour guides as they reminisce about growing up in Hana. On this historical walking tour, you will learn the history and culture of Hāna town.</P> 
+              <h6>LEI-MAKING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Lei's are traditionally used to celebrate all occasions in Hawai'i. Learn to make your own Ti-Leaf lei for the perfect gift for a friend or loved one.</P> 
                 </div>
 
              <div class="listing">
-              <h6>MIRACLE GROW: GUIDED GARDEN WALK <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Brush up on your botany with a guided garden walk where you’ll learn all about the exotic plants and flowers found at our resort (including the lā’au lapa’au or medicinal plants grown here!) Whether brought over in ancient times, during the Polynesian voyages or within the last 200 years, each plant has a unique story to tell.</P> 
-                </div>
+              <h6>Creating FEATHERS <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Use feathers and various Hawaiian techniques to create a beautiful art piece for your mother or loved one.</p>
+            </div>
 
              <h2>Fitness</h2>
 
                  <div class="listing">
-              <h6>CULTIVATE HEAT YOGA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Spring into the new season with Sun Salutations! Focusing on various nuances of the sun salutation, this practice will deepen the foundation of individual postures and build into a fluid, repetitive sequence for strengthening and revitalizing your body-spirit.</p>
-            </div>
+              <h6>NURTURING HATHA YOGA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Hatha may be the most common form of yoga practiced by Westerners, but practicing in Hāna elevates this yoga variation to an uncommonly spectacular level. Rooted in the foundational techniques of yoga asanas, this class will focus on alignment of poses, awareness of breath and intention to nurture the mind, body and spirit.</P>
+                </div>
 
                  <div class="listing">
-              <h6>BACK TO NATURE BOOT CAMP <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>In addition to promoting all-around fitness, boot camp circuit training delivers maximum results in a short period of time. Surrounded by 360° views of stunning Hana scenery, you will find motivation to challenge your body and mind using a combination of movements at varied intensities. And to add a true paradise experience, this workout finishes with a trip down to the beach. </p>
-            </div>
+              <h6>CORE SUPPORT TRAINING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Increase your body awareness as you learn to move with more grace and fluidity. This class will teach you to use the intrinsic, spine-supporting muscles to keep your extremities strong and supple. Leave with improved posture, joint range-of-motion, improved mobility, and stronger mind-to-body connection.</p>
+              </div>
 
                  <div class="listing">
-              <h6>GROW-AN-INCH: PILATES <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Pilates practice is a well-rounded exercise method that works with the deeper muscles along the spine, muscles that are vital to healthy posture and mobility. Feel yourself “grow an inch” as you work towards a stronger torso and increased core stability. You’ll gain joint range-of-motion and a slimmer, more toned physique.</p>
-            </div>
+              <h6>BOOST YOUR FITNESS WITH BOSU <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Boost your overall fitness and re-reinforce your mind-to-body connection with this total body BOSU workout. By focusing on your core and balance, you will strengthen every muscle group in your body, as well as uplift and re-focus both your body and mind.</p>
+              </div>
+
+                <div class="listing">
+              <h6>OUTDOOR BOOT CAMP <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Replace you morning coffee with a nature-filled boot camp class set amidst Hana scenery. Wake your body up with circuit training and other various training modalities (such as strength, cardio, core, speed, agility, and flexibility) coupled with a focus on injury prevention. After this high-energy workout, you’re sure to leave refreshed and ready to take on your day.</p>
+              </div>
 
             <h2>Spa & Wellness</h2>
 
             <div class="listing">
-              <h6>TUNE INTO NATURE: MEDITATON <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Take the opportunity to savor the beauty of the outdoors and find quiet introspection as you deepen your appreciation of nature and the seasons. The natural environment in Hana will allow you to create the space within to feel replenished and revitalized.</p>
-            </div>
+              <h6>NURTURING BREATH & MEDITATION <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>This nurturing ritual helps bring awareness to our moment-to-moment experiences. Engage in a simple—but not easy—practice of acceptance, letting go, non-striving and suspension of the judgmental mind.  Leave with a deep sense of openness and receptivity to yourself, others and the moment as it unfolds.</p> </div>
 
 
                        </div>
@@ -177,9 +181,10 @@
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/february/"><img src="/assets/images/months/feb-heart.png" alt="February is Hearth Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/march/"><img src="/assets/images/months/mar-go.png" alt="March is Go Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div ><a href="/calendar/2014/march/"><img src="/assets/images/months/mar-go.png" alt="March is Go Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/may/"><img src="/assets/images/months/may-TK.png" alt="May is TK Month"></a></div></div>
+
         </div>
   </section>
   
