@@ -281,7 +281,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <section class="spa_package">
                 <h4>SHIATSU</h4>
     			<p>Based on centuries-old Eastern techniques, acupressure is combined with stretches, weight and leverage to alleviate fatigue and pain and make your body feel alive and energized like never before. Please wear comfortable clothing.</p>
-                <h5>80 minutes &#8211;  $135/$185</h5>
+                <h5>50 or 80 minutes &#8211;  $135/$185</h5>
 			</section>
             <section class="spa_package">
                 <h4>SACRED STONES MASSAGE</h4>
