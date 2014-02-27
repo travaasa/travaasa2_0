@@ -123,7 +123,7 @@
             <h2>Culinary</h2>
 
              <div class="listing">
-              <h6>FARM-TO-BLENDER JUICING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+              <h6>FARM-TO-BLENDER JUICING <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Grow green, eat green, drink green, be green, live green— the mantra for those who desire to live healthfully and harmoniously with nature. Green vegetables are said to possess more valuable nutrients than any other food. Learn how to combine these super-greens for more readily available nutrients.</P> 
                 </div>
 
@@ -135,7 +135,7 @@
                 </div>
 
              <div class="listing">
-              <h6>MIRACLE GROW: GUIDED GARDEN WALK <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+              <h6>MIRACLE GROW — GUIDED GARDEN WALK <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Brush up on your botany with a guided garden walk where you’ll learn all about the exotic plants and flowers found at our resort (including the lā’au lapa’au or medicinal plants grown here!) Whether brought over in ancient times, during the Polynesian voyages or within the last 200 years, each plant has a unique story to tell.</P> 
                 </div>
 
@@ -143,7 +143,7 @@
 
                  <div class="listing">
               <h6>CULTIVATE HEAT YOGA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Spring into the new season with Sun Salutations! Focusing on various nuances of the sun salutation, this practice will deepen the foundation of individual postures and build into a fluid, repetitive sequence for strengthening and revitalizing your body-spirit.</p>
+                <p>Spring into the new season with Sun Salutations! Focusing on various nuances of the sun salutation, this practice will deepen the foundation of individual postures and build into a fluid, repetitive sequence, resulting in a stronger, more revitalized body-spirit. </p>
             </div>
 
                  <div class="listing">
@@ -152,20 +152,81 @@
             </div>
 
                  <div class="listing">
-              <h6>GROW-AN-INCH: PILATES <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Pilates practice is a well-rounded exercise method that works with the deeper muscles along the spine, muscles that are vital to healthy posture and mobility. Feel yourself “grow an inch” as you work towards a stronger torso and increased core stability. You’ll gain joint range-of-motion and a slimmer, more toned physique.</p>
+              <h6>GROW-AN-INCH PILATES <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Pilates practice is a well-rounded exercise method that works with the deeper muscles along the spine—muscles vital to good posture and mobility. Feel yourself “grow an inch” as you work towards a stronger torso and increased core stability. You’ll gain joint range-of-motion and a slimmer, more toned physique.</p>
             </div>
 
-            <h2>Spa & Wellness</h2>
+            <div class="listing">
+              <h6>EXPLORE YOUR FUNCTIONAL STRENGTH WITH KETTLEBELLS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This class couples kettlebells with full-body exercises for a great head-to-toe workout. Force yourself to explore your functional strength and leave feeling toned and agile.</p>
+            </div>
+
+               <div class="listing">
+              <h6>GROW STRONG — FREE WEIGHTS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>In this 45-minute free-weight class, you will increase physical strength, build endurance and chisel your figure. With the use of a couple pair of dumbbells, props and highly effective sculpting motions, you’re sure to leave feeling stronger and more physically fit.</p>
+            </div>
+
+                                   </div>
+          <div class="col span_1_of_2">
+
+               <div class="listing">
+              <h6>YOGA FOR THE SPINE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This hatha yoga practice focuses on lengthening the spine through rounding, elongating and back-bending. You will find yourself standing taller upon completion. </p>
+            </div>
+
+
+                   <div class="listing">
+              <h6>EXPLORE THE JOY OF HULA HOOPING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Explore your youthful self as we play and learn to hula-hoop as a form of fitness and fun.</p>
+            </div>
+
+                   <div class="listing">
+              <h6>UNLEASH YOUR NATURAL RHYTHM WITH SALSA DANCE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Dancing is a fun way to grow confortable with your body, build confidence and improve self-esteem. Join us for some salsa dancing that's sure to inspire your natural rhythm. Side effects include bursts of laughter and plenty of calories burned. </p>
+            </div>
+
+                   <div class="listing">
+              <h6>TAI CHI &amp; NATURE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Tai Chi means moving energy. In this art, you learn to place the energy within yourself in harmony with the energy around you. By perfoming circular movements that mimic the motions found in the elements, animals, plants and sky, you can get in touch with nature's energy as well as your own.  </p>
+              </div>
+
+
+                   <div class="listing">
+              <h6>SPRING CLEANING — FENG SHUI <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Now that spring has officially sprung, it's time to clear the clutter and make way for a brand new season of growth. Learn 10 Feng Shui tips designed to bring renewed energy into your life.</p>
+            </div>
+
+
+                   <div class="listing">
+              <h6>PELVIC FLOOR &amp CORE YOGA THERAPY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>In this yoga class, focus begins with the supporting muscles of the internal organs and spine – the pelvic floor muscles. Learn how they function and support the core so you can keep them strong and healthy. </p>
+            </div>
+
+            <h2>Spa &amp; Wellness</h2>
+
+                   <div class="listing">
+              <h6>QOYA — GROW <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Qoya is a movement practice for women used as a reminder that women are wise, wild and free. We combine yoga, dance and fast-paced music to promote inward reflection and growth.  </p>
+              </div>
 
             <div class="listing">
               <h6>TUNE INTO NATURE: MEDITATON <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Take the opportunity to savor the beauty of the outdoors and find quiet introspection as you deepen your appreciation of nature and the seasons. The natural environment in Hana will allow you to create the space within to feel replenished and revitalized.</p>
             </div>
 
+              <div class="listing">
+              <h6>MEDITATION — EXPLORE YOUR INNER GUIDANCE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Join us for a discussion of meditation's fundamentals, followed by a guided meditation that will help you to explore your own intuition and personal growth.</p>
+            </div>
 
-                       </div>
-          <div class="col span_1_of_2">
+
+                   <div class="listing">
+              <h6>EXPLORE FOOT CARE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Our feet are by nature our base of support; the foundation of the joints above. Grow greater awareness of their movement while learning to rebalance with improved postural alignment, function and coordination.</p>
+            </div>
+
+
+
             
           
             
