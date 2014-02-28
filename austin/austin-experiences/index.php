@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_trail-ride.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Horseback Riding</h5>
-            <p class="description">Riding properly requires constant physical activity by the rider and focus on developing core strength. When you ride a horse the goal is to be more than just a passenger—it's to achieve a bond with the horse. A one-hour riding lesson in the Travaasa Arena with one of our expert cowboys will focus on developing strength while connecting with your horse. These lessons are tailored to your level of skill and interest.</p>
+            <p class="description">Riding properly requires constant physical activity by the rider and focus on developing core strength. When you ride a horse, the goal is to be more than just a passenger—it's to achieve a bond with the horse. A one-hour riding lesson in the Travaasa Arena with one of our expert cowboys will focus on developing strength while connecting with your horse. These lessons are tailored to your level of skill and interest.</p>
             <p class="disclaimer">*Horseback Riding lessons are subject to an additional charge. Total Travaasa resort credits may be used toward this activity.</p>
           </div>
         </div>
