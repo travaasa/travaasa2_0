@@ -67,26 +67,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_trail-ride.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Horseback Riding</h5>
-            <p class="description">Riding properly requires constant physical activity by the rider and focus on developing core strength. When you ride a horse, the goal is to be more than just a passenger—it's to achieve a bond with the horse. A one-hour riding lesson in the Travaasa Arena with one of our expert cowboys will focus on developing strength while connecting with your horse. These lessons are tailored to your level of skill and interest.</p>
+            <p class="description">Riding properly requires constant physical activity and a focus on core strength. While riding, you'll also want to act as more than just a passenger by forming a bond with your horse. Lead by one of our expert cowboys, a one-hour riding lesson in the Travaasa Arena will focus on developing strength while connecting with your horse. Each lesson is tailored to the individual's level of skill and interest.</p>
             <p class="disclaimer">*Horseback Riding lessons are subject to an additional charge. Total Travaasa resort credits may be used toward this activity.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_equine.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Equine Encounters</h5>
-            <p class="description">Develop your self-awareness through close interaction with this intelligent creature and allow our equine team to guide you on a journey of heightened personal understanding. Learn to lead and project your intentions as you are guided by our equine team. No previous horse experience needed for this experience that will teach you how to establish communication with another being through respect, sensitivity and awareness.</p>
+            <p class="description">Develop your self-awareness through close interaction with this intelligent creature and allow our equine team to guide you on a journey of heightened personal understanding. Learn to lead and project your intentions as you are guided by our equine team. With no previous horse experience needed, this experience that will teach you how to establish communication with another being through respect, sensitivity and awareness.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_bike-pump.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Bike Pump Track</h5>
-            <p class="description">Built for all skill levels&#8212;from limited experience to advanced bike riders&#8212;the pump bike track boasts something for everyone.  Focus on the fundamentals and have fun challenging yourself to get all the way around without having to pedal, or take it to the next level by riding high and fast into the berms.  For the really adventurous and skilled rider, see how high you can go on the wall.  No matter your skill level, you will get a full body workout while you hone your ability to focus, break out of your shell, and have an amazing time doing so.</p>
+            <p class="description">Built for all skill levels&#8212;from limited experience to advanced bike riders&#8212;the pump bike track offers something for everyone. Focus on the fundamentals and have fun challenging yourself to get all the way around without having to pedal, or take it to the next level by riding high and fast into the berms. For the really adventurous and skilled rider, see how high you can go on the wall. No matter your skill level, you're sure to get a full-body workout while honing your ability to focus abd break out of your shell.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_archery.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Archery</h5>
-            <p class="description">Learn the fundamentals that create the foundation of archery while boosting your mental attention and connecting your breath to physical performance. Experience techniques to develop your focus, patience, flexibility, concentration, and attention skills and understand why great archers continually develop these simple concepts to heighten all aspects of their lives.</p>
+            <p class="description">Learn the fundamentals that create the foundation of archery while boosting your mental attention and connecting your breath to physical performance. Experience techniques to develop your focus, patience, flexibility, concentration, and attention skills and understand why great archers continually exercise these simple concepts to heighten all aspects of their lives.</p>
           </div>
         </div>
         <div class="slide">
@@ -98,13 +98,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_hiking_2.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Sunrise Hike</h5>
-            <p class="description">There's something magical about starting your day with a sunrise hike. Your body is refreshed from sleep, and your mind is open to experiencing new and vital things. Feel the fresh morning air on your face and watch the sun rise over the breathtaking landscape of the Balcones Canyonlands and waterscape of Lake Travis.</p>
+            <p class="description">There's something magical about starting your day with a sunrise hike. Your body is refreshed from sleep and mind open to experiencing new and vital things. Feel the fresh morning air on your face and watch the sun rise over the breathtaking landscape of the Balcones Canyonlands and waterscape of Lake Travis.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_geocaching.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Geocaching Adventure</h5>
-            <p class="description">Geocaching is an outdoor sporting activity, often described as a "game of high-tech hide &amp; seek," in which the participants use a Global Positioning System (GPS) receiver or other navigational techniques to hide and search out containers, called "geocaches" or "caches" anywhere in the world. And in your case, you’ll have the entire spectacular Travaasa property to explore—discovering and hiding your own caches.</p>
+            <p class="description">Geocaching, an outdoor sporting activity often described as a "game of high-tech hide &amp; seek," involves the use of a Global Positioning System (GPS) receiver (or other navigational technique) to hide and search out containers, called "geocaches," anywhere in the world. And in your case, you’ll have the entire spectacular Travaasa property to explore while discovering and hiding your own caches.</p>
           </div>
         </div>
       </div>
@@ -125,25 +125,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_culinary_basic.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Basic Culinary Skills</h5>
-            <p class="description">Our hands-on cooking demos will teach you skills and techniques while showcasing Travaasa house recipes. Let our gourmet culinary team delight you with ways to prepare, cook and present the cuisine you savor.</p>
+            <p class="description">Our hands-on cooking demos will teach you culinary skills and techniques while showcasing Travaasa house recipes. Let our gourmet culinary team delight you with ways to prepare, cook and present the cuisine you savor.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_culinary_group.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Group Cooking Demo</h5>
-            <p class="description">You know those enviable people who make entertaining look so easy, and preparing recipes so effortless? After this culinary adventure, you’ll be one of them as you whip up tempting appetizers, perfect the art of the cocktail and learn how to create a memorable meal through layering different tastes and textures.</p>
+            <p class="description">You know those people who make entertaining and preparing recipes look so effortless? After this culinary adventure, you’ll be one of them. Whip up tempting appetizers, perfect the art of the cocktail and learn how to create a memorable meal.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_culinary_juice.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Juicing 2.0</h5>
-            <p class="description">Most have tried juicing before. And promptly quit because of the slopping, mopping and chopping. Enter our Juicing 2.0 experience. This isn't juicing from another era. Instead, we bring you an interactive meal-making program that uses a blender and fresh, whole food as its culinary crayon box. This is a hands-on, experiential class that provides a novel way to discover the exciting possibilities of food. We use whole foods to blend, juice and mix into fresh whole juices, hot soups, ice cream, salsas, dips, spreads and desserts... all from scratch. And all delicious.</p>
+            <p class="description">If you've ever given up on juicing due to the complicated prep and messy clean-up, this is the class for you. We bring you an interactive meal-making program focused on the use of a blender and fresh, whole food. This is a hands-on, experiential class that provides a novel way to discover the exciting possibilities of food. We use whole foods to blend, juice and mix into fresh whole juices, hot soups, ice cream, salsas, dips, spreads and desserts&#8212;all from scratch and all delicious.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_culinary_tastings.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Wine Tasting</h5>
-            <p class="description">Sip. Surrender. Savor. Wine appreciation can sound daunting and complicated. Let us step in with this experience that “undaunts” and underscores all the important things you need to know and understand about enjoying wine. First of all, wine is not just about knowing what you like. There is a difference between objective quality and subjective enjoyment. So let yourself surrender to different tastes you might never get to experience again.</p>
+            <p class="description">Sip. Surrender. Savor. Join us for a class that “undaunts” and underscores all the important things you need to know and understand about enjoying wine. First of all, wine is not just about knowing what you like. There is a difference between objective quality and subjective enjoyment. Let yourself surrender to different tastes you may never get to experience again.</p>
             	<p class="disclaimer">*Additional fee applies.</p>
           </div>
         </div>
@@ -165,13 +165,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_culture_twostep.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Texas Two-Step</h5>
-            <p class="description">The Texas Two-Step includes three steps: a quick step, a quick step, and then a slow step. The lead steps forward on his left foot, lifting his right heel for the first step, which is the first quick step. It can be danced to music with either a 2/4 or 4/4 time signature. And best of all? It doesn’t have to be done just in Texas, which means you’ve got a whole new skill to show off to friends when you go home, or a new weekend get-together idea.</p>
+            <p class="description">The Texas Two-Step includes three steps: a quick step, a quick step and then a slow step. It can be danced to music with either a 2/4 or 4/4 time signature. Show off your new dance moves at a local Austin dance hall or take a little Texas home to teach family and friends your new skills.  </p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_culture_ecology.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Ecology Series</h5>
-            <p class="description">Travaasa Austin is situated within 210 acres of the Balcones Canyonlands Preserve—a migratory landing spot for two federally endangered migratory species, the Black-capped Vireo and the Golden-cheeked Warbler. It’s also home to plants only native to this area. In this series, you’ll learn about native flora and fauna and also learn about the many healing properties of plants.</p>
+            <p class="description">Travaasa Austin is situated within 210 acres of the Balcones Canyonlands Preserve&#8212;a migratory landing spot for two federally endangered migratory species: the Black-capped Vireo and the Golden-cheeked Warbler. It’s also home to plants only native to the area. In this series, you’ll learn about native flora and fauna as well as the many healing properties of plants.</p>
           </div>
         </div>
         <div class="slide">
@@ -195,7 +195,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_culture_fire.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Evening Fireside Chats</h5>
-            <p class="description">At Travaasa Austin, we want to offer you a comforting and convivial way to end the evening. Around our firepit (outside) or fireside (inside) a nightly gathering as guests talk, laugh and share the day’s memories. It’s a friendly environment that allows you to get to know your fellow guests and the staff a little bit better. Whatever we do, whether it’s sharing stories, roasting marshmallows, or an impromptu music jam, every night will be a little bit different and a whole lot of fun.</p>
+            <p class="description">At Travaasa Austin, we want to offer you a comforting and convivial way to end the evening. Find a seat around our firepit (outside) or fireside (inside) for a nightly gathering as fellow guests talk, laugh and share the day’s memories. It’s a friendly environment that allows you to get to know your fellow guests and the staff a little bit better. Whatever we do, whether it’s sharing stories, roasting marshmallows or an impromptu music jam, every night will be a little different and a whole lot of fun.</p>
           </div>
         </div>
       </div>
@@ -216,43 +216,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_fitness_yoga.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Yoga for Mind and Body</h5>
-            <p class="description">Yoga is a wonderful technique to heal, detoxify and unify your mind and body. It can help fortify your awareness of movement, balance and intention, in addition to strengthening your body (through vinyasa yoga). No matter your age, strength or flexibility level, anyone can do yoga with the right attitude and the right teacher. And if you are new to yoga, you’ll find a physical path that harmonizes mind, body and soul. Yoga combines physical activity with breath to reduce stress, control weight, relieve lower back pain and enhance focus. Our yoga classes include various styles and routines that create a dynamic, challenging program which combines strength, spirituality and a healthy dose of sweat.</p>
+            <p class="description">Yoga is a wonderful technique to heal, detoxify and unify your mind and body. It can help fortify your awareness of movement, balance and intention, in addition to strengthening your body (through vinyasa yoga). No matter your age, strength or flexibility level, anyone can do yoga with the right attitude and the right teacher. If new to yoga, you’ll find a physical path that harmonizes the mind, body and soul. Yoga combines physical activity with breath to reduce stress, control weight, relieve lower back pain, and enhance focus. Our yoga classes include various styles and routines that create a dynamic, challenging program that combines strength, spirituality and a healthy dose of sweat.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_fitness_bull.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Mechanical Bull Workout</h5>
-            <p class="description">You probably didn’t see this one coming, but you are in Austin, after all. After you’ve gotten your muscles primed with pilates or our core conditioning class, graduate to our mechanical bull for a core workout that’s unlike anything you’ve ever experienced. Riding the bull increases strength and improves flexibility because it’s continually moving—up, down, right and left—purposely keeping you off-balance. It’s a ride that forces you to use your leg muscles to grip the sides of the bull, and your core muscles to flex as you move forward and back. And lastly, form does count, so don’t forget to raise one arm up in the air to maintain your balance (bonus points if you have a cowboy hat). And you thought cowboys were just being cool waving their hats around in the air!</p>
+            <p class="description">You probably didn’t see this one coming, but you are in Austin after all. After you’ve gotten your muscles primed with pilates or our core conditioning class, graduate to our mechanical bull for a core workout unlike anything you’ve ever experienced. Riding the bull will help to increase your strength and improve your flexibility as it continually moves up, down, right and left. By keeping you off balance, the bull forces you to use your leg muscles to grip its sides and core muscles to flex as you move forward and back. And lastly, form does count. Don’t forget to raise one arm up in the air to maintain  balance (bonus points if you have a cowboy hat).</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_fitness_outdoor.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Outdoor Circuit</h5>
-            <p class="description">Spice up your workouts with our outdoor circuit workout that will take you through some tough intervals that make your heart rate soar. Circuit training is a refreshing exercise that provides excellent, all-around fitness, tone and strength. Best of all, you get maximum results in a minimum amount of time. By mixing up the moves and changing the intensity throughout the workout, you’ll keep your body challenged and your mind interested—and that’s half the battle when you’re trying to motivate yourself to exercise.</p>
+            <p class="description">Spice up your workouts with an outdoor circuit workout sure to get your heart rate soaring. Circuit training is a refreshing exercise that provides excellent, all-around fitness, tone and strength. Best of all, you get maximum results in a minimum amount of time. By mixing up the moves and changing the intensity throughout the workout, you’ll keep your body challenged and mind interested&#8212;half the battle when you’re trying to motivate yourself to exercise.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_fitness_foam.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Foam Rollers</h5>
-            <p class="description">Not your grandmother's pink foam hair rollers, this body rolling exercise helps you release muscular tension with a rolling massage that feels great and helps increase flexibility. As you move and stabilize the roller on different planes, you'll improve balance, core muscles, stability and total body function.</p>
+            <p class="description">Not your grandmother's pink foam hair rollers, this body rolling exercise helps release muscular tension with a rolling massage that feels great and helps increase flexibility. As you move and stabilize the roller on different planes, you'll improve balance, core muscles, stability and total body function.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_fitness_pilates.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Pilates</h5>
-            <p>There’s nothing else like Pilates to make you feel like you’ve gained five inches in height or have the poise of a ballerina. Pilates is designed to transform the way your body looks, feels and performs, building strength without excess bulk. This basic all-level Pilates class on the mat teaches awareness, good posture and easy, graceful movement, while improving flexibility and agility.</p>
+            <p>There’s nothing else like Pilates to make you feel like you’ve gained five inches in height or have the poise of a ballerina. Pilates is designed to transform the way your body looks, feels and performs, building strength without excess bulk. This basic all-level mat Pilates class teaches awareness, good posture and graceful movement, while improving flexibility and agility.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_fitness_simplified.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Simplified Fitness</h5>
-            <p class="description">This workout gets rid of the weights and machines and takes you through an intense program using only your body’s resistance and the earth’s gravity. Learn tips and tricks that will allow you to work out anywhere and anytime. You’ll be surprised by the large number of exercises you will learn that will allow you to focus on any area of your body. Travelers for both business and pleasure love this "portable" workout.</p>
+            <p class="description">Ditch the weights and machines and join us for an intense program using only your body’s resistance and the earth’s gravity. Learn tips and tricks that will allow you to work out anywhere at anytime.Travelers for both business and pleasure love this "portable" workout.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_fitness_zumba.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Dance Fitness</h5>
-            <p class="description">This workout gets rid of the weights and machines and takes you through an intense program using only your body’s resistance and the earth’s gravity. Learn tips and tricks that will allow you to work out anywhere and anytime. You’ll be surprised by the large number of exercises you will learn that will allow you to focus on any area of your body. Travelers for both business and pleasure love this "portable" workout.</p>
+            <p class="description">For a non-traditional workout, try our dance fitness classes. Tone and tighten muscles as you move to the beats of various music genres, from salsa and hiphop to fast-paced pop tunes. You will leave feeling not only more energized, but also more confident inside and out.</p>
           </div>
         </div>
         <div class="slide">
@@ -279,19 +279,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_spa_overview.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>The Spa at Travaasa Austin</h5>
-            <p class="description">Our Austin Spa classes focus on mind, body and spirit with meditation offerings to help you decompress or recharge. Take something from each for a well-rounded Travaasa experience. For spa treatments, visit The Spa at Travaasa Austin. <a href="/austin/travaasa-spa-overview" class="more">more</a></p>
+            <p class="description">Our Austin Spa classes focus on mind, body and spirit with meditation offerings to help you decompress and recharge. Take something from each for a well-rounded Travaasa experience. For spa treatments, visit The Spa at Travaasa Austin. <a href="/austin/travaasa-spa-overview" class="more">more</a></p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_spa_breath.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Breath Work</h5>
-            <p class="description">Who knew that focusing on something we do unconsciously every second of every day can do so much more for us? This class works with the breath, following its movements through the body. Restorative sequencing moves us slowly into a deep somatic experience to release us from stress and anxiety and bring about a calmer, more relaxed state (great for type-A personalities who have trouble relaxing). As we turn the lens inward, we will learn more about the asana—the breath—and ourselves.</p>
+            <p class="description">Who knew that focusing on something we do unconsciously all da long could do so much more for us? This class works with the breath, following its movements through the body. Restorative sequencing moves us slowly into a deep somatic experience to release stress and anxiety and bring about a calmer, more relaxed state (great for type-A personalities who have trouble relaxing). As we turn the lens inward, we will learn more about the asana, the breath and ourselves.</p>
           </div>
         </div>
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_spa_meditation.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Meditation</h5>
-            <p class="description">Meditation is a wonderful way to decompress after a stressful day—or to start your day in a calming state of mind. We offer three different points of view on meditation, and all are easy to learn and incorporate into your daily life.</p>
+            <p class="description">Meditation is a wonderful way to decompress after a stressful day&#8212;or to start your day in a calming state of mind. We offer three different points of view on meditation, all easy to learn and incorporate into your daily life.</p>
           </div>
         </div>
       </div>
