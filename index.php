@@ -33,7 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?>
 <section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><a href="/hana/"><img src="/assets/images/feature_home_1600x640_adventure-flirt.jpg" alt=""></a></div>
+      <div class="slide"><a href="/hana/"><img src="/assets/images/feature_home_1600x640_beach_flirt.jpg" alt=""></a></div>
+      <!--<div class="slide"><a href="/hana/"><img src="/assets/images/feature_home_1600x640_adventure-flirt.jpg" alt=""></a></div>-->
       <div class="slide"><a href="/austin/dining/"><img data-original="/assets/images/feature_home_1600x640_culinary.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="/hana/"><img data-original="/assets/images/feature_home_1600x640_culture-v2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="/austin/"><img data-original="/assets/images/feature_home_1600x640_fitness.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
