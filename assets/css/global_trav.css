@@ -932,3 +932,106 @@ display:inline-block;
 
 /* HELLO BAR */
 #hellobar-logo {display:none !important;}
+
+/* Spa Menu Sorting March 2014 */
+#spa-menu-container .mix{
+	display: none;
+}
+
+.spa-menu-nav { display:block; text-align:center; }
+.spa-menu-nav li { display:inline-block; margin-right:5px; font-family: 'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif; font-size:90%; -webkit-box-shadow: inset 1px 1px 1px 0px #bcbcbc; box-shadow: inset 1px 1px 1px 0px #bcbcbc; }
+.spa-menu-nav li { display:inline-block; padding:8px 12px 2px 12px; color:#ea5965; background-color:#fafafa; text-decoration:none; border-radius:4px; }
+.spa-menu-nav li:hover, .spa-menu-nav li.on { background-color:#fafafa; }
+.span #active { background-color:#EA586D; color:#FFFFFF; !important; } 
+
+.spa-btn {
+  font-family: 'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif;
+  font-size: 10px;
+  line-height: 1;
+  background: #ea5965;
+  padding: 14px 10px;
+  margin: 0;
+  min-width: 40px;
+  cursor: pointer;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: white;
+  border: 0 none;
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid #03899c;
+  border-radius: 2px;
+  -webkit-appearance: none;
+}
+
+.spa-btn.active {
+  background: #FFFFFF;
+  color: #ea5965;
+  font-weight: 700;
+  border-top: 1px solid #E63746;
+  border-bottom: 0 none;
+}
+
+.spa-btn.hover {
+  color: #EA5965;
+  font-weight: 700;
+  border-top: 1px solid #E63746;
+  border-bottom: 0 none;
+}
+
+.label {
+  font-size: 14px;
+  letter-spacing: 1px;
+  font-weight: 500;
+  line-height: 1.4;
+  margin: 0 5px 0 15px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+.massage, .body_treatment, .facial, .wax {
+  display: inline-block;
+  background: #FEFEFE;
+  height:180px;
+  border: 2px solid #FAFAFA;
+  box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+  padding: 15px;
+  background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
+  opacity: 1;
+  border-radius: 3px;
+  
+  -webkit-transition: all .2s ease;
+  -moz-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
+}
+
+.standard_title {
+  font-family: 'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif;
+  font-size: 16px;
+  margin-bottom: 3px;
+  color:#00b5e2;
+  display: block;
+  text-transform: uppercase;
+}
+
+.premium_title {
+  font-family: 'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif;
+  font-size: 16px;
+  margin-bottom: 3px;
+  color:#ed8b00;
+  display: block;
+  text-transform: uppercase;
+}
+
+.sandbox {
+position: relative;
+min-height: 580px;
+overflow: hidden;
+}
+
