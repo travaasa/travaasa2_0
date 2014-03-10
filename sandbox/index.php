@@ -81,16 +81,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <button class="experience-nav filter" data-filter=".facial">Facial</button>
 <button class="experience-nav filter" data-filter=".wax">Wax</button>
 -->
-      <div style="padding:15px;">
+      <div style="padding: 1.5em 0;">
       <div id="spa-menu-container">
-        <div class="col span_1_of_4 mix massage standard" data-my-order="1"><p class="treatment_descriptions"><span class="standard_title">DETOXIFYING JUNIPER, OLIVE STONE EXFOLIATION &amp; MASSAGE</span>This treatment starts with a gentle, mineral-rich sea salt and crushed olive stone body polish to exfoliate, stimulate and cleanse the skin. Organic jojoba, almond and apricot kernel oils are mixed with organic juniper and cypress to detoxify and restore healthy tone and texture.</p></div>
-        <div class="col span_1_of_4 mix massage premium" data-my-order="2"><span class="premium_title">Premium Massage</span>TREATMENT_DESCRIPTION</div>
-        <div class="col span_1_of_4 mix body_treatment standard" data-my-order="3"><span class="standard_title">Standard Body Treatment</span>TREATMENT_DESCRIPTION</div>
-        <div class="col span_1_of_4 mix body_treatment premium" data-my-order="4"><span class="premium_title">Premium Body Treatment</span>TREATMENT_DESCRIPTION</div>
-        <div class="col span_1_of_4 mix facial standard" data-my-order="5"><span class="standard_title">Standard Facial</span>TREATMENT_DESCRIPTION</div>
-        <div class="col span_1_of_4 mix facial premium" data-my-order="6"><span class="premium_title">Premium Facial</span>TREATMENT_DESCRIPTION</div>
-        <div class="col span_1_of_4 mix wax standard" data-my-order="7"><span class="standard_title">Standard Wax</span>TREATMENT_DESCRIPTION</div>
-        <div class="col span_1_of_4 mix wax premium" data-my-order="8"><span class="premium_title">Premium Wax</span>TREATMENT_DESCRIPTION</div>
+        <div class="col span_1_of_4 mix massage standard" data-my-order="1"><p><span class="standard_title">DETOXIFYING JUNIPER, OLIVE STONE EXFOLIATION &amp; MASSAGE</span>This treatment starts with a gentle, mineral-rich sea salt and crushed olive stone body polish to exfoliate, stimulate and cleanse the skin. Organic jojoba, almond and apricot kernel oils are mixed with organic juniper and cypress to detoxify and restore healthy tone and texture.</p></div>
+        <div class="col span_1_of_4 mix massage premium" data-my-order="2"><p><span class="premium_title">Premium Massage</span>TREATMENT_DESCRIPTION</p></div>
+        <div class="col span_1_of_4 mix body_treatment standard" data-my-order="3"><p><span class="standard_title">Standard Body Treatment</span>TREATMENT_DESCRIPTION</p></div>
+        <div class="col span_1_of_4 mix body_treatment premium" data-my-order="4"><p><span class="premium_title">Premium Body Treatment</span>TREATMENT_DESCRIPTION</p></div>
+        <div class="col span_1_of_4 mix facial standard" data-my-order="5"><p><span class="standard_title">Standard Facial</span>TREATMENT_DESCRIPTION</p></div>
+        <div class="col span_1_of_4 mix facial premium" data-my-order="6"><p><span class="premium_title">Premium Facial</span>TREATMENT_DESCRIPTION</p></div>
+        <div class="col span_1_of_4 mix wax standard" data-my-order="7"><p><span class="standard_title">Standard Wax</span>TREATMENT_DESCRIPTION</p></div>
+        <div class="col span_1_of_4 mix wax premium" data-my-order="8"><p><span class="premium_title">Premium Wax</span>TREATMENT_DESCRIPTION</p></div>
       </div>
     </div>
   </section>
