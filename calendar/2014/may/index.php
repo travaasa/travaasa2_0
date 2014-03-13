@@ -123,19 +123,25 @@
             <h2>Culinary</h2>
 
              <div class="listing">
-              <h6>JUICING AND WELL-BEING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+              <h6>JUICING AND WELL-BEING  <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Learn unique combinations of fruit and vegetable juices that nurture your body and promote better health and well-being.</p>
               </div>
+
+               <div class="listing">
+              <h6>COMFORT FOODS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Healthy, nutrient-rich meals can taste just as delicious as those heavy, calorie-ridden dishes we often indulge in. Learn nourishing ways to prepare your old-time favorites both for yourself and for your friends and family, all without sacrificing taste or satisfaction.</p>
+              </div>
+
 
              <h2>Culture</h2>
 
              <div class="listing">
               <h6>LEI-MAKING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Lei's are traditionally used to celebrate all occasions in Hawai'i. Learn to make your own Ti-Leaf lei for the perfect gift for a friend or loved one.</P> 
+                <p>Lei's are traditionally used to celebrate all occasions in Hawai'i. Learn to make your own Ti-Leaf lei, whether as a souvenir for yourself, or as a perfect gift for a friend or loved one.</P> 
                 </div>
 
              <div class="listing">
-              <h6>Creating FEATHERS <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+              <h6>CREATING FEATHERS <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Use feathers and various Hawaiian techniques to create a beautiful art piece for your mother or loved one.</p>
             </div>
 
@@ -147,12 +153,12 @@
                 </div>
 
                  <div class="listing">
-              <h6>CORE SUPPORT TRAINING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+              <h6>CORE SUPPORT TRAINING  <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Increase your body awareness as you learn to move with more grace and fluidity. This class will teach you to use the intrinsic, spine-supporting muscles to keep your extremities strong and supple. Leave with improved posture, joint range-of-motion, improved mobility, and stronger mind-to-body connection.</p>
               </div>
 
                  <div class="listing">
-              <h6>BOOST YOUR FITNESS WITH BOSU <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+              <h6>BOOST YOUR FITNESS WITH BOSU  <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Boost your overall fitness and re-reinforce your mind-to-body connection with this total body BOSU workout. By focusing on your core and balance, you will strengthen every muscle group in your body, as well as uplift and re-focus both your body and mind.</p>
               </div>
 
@@ -161,16 +167,74 @@
                 <p>Replace you morning coffee with a nature-filled boot camp class set amidst Hana scenery. Wake your body up with circuit training and other various training modalities (such as strength, cardio, core, speed, agility, and flexibility) coupled with a focus on injury prevention. After this high-energy workout, you’re sure to leave refreshed and ready to take on your day.</p>
               </div>
 
-            <h2>Spa & Wellness</h2>
 
-            <div class="listing">
-              <h6>NURTURING BREATH & MEDITATION <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>This nurturing ritual helps bring awareness to our moment-to-moment experiences. Engage in a simple—but not easy—practice of acceptance, letting go, non-striving and suspension of the judgmental mind.  Leave with a deep sense of openness and receptivity to yourself, others and the moment as it unfolds.</p> </div>
+
+                <div class="listing">
+              <h6>CHERISH YOUR PILATES PRACTICE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Nurture your figure with a well-rounded exercise method that focuses on the deeper muscles along the spine¬—muscles fundamental to good posture and mobility. Cherishing Your Pilates Practice works you toward a stronger torso and more stable core, resulting in greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
+              </div>
+
+
+               <div class="listing">
+              <h6>ZUMBA FITNESS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Nurture your free spirit as you move to the beats of a different drummer. This high-energy, fun fitness class explores the traditional music of cultures often other than your own, while allowing you to discover the natural happiness that arises when you move freely. You won’t want to miss the opportunity to burn up to 600 calories in just one class! </p>
+              </div>
+
 
 
                        </div>
           <div class="col span_1_of_2">
-            
+
+               <div class="listing">
+              <h6>TAI CHI <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Tai Chi allows us to nurture our body as we gather energy and calm the mind. This “meditation in motion” involves postures performed in a relaxed, artful, and connected manner, with the circular and rhythmic movements of one position flowing seamlessly into the next. Tai Chi is also said to help with various health conditions, while boasting both physical and mental benefits. </p>
+              </div>
+
+               <div class="listing">
+              <h6>NURTURE YOUR HIPS AND KNEES WITH YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Whether you’re on your feet all day or sit in a desk chair from 9–5, your hips and knees can always use a bit of focused nurturing. Yoga can help ease tension while also giving you greater awareness of any overworked joints. Expect to leave this class with improved range of motion, stronger muscles and better mobility, especially in the hips and knees.</p>
+              </div>
+               
+               <div class="listing">
+              <h6>NURTURING YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Designed to nourish both your body and spirit, this gentle yoga class will you help you to restore and renew, inside and out. This class integrates the physical, mental and spiritual benefits of yoga, leaving you feeling refreshed and ready to take on the day.</p>
+              </div>
+
+
+               <div class="listing">
+              <h6>AQUA YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Join us for a full-body yoga workout—in the pool! Adjusting similar asanas (postures) practiced in the studio for underwater practice, this class will improve joint movement, build muscle strength and increase overall flexibility.</p>
+              </div>
+
+
+            <h2>Spa & Wellness</h2>
+
+            <div class="listing">
+              <h6>NURTURING BREATH & MEDITATION  <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>This nurturing ritual helps bring awareness to our moment-to-moment experiences. Engage in a simple—but not easy—practice of acceptance, letting go, non-striving and suspension of the judgmental mind.  Leave with a deep sense of openness and receptivity to yourself, others and the moment as it unfolds.</p> </div>
+              
+               <div class="listing">
+              <h6>NURTURE YOUR FEET <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Your feet are an extremely vital part of your musculo-skeletal system and can affect all the joints above if not properly cared for. In this class, you will learn how to massage, strengthen and nurture your feet, helping you to achieve and maintain good posture, alignment, mobility and back health. You will also learn how to stimulate various areas of the foot to nurture certain organs.  </p>
+              </div>
+
+
+               <div class="listing">
+              <h6>QOYA—MOVEMENT FOR WOMEN <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Qoya, the Quechan word for "queen", is a movement practice that incorporates "sweet" ritual, stretching, yoga and dance to tap into the feminine essence. Based on the idea that through movement, we remember who we are, this class will nurture you both mind and body.</p>
+              </div>
+
+               <div class="listing">
+              <h6>EMBRACE JOURNALING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Journaling is a therapeutic practice used to open your heart and mind to your inner self. Embrace this therapy to learn about yourself and how you relate with others and the universe as a whole.</p>
+              </div>
+
+               <div class="listing">
+              <h6>NURTURING MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Whether you're a seasoned pro or new to meditation, we encourage you to try this class filled with mental nourishment. Begin the class with lessons on proper sitting posture and then join us for a guided meditation. </p>
+              </div>
+
+          
           
             
 
