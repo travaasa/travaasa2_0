@@ -218,7 +218,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <section class="spa_package">
                 <h4>PRENATAL MASSAGE</h4>
     <p>Perfect for that special mom-to-be. This massage can be performed in all stages of pregnancy and is designed to reduce fluid retention, increase muscle tone and soothe aching backs and necks.</p>
-                <h5>90 or 120 minutes – $195/$250</h5>
+                <h5>60 minutes – $130</h5>
 			</section>
             <section class="spa_package">
                 <h4>POHAKU WELA HOT STONE</h4>
@@ -281,7 +281,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="spa_facilities" class="tab_data">
         <div class="tab_data_inner">
             <h2>SPA FACILITIES</h2>
-        	<p>Enjoy our well-appointed men's and women's locker rooms complete with steam rooms, cold plunge pool, indoor and outdoor showers, robes, slippers, towels and personal amenities. Beverages, herbal tea and fresh fruit are provided in the relaxation lounge. Relax in our outdoor, lava-rock whirlpool and lounge overlooking Hana Bay in a tropical garden setting. Browse our spa shop, which features a full line of nurturing products, clothing, books, music, jewelry, teas and more.</p>
+        	<p>Enjoy our well-appointed men's and women's locker rooms complete with steam rooms, cold plunge pool, indoor and outdoor showers, robes, slippers, towels and personal amenities. Naturally flavored water and snacks are provided in the relaxation lounge. Relax in our outdoor, lava-rock whirlpool and lounge overlooking Hana Bay in a tropical garden setting. Browse our spa shop, which features a full line of nurturing products, clothing, books, music, jewelry, teas and more.</p>
         </div>
     </div>
     <div id="reservation_information" class="tab_data">

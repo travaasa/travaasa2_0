@@ -39,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--<br><br> <a href="/jamandjive"><img class="videobox" width="350" src="/assets/images/jam-and-jive-teaser.jpg"></a></p>-->
     </div>
     <div class="col span_1_of_2" style="margin:0">
-      <img src="/assets/images/no-resort-fee-seal.png" style="float:right; margin-right:80px;" width="270" />
+      <img src="/assets/images/no-resort-fee-seal.png" style="float:right; margin-right:105px;" width="200" />
     </div>
   </section>
   <section class="pad group" style="padding-top:0;">
