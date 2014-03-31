@@ -85,11 +85,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <h2>SEASONAL TREATMENTS</h2>
 
             <section class="spa_package">
-                <h4>LOKELANI VALENTINES RITUAL</h4>
-                <p>This deeply relaxing and rejuvenating rose ritual is named after one of the official flowers of Hawaii, particularly the island of Maui, the Lokelani Rose. Using organic roses, this ritual starts with a gentle exfoliating milk scrub followed by warm rose oil massage. Indulge in a luxurious rose bath following your treatment (In-room service only). Receive a Valentine’s Day gift and a rose massage candle after your treatment is complete.</p>
-                <h5>90 minutes &#8211; $230 </h5>
+                <h4>LOKELANI ROSE BODY TREATMENT</h4>
+                <p>Enjoy a deeply relaxing and rejuvenating rose ritual named after the state flower of Hawaii, the Lokelani rose. This luxurious body treatment uses organic roses and decadent rose scented oils.  You journey will begin with a gentle exfoliating milk scrub followed by a relaxing massage and rejuvenating facial mask.</p>
+                <h5>90 minutes &#8211; $195 </h5>
               </section>
-            <p class="description">All package gratuities are included; tax is additional.</p>
+            <p class="description">18% gratuity and tax not included.</p>
         </div>
     </div>
     <div id="body_treatments" class="tab_data">

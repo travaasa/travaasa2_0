@@ -389,6 +389,12 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
 
             <section class="spa_package">
+                <h4>HANA COCOMINT BODY TREATMENT &amp; MASSAGE</h4>
+                <p>Spring into Hana, Maui via Austin, TX...by starting with a gentle milk scrub and body wrap with an aloe vera and coconut facial mask, followed by a warm coconut, mint and cocoa butter massage with a coconut compress.</p>
+                <h5>80 minutes &#8211; $195 </h5>
+              </section>
+
+            <!--<section class="spa_package">
                 <h4>MONTH OF LOVE CHOCOLATE SCRUB &amp; MASSAGE</h4>
                 <p>Enjoy this seductively delicious chocolate temptation, without the calories. Start with a gentle coco scrub using ingredients including organic Coco and Shea butters, regenerating jojoba oil and vitamins E, A and B. Finish with a warm massage. This treatment offers an unforgettable chocolaty escape that you can take with you when you leave. Relive your spa experience with a few tasty treats from a local Austin Chocolatier along with the same coco massage candle used during your treatment.</p>
                 <h5>80 minutes &#8211; $180 </h5>
@@ -404,7 +410,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h4>ORANGE POMEGRANATE MANICURE</h4>
                 <p>Celebrate the season with a clean burst of orange and pomegranate! Your hands will be cleaned, exfoliated and moisturized, nails trimmed. Polish or buff.</p>
                 <h5>50 minutes &#8211; $70 </h5>
-                </section>
+                </section>-->
 
             <h2>SPECIAL PACKAGES</h2>
             <p>For those who want the convenience of choosing a spa package, Travaasa offers several different options—including full- and half-day packages.</p>
