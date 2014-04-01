@@ -238,9 +238,9 @@
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/february/"><img src="/assets/images/months/feb-heart.png" alt="February is Hearth Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2014/march/"><img src="/assets/images/months/mar-go.png" alt="March is Go Month"></a></div></div>
             <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/may/"><img src="/assets/images/months/may-nurture.png" alt="May is Nurture Month"></a></div></div>
         </div>
   </section>
   

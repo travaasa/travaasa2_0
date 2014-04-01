@@ -14,7 +14,7 @@
 <script src="/assets/scripts/selectivizr-min.js"></script>
 <![endif]-->
 <script type="text/javascript" src="/assets/scripts/responsivegridsystem.js"></script>
-<script type="text/javascript" src="/assets/scripts/jquery.mixitup.min.js"></script>
+<!--<script type="text/javascript" src="/assets/scripts/jquery.mixitup.min.js"></script>-->
 <!--<script type="text/javascript" src="/assets/scripts/pe.flare/jquery.pixelentity.flare.min.js"></script>//-->
 <script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.mousewheel.js"></script>
 <script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.theme.utils.js"></script>

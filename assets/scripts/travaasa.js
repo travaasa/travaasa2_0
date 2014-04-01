@@ -283,13 +283,3 @@ function showTabContents(o) {
 	$($(o).attr("href")).css("display","block");
 	$($(o).attr("href")).addClass("tab_data_on");
 }
-
-$(function(){
-    $('#spa-menu-container').mixItUp({
-    	animation: {
-		duration: 300,
-		effects: 'fade stagger(34ms) translateZ(-120px)',
-		easing: 'cubic-bezier(0.645, 0.045, 0.355, 1)'
-	}
-    });  
-});
