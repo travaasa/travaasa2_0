@@ -45,10 +45,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
       <div class="col span_8_of_9">
           <h1>APRIL FOOLS</h1>
-          <p>Don't worry, we're not <em>that</em> crazy. For being such a good sport, call and mention “April Fools" or click below and receive a <strong>$25 resort credit</strong> when you book and stay in the month of April.</p>
+          <p>Don't worry, we're not <em>that</em> crazy. <br>For being such a good sport, call <a href="tel:8888792389">888-879-2389</a>, mention <strong>“April Fools"</strong>, <!--or click below--> and receive a <strong>$25 resort credit</strong> when you book and stay in the month of April.</p>
                         
-            <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&numberOfAdults=2&rateCode=afools" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&numberOfAdults=2&rateCode=afools')]); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&rateCode=afools" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&rateCode=afools')]); return false;" class="btn">BOOK HANA</a></p>
+            <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2')]); return false;" style="margin-bottom:20px;" class="btn-jorah">CHECK AUSTIN AVAILABILITY</a>&nbsp;&nbsp;
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2')]); return false;" class="btn-jorah">CHECK HANA AVAILABILITY</a></p>
       </div>
   </section>
 </article>
