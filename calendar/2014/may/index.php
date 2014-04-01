@@ -96,7 +96,7 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_march_2014_1600x640_austin.jpg" alt="May is TK month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_may_2014_1600x640_hana.jpg" alt="May is Nurture month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -245,9 +245,9 @@
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div ><a href="/calendar/2014/march/"><img src="/assets/images/months/mar-go.png" alt="March is Go Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/may/"><img src="/assets/images/months/may-TK.png" alt="May is TK Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/march/"><img src="/assets/images/months/mar-go.png" alt="March is Go Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/may/"><img src="/assets/images/months/may-nurture.png" alt="May is Nurture Month"></a></div></div>
 
         </div>
   </section>
