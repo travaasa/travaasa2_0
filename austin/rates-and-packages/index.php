@@ -150,7 +150,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li>All rates are per person, per night.</li>
           <li>Rates are exclusive of applicable taxes.</li>
           <!--<li>Access to regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, self parking and gratuities on all package components is included.</li>-->
-          <li>Travaasa Austin is a non-tipping resort property.</li>
+          <!--<li>Travaasa Austin is a non-tipping resort property.</li>-->
           <li>Travaasa Austin does not allow smoking on property.</li>
         </ul>
         
