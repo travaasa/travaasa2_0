@@ -1,0 +1,509 @@
+Received: from gate.forward.smtp.ord1a.emailsrvr.com (172.26.0.1) by
+ ORD2HUB19.mex05.mlsrvr.com (172.26.1.49) with Microsoft SMTP Server (TLS) id
+ 14.3.169.1; Mon, 7 Apr 2014 10:47:23 -0500
+Return-Path: <delivery@mx.sailthru.com>
+X-Spam-Exception: WHITELISTED
+X-Spam-Threshold: 95
+X-Spam-Score: 0
+X-Spam-Flag: NO
+X-Virus-Scanned: OK
+X-MessageSniffer-Scan-Result: 0
+X-MessageSniffer-Rules: 0-0-0-22658-c
+X-CMAE-Scan-Result: 0
+X-CNFS-Analysis: v=2.1 cv=UaBoFsiN c=1 sm=0 tr=0 b=1 a=42Nclt6nIZL3YFMKOYraLg==:117 a=42Nclt6nIZL3YFMKOYraLg==:17 a=-NYAMQyrbBUA:10 a=OZldsB13Z-YA:10 a=d6gIYHJSAAAA:8 a=H5vHw5aMAAAA:8 a=Nz7-nK3vqoQA:10 a=TlobLomGAAAA:8 a=vKCrglRTKzNajI4UdtgA:9 a=QEXdDO2ut3YA:10 a=1N4OZulvxV0A:10 a=NWVoK91CQyQA:10 a=SSmOFEACAAAA:8 a=-m3nF1d8YlVM2fDPgPgA:9 a=ckEFSMjFffyomxqO:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=tXsnliwV7b4A:10 a=p403mkujtbAA:10
+X-Orig-To: allison.kummer@thr.com
+X-Originating-Ip: [192.64.236.6]
+Received: from [192.64.236.6] ([192.64.236.6:40982]
+ helo=mx-prometheus-a.sailthru.com)	by smtp71.gate.ord1a.rsapps.net
+ (envelope-from <delivery@mx.sailthru.com>)	(ecelerity 2.2.3.49
+ r(42060/42061)) with ESMTP	id 41/69-04853-A88C2435; Mon, 07 Apr 2014 11:47:22
+ -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=pmta.sailthru.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+ bh=TReBjFTgF5SvTpm2fyvRjvK+JDk=;
+ b=fB777PHVncULqaXFtuJNYyvF8yIxTM7E3QvdqXZfghExVLNJVH3ybS9wSMxYZ3/S/s88l2izV01+
+   okVGyse3TPtBFayu9/agRM8RZp20n5BV6sBaKc42D/fujgPQO+fbkWwmBU/rYqALXFccVL35IXd6
+   7LcaiT1a6bkxxCV7TQM=
+Received: from nyp1-p-p4327-prd-jma-17.sailthru.pvt (65.39.215.169) by
+ mx-prometheus-a.sailthru.com id h8b45i1qqbsn for <allison.kummer@thr.com>;
+ Mon, 7 Apr 2014 11:46:33 -0400 (envelope-from <delivery@mx.sailthru.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1396885631;
+	s=sailthru; d=e.hollywoodreporter.com;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=+pmlycM+EDe/Rn6Rt5MkXUVrN3PiPhKiQJTIlVaQrEU=;
+	b=unJqKGUOVsVf3YXRmyTFXks8xHPPT6n24cevuVMnmBDABtInkh4BKb6j0WdOXZip
+	m1XNG65acYqk+qOZk9adX7lPcSrcyf73lqzxfFoZSHt39mzTjlZDXks6kKuGdHG3OMk
+	orZx5e8+AdlajyIgn4z7o2nnjEqoivqV2EbMCSOM=
+Date: Mon, 7 Apr 2014 11:47:11 -0400
+From: THR Breaking News <email@e.hollywoodreporter.com>
+To: <allison.kummer@thr.com>
+Message-ID: <20140407154711.2552083.85@sailthru.com>
+Subject: NAB: Hollywood Camera Business Gets New Competitor in AJA
+Precedence: bulk
+X-TM-ID: 20140407154711.2552083.85
+X-Info: Message sent by sailthru.com customer Hollywood Reporter
+X-Info: We do not permit unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: abuse@sailthru.com
+X-Mailer: sailthru.com
+X-JMailer: nyp1-p-p4327-prd-jma-17.sailthru.pvt
+X-IADB-IP: 65.39.215.25
+X-IADB-IP-REVERSE: 25.215.39.65
+X-IADB-URL: http://www.isipp.com/iadb.php
+X-Unsubscribe-Web: http://link.hollywoodreporter.com/oc/518d566b191b2a646dbe79c31ip77.2d/7339769e
+List-Unsubscribe: <http://link.hollywoodreporter.com/oc/518d566b191b2a646dbe79c31ip77.2d/7339769e>, <mailto:unsubscribe_4200@mx.sailthru.com>
+X-rpcampaign: stgfo2552083
+X-MS-Exchange-Organization-AuthSource: ORD2HUB19.mex05.mlsrvr.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AVStamp-Mailbox: SMEXtG}w;1071100;0;This mail has
+ been scanned by Trend Micro ScanMail for Microsoft Exchange;
+X-MS-Exchange-Organization-SCL: 0
+Content-Type: multipart/alternative; boundary="B_3479708022_3809444"
+MIME-Version: 1.0
+
+--B_3479708022_3809444
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+If you are unable to see the message below, click here
+<http://link.hollywoodreporter.com/view/518d566b191b2a646dbe79c31ip77.2d/30=
+3
+be78b>  to view it in a browser.
+ <http://link.hollywoodreporter.com/fl/518d566b191b2a646dbe79c31ip77.2d/52f=
+3
+dbcd31bf40f221000000/52f3dbe3d2f8804256000014/8f6ace06>
+ <http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.2d/UVDZx2=
+-
+oRzMQjWASBd6ed>=20
+NAB: AJA Enters Camera Arena With $9,000 4K Cion
+<http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.2d/U0LIf8P=
+o
+dfEQ5_a0Ad46c>=20
+You are currently subscribed to The Hollywood Reporter Breaking News
+newsletter as allison.kummer@thr.com
+Unsubscribe=20
+<http://link.hollywoodreporter.com/oc/518d566b191b2a646dbe79c31ip77.2d/7339=
+7
+69e>  | Newsletter Preferences
+<http://link.hollywoodreporter.com/oc/518d566b191b2a646dbe79c31ip77.2d/7339=
+7
+69e>  | Forward To A Friend
+<http://link.hollywoodreporter.com/forward/518d566b191b2a646dbe79c31ip77.2d=
+/
+6554cf39>  | Follow us on Twitter
+<http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.2d/Ue6tPsJ=
+S
+VbtaYnMDB5421>  or Facebook
+<http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.2d/Ue6tPsJ=
+S
+VbtaYnMFBac18> =20
+ <http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.2d/UVDZx2=
+-
+oRzMQjWASCdba9>=20
+=A92014 The Hollywood Reporter. 5700 Wilshire Blvd., Los Angeles, CA 90036
+All rights reserved. | Terms Of Use
+<http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.2d/UfGU1eY=
+Q
+V0G0UXPBB579e>  | Privacy Policy
+<http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.2d/UfGU1eY=
+Q
+V0G0UXPCB7b31> =20
+ <http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.2d/UK33qM=
+g
+K87nx4qbEAc855>=20
+
+
+--B_3479708022_3809444
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>The Hollywood Reporter - Breaking News</title>
+<style type=3D"text/css">
+#outlook a {padding:0;}
+body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-ad=
+just:100%; margin:0; padding:0;}
+.ExternalClass {width:100% !important;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100%;}
+img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}
+a img {border:none;}
+.applelinks a {color:#222222; text-decoration: none;}
+.ExternalClass img[class^=3DEmoji] { width: 10px !important; height: 10px !=
+important; display: inline !important; }
+tr { font-size:0; mso-line-height-alt:0; mso-margin-top-alt:1px; }
+/*RESPONSIVE CODE*/
+@media screen and (max-width: 580px) {
+table[class=3Demailwrapto100pcmob], td[class=3Demailwrapto100pcmob], img[cl=
+ass=3Demailwrapto100pcmob]{width:100% !important; height:auto !important;}t=
+able[class=3Demailwrapto100pc], td[class=3Demailwrapto100pc], img[class=3De=
+mailwrapto100pc]{width:100% !important; height:auto !important;} table[clas=
+s=3Demailnomob],td[class=3Demailnomob],img[class=3Demailnomob],span[class=
+=3Demailnomob]{display:none !important;}
+table[class=3Demailmod90]{width:90% !important;margin:0 5% !important;}
+td[class=3Demailcolsplit]{width:100%!important; float:left!important;}
+table[class=3Demailmob25pc]{width:25% !important; height:auto !important;}
+td[class=3Demailinstaheader]{font-size:26px !important;}
+td[class=3Demailheadingpaddingr]{padding-right:10px;}
+td[class=3Demailmod1title]{font-size:22px !important; line-height:30px !imp=
+ortant; padding-left:20px !important;}
+td[class=3Demailmod1padding]{ padding-left:20px !important;}
+td[class=3Demailmod2text],span[class=3Demailmod2text]{font-size:16px !impor=
+tant; line-height:22px !important;}
+span[class=3Demailmobfont]{font-family:Arial, Helvetica, sans-serif !import=
+ant; font-weight:bold !important;}
+}
+</style>
+</head>
+<body>
+<!-- Background table start -->
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td width=3D"100%" valign=3D"top" align=3D"center" bgcolor=3D"#eeeeee" styl=
+e=3D"bgcolor:#eeeeee !important;">
+<!-- Container table start -->
+<table width=3D"748" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td width=3D"748" valign=3D"top" align=3D"center"><!-- start Contents --><!=
+--********  View in browser  ********-->
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"748">
+<tbody>
+<tr>
+<td width=3D"748" valign=3D"top" align=3D"center"><img src=3D"http://cdn.sa=
+ilthru.com/Sailthru_spacer_1x1.gif" height=3D"5" border=3D"0" style=3D"disp=
+lay:block;" alt=3D""></td>
+</tr>
+<tr>
+<td width=3D"748" valign=3D"top" align=3D"center" style=3D"background-color=
+: #eeeeee; font-family: arial, san-serif; font-size: 11px; color:#888888;">
+If you are unable to see the message below, <a href=3D"http://link.hollywoo=
+dreporter.com/view/518d566b191b2a646dbe79c31ip77.2d/303be78b" target=3D"_bl=
+ank" style=3D"color: #444444 !important;">
+click here</a> to view it in a browser.</td>
+</tr>
+<tr>
+<td width=3D"748" valign=3D"top" align=3D"center"><img src=3D"http://cdn.sa=
+ilthru.com/Sailthru_spacer_1x1.gif" height=3D"5" border=3D"0" style=3D"disp=
+lay:block;" alt=3D""></td>
+</tr>
+</tbody>
+</table>
+<!--********  Ad area - Banner (728px x 90) ********-->
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"748" bgcolor=3D"#ffffff=
+" style=3D"bgcolor:#ffffff">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"748">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"748">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"10"><img src=3D"http://cdn.sailt=
+hru.com/Sailthru_spacer_1x1.gif" width=3D"10" height=3D"110" border=3D"0" s=
+tyle=3D"display:block;" alt=3D""></td>
+<td align=3D"left" valign=3D"top" width=3D"728">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"728">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"728"><img src=3D"http://cdn.sail=
+thru.com/Sailthru_spacer_1x1.gif" width=3D"728" height=3D"10" border=3D"0" =
+style=3D"display:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"728">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"2"><a href=3D"http://link.hollywoodreporter.com/fl/518d566b1=
+91b2a646dbe79c31ip77.2d/52f3dbcd31bf40f221000000/52f3dbe3d2f8804256000014/8=
+f6ace06"><img src=3D"http://link.hollywoodreporter.com/fl/518d566b191b2a646=
+dbe79c31ip77.2d/52f3dbcd31bf40f221000000/52f3dbe3d2f8804256000014/8f6ace06.=
+gif" alt=3D"" width=3D"728" height=3D"90" border=3D"0" class=3D"adflight-ba=
+nner"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" width=3D"728"><img src=3D"http://cdn.sail=
+thru.com/Sailthru_spacer_1x1.gif" width=3D"728" height=3D"10" border=3D"0" =
+style=3D"display:block;" alt=3D""></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align=3D"left" valign=3D"top" width=3D"10"><img src=3D"http://cdn.sailt=
+hru.com/Sailthru_spacer_1x1.gif" width=3D"10" border=3D"0" style=3D"display=
+:block;" alt=3D""></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--******** Contents start ********-->
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"748" bgcolor=3D"#ffffff=
+" style=3D"bgcolor:#ffffff">
+<tbody>
+<tr>
+<!-- Left column -->
+<td align=3D"left" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sailt=
+hru_spacer_1x1.gif" width=3D"20" border=3D"0" style=3D"display:block;" alt=
+=3D""></td>
+<!-- Center column -->
+<td width=3D"708" align=3D"left" valign=3D"top"><!-- Start Main Contents --=
+><!-- **********  Masthead  ********** -->
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"708">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top"><a href=3D"http://link.hollywoodreporter.=
+com/518d566b191b2a646dbe79c31ip77.2d/UVDZx2-oRzMQjWASBd6ed" target=3D"_blan=
+k"><img src=3D"http://cdn.sailthru.com/HollywoodReporter/THR_logo.gif" widt=
+h=3D"291" height=3D"106" border=3D"0" style=3D"display:block;" alt=3D""></a=
+></td>
+<td width=3D"417" align=3D"left" valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"417">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sailt=
+hru_spacer_1x1.gif" width=3D"417" height=3D"22" border=3D"0" style=3D"displ=
+ay:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" bgcolor=3D"#d2232a" style=3D"bgcolor:#d22=
+32a;"><img src=3D"http://cdn.sailthru.com/HollywoodReporter/THR_newslettern=
+ame_BREAKINGNEWS.gif" width=3D"417" height=3D"42" border=3D"0" style=3D"dis=
+play:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sailt=
+hru_spacer_1x1.gif" width=3D"417" height=3D"42" border=3D"0" style=3D"displ=
+ay:block;" alt=3D""></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- end Masthead --><!-- **********  Breaking News area  ********** -->
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"708">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sailt=
+hru_spacer_1x1.gif" width=3D"708" height=3D"30" border=3D"0" style=3D"displ=
+ay:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"708" style=3D"line-height:27px=
+; font-family:Arial,sans-serif; font-size:26px; font-weight:bold; ">
+<a href=3D"http://link.hollywoodreporter.com/518d566b191b2a646dbe79c31ip77.=
+2d/U0LIf8PodfEQ5_a0Ad46c" target=3D"_blank" style=3D"text-decoration:none;c=
+olor:#000000;"><u>NAB: AJA Enters Camera Arena With $9,000 4K Cion</u>
+</a></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sailt=
+hru_spacer_1x1.gif" width=3D"708" height=3D"60" border=3D"0" style=3D"displ=
+ay:block;" alt=3D""></td>
+</tr>
+</tbody>
+</table>
+<!-- **********  Section Header: Recommended for You  ********** --><!-- co=
+mmenting out for now - THR-2573
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"708" bgcolor=3D"#eeeeee=
+" style=3D"background-color:#eeeeee;">
+<tr><td align=3D"left" valign=3D"top" bgcolor=3D"#eeeeee" style=3D"backgrou=
+nd-color:#eeeeee;"><img src=3D"http://cdn.sailthru.com/Sailthru_spacer_1x1.=
+gif" width=3D"708" height=3D"10" border=3D"0" style=3D"display:block;" alt=
+=3D""/></td></tr>
+<tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#eeeeee" style=3D"background=
+-color:#eeeeee;">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"362">
+<tr>
+<td align=3D"left" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Holly=
+woodReporter/THR_arrow-L_graybg.gif" width=3D"27" height=3D"15" border=3D"0=
+" style=3D"display:block;" alt=3D""/>
+<td align=3D"left" valign=3D"top" width=3D"10"><img src=3D"http://cdn.sailt=
+hru.com/Sailthru_spacer_1x1.gif" width=3D"10" height=3D"15" border=3D"0" st=
+yle=3D"display:block;" alt=3D""/></td>
+<td align=3D"center" valign=3D"middle" style=3D"color:#000000; line-height:=
+15px; font-family:Arial Black,sans-serif; font-size: 20px; font-weight:bold=
+; text-transform:uppercase;">RECOMMENDED FOR YOU</td>
+<td align=3D"left" valign=3D"top" width=3D"10"><img src=3D"http://cdn.sailt=
+hru.com/Sailthru_spacer_1x1.gif" width=3D"10" height=3D"15" border=3D"0" st=
+yle=3D"display:block;" alt=3D""/></td>
+<td align=3D"left" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Holly=
+woodReporter/THR_arrow-R_graybg.gif" width=3D"27" height=3D"15" border=3D"0=
+" style=3D"display:block;" alt=3D""/>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td align=3D"left" valign=3D"top" bgcolor=3D"#eeeeee" style=3D"backgrou=
+nd-color:#eeeeee;"><img src=3D"http://cdn.sailthru.com/Sailthru_spacer_1x1.=
+gif" width=3D"708" height=3D"5" border=3D"0" style=3D"display:block;" alt=
+=3D""/></td></tr>
+<tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#eeeeee" style=3D"background=
+-color:#eeeeee;">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"background-color:#eeeee=
+e;">
+<tr>
+<td align=3D"center" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sai=
+lthru_spacer_1x1.gif" width=3D"10" height=3D"3" border=3D"0" style=3D"displ=
+ay:block;" alt=3D""/></td>
+<td align=3D"center" valign=3D"top" style=3D"background-color:#000000"><img=
+ src=3D"http://cdn.sailthru.com/HollywoodReporter/THR_section_blackbar.gif"=
+ width=3D"688" height=3D"3" border=3D"0" style=3D"display:block;" alt=3D""/=
+></td>
+<td align=3D"center" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sai=
+lthru_spacer_1x1.gif" width=3D"10" height=3D"3" border=3D"0" style=3D"displ=
+ay:block;" alt=3D""/></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- end Section Header --><!-- ********** Recommended article ********** -=
+-><!-- skip horizon/recommended section THR-2573 --><!-- Divider -->
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"708">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top" style=3D"background-color:#ffffff"><img s=
+rc=3D"http://cdn.sailthru.com/Sailthru_spacer_1x1.gif" width=3D"708" height=
+=3D"20" border=3D"0" style=3D"display:block;" alt=3D""></td>
+</tr>
+</tbody>
+</table>
+<!-- end Divider --><!-- end Main Contents --></td>
+<!-- end Center column --><!-- Right column -->
+<td align=3D"left" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sailt=
+hru_spacer_1x1.gif" width=3D"20" border=3D"0" style=3D"display:block;" alt=
+=3D""></td>
+</tr>
+</tbody>
+</table>
+<!-- end Divider --></td>
+</tr>
+</tbody>
+</table>
+<!-- end Contents --><!-- ********** Footer ********** -->
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"748">
+<tbody>
+<tr>
+<td width=3D"748" align=3D"center" valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"748" style=3D"backgroun=
+d-color:#eeeeee; font-family:Arial,sans-serif; color:#999999; ">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sai=
+lthru_spacer_1x1.gif" width=3D"748" height=3D"20" border=3D"0" style=3D"dis=
+play:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"748" style=3D"line-height:13px=
+; font-size:13px;">
+You are currently subscribed to The Hollywood Reporter Breaking News newsle=
+tter as
+<span class=3D"applelinks" style=3D"color:#000000; text-decoration:none;">a=
+llison.kummer@thr.com</span></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sai=
+lthru_spacer_1x1.gif" width=3D"748" height=3D"8" border=3D"0" style=3D"disp=
+lay:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"748" style=3D"line-height:13px=
+; font-size:13px;">
+<a href=3D"http://link.hollywoodreporter.com/oc/518d566b191b2a646dbe79c31ip=
+77.2d/7339769e" target=3D"_blank" style=3D"color:#999999;">Unsubscribe</a> =
+|
+<a href=3D"http://link.hollywoodreporter.com/oc/518d566b191b2a646dbe79c31ip=
+77.2d/7339769e" target=3D"_blank" style=3D"color:#999999;">
+Newsletter Preferences</a> | <a href=3D"http://link.hollywoodreporter.com/f=
+orward/518d566b191b2a646dbe79c31ip77.2d/6554cf39" target=3D"_blank" style=
+=3D"color:#999999;">
+Forward To A Friend</a> | Follow us on <a href=3D"http://link.hollywoodrepo=
+rter.com/518d566b191b2a646dbe79c31ip77.2d/Ue6tPsJSVbtaYnMDB5421" target=3D"=
+_blank" style=3D"color:#999999;">
+Twitter</a> or <a href=3D"http://link.hollywoodreporter.com/518d566b191b2a6=
+46dbe79c31ip77.2d/Ue6tPsJSVbtaYnMFBac18" target=3D"_blank" style=3D"color:#=
+999999;">
+Facebook</a> </td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sai=
+lthru_spacer_1x1.gif" width=3D"748" height=3D"16" border=3D"0" style=3D"dis=
+play:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top"><a href=3D"http://link.hollywoodreporte=
+r.com/518d566b191b2a646dbe79c31ip77.2d/UVDZx2-oRzMQjWASCdba9" target=3D"_bl=
+ank"><img src=3D"http://cdn.sailthru.com/HollywoodReporter/THR_logo_trans_2=
+00x47.gif" width=3D"200" height=3D"47" border=3D"0" style=3D"display:block;=
+" alt=3D""></a></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sai=
+lthru_spacer_1x1.gif" width=3D"748" height=3D"13" border=3D"0" style=3D"dis=
+play:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"748" class=3D"applelinks" styl=
+e=3D"line-height:13px; font-size:13px;">
+=A92014 The Hollywood Reporter. 5700 Wilshire Blvd., Los Angeles, CA 90036 =
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sai=
+lthru_spacer_1x1.gif" width=3D"748" height=3D"8" border=3D"0" style=3D"disp=
+lay:block;" alt=3D""></td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"748" style=3D"line-height:13px=
+; font-size:13px;">
+All rights reserved. | <a href=3D"http://link.hollywoodreporter.com/518d566=
+b191b2a646dbe79c31ip77.2d/UfGU1eYQV0G0UXPBB579e" target=3D"_blank" style=3D=
+"color:#999999;">
+Terms Of Use</a> | <a href=3D"http://link.hollywoodreporter.com/518d566b191=
+b2a646dbe79c31ip77.2d/UfGU1eYQV0G0UXPCB7b31" target=3D"_blank" style=3D"col=
+or:#999999;">
+Privacy Policy</a> </td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top"><img src=3D"http://cdn.sailthru.com/Sai=
+lthru_spacer_1x1.gif" width=3D"748" height=3D"25" border=3D"0" style=3D"dis=
+play:block;" alt=3D""></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- end Footer --><a href=3D"http://link.hollywoodreporter.com/518d566b191=
+b2a646dbe79c31ip77.2d/UK33qMgK87nx4qbEAc855"><img src=3D"http://link.hollyw=
+oodreporter.com/img/518d566b191b2a646dbe79c31ip77.2d/3eaafc91.gif" alt=3D""=
+ border=3D"0"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- End of Container table --><!-- End of Background table -->
+</body>
+</html>
+
+--B_3479708022_3809444--
