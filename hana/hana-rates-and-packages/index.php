@@ -163,7 +163,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li>Rates are exclusive of applicable taxes.</li>
           <li>Access to all regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, transportation from and to the Hana Airport (HNM), valet parking and gratuities on all package components are included.</li>
           <li>Trail rides and tasting tours at Ono Farms are an additional charge. Total Travaasa resort credits may be used toward these activities.</li>
-          <li>Please note: Travaasa Hana is a non-tipping resort property other than food &amp; beverage areas.</li>
+          <!--<li>Please note: Travaasa Hana is a non-tipping resort property other than food &amp; beverage areas.</li>-->
         </ul>
         
           <p>CANCELLATION POLICY: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
