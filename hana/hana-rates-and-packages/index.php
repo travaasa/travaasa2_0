@@ -158,7 +158,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li>There is no minimum length of stay required to book an inclusive package.</li>
           <li>Premium activities and private sessions may be purchased on an individual basis.</li>
           <li>Resort credits are valid for spa treatments and private classes. They may not be applied to food &amp; beverage purchases.</li>
-          <li>High season is July 1–August 31; Holiday Season is December 22–January 5, 2013.</li>
+          <!--<li>High season is July 1–August 31; Holiday Season is December 22–January 5, 2013.</li>-->
           <li>An advance deposit of one night is required to guarantee your reservation. Advance deposit becomes non-refundable 10 days prior to arrival date of your reservation.</li>
           <li>Rates are exclusive of applicable taxes.</li>
           <li>Access to all regularly scheduled experiences and classes, local phone calls, access to fitness center, resort facilities, transportation from and to the Hana Airport (HNM), valet parking and gratuities on all package components are included.</li>
