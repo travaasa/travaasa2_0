@@ -385,7 +385,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
 
-            <h2>SEASONAL TREATMENTS &#8211; WINTER CHEER</h2>
+            <h2>SPRING TREATMENT</h2>
             <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
 
             <section class="spa_package">
