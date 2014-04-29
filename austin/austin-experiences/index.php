@@ -80,7 +80,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_bike-pump.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Bike Pump Track</h5>
-            <p class="description">Built for all skill levels&#8212;from limited experience to advanced bike riders&#8212;the pump bike track offers something for everyone. Focus on the fundamentals and have fun challenging yourself to get all the way around without having to pedal, or take it to the next level by riding high and fast into the berms. For the really adventurous and skilled rider, see how high you can go on the wall. No matter your skill level, you're sure to get a full-body workout while honing your ability to focus abd break out of your shell.</p>
+            <p class="description">Built for all skill levels&#8212;from limited experience to advanced bike riders&#8212;the pump bike track offers something for everyone. Focus on the fundamentals and have fun challenging yourself to get all the way around without having to pedal, or take it to the next level by riding high and fast into the berms. For the really adventurous and skilled rider, see how high you can go on the wall. No matter your skill level, you're sure to get a full-body workout while honing your ability to focus and break out of your shell.</p>
           </div>
         </div>
         <div class="slide">
