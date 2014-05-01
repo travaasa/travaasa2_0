@@ -42,7 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col span_6_of_9">
           <h1>Travaasa Austin Experiences</h1>
           <p>You want to embark on a journey without living out of a suitcase. You want to taste real Texas flavors, learn a few new things about yourself, and dance the night away under a banner of stars. <strong>Why not stay at a resort that allows you to have all of these things?</strong> At Travaasa Austin, we get it, and that’s why we created a menu of custom, personalized and authentic experiences just for you. Situated on the edge of the Balcones Canyonlands Preserve, Travaasa Austin offers an extensive selection of guided activities set amidst — and inspired by — the rugged yet hospitable nature of Texas Hill Country.</p>
-<p>Experiences are offered through all-inclusive packages as well as a la carte pricing, depending on the path you choose. See our <a href="/austin/rates-and-packages">rates and packages</a> for details.<br><br><a href="/austin/austinschedule" class="btn">View Experience Schedule</a><br><br><a href="/calendar" class="btn">April's Featured Experiences</a></p>
+<p>Experiences are offered through all-inclusive packages as well as a la carte pricing, depending on the path you choose. See our <a href="/austin/rates-and-packages">rates and packages</a> for details.<br><br><a href="/austin/austinschedule" class="btn">View Experience Schedule</a><br><br><a href="/calendar" class="btn">May's Featured Experiences</a></p>
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>
@@ -80,7 +80,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_bike-pump.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Bike Pump Track</h5>
-            <p class="description">Built for all skill levels&#8212;from limited experience to advanced bike riders&#8212;the pump bike track offers something for everyone. Focus on the fundamentals and have fun challenging yourself to get all the way around without having to pedal, or take it to the next level by riding high and fast into the berms. For the really adventurous and skilled rider, see how high you can go on the wall. No matter your skill level, you're sure to get a full-body workout while honing your ability to focus abd break out of your shell.</p>
+            <p class="description">Built for all skill levels&#8212;from limited experience to advanced bike riders&#8212;the pump bike track offers something for everyone. Focus on the fundamentals and have fun challenging yourself to get all the way around without having to pedal, or take it to the next level by riding high and fast into the berms. For the really adventurous and skilled rider, see how high you can go on the wall. No matter your skill level, you're sure to get a full-body workout while honing your ability to focus and break out of your shell.</p>
           </div>
         </div>
         <div class="slide">
