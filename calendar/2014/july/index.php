@@ -96,7 +96,7 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_June_2014_1600x640_austin.jpg" alt="June is Man month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_march_2014_1600x640_austin.jpg" alt="May is TK month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -122,127 +122,163 @@
           
             <h2>Culinary</h2>
 
-             <div class="listing">
-              <h6>BEER TASTING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Hop on over to our Beer Tasting class to learn all about your favorite brews, and how to create your very own back at home.</p>
-                </div>
+               <div class="listing">
+              <h6>DRINK TO YOUR HEALTH: JUICING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Get healthy the natural way with whole fruit juice! This is not a diet or a fad; it is a revolutionary method of getting all the vitamins and mineral your body needs in a natural, effective and more time-efficient way. Drink to your health!</p>
+              </div>
 
-                <div class="listing">
-              <h6>BUILD YOUR OWN SMOKER <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn to create a cost-effective smoker with just a few simple items. Discover the various kinds of wood used for smoking and then join us in devouring skewered smoked shrimp and scallops.</p>
-                </div>
+            <div class="listing">
+              <h6>CELEBRATE JUICING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Celebrate living healthy and in harmony with nature. Green vegetables have more valuable nutrients than any other food in existence. Blending your greens with some fruits helps make nutrients more readily available to the body. Sample some delicious juices and celebrate life.</p>
+              </div>
+
+                 <div class="listing">
+              <h6>BBQ PREPARATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Texans love their BBQ. Learn how to prepare wonderful recipes to bring home to friends and family. </p>
+              </div>
 
            <h2>Culture</h2>
 
              <div class="listing">
-              <h6>HĀNA MOONSHINE  <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Often referred to as niu or Hāna Moonshine, coconuts can be found hanging from trees across most of the tropics and are known for their great versatility. Come experience the art of coconut husking and enjoy the freshest coconut water and meat you’ve ever tasted!</p>
+              <h6>KUKUI NUT LAMP <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>In ancient times, the Kukui Nut was used for light. Torches made with kukui were used for night fishing and at evening ceremonies in Hawai`i. In this class, you will learn the traditional way to make fire using Hāna's Kukui Nuts.</p>
               </div>
 
-              <div class="listing">
-              <h6>LET'S GO FISHING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Learn all about the history, cultural practices and craftsmanship of bamboo pole fishing, while enjoying the beautiful surroundings of Hāna Bay.</p>
+
+             <div class="listing">
+              <h6>KEIKI TREASURE HUNT (CHILDREN FLOWER HUNT) <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>This is an activity for all keiki (children) and their parents! Walk around our Travaasa property and hunt for Hāna treasures such as flowers, plants and insects. </p>
               </div>
+
 
            <h2>Fitness</h2>
 
 
-              <div class="listing">
-              <h6>WARRIOR YOGA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Connect with your inner warrior in this strength building yoga class! Specific asanas (poses) are chosen to build heat in the body, while creating strength in the legs, arms and core muscles. Experience a flow of yoga movements that will leave you feeling challenged and invigorated.</p>
+             <div class="listing">
+              <h6>IGNITE YOUR FITNESS BOOTCAMP <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>No gym or fancy equipment needed here to achieve higher levels of fitness!  You will use the environment and your body weight to create a challenging workout that will take your fitness to the next level.  Ignite your inner athlete as you jog through our gorgeous property, stopping along the way for various skills and drills that will increase you strength, coordination and endurance.</p>
+              </div>
+
+
+             <div class="listing">
+              <h6>JUMP ROPE CIRCUIT <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Jump, squat, twist and lift...in paradise!  This action packed circuit class will challenge every muscle group in your body. Develop muscular strength and endurance while you alternate with bouts of jumping rope. Keep your heart pumping between various strength building stations as our skilled fitness coach inspires you to take it to the limit.</p>
               </div>
 
               <div class="listing">
-              <h6>MARTIAL ARTS CONDITIONING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>To compete in martial arts, quick movements drawn from aerobic, cardio and strength exercises are key. In this class, we will focus on drills for mixed martial arts, from punching, and kicking, to bridge and shoot & roll—-you won't know what’s coming next. Improve your coordination, balance and body awareness as you sweat. And don’t forget to come ready to have fun—the hard way!</p></div>
-
-              <div class="listing">
-              <h6>KETTLE BELL COMBO <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Kettle Bell Combo will help kick all your fitness goals into high gear! Intersperse functional, compound exercises that work multiple muscle groups, with bouts of jumping rope to elevate your heart rate.  Develop muscular strength and endurance, while burning lots of calories! In this 45-minute, high-intensity class, we will focus on functional movement, power, strength, joint-stability, alignment, balance and control. Don’t miss this heart-pumping, challenging workout!</p>
-              </div>
-
-              <div class="listing">
-              <h6>CORE POWER <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Mana, thought to be a divine spiritual power or energy, comes from within. It flows through us all as it gives us the power to do what we believe we can do. It’s no small wonder that this 45-minute core class will make you feel like you can conquer the world. Tone your abs, lower back and glutes in this intense workout. Using stability balls and gravity-resistant exercises, you can improve your core strength, balance and total body function.</p>
-              </div>
-
-              <div class="listing">
-              <h6>POWERHOUSE PILATES <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Joseph Pilates referred to the core as our "powerhouse."  Pilates-based exercises focus on stabilizing the shoulder girdle, torso and pelvis to better transfer power to the extremities.  This class will help you to create awareness of your core muscles as you develop strength and stability throughout the entire body.  You’ll end this class with a better understanding of good posture and proper alignment.</p>
+              <h6>HULA HOOPING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Hula Hooping is a fun, exciting way to get a whole body workout.  You will learn how to utilize the hoop as a tool for exercise, dance and self-expression—maybe even learn a trick or two! This class is great for beginners or anyone looking to dive into learning something new! </p>
               </div>
 
                <div class="listing">
-              <h6>YOGA FOR STRENGTH <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>For a stronger mind and body, join us for a meditative yoga class that focuses on postures that help build muscle strength in your legs, arms and core.</p>
+              <h6>ZUMBA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Zumba is a revolutionary fitness experience. It takes you on an unforgettable, exhilarating journey to a healthier and happier lifestyle. Jam-packed with steaming hot dance moves, pulsating Latin and international rhythms and feel-it-to-the-core routines, this invigorating dance-fitness party will have you movin' and groovin' the fat right off.</p>
               </div>
 
                <div class="listing">
-              <h6>SIX-PACK ABS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Your abdominal muscles are important for good posture and a healthy spine. Learn effective exercises that activate the core muscles and, with continued practice, can uncover a tighter, more toned mid-section.</p>
+              <h6>SWING DANCE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Dancing is a fun way to let go and allow your body to move freely. In this class, we will use simple steps of swing dance and upbeat sounds of big band music to condition your cardiovascular system.</p>
               </div>
 
+               <div class="listing">
+              <h6>SALSA DANCE AND JOY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Let's experience the joy of dancing. Begin with the basic foot work, embrace your partner and move in harmony around the dance floor. In this salsa dance class, you will learn the basic salsa steps, how to properly lead and turn, as well as some beginner to intermediate patterns so you can salsa dance with confidence!</p>
+              </div>
 
-                       </div>
+               <div class="listing">
+              <h6>CORE ELATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Come find the joy of a stronger shapelier torso by challenging the powerhouse of your body—your core. This fitness class focuses on the muscles that control and support your spine, pelvis and shoulder girdle. In this short, 45-minute class, you will improve your posture and alignment while strengthening and toning your waistline. </p>
+              </div>
+
+                                            </div>
           <div class="col span_1_of_2">
-            
-               <div class="listing">
-              <h6>TOUGH BOOT CAMP <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>This is a 60-minute, high intensity class aimed to teach total mental and physical toughness. Go hard or go home!</p>
-              </div>
-
 
                <div class="listing">
-              <h6>HARDCORE WORKOUT <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>The name of this class is both a description and a goal! This intense, 45-minute class  focuses on strengthening and toning your powerhouse, also known as your core muscles.</p>
+              <h6>INSPIRE FITNESS BOOT CAMP <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Let us inspire you to work a little harder towards your fitness goals with the use of teamwork and camaraderie, integral parts of this boot camp class. We hope to help you discover the true joy of exercise as you work with others towards a common goal. </p>
               </div>
 
                <div class="listing">
+              <h6>CELEBRATION YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Join us for a hatha yoga class that incorporates gratitude and celebration of your mind and body.</p>
+              </div>
+
+                <div class="listing">
+              <h6>PILATES: IGNITE YOUR CORE <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Pilates practice is a well-rounded exercise method that works with the deeper muscles along the spine. Ignite your core for a stronger torso and increased core stability, which creates greater range of motion, stronger, more controlled movement and a leaner, more toned physique.</p>
+              </div>
+
+                <div class="listing">
+              <h6>TAI CHI JOY <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Tai Chi is a joyful practice that empowers our energy centers. Often described as "meditation in motion," this practice helps us to nurture our body as we gather energy and calm the mind.</p>
+              </div>
+
+       
+
+                <div class="listing">
               <h6>YOGA FOR HIPS AND KNEES STRENGTH <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>The health of our hips and knees is often overlooked. This workout will allow for greater awareness, improved range of motion and increased strength for the muscles surrounding these joints, leaving you with better mobility and more enjoyment of an active life.</p>
               </div>
 
-               <div class="listing">
-              <h6>YOGA THERAPY FOR NECK AND SHOULDERS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Learn how your head, being as heavy as it is, can affect your shoulders, neck as well as your spine and rib cage. Then join us in practicing myofascial release, stretches, flexibility and strengthening exercises, all with attention to quality and mindfulness of movement. You will leave with greater knowledge of good posture and how to acquire elasticity and good function in your shoulders. </p>
-              </div>
-
-                <div class="listing">
-              <h6>FOOT WORKS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+        <div class="listing">
+              <h6>FOOT CARE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>The feet are an extremely vital part of the musculo-skeletal system, as they are the base of support, accelerate and decelerate the whole body and influence all the other joints and spine. Join us in learning about, massaging and strengthening your feet for improved mobility and long-term back health.</p>
               </div>
 
                 <div class="listing">
-              <h6>POSTURAL MAKEOVER <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Achieving postural alignment can be one of the simplest, most rejuvenating skills to learn. In this class, we will learn good postural alignment and the tools to maintain better posture and mobility for our daily tasks and fitness activities.</p>
+              <h6>ALL ABOUT ABS AND BACK <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>In this class, we will assess the health of your spine by increasing your self-spinal awareness. You will learn how myofascial release, stretches, postural spinal alignment, and stabilization and mobilization techniques can improve your breath and overall health. </p>
               </div>
 
-              <div class="listing">
-              <h6>TAI CHI STRENGTH AND POWER <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Tai Chi Chuan literally translates to “Supreme Ultimate Boxing,” however, when used as a form of exercise, it is loosely translated as “Supreme Ultimate Exercise” or “Skill.” This exercise utilizes breathing, visualizations and circular movements to work the entire body at once. The movements are smooth, continuous, natural and promote health, longevity and internal strength.</p>
+                 <div class="listing">
+              <h6>AQUA YOGA <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Practicing yoga in the pool is for everybody, from folks who need a little extra support to those who are just looking for a new way to deepen their yoga practice. We will use the pool wall and noodles for support while keeping our head nice and dry.</p>
               </div>
 
-              <div class="listing">
-              <h6>KETTLE BELL FULL STRENGTH <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Kettle Bell Full Strength will help kick all your fitness goals into high gear! These functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance while burning tons of calories! In this 45-minute, high-intensity class, you will focus on functional movement, power, strength, joint-stability, alignment, balance, and control, all while using kettle bell, BOSU & body-weight exercises. </p>
-              </div>
-
-              <div class="listing">
-              <h6>SALSA DANCE AND ABS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>Salsa requires you to swing your hips from left to right, forcing you to maintain tight abs throughout your entire routine. Join us in this high-intensity dance class for a fun way to tone your obliques and work towards a slimmer, tighter midsection. No dance experience necessary! </p>
-              </div>
 
             <h2>Spa & Wellness</h2>
 
-             <div class="listing">
-              <h6>EXPLORING THE ENERGY OF YANG YOGA <span class="disclaimer">– <a href="/austin">Austin</a> </span></h6>
-                <p>Join us for an intermediate yoga class that explores the masculine and feminine energy that resides in each of us.</p>
+            <div class="listing">
+              <h6>IGNITE A MEDITATION PRACTICE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>First learn light stretches that help prepare the body for meditation as well as comfortable sitting postures. Then let us lead you through a guided meditation.</p>
+              </div>
+
+ 
+                 <div class="listing">
+              <h6>CELEBRATING WISHES MEDITATION <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Explore your wishes through reflection and meditation. Tap into your deep desires and dreams, and through ritual, we will call for the manifestation of what we want to create in our personal world.</p>
+              </div>
+
+
+                 <div class="listing">
+              <h6>CANDLELIGHT MEDITATION <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>We help demystify the ancient practice of meditation using candlelight—bringing awareness to our moment-to-moment experiences. This simple—but not easy—practice of acceptance, letting go, non-striving and suspension of the judgmental mind leaves us with a deep sense of openness and receptivity to ourselves, to others and to the moment as it unfolds.</p>
+              </div>
+
+  <h2>Spa Services for Young Adults – Hana, Maui</h2>
+
+            <div class="listing">
+              <h6>FRESH FACIAL <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p> This is a customized facial for young adults using high quality organic skin care products. The treatment includes cleansing, exfoliating and moisturizing the skin, as well as a gentle neck and shoulder massage to release muscular tension and promote relaxation. </p>
+              </div>
+
+              <div class="listing">
+              <h6>LOMI LOMI MASSAGE <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Enjoy this traditional Hawaiian-inspired massage treatment. This style of massage uses rhythmic dance-like strokes with the hands and forearms to release muscular tension and create a deep sense of calm and relaxation. </p>
               </div>
 
              <div class="listing">
-              <h6>COMPASSION: THE MEDITATION OF THE MASCULINE <span class="disclaimer">– <a href="/austin">Austin</a> </span></h6>
-                <p>The Tibetan yogis say masculine energy is that of compassion. Through guided meditation, you will learn proper posture while sitting and how to develop and maintain compassion throughout your daily life. </p>
+              <h6>AROMATHERAPY MASSAGE <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
+                <p>This specialized massage treatment focuses on the head, neck, shoulders and feet. In this treatment, you can choose a scent that will leave you feeling balanced or energized.</p>
               </div>
 
+
+
+
+
+
+              
+          
           
             
 
@@ -253,9 +289,9 @@
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div ><a href="/calendar/2014/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/may/"><img src="/assets/images/months/may-TK.png" alt="May is TK Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/june/"><img src="/assets/images/months/june-man.png" alt="June is Man Month"></a></div></div>
+        <div class="col span_1_of_3 month"><div ><a href="/calendar/2014/may/"><img src="/assets/images/months/may-TK.png" alt="May is TK Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/june/"><img src="/assets/images/months/june-man.png" alt="June is Man Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/july/"><img src="/assets/images/months/july-independence.png" alt="July is Independence Month"></a></div></div>
 
         </div>
   </section>
