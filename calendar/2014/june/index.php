@@ -96,7 +96,7 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_march_2014_1600x640_austin.jpg" alt="May is TK month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_june_2014_1600x640.jpg" alt="June is Man month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -122,6 +122,16 @@
           
             <h2>Culinary</h2>
 
+             <div class="listing">
+              <h6>BEER TASTING <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Hop on over to our Beer Tasting class to learn all about your favorite brews, and how to create your very own back at home.</p>
+                </div>
+
+                <div class="listing">
+              <h6>BUILD YOUR OWN SMOKER <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Learn to create a cost-effective smoker with just a few simple items. Discover the various kinds of wood used for smoking and then join us in devouring skewered smoked shrimp and scallops.</p>
+                </div>
+
            <h2>Culture</h2>
 
              <div class="listing">
@@ -129,89 +139,110 @@
                 <p>Often referred to as niu or Hāna Moonshine, coconuts can be found hanging from trees across most of the tropics and are known for their great versatility. Come experience the art of coconut husking and enjoy the freshest coconut water and meat you’ve ever tasted!</p>
               </div>
 
-              div class="listing">
+              <div class="listing">
               <h6>LET'S GO FISHING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Learn all about the history, cultural practices and craftsmanship of bamboo pole fishing, while enjoying the beautiful surroundings of Hāna Bay. </p>
+                <p>Learn all about the history, cultural practices and craftsmanship of bamboo pole fishing, while enjoying the beautiful surroundings of Hāna Bay.</p>
               </div>
 
            <h2>Fitness</h2>
 
 
-              div class="listing">
+              <div class="listing">
               <h6>WARRIOR YOGA <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Connect with your inner warrior in this strength building yoga class! Specific asanas (poses) are chosen to build heat in the body, while creating strength in the legs, arms and core muscles. Experience a flow of yoga movements that will leave you feeling challenged and invigorated.</p>
               </div>
 
-              div class="listing">
+              <div class="listing">
               <h6>MARTIAL ARTS CONDITIONING <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>To compete in martial arts, quick movements drawn from aerobic, cardio and strength exercises are key. In this class, we will focus on drills for mixed martial arts, from punching, and kicking, to bridge, and shoot & roll—you won't know what’s coming next. Improve your coordination, balance and body awareness as you sweat, and don’t forget to come ready to have fun—the hard way.</p></div>
+                <p>To compete in martial arts, quick movements drawn from aerobic, cardio and strength exercises are key. In this class, we will focus on drills for mixed martial arts, from punching, and kicking, to bridge and shoot & roll—-you won't know what’s coming next. Improve your coordination, balance and body awareness as you sweat. And don’t forget to come ready to have fun—the hard way!</p></div>
 
-              div class="listing">
+              <div class="listing">
               <h6>KETTLE BELL COMBO <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Kettle Bell Combo will help kick all your fitness goals into high gear! Intersperse functional, compound exercises that work multiple muscle groups, with bouts of jumping rope to elevate your heart rate.  Develop muscular strength and endurance, while burning lots of calories! In this 45-minute, high-intensity class, we will focus on functional movement, power, strength, joint-stability, alignment, balance and control. Don’t miss this heart-pumping, challenging workout!</p>
               </div>
 
-              div class="listing">
+              <div class="listing">
               <h6>CORE POWER <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
                 <p>Mana, thought to be a divine spiritual power or energy, comes from within. It flows through us all as it gives us the power to do what we believe we can do. It’s no small wonder that this 45-minute core class will make you feel like you can conquer the world. Tone your abs, lower back and glutes in this intense workout. Using stability balls and gravity-resistant exercises, you can improve your core strength, balance and total body function.</p>
               </div>
 
-              div class="listing">
-              <h6>POWERHOUSE PILATES <span class="disclaimer">– <a href="/hana">Hana, Maui</a></span></h6>
-                <p>Joseph Pilates referred to the core as our “Powerhouse”.  Pilates based exercises focus on stabilizing the shoulder girdle, torso and pelvis to better transfer power to the extremities.  This class will help you create awareness of your core muscles as you develop strength and stability throughout the entire body.  You’ll end this class with a better understanding of good posture and proper alignment.</p>
+              <div class="listing">
+              <h6>POWERHOUSE PILATES <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
+                <p>Joseph Pilates referred to the core as our "powerhouse."  Pilates-based exercises focus on stabilizing the shoulder girdle, torso and pelvis to better transfer power to the extremities.  This class will help you to create awareness of your core muscles as you develop strength and stability throughout the entire body.  You’ll end this class with a better understanding of good posture and proper alignment.</p>
               </div>
 
                <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BODY</p>
+              <h6>YOGA FOR STRENGTH <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>For a stronger mind and body, join us for a meditative yoga class that focuses on postures that help build muscle strength in your legs, arms and core.</p>
               </div>
 
                <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BODY</p>
+              <h6>SIX-PACK ABS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Your abdominal muscles are important for good posture and a healthy spine. Learn effective exercises that activate the core muscles and, with continued practice, can uncover a tighter, more toned mid-section.</p>
               </div>
-
-               <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BODY</p>
-              </div>
-
-               <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BODY</p>
-              </div>
-
-               <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
-                <p>BODY</p>
-              </div>
-
-               <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>BODY</p>
-              </div>
-
-                <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>BODY</p>
-              </div>
-
-                <div class="listing">
-              <h6>TITLE <span class="disclaimer">– <a href="/austin">Austin</a> &amp; <a href="/hana">Hana, Maui</a></span></h6>
-                <p>BODY</p>
-              </div>
-
-
-            <h2>Spa & Wellness</h2>
-
-
 
 
                        </div>
           <div class="col span_1_of_2">
+            
+               <div class="listing">
+              <h6>TOUGH BOOT CAMP <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>This is a 60-minute, high intensity class aimed to teach total mental and physical toughness. Go hard or go home!</p>
+              </div>
 
-              
-          
+
+               <div class="listing">
+              <h6>HARDCORE WORKOUT <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>The name of this class is both a description and a goal! This intense, 45-minute class  focuses on strengthening and toning your powerhouse, also known as your core muscles.</p>
+              </div>
+
+               <div class="listing">
+              <h6>YOGA FOR HIPS AND KNEES STRENGTH <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>The health of our hips and knees is often overlooked. This workout will allow for greater awareness, improved range of motion and increased strength for the muscles surrounding these joints, leaving you with better mobility and more enjoyment of an active life.</p>
+              </div>
+
+               <div class="listing">
+              <h6>YOGA THERAPY FOR NECK AND SHOULDERS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Learn how your head, being as heavy as it is, can affect your shoulders, neck as well as your spine and rib cage. Then join us in practicing myofascial release, stretches, flexibility and strengthening exercises, all with attention to quality and mindfulness of movement. You will leave with greater knowledge of good posture and how to acquire elasticity and good function in your shoulders. </p>
+              </div>
+
+                <div class="listing">
+              <h6>FOOT WORKS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>The feet are an extremely vital part of the musculo-skeletal system, as they are the base of support, accelerate and decelerate the whole body and influence all the other joints and spine. Join us in learning about, massaging and strengthening your feet for improved mobility and long-term back health.</p>
+              </div>
+
+                <div class="listing">
+              <h6>POSTURAL MAKEOVER <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Achieving postural alignment can be one of the simplest, most rejuvenating skills to learn. In this class, we will learn good postural alignment and the tools to maintain better posture and mobility for our daily tasks and fitness activities.</p>
+              </div>
+
+              <div class="listing">
+              <h6>TAI CHI STRENGTH AND POWER <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Tai Chi Chuan literally translates to “Supreme Ultimate Boxing,” however, when used as a form of exercise, it is loosely translated as “Supreme Ultimate Exercise” or “Skill.” This exercise utilizes breathing, visualizations and circular movements to work the entire body at once. The movements are smooth, continuous, natural and promote health, longevity and internal strength.</p>
+              </div>
+
+              <div class="listing">
+              <h6>KETTLE BELL FULL STRENGTH <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Kettle Bell Full Strength will help kick all your fitness goals into high gear! These functional, compound exercises work multiple muscle groups simultaneously, developing strength and muscular endurance while burning tons of calories! In this 45-minute, high-intensity class, you will focus on functional movement, power, strength, joint-stability, alignment, balance, and control, all while using kettle bell, BOSU & body-weight exercises. </p>
+              </div>
+
+              <div class="listing">
+              <h6>SALSA DANCE AND ABS <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
+                <p>Salsa requires you to swing your hips from left to right, forcing you to maintain tight abs throughout your entire routine. Join us in this high-intensity dance class for a fun way to tone your obliques and work towards a slimmer, tighter midsection. No dance experience necessary! </p>
+              </div>
+
+            <h2>Spa & Wellness</h2>
+
+             <div class="listing">
+              <h6>EXPLORING THE ENERGY OF YANG YOGA <span class="disclaimer">– <a href="/austin">Austin</a> </span></h6>
+                <p>Join us for an intermediate yoga class that explores the masculine and feminine energy that resides in each of us.</p>
+              </div>
+
+             <div class="listing">
+              <h6>COMPASSION: THE MEDITATION OF THE MASCULINE <span class="disclaimer">– <a href="/austin">Austin</a> </span></h6>
+                <p>The Tibetan yogis say masculine energy is that of compassion. Through guided meditation, you will learn proper posture while sitting and how to develop and maintain compassion throughout your daily life. </p>
+              </div>
+
           
             
 
@@ -222,9 +253,9 @@
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div ><a href="/calendar/2014/march/"><img src="/assets/images/months/mar-go.png" alt="March is Go Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/april/"><img src="/assets/images/months/apr-grow.png" alt="April is Grow Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/may/"><img src="/assets/images/months/may-TK.png" alt="May is TK Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/may/"><img src="/assets/images/months/may-nurture.png" alt="May is Nurture Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/june/"><img src="/assets/images/months/jun-man.png" alt="June is Man Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/july/"><img src="/assets/images/months/jul-independence.png" alt="July is Independence Month"></a></div></div>
 
         </div>
   </section>
@@ -352,20 +383,6 @@ var loc = "austin";
 <script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.simplethumb.js"></script>
 <script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.render.gallery.js"></script>
 <script type="text/javascript" src="/assets/scripts/jquery.address-1.5.min.js"></script>
-
-<!-- start Adserving Tag -->
-<script type='text/javascript'>
-// Conversion Name: Travaasa Home Page
-var ebRand = Math.random()+'';
-ebRand = ebRand * 1000000;
-//<![CDATA[ 
-document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=213436&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
-//]]>
-</script>
-<noscript>
-<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=213436&amp;ns=1"/>
-</noscript>
-<!-- end Adserving Tag-->
 <script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
 <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script>
 <script type="text/javascript">SetNavisP2ChatCustomLink("lnkP2Chat");</script>
@@ -374,20 +391,6 @@ document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityS
 document.write(unescape('%3Cscript src="' + document.location.protocol + '//d1ivexoxmp59q7.cloudfront.net/imi/live.js" type="text/javascript"%3E%3C/script%3E'));
 </script>
 end IMI -->
-<!-- start Retargeting Tag -->
-<script type="text/javascript">
-// Retargeting Tag Name: Travaasa Home Page Retargeting
-// The retargeting Tags should be placed at the top of the <BODY> section of the HTML page.
-var ebRand = Math.random()+ ' ';
-ebRand = ebRand * 1000000;
-//<![CDATA[
-document.write('<scr'+'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?CN=TT&amp;TID=4095&amp;AdvertiserID=52437&amp;TKV0=z&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
-//]]>
-</script>
-<noscript>
-<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?CN=TT&amp;TID=4095&amp;AdvertiserID=52437&amp;TKV0=z&amp;ns=1"/>
-</noscript>
-<!-- end Retargeting Tag -->
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-17613889-1']);
@@ -402,12 +405,6 @@ ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'st
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
-<!-- begin olark code --><script data-cfasync="false" type='text/javascript'>/*{literal}<![CDATA[*/
-window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('1552-236-10-1169');/*]]>{/literal}*/</script>
-<script>olark.configure('system.require_email', 0);</script>
-<!-- end olark code -->
 <!-- begin IMI retargeting --><script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1004189758;
