@@ -56,7 +56,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>For a select number of transition days when no spa facilities are available (May 27–31 and September 2–5), we will be offering Swedish or Deep Tissue Massages in your guest room at no additional charge.</p>
 
-<h4><strong>Our infinity edge pool will be open throughout the renovation.</strong></h4>
+<h4><strong>Our infinity edge pool will be open throughout the renovation.</strong></h4><br>
+
+<p><a class="btn-jorah" href="/austin/travaasa-spa-overview/">Take me back to the Spa</a></p>
 
   <!--<div class="col span_1_of_3"><iframe id="widget-frame" src="https://travaasaharvestdinner.ticketbud.com/houston2013/external" scrolling="yes" frameborder="0" style="height: 500px; width: 460px;"></iframe></div>-->
 
