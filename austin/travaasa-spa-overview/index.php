@@ -385,6 +385,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
 
+            <a href="/spa-renovation"><img src="/assets/images/spa-reno-email.jpg".></a><br><br>
             <h2>SPRING TREATMENT</h2>
             <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
 
