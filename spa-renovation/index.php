@@ -52,7 +52,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>The Spa at Travaasa Austin will be spending some time getting renewed! The primary facilities will be closed June 1st – September 1st for renovations.</p>
 
-<p>In the meantime, we’re transforming our entire Alamo Hacienda into a collection of private suites for our spa's home away from home. The living room style parlor will serve as the new spa front desk. You can look forward to mimosas and fresh fruit in the morning, and tea and cookies in the afternoon.</p>
+<p>In the meantime, we’re transforming our entire Alamo Hacienda into a collection of private suites for our spa's home away from home. The living room style parlor will serve as the new spa front desk. You can look forward to fresh fruit in the morning, and tea &amp; cookies in the afternoon.</p>
 
 <p>For a select number of transition days when no spa facilities are available (May 27–31 and September 2–5), we will be offering Swedish or Deep Tissue Massages in your guest room at no additional charge.</p>
 
