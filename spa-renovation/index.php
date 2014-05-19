@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!--<a class="btn-list scroll" href="https://travaasa.ticketbud.com/jamandjive" target="_blank">PURCHASE TICKETS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn-list scroll" href="/preferences"target="_blank">GET UPDATES</a>-->
       <br>
 
-<p>The Spa at Travaasa Austin will be spending some time getting renewed! The primary facilities will be closed June 1st – September 1st for renovations.</p>
+<p>The Spa at Travaasa Austin will be spending some time getting renewed! The primary facilities will be closed June 1st – September 1st for renovations. The Watsu pool will be unavailable from May 21st – September 2nd.</p>
 
 <p>In the meantime, we’re transforming our entire Alamo Hacienda into a collection of private suites for our spa's home away from home. The living room style parlor will serve as the new spa front desk. You can look forward to fresh fruit in the morning, and tea &amp; cookies in the afternoon.</p>
 
