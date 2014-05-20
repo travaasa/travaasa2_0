@@ -32,15 +32,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
-  <section class="intro pad clearfix notheater">
+  <section style="padding-bottom:0;" class="intro pad clearfix notheater">
     <div class="col span_1_of_2">
           <h1>Rates &amp; Packages</h1>
-          <p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a class="btn-list scroll" href="/preferences">GET ON THE LIST</a>
+          <p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a style="float:left;" class="btn-list scroll" href="/preferences">GET ON THE LIST</a>
             <!--<br><br> <a href="/jamandjive"><img class="videobox" width="350" src="/assets/images/jam-and-jive-teaser.jpg"></a></p>-->
     </div>
-    <div class="col span_1_of_2" style="margin:0">
+    <!--<div class="col span_1_of_2" style="margin:0">
       <img src="/assets/images/no-resort-fee-seal.png" style="float:right; margin-right:105px;" width="200" />
-    </div>
+    </div>-->
   </section>
   <section class="pad group" style="padding-top:0;">
 
@@ -51,11 +51,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <th class="compare-table-title total_travaasa">INCLUSIVE<br><span>Total Travaasa</span></th>
           <th class="compare-table-title">Á LA CARTE<br><span>Your Travaasa</span></th>
         </tr>
-        <tr class="compare-table-row">
+        <!--<tr class="compare-table-row">
           <td class="compare-table-description-box-resort-fee"><strong>NO RESORT FEE</strong>.&nbsp;&nbsp;Yes, you read that right.&nbsp;&nbsp;All of the below items are included in your rate.&nbsp;&nbsp;Relax and enjoy.</td>
           <td style="background-color:#F0E5E7;" class="compare-table-check total_travaasa">✔</td>
           <td style="background-color:#FDEDEE;" class="compare-table-check">✔</td>
-        </tr>
+        </tr>-->
         <tr class="compare-table-row">
           <td class="compare-table-description-box">Unlimited access to a <a href="/austin/austinschedule/">robust schedule</a> of programs &amp; activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</td>
           <td class="compare-table-check total_travaasa">✔</td>
