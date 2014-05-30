@@ -47,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>THE SPA AT TRAVAASA AUSTIN</h1>
-          <p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Featuring 11 treatment rooms, including a couple's room, as well as a hot tub and dry sauna, the spa sits adjacent to the property's infinity pool, which overlooks the serene and scenic hill country landscape.<br><br>
+          <p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Featuring 11 treatment rooms, including a couple's room, as well as a hot tub and dry sauna, the spa sits adjacent to the property's saline infinity pool, which overlooks the serene and scenic hill country landscape.<br><br>
 We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p>
 <div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Download Spa Guide</a></div>
 <div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa-Mens-Guide.pdf" class="btn fitwidth" target="_blank">Download Men's Spa Guide</a></div>
