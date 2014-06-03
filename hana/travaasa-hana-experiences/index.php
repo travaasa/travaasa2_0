@@ -31,7 +31,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="/calendar/"><img data-original="/assets/images/feature_months_may_2014_1600x640_hana_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="/calendar/"><img data-original="/assets/images/feature_months_june_2014_1600x640_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="/hana/promotions/"><img data-original="/assets/images/feature_hana_1600x640_flights_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
@@ -46,7 +46,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <br><br>
 While you are with us, you will enjoy our inimitable hospitality and beauty of place, and the comforts of everything you've come to expect from a Travaasa experience: our healing and pampering spa, authentic Hawaiian pursuits (lei making, ‘ukulele, hula, snorkeling, throw net fishing, opening a coconut, enjoying local gardens and guides who will share their knowledge of ecology and culture with you), a pool with an ocean view unlike any other, outdoor yoga, so you can experience all of life—while here, we're taking you on a further journey to self, to recognition, to life, to the real Hawai'i.
 <br><br>
-And one way to do this is through our diverse course offerings we call "Travaasas." We offer five different pathways for you to explore: <a href="#adventure" class="scroll">Adventure</a>, <a href="#culinary" class="scroll">Culinary</a>, <a href="#culture" class="scroll">Culture</a>, <a href="#fitness" class="scroll">Fitness</a> and <a href="#spa" class="scroll">Spa &amp; Wellness</a>. You won't have any trouble finding something unique.<br><br><a href="/hana/hanaschedule" class="btn">View Experience Schedule</a><br><br><a href="/calendar" class="btn">May's Featured Experiences</a></p>
+And one way to do this is through our diverse course offerings we call "Travaasas." We offer five different pathways for you to explore: <a href="#adventure" class="scroll">Adventure</a>, <a href="#culinary" class="scroll">Culinary</a>, <a href="#culture" class="scroll">Culture</a>, <a href="#fitness" class="scroll">Fitness</a> and <a href="#spa" class="scroll">Spa &amp; Wellness</a>. You won't have any trouble finding something unique.<br><br><a href="/hana/hanaschedule" class="btn">View Experience Schedule</a><br><br><a href="/calendar" class="btn">June's Featured Experiences</a></p>
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?></div>
   </section>
