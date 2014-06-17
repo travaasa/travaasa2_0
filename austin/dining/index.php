@@ -39,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-      <div class="col span_1_of_9" style="padding:0 50px 0 70px;">
+      <div class="col span_1_of_9" style="padding:0 50px 20px 70px;">
         <style type="text/css">a.OT_Find_a_Table:link, a.OT_Find_a_Table:visited, a.OT_Find_a_Table:hover, a.OT_Find_a_Table:active {text-shadow: 1px 1px 0px rgba(102, 20, 39, 0.9) !important; text-transform:uppercase !important;} h2.OT_subtitle {display:none;} div#BotNav_sitefooterWhiteLabel.demoFooter {display:none !important;}</style>
         <script type="text/javascript" src="https://secure.opentable.com/frontdoor/default.aspx?rid=147670&restref=147670&bgcolor=fafafa&titlecolor=444444&subtitlecolor=444444&btnbgimage=http://staging.travaasa.com/assets/images/opentable-btn.png&otlink=FAFAFA&icon=dark&mode=short&hover=1"></script><!--<a href="http://www.opentable.com/single.aspx?rid=147670&rtype=ism&restref=147670" class="OT_ExtLink">MAKE A RESERVATION</a>-->
       </div>
