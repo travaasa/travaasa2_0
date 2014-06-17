@@ -39,7 +39,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-      <div class="col span_8_of_9">
+      <div class="col span_1_of_9" style="padding:0 50px 0 70px;">
+        <style type="text/css">a.OT_Find_a_Table:link, a.OT_Find_a_Table:visited, a.OT_Find_a_Table:hover, a.OT_Find_a_Table:active {text-shadow: 1px 1px 0px rgba(102, 20, 39, 0.9) !important; text-transform:uppercase !important;} h2.OT_subtitle {display:none;} div#BotNav_sitefooterWhiteLabel.demoFooter {display:none !important;}</style>
+        <script type="text/javascript" src="https://secure.opentable.com/frontdoor/default.aspx?rid=147670&restref=147670&bgcolor=fafafa&titlecolor=444444&subtitlecolor=444444&btnbgimage=http://staging.travaasa.com/assets/images/opentable-btn.png&otlink=FAFAFA&icon=dark&mode=short&hover=1"></script><!--<a href="http://www.opentable.com/single.aspx?rid=147670&rtype=ism&restref=147670" class="OT_ExtLink">MAKE A RESERVATION</a>-->
+      </div>
+      <div class="col span_7_of_9">
           <h1>DINING AT TRAVAASA AUSTIN</h1>
           <p>Our culinary staff is obsessed with two things: nourishing our guests with delicious dishes composed of fresh, organic, and locally sourced ingredients whenever possible; and fostering a sense of community at the table. It is these two obsessions that make dining at Travaasa Austin so special.</p>
 <p>Our executive chef, Benjamin Baker, has taken great strides to deliver an experience where guests can share their story over breakfast, lunch or dinner.</p>
@@ -49,7 +53,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p><iframe id="widget-frame" src="http://travaasa.ticketbud.com/robert-mondavi-wine-dinner/external" scrolling="yes" frameborder="0" style="height: 700px; width: 420px;"></iframe></p>-->
 <!--<script id="-locu-widget" type="text/javascript" src="https://widget.locu.com/widget2/locu.widget.v2.0.js?id=fb7cb1c457f066e5f517&medium=web"></script>-->
       </div>
-      <div class="col span_1_of_2">
+      <div class="col span_1_of_2" style="padding: 40px 0 0 70px;">
         <script id="-locu-widget" type="text/javascript" src="https://widget.locu.com/widget2/locu.widget.v2.0.js?id=fb7cb1c457f066e5f517&medium=web"></script>
       </div>
   </section>
