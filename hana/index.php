@@ -56,6 +56,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </li>
           </ul>
           </div>
+          <img style="float:left; padding: 10px 0 0 10px;" width="135" src="/assets/images/andrew-harper.png">
           <script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=565&amp;locationId=120706&amp;lang=en_US&amp;year=2014"></script>
 
       </div>

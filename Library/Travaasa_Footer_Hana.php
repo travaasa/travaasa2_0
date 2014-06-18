@@ -59,7 +59,7 @@ Fax: 808-248-7202<br>
         <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
         <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>
-      <p><a class="btn" href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a><br />
+      <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
       <a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO TALK WITH US</a><br />
       <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO CHAT WITH US</a></p>
     </div>
