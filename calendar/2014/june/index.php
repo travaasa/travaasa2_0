@@ -96,7 +96,8 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_june_2014_1600x640.jpg" alt="June is Man month at Travaasa"></div>
+      <!--<div class="slide"><img src="/assets/images/feature_months_june_2014_1600x640.jpg" alt="June is Man month at Travaasa"></div>-->
+      <div class="slide"><a href="http://www.mancation.travaasa.com/stories/?utm_source=main-site&utm_medium=internal%20link&utm_campaign=man-month" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_man-month-homepage.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
 </section>
 <section id="content">
