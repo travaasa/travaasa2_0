@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="feature1" class="feature">  
       <!--<div class="slide"><a href="https://travaasa.ticketbud.com/jamandjive" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_jam-n-jive.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->
       <div class="slide"><a href="/austin/austinphotos/" ><img data-original="/assets/images/feature_austin_1600x640_relax_pool.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
-      <div class="slide"><a href="http://www.mancation.travaasa.com" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_man-month-homepage.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="http://www.mancation.travaasa.com/stories/?utm_source=main-site&utm_medium=internal%20link&utm_campaign=man-month" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_man-month-homepage.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="/assets/images/feature_austin_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="/austin/farm/" ><img data-original="/assets/images/feature_austin_1600x640_farm2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <!--<div class="slide"><a href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank"><img data-original="/assets/images/feature_home_1600x640_harvest-dinner-2013.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->
