@@ -96,7 +96,7 @@
   </nav>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_august_2013_1600x640-hana.jpg" alt="August is Dive month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_august_2014_1600x640.jpg" alt="August is Dive month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -282,9 +282,9 @@
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/june/"><img src="/assets/images/months/jun-man.png" alt="June is Man Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/july/"><img src="/assets/images/months/jul-independence.png" alt="July is Independence Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/august/"><img src="/assets/images/months/august-dive.png" alt="August is Dive Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/july/"><img src="/assets/images/months/jul-independence.png" alt="July is Independence Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/august/"><img src="/assets/images/months/aug-dive.png" alt="August is Dive Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/september/"><img src="/assets/images/months/sep-discover.png" alt="September is Discover Month"></a></div></div>
 
         </div>
   </section>
@@ -427,7 +427,6 @@ _gaq.push(['_setDomainName', '.travaasa.com']);
 _gaq.push(['_setAllowLinker', true]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setAllowAnchor', true]);
-_gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
