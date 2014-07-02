@@ -33,11 +33,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2-organic.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2><span>THE SPA AT TRAVAASA AUSTIN IS PROUD TO BE RECOGNIZED BY </span>ORGANIC SPA MAGAZINE</h2></div></div>
+      <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>PERFECT BALANCE FACIAL / <span>ORGANIC SAGE OIL AND GRAPE SEEDS RESTORE SKIN'S HARMONY.</span></h2></div></div>-->
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ULTIMATE BLISS FULL-DAY PACKAGE / <span>EXPERIENCE THE BLISS AND RELAXATION OF BEING NURTURED FROM HEAD TO TOE.</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>WESTERN SKY ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ORGANIC ULTIMATE HYDRATION FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>PERFECT BALANCE FACIAL / <span>ORGANIC SAGE OIL AND GRAPE SEEDS RESTORE SKIN'S HARMONY.</span></h2></div></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
