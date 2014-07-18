@@ -1,6 +1,37 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
+
+   $fp = file_get_contents( "sitemap.txt" );
+   $rows = explode("\n", $fp);
+
+   $austin = array();
+   $hana = array();
+   $travaasa = array();
+
+
+     foreach($rows as $row => $data) {
+
+      $row_data = explode(",", $data);
+
+      if ( $row_data[6] == 1 || $row_data[6] == 2) {
+
+      switch(strtolower($row_data[0])){
+        case "austin":
+         $austin[] = $row_data;
+         break;
+        case "hana":
+         $hana[] = $row_data;
+         break;
+        case "travaasa" :
+         $travaasa[] = $row_data;
+         break;
+      }
+     }
+
+    }
+
+
 ?>
 <!DOCTYPE html>
 <head>
@@ -9,7 +40,7 @@
 	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,7 +58,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu.php");
 ?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
@@ -39,43 +70,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         	<div class="col span_1_of_3">
             	<h5><a href="/austin">Travaasa Austin</a></h5>
               	<p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a><br>
-                <a href="/austin/austinphotos">GALLERY</a><br>
-              	<a href="/austin/austin-experiences">EXPERIENCES</a><br>
-              	<a href="/austin/travaasa-spa-overview">SPA</a><br>
-              	<a href="/austin/accomodations">ROOMS</a><br>
-              	<a href="/austin/dining">DINING</a><br>
-              	<a href="/austin/groups-and-meetings">GROUPS &amp; MEETINGS</a></p>
+                <?php
+                foreach($austin as $a):
+                  ?>
+                    <a href="<?=$a[2];?>"><?=strtoupper($a[1]);?></a><br>
+                  <?php
+                endforeach;
+                ?>
+                </p>
             </div>
         	<div class="col span_1_of_3">
             	<h5><a href="/hana">Travaasa Hana</a></h5>
               	<p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a><br>
-                <a href="/hana/hanaphotos">GALLERY</a><br>
-                  <a href="/hana/travaasa-hana-experiences">EXPERIENCES</a><br>
-                  <a href="/hana/hana-the-spa-at-travaasa-hana">SPA</a><br>
-                  <a href="/hana/accomodations">ROOMS</a><br>
-                  <a href="/hana/hana-dining-overview">DINING</a><br>
-                  <a href="/hana/hana-rates-and-packages">RATES</a><br>
-                  <a href="/hana/hana-maui">HANA &amp; GETTING HERE</a><br>
-                  <a href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a><br>
-                  <a href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></p>
+                <?php
+                  foreach($hana as $h):
+                    ?>
+                      <a href="<?=$h[2];?>"><?=strtoupper($h[1]);?></a><br>
+                    <?php
+                  endforeach;
+                  ?>
+                  </p>
             </div>
             <div class="col span_1_of_3">
       			<h5><a href="/">Travaasa</a></h5>
-                <p><a href="/about-us">ABOUT TRAVAASA</a><br>
-                <a href="/contact-us">CONTACT US</a><br>
-                <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
-                <a href="http://www.travaasa.com/blog">BLOG</a><br>
-                <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
-                <a href="https://theapplicantmanager.com/php/careers.php?co=tv">CAREERS</a><br>
-                
-                <a href="http://www.facebook.com/travaasa" target="_blank">FACEBOOK</a><br>
-                <a href="http://www.twitter.com/travaasa" target="_blank">TWITTER</a><br>
-                <a href="http://www.data2gold.com/gallery/travaasa/eClub/eClub.html">SIGN UP FOR OUR NEWSLETTER</a></p>
+                <p>
+                <?php
+                foreach($travaasa as $t):
+                  ?>
+                    <a href="<?=$t[2];?>"><?=strtoupper($t[1]);?></a><br>
+                  <?php
+                endforeach;
+                ?>
+                </p>
     		</div>
           </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer.php");
    include_once($path."/Library/Travaasa_Scripts.php");
