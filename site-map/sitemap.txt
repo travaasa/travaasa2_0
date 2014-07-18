@@ -1,0 +1,32 @@
+Austin, Gallery, http://travaasa.com/austin/austinphotos, 2014-07-17, weekly, 1.0, 2
+Austin, Experiences, http://travaasa.com/austin/austin-experiences, 2014-07-17, weekly, 1.0, 2
+Austin, Spa, http://travaasa.com/austin/travaasa-spa-overview, 2014-07-14, weekly, 1.0, 2
+Austin, Rooms, http://travaasa.com/austin/accomodations, 2014-07-14, weekly, 1.0, 2
+Austin, Dining, http://travaasa.com/austin/dining, 2014-07-14, weekly, 1.0, 2
+Austin, Rates, http://travaasa.com/austin/rates-and-packages/, 2014,07-14, weekly, 1.0, 2
+Austin, Groups &amp; Meetings, http://travaasa.com/austin/groups-and-meetings, 2014-07-14, weekly, 1.0, 2
+Austin, Farm to Table, http://travaasa.com/austin/farm/, 2014,07-14, weekly, 1.0, 2
+Austin, Food Truck, http://travaasa.com/austin/food-truck/, 2014,07-14, weekly, 1.0, 2
+Austin, Weddings, http://travaasa.com/austin/weddings/, 2014,07-14, weekly, 1.0, 2
+Hana, Gallery, http://travaasa.com/hana/hanaphotos, 2014-07-14, weekly, 1.0, 2
+Hana, Experiences, http://travaasa.com/hana/travaasa-hana-experiences, 2014-07-14, weekly, 1.0, 2
+Hana, Spa, http://travaasa.com/hana/hana-the-spa-at-travaasa-hana, 2014-07-14, weekly, 1.0, 2
+Hana, Rooms, http://travaasa.com/hana/accomodations, 2014-07-14, weekly, 1.0, 2
+Hana, Dining, http://travaasa.com/hana/hana-dining-overview, 2014-07-14, weekly, 1.0, 2
+Hana, Rates, http://travaasa.com/hana/hana-rates-and-packages, 2014-07-14, weekly, 1.0, 2
+Hana, Hana &amp; Getting Here, http://travaasa.com/hana/hana-maui, 2014-07-14, weekly, 1.0, 2
+Hana, Groups &amp; Meetings, http://travaasa.com/hana/hana-groups-and-meetings, 2014-07-14, weekly, 1.0, 2
+Hana, Off-Property Excursions, http://travaasa.com/hana/hana-off-property-excursions, 2014-07-14, weekly, 1.0, 2
+Travaasa, About Travaasa, http://travaasa.com/about-us, 2014-07-14, weekly, 1.0, 2
+Travaasa, Calendar of Events, http://travaasa.com/calendar/, 2014-07-15, weekly, 1.0, 2
+Travaasa, Contact us, http://travaasa.com/contact-us, 2014-07-14, weekly, 1.0, 2
+Travaasa, Press Room, http://www.travaasa.com/press-room/, 2014-07-14, weekly, 1.0, 2
+Travaasa, Blog, http://www.travaasa.com/blog, 2014-07-14, weekly, 1.0, 2
+Travaasa, Gift Cards, http://giftcards.travaasa.com/, 2014-07-14, weekly, 1.0, 2
+Travaasa, Careers, https://theapplicantmanager.com/php/careers.php?co=tv, 2014-07-14, weekly, 1.0, 1
+Travaasa, Facebook, http://www.facebook.com/travaasa, 2014-07-14, weekly, 1.0, 1
+Travaasa, Twitter, http://www.twitter.com/travaasa, 2014-07-14, weekly, 1.0, 1
+Travaasa, Sign up for our newsletter, http://www.data2gold.com/gallery/travaasa/eClub/eClub.html, 2014-07-14, weekly, 1.0, 1
+Travaasa, Privacy Policy, http://travaasa.com/privacypolicy, 2014-07-14, weekly, 1.0, 2
+Travaasa, Elopement Package, http://travaasa.com/elopement, 2014-07-15, weekly, 1.0, 0
+Travaasa, Kamaaina Offers, http://travaasa.com/kamaaina, 2014-07-15, weekly, 1.0, 0
