@@ -45,9 +45,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
       <div class="col span_7_of_9">
           <h1>DINING AT TRAVAASA AUSTIN</h1>
-          <p>Our culinary staff is obsessed with two things: nourishing our guests with delicious dishes composed of fresh, organic, and locally sourced ingredients whenever possible; and fostering a sense of community at the table. It is these two obsessions that make dining at Travaasa Austin so special.</p>
-<p>Our executive chef, Benjamin Baker, has taken great strides to deliver an experience where guests can share their story over breakfast, lunch or dinner.</p>
-<p>Dining is included in some packages at Travaasa Austin. See our <a href="/austin/rates-and-packages">rates &amp; packages</a> for more. Off property guests are welcome to dine with a reservation.</p>
+          <p>Our culinary staff is obsessed with two things: nourishing our guests with delicious dishes composed of fresh, organic, and locally sourced ingredients whenever possible; and fostering a sense of community at the table. It is these two obsessions that make dining at Travaasa Austin so special. Our executive chef, Benjamin Baker, has taken great strides to deliver an experience where guests can share their story over breakfast, lunch or dinner.</p>
+<p>Dining is included in some packages at Travaasa Austin. See our <a href="/austin/rates-and-packages">rates &amp; packages</a> for more information. 
+  <p>Off property guests are welcome to dine with a reservation. <b><em>Dining guests must be at least 16 years of age or older.</em><b></p>
 <!--<h4>Purchase tickets to the June 26th Robert Mondavi Wine Dinner:</h4>
 <p>See <a href="http://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank">event page</a> for more details.</p>
 <p><iframe id="widget-frame" src="http://travaasa.ticketbud.com/robert-mondavi-wine-dinner/external" scrolling="yes" frameborder="0" style="height: 700px; width: 420px;"></iframe></p>-->
