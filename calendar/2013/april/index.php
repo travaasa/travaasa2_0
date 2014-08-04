@@ -131,7 +131,6 @@ endif;
                 </p>
             </div>
            
-            
             <h2>Spa &amp; Wellness</h2>
             <div class="listing">
                 <h6>Discover the Eight Limbs of Yoga <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
