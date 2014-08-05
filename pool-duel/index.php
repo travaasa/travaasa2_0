@@ -42,7 +42,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col span_8_of_9">
           <h1>THE TRAVAASA POOL DUEL</h1>
           <p>Vote for your favorite pool and be entered to win three (3) nights for two at the Travaasa Experiential Resort of your choice + $500 in airfare credits.</p>
-              <div><iframe height="500" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://travaasa.wufoo.com/embed/q18b2kb81dankm2/"></iframe></div>            
+              <div><iframe height="500" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://travaasa.wufoo.com/embed/q18b2kb81dankm2/"></iframe></div> 
+              <p>By hitting SUBMIT you acknowledge the <a href="/pool-duel/terms" target="_blank">terms and conditions</a>.</p>        
                         <!--<p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;rateCode=TTTXM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;rateCode=TTTXM&amp;numberOfAdults=2')]); return false;" style="margin-bottom:20px;" class="btn-jorah">BOOK TOTAL TRAVAASA</a>&nbsp;&nbsp;&nbsp;
             <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;rateCode=YTTXM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;rateCode=YTTXM&amp;numberOfAdults=2')]); return false;" class="btn-jorah">BOOK YOUR TRAVAASA</a><br><br><a class="btn-list scroll" href="/preferences">GET ON THE LIST</a></p>-->
       </div>
