@@ -241,7 +241,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h4>Watsu&#174; Aquatic Massage</h4>
                 <p>Watsu uses the warmth and buoyancy of 96-degree water and a combination of unique stretches and natural movements in a secluded pool to help improve circulation, relieve nerve pressure and lessen stress, arthritis, anxiety and chronic pain. Our certified Watsu practitioners will fit the 60-minute treatment to your liking and body’s needs.</p>
                 <!--<h5>50 minutes &#8211; $140</h5>-->
-                <h5 style="color:#ea5965;"><em>Watsu unavailable May 21st through September 7th during <a href="/spa-renovation" target="_blank">renovations</a>.</em></h5>
+                <h5 style="color:#ea5965;"><em>Watsu unavailable May 21st through September 12th during <a href="/spa-renovation" target="_blank">renovations</a>.</em></h5>
             </section>
             <section class="spa_package">
                 <h4>TRAVAASA CUSTOM MASSAGE</h4>
