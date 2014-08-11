@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Maui Spa Retreat | Hawaiian Experience Spa | Spa at Travaasa Hana Hawaii</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="The Spa at Travaasa Hana, a Maui spa retreat,  is a deeply relaxing sanctuary enhanced by Hana’s natural tropical beauty - a true Hawaiian experience spa. " />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,13 +27,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_spa_1.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>THE JOURNEY<span> / UNWIND AND RENEW FROM YOUR TRAVELS WITH THIS HOLISTIC TREATMENT.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/placeholder_spa_A2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>KANE (GENTLEMAN'S) FACIAL<span> / BLUE LOTUS, ALGAE EXTRACT, RICE GERM, BAMBOO, GINGER, LEMON AND TIGER GRASS PURIFY THE SKIN.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_spa_4.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>REFINING CLAY BODY WRAP<span> / CLAY HAS BEEN USED FOR AGES FOR ITS HEALING, ANTI-INFLAMMATORY AND REGENERATIVE PROPERTIES.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_spa_1.jpg" src="/assets/images/global/placeholder.gif" alt="Maui spa, Hawaiian Experience Spa, Hana Spa, Maui spa retreat"><div class="overlay-content-new"><h2>THE JOURNEY<span> / UNWIND AND RENEW FROM YOUR TRAVELS WITH THIS HOLISTIC TREATMENT.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/placeholder_spa_A2.jpg" src="/assets/images/global/placeholder.gif" alt="Maui spa, Hawaiian Experience Spa, Hana Spa, Maui spa retreat"><div class="overlay-content-new"><h2>KANE (GENTLEMAN'S) FACIAL<span> / BLUE LOTUS, ALGAE EXTRACT, RICE GERM, BAMBOO, GINGER, LEMON AND TIGER GRASS PURIFY THE SKIN.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_spa_4.jpg" src="/assets/images/global/placeholder.gif" alt="Maui spa, Hawaiian Experience Spa, Hana Spa, Maui spa retreat"><div class="overlay-content-new"><h2>REFINING CLAY BODY WRAP<span> / CLAY HAS BEEN USED FOR AGES FOR ITS HEALING, ANTI-INFLAMMATORY AND REGENERATIVE PROPERTIES.</span></h2></div></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -42,8 +42,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
-          <h1>THE SPA AT TRAVAASA HANA</h1>
-          <p>Our spa treatments go far beyond pampering and indulgence. They reflect Hana, our passion for,  and knowledge of, the human body. We honor the ability of plants and essential oils to naturally treat, heal and revitalize the soul. An array of massages, healing rituals, beauty treatments and personalized services are available, using only organic, bioenergetic products. We feature Amala skin care products, which are also available in our spa boutique.<br><br><a href="/pdf/Travaasa-Hana-Spa-Guide.pdf" target="_blank" class="btn">Download Spa Guide</a></p>
+          <h1>THE SPA AT TRAVAASA HANA, MAUI</h1>
+          <p>Our Maui spa treatments go far beyond pampering and indulgence. They reflect Hana, our passion for,  and knowledge of, the human body. We honor the ability of plants and essential oils to naturally treat, heal and revitalize the soul. An array of massages, healing rituals, beauty treatments and personalized services are available, using only organic, bioenergetic products. We feature Amala skin care products, which are also available in our spa boutique.<br><br><a href="/pdf/Travaasa-Hana-Spa-Guide.pdf" target="_blank" class="btn">Download Spa Guide</a></p>
       </div>
       <div class="pricing_grp col span_3_of_9">
       		<h2>Hours of Operation</h2>
@@ -111,12 +111,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <p>Unrefined, sun-dried green clay blended with the purest spirulina defines this experience. Finding balance and clarity using organic myrtle, lemon and juniper combined with sandalwood and olive stone to regenerate, oxygenate and clarify your skin. Skin will be restored, rehydrated and protected by our organic myrtle, cypress, hyssop, juniper, rosemary and other healing plants and flowers, leaving it feeling pure, clean, firm and smooth. A Swedish massage finishes this age-defying treatment.</p>
                 <h5>90 minutes – $185</h5>
 			</section>
-            
+
             <h2>Add-On Treatments</h2>
-            
+
             <section class="spa_package">
                 <h4>Malama Maka ("Care for the Eyes") Soothing &amp; Healing Eye Treatment</h4>
-                <p>Applied during mask resting time. Treat and revive tired or stressed eyes with Amala's mineral-rich eye pack. This eye pack will work to restore tone and elasticity and assist in minimizing dark circles, puffiness and fine lines while regenerating and oxygenating your skin. The delicate eye area will be soothed, remineralized and rehydrated by our organic seed oils, crafted from plants and flowers which are vital for the health and repair of our skin.</p> 
+                <p>Applied during mask resting time. Treat and revive tired or stressed eyes with Amala's mineral-rich eye pack. This eye pack will work to restore tone and elasticity and assist in minimizing dark circles, puffiness and fine lines while regenerating and oxygenating your skin. The delicate eye area will be soothed, remineralized and rehydrated by our organic seed oils, crafted from plants and flowers which are vital for the health and repair of our skin.</p>
                 <h5>$40</h5>
 			</section>
             <section class="spa_package">
@@ -126,7 +126,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</section>
             <section class="spa_package">
                 <h4>‘Anainai ‘Ili ("To Scrub the Skin") Dry Brush Treatment</h4>
-                <p>Stimulate the lymphatic system with this massage add-on. Dry skin will be brushed off, while stimulating the lymphatic system to help create perfect balance.</p> 
+                <p>Stimulate the lymphatic system with this massage add-on. Dry skin will be brushed off, while stimulating the lymphatic system to help create perfect balance.</p>
                 <h5>30 minutes – $50</h5>
 			</section>
     	</div>
@@ -338,7 +338,7 @@ Please keep in mind that the treatment times are reserved especially for you. Th
   <p class="clear">&nbsp;</p>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

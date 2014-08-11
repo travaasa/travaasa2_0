@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Hana Room Rates & Packages | Maui Inclusive Resort Spa Hotel</title>
+	<title>All Inclusive Hawaii Resort | Travaasa Hana Maui All Inclusive Packages</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Travaasa Experiential Resorts provide you with different rates and all inclusive Hawaii resort package selections so that you can customize your journey, and make the most of your time with us." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,11 +27,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="/hana/promotions/"><img data-original="/assets/images/feature_hana_1600x640_flights_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="/hana/promotions/"><img data-original="/assets/images/feature_hana_1600x640_flights_promo.jpg" src="/assets/images/global/placeholder.gif" alt="All inclusive Hawaii resort, Maui all inclusive packages"></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -40,8 +40,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section style="padding-bottom:0;" class="intro pad clearfix notheater">
     <div class="col span_2_of_3">
-          <h1>Rates &amp; Packages</h1>
-          <p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a class="btn-list scroll" href="/preferences">GET ON THE LIST</a></p>
+          <h1>RATES &amp; ALL INCLUSIVE RESORT PACKAGES</h1>
+          <p>Travaasa Experiential Resorts provide you with different rate and all inclusive resort package selections so that you can customize your journey, and make the most of your time with us. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a class="btn-list scroll" href="/preferences">GET ON THE LIST</a></p>
 
     </div>
     <!--<div class="col span_1_of_2" style="margin:0">
@@ -49,7 +49,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>-->
   </section>
   <section class="pad group" style="padding-top:0;">
-  	<table class="compare-table fitwidth">  
+  	<table class="compare-table fitwidth">
       <tbody>
         <tr>
           <th class="compare-table-title">&nbsp;</th>
@@ -135,16 +135,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <td style="border:1px solid #FFFFFF;" >&nbsp;</td>
           <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>925</p></td>
           <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>400</p></td>
-        </tr>  
+        </tr>
      </tbody>
     </table>
-        
+
     <br>
-    
+
 	<hr>
     <a id="policies"></a>
     <br>
-    
+
         <h5>Age Policy</h5>
         <ul>
           <li>The <a href="/hana/accomodations/">Sea Ranch Cottages</a> and <strong>Total Travaasa</strong> packages are limited to adults <strong>16 and over</strong>.</li>
@@ -165,19 +165,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li>Trail rides and tasting tours at Ono Farms are an additional charge. Total Travaasa resort credits may be used toward these activities.</li>
           <!--<li>Please note: Travaasa Hana is a non-tipping resort property other than food &amp; beverage areas.</li>-->
         </ul>
-        
+
           <p>CANCELLATION POLICY: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
-                
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
   </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

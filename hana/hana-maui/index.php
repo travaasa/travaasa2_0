@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Hana Hawaii Vacation | Maui Resorts | Travaasa Hana</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Discover the town of Hana at the tip of Maui and at the end of the Road to Hana. Discover an extraordinary Maui resort vacation experience at Travaasa Hana." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,16 +27,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="http://mokuleleairlines.com" target="_blank"><img data-original="/assets/images/feature_hana_1600x640_loc_fly_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a><div class="overlay-content-new"><h2>FLY TO TRAVAASA HANA / <span>MOKULELE AIRLINES FEATURES TWICE-DAILY FLIGHTS FROM KAHULUI (OGG) to HANA AIRPORT (HNM).</span></h2></div></div>   
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_journey.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>THE JOURNEY TO TRAVAASA HANA / <span>THE ROAD HUGS MAUI'S NORTHEASTERN COAST, SKIRTING FORESTED RAVINES AND COUNTLESS WATERFALLS.</span></h2></div></div>
+      <div class="slide"><a href="http://mokuleleairlines.com" target="_blank"><img data-original="/assets/images/feature_hana_1600x640_loc_fly_promo.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"></a><div class="overlay-content-new"><h2>FLY TO TRAVAASA HANA / <span>MOKULELE AIRLINES FEATURES TWICE-DAILY FLIGHTS FROM KAHULUI (OGG) to HANA AIRPORT (HNM).</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_journey.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>THE JOURNEY TO TRAVAASA HANA / <span>THE ROAD HUGS MAUI'S NORTHEASTERN COAST, SKIRTING FORESTED RAVINES AND COUNTLESS WATERFALLS.</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_view.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>AS AUTHENTIC AS HAWAII GETS / <span>THE MAGIC OF HANA SIMPLY HAS TO BE EXPERIENCED TO BE BELIEVED.</span></h2></div></div>-->
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_hospitality.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>HO'OKIPA (HOSPITALITY) / <span>IT'S A HAWAIIAN WAY OF LIFE.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_history.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>THE HISTORY OF HANA / <span>UNPARALLELED BEAUTY AND A BASEBALL TEAM PUT IT ON THE MAP.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_rentalcars.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>RENT A CAR AND EXPLORE HANA / <span>TRAVERSE BEAUTIFUL EASTERN MAUI IN YOUR OWN JEEP OR CAR.</span></h2></div></div>   
+      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_hospitality.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>HO'OKIPA (HOSPITALITY) / <span>IT'S A HAWAIIAN WAY OF LIFE.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_history.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>THE HISTORY OF HANA / <span>UNPARALLELED BEAUTY AND A BASEBALL TEAM PUT IT ON THE MAP.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_rentalcars.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>RENT A CAR AND EXPLORE HANA / <span>TRAVERSE BEAUTIFUL EASTERN MAUI IN YOUR OWN JEEP OR CAR.</span></h2></div></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -91,53 +91,53 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
     <div id="history" class="tab_data">
         <div class="tab_data_inner">
               <p>What started out as a "retirement project" evolved into the world-class destination that only a privileged few ever get to experience. But what really helped put Hana on the map (besides its unparalleled beauty) was a baseball team.</p>
-              
+
               <p>The story begins just after the Second World War with Paul Fagan, an entrepreneur from San Francisco. He had investments in the area and wanted to retire here. However, jobs were scarce for the residents and the town's survival was seriously in doubt. Paul believed Hana held tremendous potential as a tourist destination. Together with his wife Helene, they designed a hotel for first-class travelers. This was an age when there was no such thing as a cut-rate tour, so luxury was the order of the day.</p>
-              
+
               <p>In October 1946, the Ka''uiki Inn opened. Hawaiian press accounts hailed it as "the glamorous new resort on the Hana Coast." Paul knew he had to get the word out to the mainland. Being a majority owner of the Pacific Coast League''s San Francisco Seals, he knew the team needed a location for Spring Training in 1947. Since his team had just won the PCL Championship and set an attendance record, he "awarded" them with a trip to Hana. The team also brought along a cadre of sportswriters who wrote glowing reports about the inn and the area. One writer even coined the nickname still used today "Heavenly Hana."</p>
-              
+
               <p>Their stories helped put Hana and the inn on the map. The inn eventually evolved into the Hotel Hana-Maui. Small and quietly isolated, Hana quickly became a world-class destination for travelers and celebrities looking to get away from it all. And while the hotel has expanded and changed hands several times over the decades, one principle will always guide us at Travaasa Hana. To keep "Heavenly Hana" Maui''s truly last Hawaiian place.</p>
         </div>
     </div>
     <div id="stories" class="tab_data">
         <div class="tab_data_inner">
-                
+
                 <p>Enjoy this selection of audio vignettes we've compiled to give you a glimpse into the richness of Hana.</p>
-							
+
                 <h4>Throw Net Fishing</h4>
                 <p><audio controls="controls">
                   <source src="http://travaasa.com/lightbox/throw-net-fishing.mp3" type="audio/mpeg">
                   <source src="http://travaasa.com/lightbox/throw-net-fishing.ogg" type="audio/ogg">
                 <embed height="50" width="250" src="http://travaasa.com/lightbox/throw-net-fishing.mp3">
                 </audio></p>
-                
+
                 <h4>Glider Adventure</h4>
                 <p><audio controls="controls">
                   <source src="http://travaasa.com/lightbox/glider-adventure.mp3" type="audio/mpeg">
                   <source src="http://travaasa.com/lightbox/glider-adventure.ogg" type="audio/ogg">
                 <embed height="50" width="200" src="http://travaasa.com/lightbox/gider-adventure.mp3">
                 </audio></p>
-                
+
                 <h4>Haleakala National Park (Seven Pools)</h4>
                 <p><audio controls="controls">
                   <source src="http://travaasa.com/lightbox/seven-pools.mp3" type="audio/mpeg">
                   <source src="http://travaasa.com/lightbox/seven-pools.ogg" type="audio/ogg">
                 <embed height="50" width="200" src="http://travaasa.com/lightbox/seven-pools.mp3">
                 </audio></p>
-                
+
                 <h4>Haleakala National Park (Bamboo Forest)</h4>
                 <p><audio controls="controls">
                 <source src="http://travaasa.com/lightbox/bamboo-forest.mp3" type="audio/mpeg">
                 <source src="http://travaasa.com/lightbox/bamboo-forest.ogg" type="audio/ogg">
                 <embed height="50" width="200" src="http://travaasa.com/lightbox/bamboo-forest.mp3">
                 </audio></p>
-                
+
                 <p>&nbsp;</p>
-                
+
                 <p><em>Explore available <a href="/hana/hana-off-property-excursions">off-property excursions</a> and <a href="/hana/travaasa-hana-experiences"> on-site activities</a> available at Travaasa Hana, Maui.</em></p>
-            
-            
-            
+
+
+
         </div>
     </div>
     <div id="carrental" class="tab_data">
@@ -167,7 +167,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
   <p class="clear">&nbsp;</p>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

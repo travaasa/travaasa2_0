@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Hawaii Luxury Resorts | Travaasa Hana Maui Luxury Resort Accommodations</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Travaasa Hana offers Hawaii luxury resort accommodations ranging from spacious Garden View Suites to the stunning oceanfront Sea Ranch Cottages." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,32 +27,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <h1>ROOMS &amp; ACCOMMODATIONS</h1>
-          <p>The Town of Hana feels like it is a world away from the rest of Maui. So it is only appropriate that our accommodations should envelop you in a similar state of mind. Whether you are staying in one of our luxurious cottages or checking in to one of our spacious suites, you will find the peace and quiet you deserve. <strong>Rooms are free of radios, clocks and TVs, so you can fully embrace the low-key vibe of Heavenly Hana.</strong></p>
+          <h1>LUXURY RESORT ROOMS & COTTAGES</h1>
+          <p>The Town of Hana feels like it is a world away from the rest of Maui. So it is only appropriate that our accommodations should envelop you in a similar state of mind. Whether you are staying in one of our luxury resort cottages or checking in to one of our spacious suites, you will find the peace and quiet you deserve. <strong>Rooms are free of radios, clocks and TVs, so you can fully embrace the low-key vibe of Heavenly Hana.</strong></p>
           <div class="col span_1_of_1"><a href="/pdf/Travaasa-Hana-Maui-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
   </section>
   <section class="grey pad group">
     <div class="col span_2_of_5">
         <div class="magnify">
-        	<a href="/assets/images/gallery/hana/1433-sea-ranch-ocean-view.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
-            <a href="/assets/images/gallery/hana/1433-sea-ranch-bathroom.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Bathroom"></a>
-            <a href="/assets/images/gallery/hana/1433-sea-ranch-ocean-front-suite.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Front Suite"></a>
+        	<a href="/assets/images/gallery/hana/1433-sea-ranch-ocean-view.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"><img src="/assets/images/global/transparent.gif" alt="Sea Ranch luxury resort cottages"></a>
+            <a href="/assets/images/gallery/hana/1433-sea-ranch-bathroom.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Bathroom" alt="Sea Ranch luxury resort cottages"></a>
+            <a href="/assets/images/gallery/hana/1433-sea-ranch-ocean-front-suite.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Front Suite" alt="Sea Ranch luxury resort cottages"></a>
             <!--<a href="/assets/images/gallery/hana/1433-sea-ranch-view.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage View"></a>-->
-            <a href="/assets/images/gallery/hana/1433-sea-ranch-pool-chairs.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Pool"></a>
-            <a href="/assets/images/gallery/hana/1433-sea-ranch-room.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"></a>
+            <a href="/assets/images/gallery/hana/1433-sea-ranch-pool-chairs.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Pool" alt="Sea Ranch luxury resort cottages"></a>
+            <a href="/assets/images/gallery/hana/1433-sea-ranch-room.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage" alt="Sea Ranch luxury resort cottages"></a>
         </div>
-        <a href="/assets/images/gallery/hana/sea-ranch-cottage-alt-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"><img src="/assets/images/rooms_sea_ranch.jpg" alt="Sea Ranch Cottages" width="600" height="400" class="fitwidth"></a>
+        <a href="/assets/images/gallery/hana/sea-ranch-cottage-alt-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"><img src="/assets/images/rooms_sea_ranch.jpg" alt="Sea Ranch luxury resort cottages" width="600" height="400" class="fitwidth"></a>
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
             <h4>Sea Ranch Cottages</h4>
-            <p>Features and amenities include:</p>
+            <p>Luxury resort features &amp; amenities include:</p>
             <ul class="description">
                 <li>Inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
                 <li>Private, expansive lanais with <a href="/assets/images/gallery/hana/1433-sea-ranch-view.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage View">views</a> of the Pacific Ocean, some with their own private hot tubs</li>
@@ -79,14 +79,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad group">
   	<div class="col span_2_of_5">
         <div class="magnify">
-        	<a href="/assets/images/gallery/hana/1433-garden-view-bathroom.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Bathroom"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
-            <a href="/assets/images/gallery/hana/1433-garden-view-pool.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Pool"></a>
-            <a href="/assets/images/gallery/hana/1433-garden-view-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Suite View"></a>
-            <a href="/assets/images/gallery/hana/1433-garden-view-green.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Lawn"></a>
-            <a href="/assets/images/gallery/hana/1433-garden-view-lawn.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Lawn"></a>
-            <a href="/assets/images/gallery/hana/1433-garden-view-room-double.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Double Room"></a>
+        	<a href="/assets/images/gallery/hana/1433-garden-view-bathroom.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Bathroom"><img src="/assets/images/global/transparent.gif" alt="Hawaii luxury resort rooms"></a>
+            <a href="/assets/images/gallery/hana/1433-garden-view-pool.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Pool" alt="Hawaii luxury resort rooms"></a>
+            <a href="/assets/images/gallery/hana/1433-garden-view-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Suite View" alt="Hawaii luxury resort rooms"></a>
+            <a href="/assets/images/gallery/hana/1433-garden-view-green.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Lawn" alt="Hawaii luxury resort rooms"></a>
+            <a href="/assets/images/gallery/hana/1433-garden-view-lawn.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Lawn" alt="Hawaii luxury resort rooms"></a>
+            <a href="/assets/images/gallery/hana/1433-garden-view-room-double.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Double Room" alt="Hawaii luxury resort rooms"></a>
         </div>
-        <a href="/assets/images/gallery/hana/1433-garden-view-room.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Suite"><img src="/assets/images/rooms_garden_view.jpg" alt="Garden View Suites" width="300" height="196" class="fitwidth"></a>
+        <a href="/assets/images/gallery/hana/1433-garden-view-room.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Suite"><img src="/assets/images/rooms_garden_view.jpg" alt="Hawaii luxury resort rooms" width="300" height="196" class="fitwidth"></a>
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
@@ -120,9 +120,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   	<div class="col span_2_of_5">
       <div class="magnify">
           <!--<a href="/assets/images/gallery/hana/rooms_waikoloa_family_suites-lg.jpg" data-flare-gallery="gallery3" data-target="flare" data-flare-scale="fitmax" title="Waikoloa Family Suite"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>-->
-            <a href="/assets/images/gallery/hana/waikoloa-bathroom-lg.jpg" data-flare-gallery="gallery3" data-target="flare" data-flare-scale="fitmax" title="Waikoloa Suite Bathroom"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
+            <a href="/assets/images/gallery/hana/waikoloa-bathroom-lg.jpg" data-flare-gallery="gallery3" data-target="flare" data-flare-scale="fitmax" title="Waikoloa Suite Bathroom"><img src="/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
         </div>
-      	<a href="/assets/images/gallery/hana/rooms_waikoloa_family_suites-lg.jpg" data-flare-gallery="gallery3" data-target="flare" data-flare-scale="fitmax" title="Waikoloa Family Suite"><img src="/assets/images/rooms_waikoloa_family_suites.jpg" alt="Waikoloa Family Suites" width="300" height="196" class="fitwidth"></a>
+      	<a href="/assets/images/gallery/hana/rooms_waikoloa_family_suites-lg.jpg" data-flare-gallery="gallery3" data-target="flare" data-flare-scale="fitmax" title="Waikoloa Family Suite"><img src="/assets/images/rooms_waikoloa_family_suites.jpg" alt="Maui luxury resort suites" width="300" height="196" class="fitwidth"></a>
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
@@ -151,7 +151,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

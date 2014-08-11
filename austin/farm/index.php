@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Farm Vacations | Working Farm Vacation at Travaasa Austin</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Travaasa Austin resort features our very own 3.25-acre working farm and provide guests with programs to participate in a working farm vacation throughout the year." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,11 +27,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_chickens.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_chickens.jpg" src="/assets/images/global/placeholder.gif" alt="Farm Vacations Texas"></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -41,11 +41,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
       <div class="col span_8_of_9">
           <h3>GO FOR A ROLL IN THE HAY. REALLY. WE HAVE A FARM.</h3>
-          <p>We’re taking the whole farm-to-table thing to heart with our very own 3.25-acre working farm. At our Travaasa Farm in Austin, we’re growing the highest quality produce in the region, using all organic practices, to supply food for our kitchen and provide guests with experiences and programs to participate in throughout the year. Classes include everything from seeding and identifying edible plants, to composting, chicken care and much more.</p>
+          <p>We’re taking the whole farm-to-table thing to heart with our very own 3.25-acre working farm. At our Travaasa Farm in Austin, we’re growing the highest quality produce in the region, using all organic practices, to supply food for our kitchen and provide guests with farm vacation experiences and programs to participate in throughout the year. Classes include everything from seeding and identifying edible plants, to composting, chicken care and much more.</p>
           <p>Located in a gorgeous valley across from the property on the edge of the Balcones Canyonlands Preserve, the farm features more than 80 varieties of vegetable crops, perennial fruit orchards, native pecans, edible flowers, and culinary and medical herbs, all of which are used extensively in the resorts food and beverage offerings as well as in treatments at the award winning spa. Additionally, the farm includes a 360-square foot greenhouse, a 2,300-square foot activity garden for hands-on growing classes, and a 680-square foot chicken coop with more than 100 laying hens of five different breeds and two roosters, as well as the property’s new equine center which is home to seven horses and our Equine Encounter program.</p>
           <p>It’s the real deal. Come roll your sleeves up and get down with us on the farm.</p>
 
-          <img src="/assets/images/farm-fruit-logo-533.png" alt="The Farm at Travaasa Austin" width="320">
+          <img src="/assets/images/farm-fruit-logo-533.png" alt="Working Farm Vacation Travaasa" width="320">
       <!--<dl class="floatright span_3_of_7 inset">
       <dt><img src="/assets/images/farm-fruit-logo-533.png" alt="The Farm at Travaasa Austin" class="fitwidth"></dt>
         <dd></dd>
@@ -59,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>-->
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

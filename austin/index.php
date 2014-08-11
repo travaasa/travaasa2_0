@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Texas Hill Country Resort Spa & Hotel | Travaasa Austin | Activities</title>
+	<title>Austin Resort | Austin Texas Hill Country Resort & Spa | Travaasa</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Travaasa Austin is a unique, experiential resort in Texas Hill Country. Inclusive packages feature outdoor adventures, culinary discovery, a working farm, spa & wellness programs." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,16 +27,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
-    <div id="feature1" class="feature">  
+    <div id="feature1" class="feature">
       <!--<div class="slide"><a href="https://travaasa.ticketbud.com/jamandjive" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_jam-n-jive.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->
       <div class="slide"><a href="/austin/austinphotos/" ><img data-original="/assets/images/feature_austin_1600x640_relax_pool.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="/assets/images/feature_austin_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="/austin/farm/" ><img data-original="/assets/images/feature_austin_1600x640_farm2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <!--<div class="slide"><a href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank"><img data-original="/assets/images/feature_home_1600x640_harvest-dinner-2013.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->
-      <!--<div class="slide"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="/assets/images/feature_home_1600x640_mondavi-wine-dinner.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->    
+      <!--<div class="slide"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="/assets/images/feature_home_1600x640_mondavi-wine-dinner.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>-->
       <div class="slide"><a href="/austin/travaasa-spa-overview/" ><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt="The Spa at Travaasa Austin"></a></div>
       <div class="slide"><a href="http://www.mancation.travaasa.com/stories/?utm_source=main-site&utm_medium=internal%20link&utm_campaign=man-month" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_mancation.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
 
@@ -78,18 +78,18 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
       </div>
       <div class="pricing_grp col span_3_of_9"><br><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>
-  <section class="grey pad">    
-    <h4>HIGHLIGHTS</h4>   
+  <section class="grey pad">
+    <h4>HIGHLIGHTS</h4>
     <div id="story1-wrapper" class="storyline_carousel">
       <div id="story1" class="storyline">
         <div class="slide">
-          <div class="slide_inner"><a href="/austin/austin-experiences/"><img data-original="/assets/images/exp_austin_experiences_overview.jpg" src="/assets/images/global/placeholder.gif" alt=""></a>
+          <div class="slide_inner"><a href="/austin/austin-experiences/"><img data-original="/assets/images/exp_austin_experiences_overview.jpg" src="/assets/images/global/placeholder.gif" alt="Austin Texas Resort Experiences"></a>
             <h5>Travaasa Austin Experiences</h5>
             <p class="description">Situated on the edge of the Balcones Canyonlands Preserve, Travaasa Austin offers an extensive selection of guided activities set amidst — and inspired by — the beautiful Texas Hill Country. Learn how to Texas Two-Step, overcome your inhibitions on the Prickly Pear Challenge Course, take a mechanical bull riding workout class, embrace your intuition through a sunrise horseback ride, and more. At Travaasa Austin, you will never run out of things to do. <a href="/austin/austin-experiences/" class="more">Explore</a></p>
           </div>
         </div>
         <div class="slide">
-          <div class="slide_inner"><a href="/austin/travaasa-spa-overview/"><img data-original="/assets/images/exp_austin_spa_overview.jpg" src="/assets/images/global/placeholder.gif" alt=""></a>
+          <div class="slide_inner"><a href="/austin/travaasa-spa-overview/"><img data-original="/assets/images/exp_austin_spa_overview.jpg" src="/assets/images/global/placeholder.gif" alt="Texas Hill Country Resort Spa"></a>
             <h5>Travaasa Austin a Top 10 Destination Spa</h5>
             <p class="description">TripAdvisor named Travaasa Austin a Top 10 Destination Spa. Because a visit here goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. <a href="/austin/travaasa-spa-overview/" class="more">Explore</a></p>
           </div>
@@ -110,7 +110,7 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
       <a class="carousel_prev" id="story1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story1_next" href="#"><span><b>next</b></span></a> </div>
   </section>
   <section class="grey pad">
-    <h4>AS FEATURED IN</h4>  
+    <h4>AS FEATURED IN</h4>
     <div class="group">
     	<div class="col span_1_of_3 accolade">
         	<img class="lazy" data-original="/assets/images/logo-chicago-tribune.png" src="/assets/images/global/placeholder.gif" alt="Chicago Tribune">
@@ -128,7 +128,7 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
   </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

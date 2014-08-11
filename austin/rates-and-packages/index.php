@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Austin Room Rates & Packages | Hill Country Resort Spa Hotel</title>
+	<title>Austin All Inclusive Resort Rates & Packages | Travaasa Austin Texas</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Travaasa Austin provides you with different rates and all inclusive resort package selections so that you can customize your journey, and make the most of your time with us." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,15 +27,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
   <section style="padding-bottom:0;" class="intro pad clearfix notheater">
     <div class="col span_1_of_2">
-          <h1>Rates &amp; Packages</h1>
-          <p>Travaasa Experiential Resorts provide you with different rate and package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a style="float:left;" class="btn-list scroll" href="/preferences">GET ON THE LIST</a>
+          <h1>RATES & ALL INCLUSIVE PACKAGES</h1>
+          <p>Travaasa Experiential Resorts provide you with different rate and all inclusive resort package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a style="float:left;" class="btn-list scroll" href="/preferences">GET ON THE LIST</a>
             <!--<br><br> <a href="/jamandjive"><img class="videobox" width="350" src="/assets/images/jam-and-jive-teaser.jpg"></a></p>-->
     </div>
     <!--<div class="col span_1_of_2" style="margin:0">
@@ -44,7 +44,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
   <section class="pad group" style="padding-top:0;">
 
-    <table class="compare-table">  
+    <table class="compare-table">
       <tbody>
         <tr>
           <th class="compare-table-title">&nbsp;</th>
@@ -129,11 +129,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      </tbody>
     </table>
     <a id="policies"></a>
-        
+
     <br>
-    
+
 	<hr>
-    
+
     <br>
         <h5>Age Policy</h5>
         <p>Travaasa welcomes guests aged <strong>16 and up</strong>.</p>
@@ -153,19 +153,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <!--<li>Travaasa Austin is a non-tipping resort property.</li>-->
           <li>Travaasa Austin does not allow smoking on property.</li>
         </ul>
-        
+
           <p>CANCELLATION POLICY: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
-                
-    
+
+
     <p><strong><a href="/austin/directions/">GET DIRECTIONS TO TRAVAASA AUSTIN</a></strong></p>
-    
-    
-    
-    
+
+
+
+
   </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");
