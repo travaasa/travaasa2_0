@@ -92,7 +92,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_hiking.jpg" src="/assets/images/global/placeholder.gif" alt="" width="440" height="290">
             <h5>Hill Country Hike</h5>
-            <p class="description">Even if you don’t think you’re into hiking, you’ll change your mind after you explore our rich and extensive trail system. If you take a guided tour, you’ll learn about local flora, fauna and the history and ecology of the area. Hikes are open to all and accommodate a wide range of interests and abilities. Wear comfortable, supportive shoes and bring water. We have morning, evening and moonlight hikes.</p>
+            <p class="description">Even if you don’t think you’re into hiking, you’ll change your mind after you explore our rich and extensive trail system. If you take a guided tour, you’ll learn about local flora, fauna and the history and ecology of the area. Hikes are open to all and accommodate a wide range of interests and abilities. Wear comfortable, supportive shoes and bring water.</p>
           </div>
         </div>
         <div class="slide">
