@@ -54,9 +54,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>In the meantime, we’re transforming our entire Alamo Hacienda into a collection of private suites for our spa's home away from home. The living room style parlor will serve as the new spa front desk. You can look forward to fresh fruit in the morning, and tea and cookies in the afternoon.</p>
 
-<p>For a select number of transition days (September 7th–12th), there will be <u><strong>no spa facilities or services available</strong></u>.</p>
+<p>For a select number of transition days (September 7th–12th), there will be <u><strong>no spa facilities or services available</strong></u>. Our infinity edge pool will be open throughout the renovation.</p>
 
-<h4><strong>Our infinity edge pool will be open throughout the renovation.</strong></h4><br>
+<h4><strong>The new spa opens September 13th.</strong></h4><br>
 <div class="group">
                   <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-spa-reno-01.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/100-spa-reno-01.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Renovation"></a></div>
                   <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-spa-reno-02.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/100-spa-reno-02.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Renovation"></a></div>

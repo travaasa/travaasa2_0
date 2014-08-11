@@ -388,12 +388,12 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
         <div class="tab_data_inner">
 
             <a href="/spa-renovation"><img src="/assets/images/spa-reno-email.jpg".></a><br><br>
-            <h2>SPRING TREATMENT</h2>
+            <h2>SEASONAL TREATMENT</h2>
             <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
 
             <section class="spa_package">
                 <h4>HANA COCOMINT BODY TREATMENT &amp; MASSAGE</h4>
-                <p>Spring into Hana, Maui via Austin, TX...by starting with a gentle milk scrub and body wrap with an aloe vera and coconut facial mask, followed by a warm coconut, mint and cocoa butter massage with a coconut compress.</p>
+                <p>Experience a little Hana, Maui in Austin, TX...by starting with a gentle milk scrub and body wrap with an aloe vera and coconut facial mask, followed by a warm coconut, mint and cocoa butter massage with a coconut compress.</p>
                 <h5>80 minutes &#8211; $195 </h5>
               </section>
 
