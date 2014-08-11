@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Things to Do in Hana |What to Do on Maui |  Hana Cultural Center</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Steps outside Travaasa Hana are a wide variety of cultural and outdoor experiences. Things to do in Hana include the Hana Cultural Center, Wai'anapanapa State Park and Kahanu Garden." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,19 +27,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <h1>OFF-PROPERTY EXCURSIONS</h1>
+          <h1>THINGS TO DO IN HANA</h1>
   </section>
   <section class="grey pad group">
-  	
-    
-    
-					
+
+
+
+
 					<h2>Hana Town Center</h2>
 					<p>Get a glimpse of community life by taking a stroll through the Town Center and browse the shops. The bank, post office, Hana Ranch Restaurant, florist, Hana Ranch Store and several gift shops are located here. Town Center is just a five-minute walk from the hotel.</p>
 					<h2>Wai'anapanapa State Park</h2>
@@ -58,22 +58,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <source src="http://travaasa.com/lightbox/bamboo-forest.ogg" type="audio/ogg">
 <embed height="50" width="200" src="http://travaasa.com/lightbox/bamboo-forest.mp3">
 </audio></p>
-					
+
 					<h2>ONO Organic Farms</h2>
 					<p>This family-owned farm where everything is hand picked and certified organic is aptly named. ONO is the Hawaiian word for delicious. You'll tour this pure organic paradise and enjoy a tropical fruit tasting adventure by sampling 12 varieties of tropical fruit and ONO-grown coffee.</p>
 					<!--<h2>Maui Stables</h2>
 					<p>Go on a historical and cultural horseback ride through the ancient unspoiled landscape of Maui. This isn't your typical stable. Maui Stables is native owned and operated. The <em>Alaka'i</em> (guides) and <em>Kako'o</em> (apprentice) who accompany you can trace their family roots back hundreds of years. Each tour will begin with a <em>pule</em> (prayer) and <em>oli</em>, or call to our ancestors. Throughout the ride they'll share stories of their ancestors and the land.</p>-->
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
   </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

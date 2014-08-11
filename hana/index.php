@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Maui, Hawaii Inclusive Spa Resort & Hotel | Travaasa Hana | Activities</title>
+	<title>Maui Resort | Travaasa Experiential  Hana | Hawaii Resort & Spa</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Rediscover the magic of travel with Travaasa Hana, the most unique luxury  resort on Maui. All inclusive resort Guided activities include adventures, culinary and cultural odysseys, and fitness/yoga/wellness programs." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,7 +27,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?></div>
   </section>
   <section class="grey pad">
-    <h4>HIGHLIGHTS</h4>    
+    <h4>HIGHLIGHTS</h4>
     <div id="story1-wrapper" class="storyline_carousel">
       <div id="story1" class="storyline">
         <div class="slide">
@@ -100,7 +100,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a class="carousel_prev" id="story1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story1_next" href="#"><span><b>next</b></span></a> </div>
   </section>
   <section class="grey pad">
-    <h4>AS FEATURED IN</h4>  
+    <h4>AS FEATURED IN</h4>
     <div class="group">
     	<div class="col span_1_of_3 accolade">
         	<img class="lazy" data-original="/assets/images/logo-celebrated-living.png" src="/assets/images/global/placeholder.gif" alt="">
@@ -118,7 +118,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

@@ -1,6 +1,6 @@
 
 
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -8,10 +8,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Austin Wedding Venues | Austin Weddings | Outdoor Wedding Venues | Travaasa Austin</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Travaasa Austin's unique Hill Country location provides a stunning backdrop to any wedding ceremony. A variety of Austin wedding venues assures flexibility for outdoor weddings and wedding receptions." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -29,13 +29,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_flower_hand_logo.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>A DESTINATION UNLIKE ANY OTHER&nbsp;&nbsp;/&nbsp;&nbsp;<span>SPEND YOUR MOST MEMORABLE DAY AT TRAVAASA AUSTIN</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago-table.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>A PICTURESQUE CELEBRATION&nbsp;&nbsp;/&nbsp;&nbsp;<span>CREATE A MAGICAL EXPERIENCE YOUR GUESTS WON'T SOON FORGET</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago_chairs.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>BREATHTAKING BACKDROPS&nbsp;&nbsp;/&nbsp;&nbsp;<span>FIND INTIMACY AND ENCHANTMENT WITHIN OUR UNIQUE VENUES</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_flower_hand_logo.jpg" src="/assets/images/global/placeholder.gif" alt="Austin wedding venues"><div class="overlay-content-new"><h2>A DESTINATION UNLIKE ANY OTHER&nbsp;&nbsp;/&nbsp;&nbsp;<span>SPEND YOUR MOST MEMORABLE DAY AT TRAVAASA AUSTIN</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago-table.jpg" src="/assets/images/global/placeholder.gif" alt="Austin Weddings"><div class="overlay-content-new"><h2>A PICTURESQUE CELEBRATION&nbsp;&nbsp;/&nbsp;&nbsp;<span>CREATE A MAGICAL EXPERIENCE YOUR GUESTS WON'T SOON FORGET</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_solidago_chairs.jpg" src="/assets/images/global/placeholder.gif" alt="Outdoor wedding venues"><div class="overlay-content-new"><h2>BREATHTAKING BACKDROPS&nbsp;&nbsp;/&nbsp;&nbsp;<span>FIND INTIMACY AND ENCHANTMENT WITHIN OUR UNIQUE VENUES</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
@@ -45,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
-        <h1>WEDDINGS AT TRAVAASA AUSTIN</h1>
+        <h1>AUSTIN WEDDING VENUES AT TRAVAASA AUSTIN</h1>
             <p>Travaasa Austin's unique Hill Country location provides a stunning backdrop to any ceremony.  A variety of facilities assures flexibility in planning, so the memory of your nuptials won't soon be forgotten.</p>
             <p>Contact a member of our team to learn about packages and availability.</p>
 <div class="col span_1_of_2"><a href="/pdf/Travaasa-Austin-Weddings.pdf" class="btn fitwidth" target="_blank">Weddings Guide</a></div>
@@ -61,7 +61,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
   <section class="tabbed_container pad">
   	<div class="tabbed_list_nav">
-    	
+
     	<div class="tabbed_group">
         	<h5>Wedding Event Packages</h5>
             <ul class="tabbed_list">
@@ -77,7 +77,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li id="tab_5"><a href="#gallery">Gallery</a></li>
                 <!--<li id="tab_6"><a href="#catering_menu">Catering Menu</a></li>-->
                 <li id="tab_7"><a href="#policies">Policies &amp; Procedures</a></li>
-                
+
             </ul>
          </div>
     	<div class="tabbed_group">
@@ -477,12 +477,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ul>
     </div>
 </div>
-    
+
   </section>
   <p class="clear">&nbsp;</p>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");
