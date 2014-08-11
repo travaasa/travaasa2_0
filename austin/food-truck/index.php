@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Austin Food Trucks | Travaasa Best Austin Food Trucks</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="See our food truck schedule. The Travaasa Austin food truck is taking our fresh grown ingredients and bringing them to the city via one of the best food trucks in Austin." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,11 +27,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/food-truck-1600x640.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
+      <div class="slide"><img data-original="/assets/images/food-truck-1600x640.jpg" src="/assets/images/global/placeholder.gif" alt="Austin food truck from Travaasa"></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -41,7 +41,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
       <div class="col span_8_of_9">
           <h3>INTRODUCING THE TRAVAASA AUSTIN FOOD TRUCK</h3>
-          <p>We're taking our fresh, locally grown ingredients from The Farm at Travaasa Austin and bringing them to the city. The menu will have staple items and unique offerings, and will appear around the Austin community at farmer’s markets, events and more. <em>Scroll down to see the food truck schedule. Dates are subject to change.</em></p>
+          <p>We're taking our fresh, locally grown ingredients from The Farm at Travaasa Austin and bringing them to the city. The Travaasa Austin food truck menu will have staple items and unique offerings, and will appear around the Austin community at farmer’s markets, events and more. <em>Scroll down to see the food truck schedule. Dates are subject to change.</em></p>
           <div class="col span_1_of_2">
             <iframe src="https://www.google.com/calendar/embed?title=Travaasa%20Food%20Truck&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=travaasa.com_v9tpied0pg5te822676k68itak%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FChicago" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
           </div>
@@ -72,7 +72,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>-->
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

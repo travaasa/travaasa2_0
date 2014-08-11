@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Austin Photo Images Gallery | Hill Country Resort Spa Hotel</title>
+	<title>Austin Texas Luxury Resort | Travaasa Austin Photos</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Experience Austin and the Texas Hill Country at Travaasa Austin. Visit our photo gallery to see the unique experiences that can be discovered here." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,40 +27,40 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
-<section class="grey pad">  
+<section class="grey pad">
   	<h4>ACCOMMODATIONS</h4>
     <div id="gallery1-wrapper" class="gallery section">
         <div class="group">
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img class="lazy" data-original="/assets/images/gallery/austin/canyon-signature-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Canyon View Room"></a></div>
-                
+
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/canyon-single-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img class="lazy" data-original="/assets/images/gallery/austin/canyon-single-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Canyon View Room"></a></div>
-            
+
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/canyon-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img class="lazy" data-original="/assets/images/gallery/austin/canyon-double-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Canyon View Room"></a></div>
-                
-            <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/1433-room-balcony.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img class="lazy" data-original="/assets/images/gallery/austin/100-room-balcony.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Canyon View Room"></a></div>	
-                
+
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/1433-room-balcony.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img class="lazy" data-original="/assets/images/gallery/austin/100-room-balcony.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Canyon View Room"></a></div>
+
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/canyon-balcony-view-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Balcony View"><img class="lazy" data-original="/assets/images/gallery/austin/canyon-balcony-view-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Canyon View Balcony View"></a></div>
         </div>
-        
+
         <div class="group">
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"><img class="lazy" data-original="/assets/images/gallery/austin/trail-single-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Trail View Room"></a></div>
-        
+
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/trail-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"><img class="lazy" data-original="/assets/images/gallery/austin/trail-double-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Trail View Room"></a></div>
-            
-            <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Patio"><img class="lazy" data-original="/assets/images/gallery/austin/nature-double-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Trail View Room"></a>	</div>	
-            
+
+            <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Patio"><img class="lazy" data-original="/assets/images/gallery/austin/nature-double-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Trail View Room"></a>	</div>
+
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/bed-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Organic Cotton Sheets"><img class="lazy" data-original="/assets/images/gallery/austin/bed-double-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Organic Cotton Sheets"></a></div>
-            
+
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/1229-austin-scenic-view.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin on the Balcones Canyonlands Preserve"><img class="lazy" data-original="/assets/images/gallery/austin/100-austin-scenic-view.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Balcones Canyonlands Preserve"></a></div>
         </div>
       </div>
 </section>
-<section class="grey pad">  
+<section class="grey pad">
   	<h4>THE SPA AT TRAVAASA</h4>
     <div id="gallery2-wrapper" class="gallery section">
         <div class="group">
@@ -72,7 +72,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            </div>
        </div>
 </section>
-<section class="grey pad">  
+<section class="grey pad">
   	<h4>GROUNDS</h4>
     <div id="gallery3-wrapper" class="gallery section">
     	<div class="group">
@@ -91,7 +91,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div></div>
 
 </section>
-<section class="grey pad">  
+<section class="grey pad">
   	<h4>EXPERIENCES</h4>
     <div id="gallery4-wrapper" class="gallery section">
     	<div class="group">
@@ -110,7 +110,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </div>
      </div>
 </section>
-<section class="grey pad">  
+<section class="grey pad">
     <h4>TRAVAASA ADS</h4>
     <div id="gallery5-wrapper" class="gallery section">
       <div class="group">
@@ -125,7 +125,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

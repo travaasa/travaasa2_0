@@ -1,6 +1,6 @@
 
 
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -8,10 +8,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Austin Resort Spa | Austin Day Spa at Travaasa | Texas Spas</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="A Top 10 Destination Spa - The Spa at Travaasa Austin provides a truly unforgettable and rejuvenating resort spa or day spa experience in Austin Texas." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -29,15 +29,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2-organic.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2><span>THE SPA AT TRAVAASA AUSTIN IS PROUD TO BE RECOGNIZED BY </span>ORGANIC SPA MAGAZINE</h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2-organic.jpg" src="/assets/images/global/placeholder.gif" alt="Austin Day Spa at Travaasa"><div class="overlay-content-new"><h2><span>THE SPA AT TRAVAASA AUSTIN IS PROUD TO BE RECOGNIZED BY </span>ORGANIC SPA MAGAZINE</h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>PERFECT BALANCE FACIAL / <span>ORGANIC SAGE OIL AND GRAPE SEEDS RESTORE SKIN'S HARMONY.</span></h2></div></div>-->
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ULTIMATE BLISS FULL-DAY PACKAGE / <span>EXPERIENCE THE BLISS AND RELAXATION OF BEING NURTURED FROM HEAD TO TOE.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>WESTERN SKY ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>ORGANIC ULTIMATE HYDRATION FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby.jpg" src="/assets/images/global/placeholder.gif" alt="Austin Resort Spa"><div class="overlay-content-new"><h2>ULTIMATE BLISS FULL-DAY PACKAGE / <span>EXPERIENCE THE BLISS AND RELAXATION OF BEING NURTURED FROM HEAD TO TOE.</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt="Unique Texas Spa"><div class="overlay-content-new"><h2>WESTERN SKY ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial.jpg" src="/assets/images/global/placeholder.gif" alt="Spa Resort Austin"><div class="overlay-content-new"><h2>ORGANIC ULTIMATE HYDRATION FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>THE SPA AT TRAVAASA AUSTIN</h1>
-          <p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Featuring 11 treatment rooms, including a couple's room, as well as a hot tub and dry sauna, the spa sits adjacent to the property's saline infinity pool, which overlooks the serene and scenic hill country landscape.<br><br>
+          <p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Featuring 11 treatment rooms, including a couple's room, as well as a hot tub and dry sauna, our unique Texas spa sits adjacent to the property's saline infinity pool, which overlooks the serene and scenic hill country landscape.<br><br>
 We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p>
 <div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Download Spa Guide</a></div>
 <div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa-Mens-Guide.pdf" class="btn fitwidth" target="_blank">Download Men's Spa Guide</a></div>
@@ -63,7 +63,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
   </section>
   <section class="tabbed_container pad">
   	<div class="tabbed_list_nav">
-    	
+
     	<div class="tabbed_group">
         	<h5>For guests staying at Travaasa Austin</h5>
             <ul class="tabbed_list">
@@ -80,7 +80,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     	<div class="tabbed_group">
         	<h5>For off-property guests</h5>
             <ul class="tabbed_list">
-                <li id="tab_9"><a href="#day_spa_packages">Day Spa Packages</a></li>
+                <li id="tab_9"><a href="#day_spa_packages">Austin Day Spa Packages</a></li>
             </ul>
          </div>
     	<div class="tabbed_group">
@@ -211,19 +211,19 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     <div id="hands_feet_scalp" class="tab_data">
         <div class="tab_data_inner">
     		<p>Your spa treatment wouldn't be complete without taking care of those two hardworking parts of our body: the hands and feet. Trust us, they will thank you for the bliss they feel after any one of our "only at Travaasa" treatments.</p>
-        
+
             <section class="spa_package">
                 <h4>PEPPERMINT ZENERGY FOOT CARE</h4>
     			<p>This treatment starts with exfoliation and then smooths and softens with organic sugar and grapefruit, while the power of peppermint energizes and revitalizes.</p>
                 <h5>25 minutes &#8211; $65</h5>
 			</section>
-            
+
             <section class="spa_package">
                 <h4>ORGANIC COFFEE FOOT RELIEF</h4>
     			<p>Herbs and homeopathics, relied on for centuries to detoxify and relieve acute and chronic pain, are used in this treatment to soothe overworked feet. Perfect if you are an active and sports-minded individual.</p>
                 <h5>25 minutes &#8211; $65</h5>
 			</section>
-            
+
             <section class="spa_package">
                 <h4>LAVENDER VANILLA HAND TREATMENT</h4>
     			<p>We cleanse, exfoliate and hydrate your hands with this soothing and healing lavender treatment that smells as good as it feels.</p>
@@ -233,8 +233,8 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     </div>
     <div id="massage_therapy" class="tab_data">
         <div class="tab_data_inner">
-        
-        
+
+
         	<p>Our massages run the gamut from energizing to deeply calming. No matter what your body craves, we have a special touch just for you.</p>
 
             <section class="spa_package">
@@ -251,7 +251,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
 			</section>
             <section class="spa_package">
                 <h4>HILL COUNTRY HONEY BEE MASSAGE AND BODY TREATMENT</h4>
-    			<p>All stress and tension will melt away with this blissful organic massage and body treatment. Your skin will be nourished, moisturized and exfoliated with organic honey, ginger and rosemary. Tension, sore muscles and stress will float away with our soothing bee propolis compress, followed by a myofacial massage using warm organic honey and ginger massage oil. A nourishing facial mask of royal jelly, bee propolis, jojoba and avacado oils completes this soothing and highly effective treatment.</p> 
+    			<p>All stress and tension will melt away with this blissful organic massage and body treatment. Your skin will be nourished, moisturized and exfoliated with organic honey, ginger and rosemary. Tension, sore muscles and stress will float away with our soothing bee propolis compress, followed by a myofacial massage using warm organic honey and ginger massage oil. A nourishing facial mask of royal jelly, bee propolis, jojoba and avacado oils completes this soothing and highly effective treatment.</p>
             	<p class="description">A portion of the proceeds from this treatment will be donated to the Texas Beekeepers Association.</p>
                 <h5>80 minutes &#8211; $195</h5>
 			</section>
@@ -300,9 +300,9 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     			<p>A massage that reduces fluid retention, increases muscle tone and soothes a sore back and neck. It's perfect for all stages of pregnancy, even the last month.</p>
                 <h5>50 or 80 minutes &#8211;  $125/$170</h5>
 			</section>
-            
+
             <h2>Signature Massages</h2>
-            
+
             <section class="spa_package">
                 <h4>ON THE ROAD AGAIN MASSAGE</h4>
     			<p>Inspired by Willie Nelson, this custom massage uses hemp oil with essential oils of orange and patchouli to soothe the road-weary soul.</p>
@@ -367,8 +367,8 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h4>CHEST</h4>
                 <h5>60 minutes &#8211;  $95</h5>
 			</section>
-            
-            
+
+
         	<h2>Lash &amp; Brow Tinting</h2>
             <section class="spa_package">
                 <h4>LASH DYE</h4>
@@ -388,12 +388,12 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
         <div class="tab_data_inner">
 
             <a href="/spa-renovation"><img src="/assets/images/spa-reno-email.jpg".></a><br><br>
-            <h2>SPRING TREATMENT</h2>
+            <h2>SEASONAL TREATMENT</h2>
             <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
 
             <section class="spa_package">
                 <h4>HANA COCOMINT BODY TREATMENT &amp; MASSAGE</h4>
-                <p>Spring into Hana, Maui via Austin, TX...by starting with a gentle milk scrub and body wrap with an aloe vera and coconut facial mask, followed by a warm coconut, mint and cocoa butter massage with a coconut compress.</p>
+                <p>Experience a little Hana, Maui in Austin, TX...by starting with a gentle milk scrub and body wrap with an aloe vera and coconut facial mask, followed by a warm coconut, mint and cocoa butter massage with a coconut compress.</p>
                 <h5>80 minutes &#8211; $195 </h5>
               </section>
 
@@ -438,7 +438,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     <div id="day_spa_packages" class="tab_data">
         <div class="tab_data_inner">
             <h6>Not staying the night? When available, these packages allow you to experience Travaasa for the day.</h6>
-            
+
             <section class="spa_package">
                 <h4>FULL DAY ESCAPE</h4>
                 <p>Discover all that Travaasa Austin has to offer through our experiential day package. It's our version of Choose Your Own Adventure – get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to the challenge course, and recharge with a healthy lunch. Offered from 9:00am until 5:00pm. Includes all on-property activities; use of the infinity pool; spa locker rooms; whirlpool; dry sauna; and one $125  spa credit. All gratuities are included; tax is additional.</p>
@@ -473,13 +473,13 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>Clean, shape and buff.</p>
                 <h5>25 minutes &#8211;  $35</h5>
             </section>
-            
+
             <section class="spa_package">
                 <h4>SNAP</h4>
                 <p>Clean, shape, light massage and polish.</p>
                 <h5>25 minutes &#8211; $40</h5>
             </section>
-            
+
             <section class="spa_package">
                 <h4>ORGANIC LAVENDER & VANILLA MANICURE</h4>
                 <p>Exfoliate and hydrate with organic lavender and vanilla<!--, followed by warm stone massage-->. Polish or buff.</p>
@@ -564,7 +564,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     </div>
     <div id="reservation_information" class="tab_data">
         <div class="tab_data_inner">
-        	<p><strong>Reservations &amp; Spa Information</strong></p>     
+        	<p><strong>Reservations &amp; Spa Information</strong></p>
 <p>To make reservations for a spa treatment or spa package, plan a spa retreat, or inquire about a customized wellness program,<br /> <strong>please call toll-free at <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-877-261-7792</noscript></p>
 <p>We encourage you to schedule your appointment in advance to ensure availability of treatments during your visit. We want your spa experience to be stress-free and relaxing. To help make your experience as enjoyable as possible, please consider the following before you arrive.</p>
 <ul>
@@ -582,7 +582,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
   <p class="clear">&nbsp;</p>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Hana Maui Photo Images Gallery | Maui Hawaii Resort Spa Hotel</title>
+	<title>Travaasa Hana Maui Photos | Maui Hawaii All Inclusive Resort & Spa</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Don't just take our word for it - Maui travel photos reveal the journey of the Travaasa Hana Resort all inclusive experiences." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,12 +27,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
-  <section class="grey pad">  
+  <section class="grey pad">
   	<h4>GROUNDS</h4>
     <div id="gallery1-wrapper" class="gallery section">
     	<div class="group">
@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </div>
     </div>
   </section>
-  <section class="grey pad">  
+  <section class="grey pad">
   	<h4>ACCOMMODATIONS</h4>
     <div id="gallery2-wrapper" class="gallery section">
     	<div class="group">
@@ -86,7 +86,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </div>
     </div>
   </section>
-  <section class="grey pad">  
+  <section class="grey pad">
   	<h4>ACTIVITIES</h4>
     <div id="gallery3-wrapper" class="gallery section">
     	<div class="group">
@@ -105,8 +105,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-coastal-stretch.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Coastal Stretch"><img class="lazy" data-original="/assets/images/gallery/hana/1433-coastal-stretch-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
          </div>
     </div>
-  </section>  
-  <section class="grey pad">  
+  </section>
+  <section class="grey pad">
   	<h4>THE SPA AT TRAVAASA</h4>
     <div id="gallery4-wrapper" class="gallery section">
     	<div class="group">
@@ -118,7 +118,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </div>
     </div>
   </section>
-<section class="grey pad">  
+<section class="grey pad">
     <h4>TRAVAASA ADS</h4>
     <div id="gallery5-wrapper" class="gallery section">
       <div class="group">
@@ -132,7 +132,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

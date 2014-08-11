@@ -1,4 +1,4 @@
-<?php 
+<?php
    $path = $_SERVER['DOCUMENT_ROOT'];
    include_once($path."/Library/Travaasa_Common.php");
 ?>
@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts - Rediscover the Magic of Travel.</title>
+	<title>Austin Texas Resort & Spa | Travaasa Austin Directions</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
-	<?php 
+	<meta name="description" content="Directions to Travaasa Austin, an experiential resort in the Texas Hill Country offering a variety of unique travel experiences." />
+	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
@@ -27,7 +27,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MW4X3M');</script>
 <!-- End Google Tag Manager -->
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
@@ -78,7 +78,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</ol>
     </section>
   <section class="grey pad group">
-    
+
     <h2>From Houston</h2>
     <ol>
 					<li>Merge onto I–10 W
@@ -118,12 +118,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<strong>go 2.0 miles</strong></li>
 					<li>Travaasa Austin will be on the right</li>
 					</ol>
-    
-    
+
+
   </section>
 </article>
 </section>
-<?php 
+<?php
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");
