@@ -12,3 +12,4 @@ holidayproblems/*
 /nbproject/
 .gitconfig
 .ssh
+/sftp-config.json
