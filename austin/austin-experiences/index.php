@@ -46,15 +46,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>
+  <section class="grey pad storylines experience-tiles austin">
+    <div class="group">
+      <span>
+        <img data-original="/assets/images/experience/title-bg.gif" src="/assets/images/experience/title-bg.gif" alt="">
+        <h5>AUGUST <br>FEATURED <br>EXPERIENCES</h5>
+      </span>
+      <a href="/austin/austin-experiences/adventure">
+        <img data-original="/assets/images/experience/tmb-au-adventure.jpg" src="/assets/images/experience/tmb-au-adventure.jpg" alt="">
+        <h5>ADVENTURE</h5>
+      </a>
+      <a href="/austin/austin-experiences/culinary">
+        <img data-original="/assets/images/experience/tmb-au-culinary.jpg" src="/assets/images/experience/tmb-au-culinary.jpg" alt="">
+        <h5>CULINARY</h5>
+      </a>
+    </div>
+    <div class="group">
+      <a href="/austin/austin-experiences/culture">
+        <img data-original="/assets/images/experience/tmb-au-culture.jpg" src="/assets/images/experience/tmb-au-culture.jpg" alt="">
+        <h5>CULTURE</h5>
+      </a>
+      <a href="/austin/austin-experiences/fitness">
+        <img data-original="/assets/images/experience/tmb-au-fitness.jpg" src="/assets/images/experience/tmb-au-fitness.jpg" alt="">
+        <h5>FITNESS</h5>
+      </a>
+      <a href="/austin/austin-experiences/spa-wellness">
+        <img data-original="/assets/images/experience/tmb-au-spa.jpg" src="/assets/images/experience/tmb-au-spa.jpg" alt="">
+        <h5>SPA & <br>WELLNESS</h5>
+      </a>
+    </div>
+  </section>
+<!-- 
   <section class="grey pad storylines">
-  	<a id="adventure"></a>
+    <a id="adventure"></a>
     <h4 class="experience-title">ADVENTURE</h4>
     <ul class="experience-nav">
-    	<li><a href="#adventure" class="scroll on">ADVENTURE</a></li>
-    	<li><a href="#culinary" class="scroll">CULINARY</a></li>
-    	<li><a href="#culture" class="scroll">CULTURE</a></li>
-    	<li><a href="#fitness" class="scroll">FITNESS</a></li>
-    	<li><a href="#spa" class="scroll">SPA &amp; WELLNESS</a></li>
+      <li><a href="#adventure" class="scroll on">ADVENTURE</a></li>
+      <li><a href="#culinary" class="scroll">CULINARY</a></li>
+      <li><a href="#culture" class="scroll">CULTURE</a></li>
+      <li><a href="#fitness" class="scroll">FITNESS</a></li>
+      <li><a href="#spa" class="scroll">SPA &amp; WELLNESS</a></li>
     </ul>
     <div id="story1-wrapper" class="storyline_carousel">
       <div id="story1" class="storyline">
@@ -111,14 +142,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a class="carousel_prev" id="story1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story1_next" href="#"><span><b>next</b></span></a> </div>
   </section>
   <section class="grey pad storylines">
-  	<a id="culinary"></a>
+    <a id="culinary"></a>
     <h4 class="experience-title">CULINARY</h4>
     <ul class="experience-nav">
-    	<li><a href="#adventure" class="scroll">ADVENTURE</a></li>
-    	<li><a href="#culinary" class="scroll on">CULINARY</a></li>
-    	<li><a href="#culture" class="scroll">CULTURE</a></li>
-    	<li><a href="#fitness" class="scroll">FITNESS</a></li>
-    	<li><a href="#spa" class="scroll">SPA &amp; WELLNESS</a></li>
+      <li><a href="#adventure" class="scroll">ADVENTURE</a></li>
+      <li><a href="#culinary" class="scroll on">CULINARY</a></li>
+      <li><a href="#culture" class="scroll">CULTURE</a></li>
+      <li><a href="#fitness" class="scroll">FITNESS</a></li>
+      <li><a href="#spa" class="scroll">SPA &amp; WELLNESS</a></li>
     </ul>
     <div id="story2-wrapper" class="storyline_carousel">
       <div id="story2" class="storyline">
@@ -144,21 +175,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_culinary_tastings.jpg" src="/assets/images/global/placeholder.gif" alt="Austin wine tasting" width="440" height="290">
             <h5>Wine Tasting</h5>
             <p class="description">Sip. Surrender. Savor. Join us for a class that “undaunts” and underscores all the important things you need to know and understand about enjoying wine. First of all, wine is not just about knowing what you like. There is a difference between objective quality and subjective enjoyment. Let yourself surrender to different tastes you may never get to experience again.</p>
-            	<p class="disclaimer">*Additional fee applies.</p>
+              <p class="disclaimer">*Additional fee applies.</p>
           </div>
         </div>
       </div>
       <a class="carousel_prev" id="story2_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story2_next" href="#"><span><b>next</b></span></a> </div>
   </section>
   <section class="grey pad storylines">
-  	<a id="culture"></a>
+    <a id="culture"></a>
     <h4 class="experience-title">CULTURE</h4>
     <ul class="experience-nav">
-    	<li><a href="#adventure" class="scroll">ADVENTURE</a></li>
-    	<li><a href="#culinary" class="scroll">CULINARY</a></li>
-    	<li><a href="#culture" class="scroll on">CULTURE</a></li>
-    	<li><a href="#fitness" class="scroll">FITNESS</a></li>
-    	<li><a href="#spa" class="scroll">SPA &amp; WELLNESS</a></li>
+      <li><a href="#adventure" class="scroll">ADVENTURE</a></li>
+      <li><a href="#culinary" class="scroll">CULINARY</a></li>
+      <li><a href="#culture" class="scroll on">CULTURE</a></li>
+      <li><a href="#fitness" class="scroll">FITNESS</a></li>
+      <li><a href="#spa" class="scroll">SPA &amp; WELLNESS</a></li>
     </ul>
     <div id="story5-wrapper" class="storyline_carousel">
       <div id="story5" class="storyline">
@@ -202,14 +233,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a class="carousel_prev" id="story5_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story5_next" href="#"><span><b>next</b></span></a> </div>
   </section>
   <section class="grey pad storylines">
-  	<a id="fitness"></a>
+    <a id="fitness"></a>
     <h4 class="experience-title">FITNESS</h4>
     <ul class="experience-nav">
-    	<li><a href="#adventure" class="scroll">ADVENTURE</a></li>
-    	<li><a href="#culinary" class="scroll">CULINARY</a></li>
-    	<li><a href="#culture" class="scroll">CULTURE</a></li>
-    	<li><a href="#fitness" class="scroll on">FITNESS</a></li>
-    	<li><a href="#spa" class="scroll">SPA &amp; WELLNESS</a></li>
+      <li><a href="#adventure" class="scroll">ADVENTURE</a></li>
+      <li><a href="#culinary" class="scroll">CULINARY</a></li>
+      <li><a href="#culture" class="scroll">CULTURE</a></li>
+      <li><a href="#fitness" class="scroll on">FITNESS</a></li>
+      <li><a href="#spa" class="scroll">SPA &amp; WELLNESS</a></li>
     </ul>
     <div id="story3-wrapper" class="storyline_carousel">
       <div id="story3" class="storyline">
@@ -265,14 +296,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a class="carousel_prev" id="story3_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story3_next" href="#"><span><b>next</b></span></a> </div>
   </section>
   <section class="grey pad storylines">
-  	<a id="spa"></a>
+    <a id="spa"></a>
     <h4 class="experience-title">SPA &amp; WELLNESS</h4>
     <ul class="experience-nav">
-    	<li><a href="#adventure" class="scroll">ADVENTURE</a></li>
-    	<li><a href="#culinary" class="scroll">CULINARY</a></li>
-    	<li><a href="#culture" class="scroll">CULTURE</a></li>
-    	<li><a href="#fitness" class="scroll">FITNESS</a></li>
-    	<li><a href="#spa" class="scroll on">SPA &amp; WELLNESS</a></li>
+      <li><a href="#adventure" class="scroll">ADVENTURE</a></li>
+      <li><a href="#culinary" class="scroll">CULINARY</a></li>
+      <li><a href="#culture" class="scroll">CULTURE</a></li>
+      <li><a href="#fitness" class="scroll">FITNESS</a></li>
+      <li><a href="#spa" class="scroll on">SPA &amp; WELLNESS</a></li>
     </ul>
     <div id="story4-wrapper" class="storyline_carousel">
       <div id="story4" class="storyline">
@@ -296,7 +327,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
       </div>
       <a class="carousel_prev" id="story4_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story4_next" href="#"><span><b>next</b></span></a> </div>
-  </section>
+  </section> -->
 </article>
 </section>
 <?php
