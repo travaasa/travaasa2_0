@@ -38,48 +38,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>Austin Adventure Experiences</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At necessitatibus odit, porro amet! Tenetur earum mollitia, sapiente aut facilis porro dolorum, dignissimos vitae ducimus obcaecati amet maiores minima non illum!</p>
       </div>
-      <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>
   <section class="group grey pad storylines experience-inner-tiles austin">
     <article>
-      <img data-original="/assets/images/exp_austin_adventure_challenge.jpg" src="/assets/images/exp_austin_adventure_challenge.jpg" alt="Austin zip line" width="440" height="290" style="height: 223px;">
+      <img data-original="/assets/images/exp_austin_adventure_challenge.jpg" src="/assets/images/exp_austin_adventure_challenge.jpg" alt="Austin zip line" >
       <h5>Prickly Pear Challenge Course</h5>
       <p class="description">Ever picked a prickly pear? If you have, you know the importance of each foot and hand placement as you find your way between the cactus needles. The same focus on movement is required as you navigate the space above the trees on our challenge course. Challenge your self-imposed limitations and overcome your fears as you navigate your way through our state-of-the-art course, which was designed in partnership with Outward Bound Professional and incorporates vertical climbing elements for a wide range of physical ability. At 35 feet in the air, you’ll discover your inner strength as you walk across the cables and telephone poles of our high ropes course. Begin at the Cob Web, then progress over Raider Bridge and through the Flying V to navigate Double Trouble. The linear progression of the course culminates with a fantastic reward: a 250-foot zipline flight soaring over the tree tops of Texas Hill Country.</p>
     </article>
     <article>
-      <img data-original="/assets/images/exp_austin_adventure_trail-ride.jpg" src="/assets/images/exp_austin_adventure_trail-ride.jpg" alt="Austin horseback riding" width="440" height="290" style="height: 223px;">
+      <img data-original="/assets/images/exp_austin_adventure_trail-ride.jpg" src="/assets/images/exp_austin_adventure_trail-ride.jpg" alt="Austin horseback riding" >
       <h5>Horseback Riding</h5>
       <p class="description">Unleash your inner cowboy with a horseback ride along the scenic trails surrounding our Austin property. Whether you’re a first-time rider or experienced with horses, our expert cowboys will teach you how to work in harmony with your horse for an unforgettable experience. Before you know it, you’ll be guiding your horse over creeks, along mountain trails and through switchbacks during this gentle horseback ride through Austin’s hills. Riding properly requires constant physical activity and a focus on core strength, all the while creating an unspoken bond between yourself and your horse. No previous horse experience is required to enjoy this intimate ride through the woodlands.</p>
     </article>
     <article>
-      <img data-original="/assets/images/exp_austin_adventure_equine.jpg" src="/assets/images/exp_austin_adventure_equine.jpg" alt="Texas hill country horseback riding" width="440" height="290" style="height: 223px;">
+      <img data-original="/assets/images/exp_austin_adventure_equine.jpg" src="/assets/images/exp_austin_adventure_equine.jpg" alt="Texas hill country horseback riding" >
       <h5>Equine Encounters</h5>
       <p class="description">Horses are intelligent, perceptive and intuitive creatures, and this intimate equine encounter offers you a chance to develop your self-awareness and leadership skills as you connect with our horses through body language. Our expert equine team will guide you on a journey of heightened personal understanding as you learn to lead and project your intentions while working with your horse. This experience that will teach you how to establish communication with another being through respect, sensitivity and awareness. As you connect with your horse on an emotional level, you might be surprised to see just how much you can communicate without ever saying a word. No previous horse experience is needed.</p>
     </article>
     <article>
-      <img data-original="/assets/images/exp_austin_adventure_bike-pump.jpg" src="/assets/images/exp_austin_adventure_bike-pump.jpg" alt="Bike pump track" width="440" height="290" style="height: 223px;">
+      <img data-original="/assets/images/exp_austin_adventure_bike-pump.jpg" src="/assets/images/exp_austin_adventure_bike-pump.jpg" alt="Bike pump track" >
       <h5>Bike Pump Track</h5>
       <p class="description">Built for all skill levels — from limited experience to advanced bike riders — the pump bike track offers something for everyone. Tap into the days of your childhood as you bike around this dirt track, using your body weight to make your way around the track without pedaling. Focus on the fundamentals and have fun challenging yourself to get all the way around without having to pedal, or take it to the next level by riding high and fast into the berms. Either way, you’ll take your appreciation for bike riding to the next level as you focus on mastering your technique. For the really adventurous and skilled rider, see how high you can go on the wall. No matter your skill level, you're sure to get a full-body workout while honing your ability to focus and break out of your shell.</p>
     </article>
     <article>
-      <img data-original="/assets/images/exp_austin_adventure_archery.jpg" src="/assets/images/global/placeholder.gif" alt="Austin archery" width="440" height="290" style="height: 223px;">
+      <img data-original="/assets/images/exp_austin_adventure_archery.jpg" src="/assets/images/global/placeholder.gif" alt="Austin archery" >
       <h5>Archery</h5>
       <p class="description">Archery is about much more than shooting arrows — this is a sport that requires training your mind as much as your body. As you draw your bow and aim your arrow, you’ll practice putting your mind and body in perfect harmony to hit your target. Learn the fundamentals that create the foundation of archery while boosting your mental attention and connecting your breath to physical performance. Experience techniques to develop your focus, patience, flexibility, concentration, and attention skills and understand why great archers continually exercise these simple concepts to heighten all aspects of their lives.</p>
     </article>
     <article>
-      <img data-original="/assets/images/exp_austin_adventure_hiking.jpg" src="/assets/images/global/placeholder.gif" alt="Places to hike in Austin" width="440" height="290" style="height: 223px;">
+      <img data-original="/assets/images/exp_austin_adventure_hiking.jpg" src="/assets/images/global/placeholder.gif" alt="Places to hike in Austin" >
       <h5>Hill Country Hike</h5>
       <p class="description">The cedars and oaks of Texas Hill Country are best experienced up close, and you’ll have a front row seat to Austin’s spectacular natural beauty during this Hill Country Hike. Even if you don’t think you’re into hiking, you’ll change your mind after you explore our rich and extensive trail system. This guided hike takes you through the hills, over a creek and into the untouched wilderness of the preserve surrounding Travaasa Austin. Along the way, you’ll learn about local flora, fauna and the history and ecology of the area. Hikes are open to all and accommodate a wide range of interests and abilities. Wear comfortable, supportive shoes and bring water.</p>
     </article>
     <article>
-      <img data-original="/assets/images/exp_austin_adventure_hiking_2.jpg" src="/assets/images/global/placeholder.gif" alt="Hiking trails Austin" width="440" height="290" style="height: 223px;">
+      <img data-original="/assets/images/exp_austin_adventure_hiking_2.jpg" src="/assets/images/global/placeholder.gif" alt="Hiking trails Austin" >
       <h5>Sunrise Hike</h5>
       <p class="description">There's something magical about starting your day with a sunrise hike, especially when you have the wooded hills of Austin at your feet. With your body refreshed from a restful night’s sleep and your mind open to experiencing new and vital things, join us to feel the fresh morning air on your face and watch the sun rise over the breathtaking landscape of the Balcones Canyonlands and waterscape of Lake Travis. Total immersion in Hill Country’s natural beauty combined with a mild workout set the tone for a transformative day at Travaasa Austin.</p>
     </article>
     <article>
-      <img data-original="/assets/images/exp_austin_adventure_geocaching.jpg" src="/assets/images/global/placeholder.gif" alt="Geocaching Austin" width="440" height="290" style="height: 223px;">
+      <img data-original="/assets/images/exp_austin_adventure_geocaching.jpg" src="/assets/images/global/placeholder.gif" alt="Geocaching Austin" >
       <h5>Geocaching Adventure</h5>
       <p class="description">Geocaching, an outdoor sporting activity often described as a "game of high-tech hide and seek," involves the use of a Global Positioning System (GPS) receiver or other navigational technique to hide and search out containers, called "geocaches," anywhere in the world. And in your case, you’ll have the entire spectacular Travaasa property to explore while discovering and hiding your own caches. See the trails in a new light as you search for these hidden geocaches, many of which feature Austin themes. Inside, you’ll find a log to sign to mark your accomplishment — and there may just be a few tiny rewards waiting for you in the geocaches, too.</p>
     </article>

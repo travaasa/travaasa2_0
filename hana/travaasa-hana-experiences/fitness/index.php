@@ -38,7 +38,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <section class="intro pad clearfix">
       <div class="col span_6_of_9">
         <h1>Hana Fitness Experiences</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident beatae repellat inventore necessitatibus quisquam, aspernatur a sint delectus rerum, vero, porro recusandae sit distinctio quos atque. Expedita delectus quidem saepe.</p>
       </div>
     </section>
 

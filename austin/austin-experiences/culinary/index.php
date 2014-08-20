@@ -38,9 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>Austin Culinary Experiences</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At necessitatibus odit, porro amet! Tenetur earum mollitia, sapiente aut facilis porro dolorum, dignissimos vitae ducimus obcaecati amet maiores minima non illum!</p>
       </div>
-      <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>
   <section class="group grey pad storylines experience-inner-tiles austin">
     <article>
