@@ -51,32 +51,32 @@ And one way to do this is through our diverse course offerings we call "Travaasa
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?></div>
   </section>
 
-  <section class="grey pad storylines experience-tiles austin">
+  <section class="grey pad storylines experience-tiles hana">
     <div class="group">
       <span>
         <img data-original="/assets/images/experience/title-bg.gif" src="/assets/images/experience/title-bg.gif" alt="">
         <h5>AUGUST <br>FEATURED <br>EXPERIENCES</h5>
       </span>
-      <a href="/austin/austin-experiences/adventure">
-        <img data-original="/assets/images/experience/tmb-au-adventure.jpg" src="/assets/images/experience/tmb-au-adventure.jpg" alt="">
+      <a href="/hana/travaasa-hana-experiences/adventure">
+        <img data-original="/assets/images/experience/tmb-adventure.jpg" src="/assets/images/experience/tmb-adventure.jpg" alt="">
         <h5>ADVENTURE</h5>
       </a>
-      <a href="/austin/austin-experiences/culinary">
-        <img data-original="/assets/images/experience/tmb-au-culinary.jpg" src="/assets/images/experience/tmb-au-culinary.jpg" alt="">
+      <a href="/hana/travaasa-hana-experiences/culinary">
+        <img data-original="/assets/images/experience/tmb-culinary.jpg" src="/assets/images/experience/tmb-culinary.jpg" alt="">
         <h5>CULINARY</h5>
       </a>
     </div>
     <div class="group">
-      <a href="/austin/austin-experiences/culture">
-        <img data-original="/assets/images/experience/tmb-au-culture.jpg" src="/assets/images/experience/tmb-au-culture.jpg" alt="">
+      <a href="/hana/travaasa-hana-experiences/culture">
+        <img data-original="/assets/images/experience/tmb-culture.jpg" src="/assets/images/experience/tmb-culture.jpg" alt="">
         <h5>CULTURE</h5>
       </a>
-      <a href="/austin/austin-experiences/fitness">
-        <img data-original="/assets/images/experience/tmb-au-fitness.jpg" src="/assets/images/experience/tmb-au-fitness.jpg" alt="">
+      <a href="/hana/travaasa-hana-experiences/fitness">
+        <img data-original="/assets/images/experience/tmb-fitness.jpg" src="/assets/images/experience/tmb-fitness.jpg" alt="">
         <h5>FITNESS</h5>
       </a>
-      <a href="/austin/austin-experiences/spa-wellness">
-        <img data-original="/assets/images/experience/tmb-au-spa.jpg" src="/assets/images/experience/tmb-au-spa.jpg" alt="">
+      <a href="/hana/travaasa-hana-experiences/spa-wellness">
+        <img data-original="/assets/images/experience/tmb-spa.jpg" src="/assets/images/experience/tmb-spa.jpg" alt="">
         <h5>SPA & <br>WELLNESS</h5>
       </a>
     </div>
