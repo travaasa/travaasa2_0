@@ -122,6 +122,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
                 </div>
             </div>
+            <h2>Lone Star Room</h2>
            <p>When you need flexible meeting space in Austin that can accommodate your group, The Lone Star Room is the ideal choice. Nearly 3,000-square feet of event space can be transformed into the perfect venue for business or relaxation, whether you need a classroom, banquet- or theater-style setup. Our ceiling-mounted projector and motorized 10’x15’ screen provide top-quality visuals for presentations, while two audio options – an overhead lecture sound system and a PA system with four floor boxes – ensure presenters’ every word comes through loud and clear. Motorized blackout drapes allow you to create the perfect setting for your event.</p>
            <p>Ambiance takes this Austin meeting space to the next level. Accents like bamboo flooring and exposed wood beam trusses create a warm contrast for attendees to enjoy, while floor-to-ceiling glass windows keep the mood bright and comfortable. This event venue is part of Travaasa’s Live Oak Center, which also features an outdoor courtyard, restrooms and our Fireside and Showroom meeting spaces, two flexible options for breakout sessions, panels, or other smaller gatherings during your meeting or conference.</p>
  
@@ -174,6 +175,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</tbody></table>
 				</div>
             </div>
+            <h2>Showroom</h2>
             <p>Meeting planners looking for flexible event space in Austin for mid-size groups or events appreciate the options of the Showroom, a 1,470-square-foot meeting space that works well for events like breakout sessions and workshops. With options for theater, banquet, classroom and U-shape seating, the Showroom’s flexible layout is an asset for meeting professionals. Plus a Barco IQ Backlit Projector, 7.5’x10’ screen, Dolby 7.1 surround sound system and floor-to-ceiling glass windows with an automated black-out blind system give groups all the tools they need for a flawless meeting. The Showroom is part of Travaasa’s Live Oak Center, a versatile event venue with indoor and outdoor space.</p>
 
             <br><hr><br>
@@ -222,6 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                        </table>
 				</div>
             </div>
+            <h2>Fireside Room</h2>
             <p>For an intimate gathering or meeting, the Fireside Room at Travaasa is a warm and inviting event space in Austin. A stone fireplace sets the tone for this welcoming environment, which features hickory and pecan wood flooring, two walls of windows showcasing gorgeous Hill Country views, and an open wood-deck ceiling that reaches a height of 25 feet at its peak. Versatile seating options are available for the Fireside Room, which is part of the resort’s Live Oak Center event venue.</p>
 
             <br><hr><br>
@@ -269,6 +272,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
 				</div>
             </div>
+            <h2>Parlor</h2>
             <p>Intimate meetings, informal gatherings and brainstorming sessions have a relaxing home at the Parlor, a 440-square-foot meeting space with comfortable couches and chairs, a wrap-around porch, a kitchenette and private bathroom facilities. Living room-style, hospitality and reception setups allow this cozy meeting space in Austin to meet your group’s specific needs.</p>
 
 			<br><hr><br>
@@ -318,6 +322,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
 				</div>
             </div>
+            <h2>The Spur</h2>
             <p>The calming flicker of a stone fireplace and the sights of Texas Hill Country beyond floor-to-ceiling glass windows set the tone for private dining in The Spur, a private dining space adjacent to the property’s restaurant that’s perfect for an intimate group dinner in Austin. This room opens directly into the Mesquite Patio, offering an indoor/outdoor option for group dining and cocktail receptions.</p>
 
 			<br><hr><br>
@@ -369,6 +374,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
 				</div>
             </div>
+            <h2>Solidago Gardens</h2>
             <p>Meeting planners never fail to impress when they choose our Solidago Gardens for a meeting or event. A forest trail leads attendees to this secluded 2,500-square-foot garden courtyard, where a handcrafted mason wall creates a private space where your group can meet amidst the beauty of Texas Hill Country. A natural canopy of trees and two water features add to the tranquility of this outdoor meeting space in Austin, while a handcrafted wood and stone structure provides an additional 575-square feet of indoor space.</p>
 
 			<br><hr><br>
@@ -423,6 +429,7 @@ austinsales@travaasa.com</a></td>
                     </table>
                 </div>
             </div>
+            <h2>The Farm at Travaasa</h2>
             <p>Teambuilding opportunities for meetings and events abound at The Farm at Travaasa, where meeting planners can take groups beyond the boardroom to learn key skills through activities like our Equine Encounter and Cowboy Roping class. The Farm at Travaasa is also the perfect outdoor event venue for your group to celebrate in true Texas fashion with a party or reception under the stars.</p>
 
             <br><hr><br>
@@ -448,6 +455,7 @@ austinsales@travaasa.com</a></td>
                     </table>
                 </div>
             </div>
+            <h2>Mesquite Patio</h2>
             <p>Your group won’t soon forget the sight of a Texas sunset, and the best event space in Austin to watch the sun set over Texas Hill Country is the Mesquite Patio at Travaasa Austin. Perfect for outdoor receptions and cocktail hours under the Texas sky, the Mesquite Patio can also be used in conjunction with the adjacent Spur room to create an indoor/outdoor event. </p>
 
             <br><hr><br>
