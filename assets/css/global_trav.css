@@ -841,6 +841,92 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 
 .accolade { text-align:center; }
 
+/* EXPERIENCES NEW BLOCK */
+	/* Experience landing page styles */
+.experience-tiles .group{}
+.experience-tiles .group>span,
+.experience-tiles .group>a{
+	display: block;
+	margin-bottom: 15px;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	border: 6px solid #fff;
+	overflow: hidden;
+	position: relative;
+}
+.experience-tiles .group>a:hover {opacity: .85}
+.experience-tiles .group>a:last-child{margin-right: 0;}
+.experience-tiles a img,
+.experience-tiles span img{width: 100%;display: block;}
+.experience-tiles h2{position: absolute;bottom: 0;font-family: "Gill Sans MT", Calibri, sans-serif;font-weight: bold;color: #fff;padding: 12px;}
+@media (min-width: 480px) and (max-width:599px) {
+	.experience-tiles .group>span,
+	.experience-tiles .group>a{
+		height: 200px;
+		overflow: hidden;
+	}
+	.experience-tiles .group>a img{
+		position: absolute;
+		bottom: -20%;
+	}
+	.experience-tiles.hana .group>a img[src*="culture"]{
+		bottom: inherit;
+		top: 0;
+	}
+	.experience-tiles.austin .group>a img{
+		bottom: inherit;
+		top: 0;
+	}
+	.experience-tiles h2 {font-size: 32px;line-height: 32px;}
+}
+@media (min-width: 600px) {
+	.experience-tiles h2 {font-size: 20px;line-height: 20px;color:#fff;padding: 6px;}
+	.experience-tiles .group>span,
+	.experience-tiles .group>a{
+		width: 32.3333%;
+		float: left;
+		margin-right: 1.5%;
+	}
+}
+@media (min-width: 768px) {
+	.experience-tiles h2 {font-size: 26px;line-height: 26px;padding: 12px;}
+}
+@media (min-width: 1024px) {
+	.experience-tiles h2 {font-size: 36px;line-height: 36px;padding: 20px;}
+}
+@media (min-width: 1200px) {
+	.experience-tiles h2 {font-size: 40px;line-height: 40px;padding: 20px;}
+}
+	
+	/* Experience inner page styles */
+.header-img {
+	display: none;
+}
+
+@media (min-width: 600px) {
+	.experience-inner-tiles{overflow: hidden;}
+	.experience-inner-tiles article{
+		-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+		width: 49.5%;
+		float: left;
+		clear: none;
+	}
+	.experience-inner-tiles article:nth-child(odd){
+		margin-right: 1%;
+	}
+	.experience-inner-tiles article img{width: 100%; height: auto;display: block;}
+	.experience-inner-tiles article h2{font-size: 1em;text-transform: capitalize;line-height: 100%;margin-bottom: 0;}
+}
+@media (min-width: 768px) {
+	.header-img {
+		display: block;
+		height: 180px;
+		background: url(/assets/images/bg_hana_clouds.jpg) top left repeat-x;
+	}
+}
+
+
 /*  MEDIA QUERIES */
 
 @media only screen and (max-width: 1200px) {
