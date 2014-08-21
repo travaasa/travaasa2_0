@@ -72,11 +72,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </a>
       <a href="/austin/austin-experiences/spa-wellness">
         <img data-original="/assets/images/experience/tmb-au-spa.jpg" src="/assets/images/experience/tmb-au-spa.jpg" alt="">
-        <h2>SPA & <br>WELLNESS</h2>
+        <h2>SPA & WELLNESS</h2>
       </a>
     </div>
   </section>
-<!-- 
+<!--
   <section class="grey pad storylines">
     <a id="adventure"></a>
     <h4 class="experience-title">ADVENTURE</h4>
