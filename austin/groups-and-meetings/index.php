@@ -57,7 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <p>Elevate your next corporate meeting, executive retreat, wedding or event with the unmatched experience and facilities at Travaasa Austin.</p>
       <p>Thousands of square feet of indoor and outdoor event space that can be customized to meet your group’s needs, whether you need meeting rooms for lectures and workshops or an unforgettable outdoor space for an evening reception in the heart of Texas Hill Country.</p>
       <p>Plus, an array of teambuilding and group activities will create a uniquely Texas experience that will bring your group closer together, whether they’re learning to rope like a cowboy or test themselves on our Prickly Pear Challenge Course.</p>
-      <p>Our experienced staff is ready to customize an experience to fit your group’s exact needs, and we’ll be by your side from planning to execution to ensure the best possible outcomes. You simply won’t find an event experience like this anywhere else.</p>
+      <p>Our experienced staff is ready to customize an experience to fit your group’s exact needs, and we’ll be by your side &mdash; from planning to execution &mdash; to ensure the best possible outcomes. You simply won’t find an event experience like this anywhere else.</p>
       </div>
       <div class="col span_3_of_9">
       	<p>TALK TO OUR SALES DEPARTMENT</p>

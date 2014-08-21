@@ -42,37 +42,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col span_6_of_9">
           <h1>Travaasa Austin Experiences</h1>
           <p>You want to embark on a journey without living out of a suitcase. You want to taste real Texas flavors, learn a few new things about yourself, and dance the night away under a banner of stars. <strong>Why not stay at a resort that allows you to have all of these things?</strong> At Travaasa Austin, we get it, and that’s why we created a menu of custom, personalized and authentic experiences just for you. Situated on the edge of the Balcones Canyonlands Preserve, Travaasa Austin offers an extensive selection of guided activities set amidst — and inspired by — the rugged yet hospitable nature of Texas Hill Country.</p>
-<p>Experiences are offered through all-inclusive packages as well as a la carte pricing, depending on the path you choose. See our <a href="/austin/rates-and-packages">rates and packages</a> for details.<br><br><a href="/austin/austinschedule" class="btn">View Experience Schedule</a><br><br><a href="/calendar" class="btn">August's Featured Experiences</a></p>
+<p>Experiences are offered through all-inclusive packages as well as a la carte pricing, depending on the path you choose. See our <a href="/austin/rates-and-packages">rates and packages</a> for details.<br><br><a href="/austin/austinschedule" class="btn">View Experience Schedule</a><br><br></p>
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Austin_Pricing.php"); ?></div>
   </section>
   <section class="grey pad storylines experience-tiles austin">
     <div class="group">
-      <span>
+      <a href="/calendar">
         <img data-original="/assets/images/experience/title-bg.gif" src="/assets/images/experience/title-bg.gif" alt="">
-        <h5>AUGUST <br>FEATURED <br>EXPERIENCES</h5>
-      </span>
+        <h2>AUGUST <br>FEATURED <br>EXPERIENCES</h2>
+      </a>
       <a href="/austin/austin-experiences/adventure">
         <img data-original="/assets/images/experience/tmb-au-adventure.jpg" src="/assets/images/experience/tmb-au-adventure.jpg" alt="">
-        <h5>ADVENTURE</h5>
+        <h2>ADVENTURE</h2>
       </a>
       <a href="/austin/austin-experiences/culinary">
         <img data-original="/assets/images/experience/tmb-au-culinary.jpg" src="/assets/images/experience/tmb-au-culinary.jpg" alt="">
-        <h5>CULINARY</h5>
+        <h2>CULINARY</h2>
       </a>
     </div>
     <div class="group">
       <a href="/austin/austin-experiences/culture">
         <img data-original="/assets/images/experience/tmb-au-culture.jpg" src="/assets/images/experience/tmb-au-culture.jpg" alt="">
-        <h5>CULTURE</h5>
+        <h2>CULTURE</h2>
       </a>
       <a href="/austin/austin-experiences/fitness">
         <img data-original="/assets/images/experience/tmb-au-fitness.jpg" src="/assets/images/experience/tmb-au-fitness.jpg" alt="">
-        <h5>FITNESS</h5>
+        <h2>FITNESS</h2>
       </a>
       <a href="/austin/austin-experiences/spa-wellness">
         <img data-original="/assets/images/experience/tmb-au-spa.jpg" src="/assets/images/experience/tmb-au-spa.jpg" alt="">
-        <h5>SPA & <br>WELLNESS</h5>
+        <h2>SPA & <br>WELLNESS</h2>
       </a>
     </div>
   </section>
