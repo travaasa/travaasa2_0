@@ -38,7 +38,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>Austin Fitness Experiences</h1>
-          <p>Make the island your personal fitness studio with outdoor yoga and fitness classes and guided coastal walks. In a place this beautiful, you won’t even notice you’re burning calories.</p>
+          <p>If sore muscles are part of your ideal vacation, then you’ve come to the right place. Limber up with a yoga session, challenge yourself with our outdoor fitness circuit or try a Texas-style mechanical bull workout.
+</p>
       </div>
   </section>
   <section class="group grey pad storylines experience-inner-tiles austin">
