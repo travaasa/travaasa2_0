@@ -91,13 +91,13 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     </div>
     <div id="body_treatments" class="tab_data">
         <div class="tab_data_inner">
-            <h2>HARVEST BODY TREATMENTS </h2>
+            <!--<h2>HARVEST BODY TREATMENTS </h2>
             <p>Featuring pumpkin, an ingredient known for its detoxifying qualities and skin-perfecting nutrients, minerals and enzymes, these unique treatments leave skin glowing and healthy. (Treatments offered for a limited time only.)</p>
             <section class="spa_package">
                 <h4>FARM-TO-BODY PUMPKIN DETOX BODY WRAP</h4>
                 <p>For a whole-body detox, try a soothing body wrap that incorporates organic pumpkin (sourced from Travaasa’s own farm) in addition to products from our spa's base line, ilike organic body care. The orange and cinnamon ingredients clean and balance skin, while the nutrient-rich pumpkin works to nourish and rehydrate. A calming linden and marigold cream massage completes the treatment.)</p>
                 <h5>80 minutes &#8211; $185 </h5>
-            </section><br>
+            </section><br>-->
 
             <h2>SIGNATURE BODY TREATMENTS</h2>
             <p>Therapeutic, energetic, soothing, cleansing or stimulating; you decide which of our body treatments to delight in during your stay.</p>
