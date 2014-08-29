@@ -1,0 +1,537 @@
+#content {
+  background-color: #C7E5F9;
+}
+#main {
+  background: transparent;
+}
+#main h1 {
+  font-family: "Century Gothic";
+  font-size: 32px;
+  line-height: 40px;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+#main h1 small {
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: normal;
+  text-transform: capitalize;
+}
+#main h2 {
+  font-family: "Century Gothic";
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: left;
+  text-transform: capitalize;
+}
+#main h2 span {
+  color: #CB3053;
+}
+#main p,
+#main ul {
+  font-family: Lato;
+  font-size: 14px;
+  line-height: 140%;
+  color: #333333;
+  text-align: left;
+}
+#main p a,
+#main ul a {
+  text-decoration: underline;
+}
+#main p.lead {
+  padding-left: 12px;
+  border-left: 2px solid #cb3055;
+  font-family: Lato;
+  font-size: 14px;
+  line-height: 18px;
+  color: #333333;
+  text-align: left;
+}
+#main p.lead strong {
+  font-size: 18px;
+  line-height: 26px;
+  display: block;
+}
+#main p.lead span {
+  display: none;
+}
+#main .stuff-list {
+  padding-left: 0;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+  -webkit-column-gap: 12px;
+  -moz-column-gap: 12px;
+  column-gap: 12px;
+}
+#main .stuff-list li {
+  list-style: none;
+}
+#main .stuff-list li:before {
+  content: "• ";
+}
+#main .has-border {
+  border-bottom: 2px solid #cb3055;
+  padding-bottom: 18px;
+}
+#main #map {
+  width: 100%;
+  position: absolute;
+  top: 124px;
+  left: 0;
+  z-index: -1;
+}
+#main #map img {
+  display: block;
+  width: 100%;
+}
+#main #map img.tablet-desktop {
+  display: none;
+}
+#main .pop-up-wrapper {
+  height: 360px;
+}
+@media (min-width: 360px) {
+  #main h1 {
+    font-size: 38px;
+  }
+  #main #map {
+    width: 360px;
+  }
+}
+@media (min-width: 480px) {
+  #main #map {
+    top: 0px;
+    width: 450px;
+  }
+  #main .pop-up-wrapper {
+    height: 480px;
+  }
+}
+@media (min-width: 480px) {
+  #main #map {
+    top: -50px;
+    width: 580px;
+  }
+  #main .pop-up-wrapper {
+    height: 600px;
+  }
+}
+@media (min-width: 768px) {
+  #main {
+    padding-top: 60px;
+  }
+  #main .row {
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  #main .row > div {
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 33.3333%;
+    height: 280px;
+  }
+  #main .row > div:nth-child(1),
+  #main .row > div:nth-child(2) {
+    padding-right: 24px;
+    border-right: 2px solid #cb3055;
+  }
+  #main .row > div:nth-child(2),
+  #main .row > div:nth-child(3) {
+    padding-left: 24px;
+  }
+  #main #content {
+    padding-top: 60px;
+  }
+  #main h1 {
+    font-size: 65px;
+    line-height: 60px;
+    margin-left: 200px;
+  }
+  #main h1 small {
+    font-size: 26px;
+    line-height: 31px;
+    margin-left: 290px;
+  }
+  #main h2 {
+    font-weight: normal;
+  }
+  #main p.lead {
+    margin-left: 100px;
+    line-height: 19px;
+  }
+  #main p.lead strong {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  #main p.lead span {
+    display: inline;
+  }
+  #main p.lead a.read-more {
+    display: none;
+  }
+  #main .stuff-list {
+    padding-left: 0;
+    -webkit-column-count: inherit;
+    -moz-column-count: inherit;
+    column-count: inherit;
+  }
+  #main .has-border {
+    border-bottom: 0;
+  }
+  #main #map {
+    top: 280px;
+    width: 800px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+  }
+  #main #map img.mobile {
+    display: none;
+  }
+  #main #map img.tablet-desktop {
+    display: block;
+  }
+  #main .pop-up-wrapper {
+    height: 480px;
+    position: relative;
+  }
+}
+@media (min-width: 960px) {
+  #main .pop-up-wrapper {
+    height: 550px;
+  }
+  #main #map {
+    width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  #main h1 {
+    width: 500px;
+    float: left;
+  }
+  #main p.lead {
+    margin-left: 700px;
+  }
+  #main .stuff-list {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+  #main .row {
+    margin-bottom: 50px;
+  }
+  #main .row > div {
+    height: 154px;
+  }
+  #main .pop-up-wrapper {
+    height: 620px;
+  }
+  #main #map {
+    width: 1200px;
+    top: 80px;
+  }
+}
+@media (min-width: 1570px) {
+  #main .pop-up-wrapper {
+    height: 850px;
+  }
+  #main #map {
+    top: 40px;
+    width: 1548px;
+  }
+  #main h1 {
+    width: 600px;
+    float: left;
+    font-size: 76px;
+  }
+  #main h1 small {
+    font-size: 26px;
+  }
+  #main p.lead {
+    margin-left: 810px;
+  }
+}
+a.pin {
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5;
+}
+#content > .pop-up-wrapper {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 12px;
+  background-color: rgba(102, 102, 102, 0.7);
+  position: absolute;
+  top: 28px;
+  left: 0;
+  z-index: 1000;
+}
+.loc-wrapper {
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  padding-bottom: 12px;
+  border-radius: 5px;
+  background: rgba(201, 231, 241, 0.8);
+}
+.loc-wrapper #btn-close {
+  position: absolute;
+  top: 0;
+  right: 5px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 120%;
+  color: #222222;
+  text-align: right;
+}
+.loc-wrapper .loc-title {
+  margin: 0 12px 12px 12px;
+  font-family: "Century Gothic";
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: normal;
+  color: #cb3052;
+  text-align: left;
+  text-transform: Capitalize;
+}
+.loc-wrapper .loc-title small {
+  font-size: 16px;
+  line-height: 19px;
+}
+.loc-wrapper .loc-img-wrapper img {
+  display: block;
+  width: 100%;
+}
+.loc-wrapper .loc-description {
+  margin-top: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
+  font-family: Lato;
+  font-size: 12px;
+  line-height: 16px;
+  color: #333333;
+  text-align: left;
+}
+.loc-wrapper .gps {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 236px;
+  height: 25px;
+  padding-left: 8px;
+  line-height: 25px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #45565d;
+  background: url(/assets/images/road-to-hana/sprites.png) 0 -200px no-repeat;
+}
+.loc-wrapper .gps span {
+  margin-left: 12px;
+  font-size: 11px;
+  color: #54859c;
+}
+.loc-wrapper .links-bar {
+  margin-top: 12px;
+  overflow: hidden;
+}
+.loc-wrapper .links-bar > a {
+  float: left;
+  font-family: Lato !important;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 26px;
+  color: #cb3055;
+  text-align: left;
+}
+.loc-wrapper .links-bar .socials {
+  float: right;
+}
+.loc-wrapper .links-bar .socials > span {
+  line-height: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+.loc-wrapper .links-bar .socials ul {
+  padding-left: 0;
+  margin-bottom: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+.loc-wrapper .links-bar .socials ul li {
+  list-style: none;
+  display: inline-block;
+}
+.loc-wrapper .links-bar .socials ul li a {
+  display: block;
+  width: 30px;
+  height: 30px;
+  text-indent: -9999px;
+}
+.loc-wrapper .links-bar .socials ul li a.tw {
+  background: url(/assets/images/road-to-hana/sprites.png) 0 -75px no-repeat;
+}
+.loc-wrapper .links-bar .socials ul li a.fb {
+  background: url(/assets/images/road-to-hana/sprites.png) 0 -110px no-repeat;
+}
+.loc-wrapper .links-bar .socials ul li a.pt {
+  background: url(/assets/images/road-to-hana/sprites.png) 0 -150px no-repeat;
+}
+.loc-wrapper .pager {
+  padding-top: 15px;
+  margin-bottom: 15px;
+  position: relative;
+}
+.loc-wrapper .pager .prev,
+.loc-wrapper .pager .next {
+  display: inline-block;
+  vertical-align: top;
+  width: 70px;
+  height: 29px;
+  line-height: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+}
+.loc-wrapper .pager .next {
+  margin-left: 40px;
+  background: url(/assets/images/road-to-hana/sprites.png) 0 -29px no-repeat;
+}
+.loc-wrapper .pager .prev {
+  margin-right: 40px;
+  background: url(/assets/images/road-to-hana/sprites.png) 0 0 no-repeat;
+}
+.loc-wrapper .pager .current {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-top: 2px;
+  font-size: 24px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  vertical-align: top;
+  width: 35px;
+  height: 63px;
+  margin: 0 24px;
+  background: url(/assets/images/road-to-hana/sprites.png) 50% 0 no-repeat;
+  text-shadow: 0 0 1px #C40D35;
+  position: absolute;
+  top: -10px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.loc-wrapper.hide {
+  opacity: 0;
+}
+.loc-wrapper.show {
+  opacity: 1;
+}
+#pin-01 {
+  top: 0;
+  left: 400px;
+}
+#pin-02 {
+  top: 32px;
+  left: 450px;
+}
+#loc-01 {
+  top: 0;
+  left: 450px;
+}
+#loc-02 {
+  top: 32px;
+  left: 500px;
+}
+@media (min-width: 768px) {
+  #map .pup-wrapper a.pin {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+  }
+  #map .pup-wrapper .loc-wrapper.hide {
+    opacity: 0;
+  }
+  #map .pup-wrapper .loc-wrapper.show {
+    opacity: 1;
+  }
+  #map .pup-wrapper .hide {
+    opacity: 0;
+  }
+  #map .pup-wrapper .show {
+    opacity: 1;
+  }
+  #map .pup-wrapper #pin-01 {
+    top: 0;
+    left: 400px;
+  }
+  #map .pup-wrapper #pin-02 {
+    top: 32px;
+    left: 450px;
+  }
+  #map .pup-wrapper #loc-01 {
+    top: 0;
+    left: 450px;
+  }
+  #map .pup-wrapper #loc-02 {
+    top: 32px;
+    left: 500px;
+  }
+  .loc-wrapper {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 24px 48px 48px 24px;
+    width: 405px;
+    height: 291px;
+    background: url(/assets/images/road-to-hana/bg-loc-dt.png) 0 0 no-repeat;
+    position: absolute;
+  }
+  .loc-wrapper .loc-title {
+    font-family: "Century Gothic";
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: bold;
+    color: #cb3052;
+    text-align: left;
+  }
+  .loc-wrapper .loc-title small {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .loc-wrapper .loc-description {
+    width: 215px;
+    font-family: Lato;
+    font-size: 12px;
+    line-height: 130%;
+    color: #333333;
+    text-align: left;
+  }
+  .loc-wrapper .pager {
+    display: none;
+  }
+}
