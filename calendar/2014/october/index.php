@@ -15,7 +15,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Travaasa September 2014 Featured Experiences</title>
+  <title>Travaasa October 2014 Featured Experiences</title>
   <meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
   <meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
   <?php 
@@ -55,7 +55,7 @@ endif;
 ?>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_september_2014_1600x640.jpg" alt="October is Harvest Month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_october_2014_1600x640.jpg" alt="October is Harvest Month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -212,8 +212,8 @@ endif;
         <h4>See upcoming months</h4>
       <div class="group">
             <div class="col span_1_of_3 month"><div><a href="/calendar/2014/august/"><img src="/assets/images/months/aug-dive.png" alt="August is Dive Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/september/"><img src="/assets/images/months/sep-discover.png" alt="September is Discover Month"></a></div></div>
-                        <div class="col span_1_of_3 month"><div><a href="/calendar/2014/october/"><img src="/assets/images/months/oct-harvest.png" alt="October is Harvest Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/september/"><img src="/assets/images/months/sep-discover.png" alt="September is Discover Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/october/"><img src="/assets/images/months/oct-harvest.png" alt="October is Harvest Month"></a></div></div>
 
         </div>
   </section>

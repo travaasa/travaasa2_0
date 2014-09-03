@@ -131,13 +131,13 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     <div id="facials" class="tab_data">
         <div class="tab_data_inner">
 
-            <h2>HARVEST FACIAL TREATMENTS </h2>
+            <!--<h2>HARVEST FACIAL TREATMENTS </h2>
             <p>Featuring pumpkin, an ingredient known for its detoxifying qualities and skin-perfecting nutrients, minerals and enzymes, these unique treatments leave skin glowing and healthy. (Treatments offered for a limited time only.)</p>
              <section class="spa_package">
                 <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
                 <p>Utilizing the cleansing and soothing properties of nettle, grape and carrot, this facial gently cleanses and tones. Infusing skin with vitamins A, E and C, the pumpkin, orange and cinnamon mask increases circulation. Following, the soothing carrot mask and carotene cream massage, revitalizes dry, dehydrated skin.</p>
                 <h5>80 minutes &#8211; $180 </h5>
-            </section><br>
+            </section><br>-->
 
             <h2>FACIAL TREATMENTS</h2>
             <p>Put your face in good hands with a Travaasa facial created expressly for you.</p>
@@ -555,7 +555,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <h2>FOR OFF-PROPERTY GUESTS</h2>
 
              <section class="spa_package">
-                <h4>NAIL OF THE DAY*</h4>
+                <h4>NAIL THE DAY*</h4>
                 <p>Offered from 9 a.m. to 5 p.m., this inclusive day allows you to get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to tai chi, and recharge with a healthy lunch. Experience our Snap Manicure and choose from one of three $75 pedicures. 18% gratuity included in package price on nail services and lunch.</p>
                 <h5>$218</h5>
              </section>
