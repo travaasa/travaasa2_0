@@ -241,10 +241,9 @@ endif;
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/july/"><img src="/assets/images/months/jul-independence.png" alt="July is Independence Month"></a></div></div>
             <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/august/"><img src="/assets/images/months/aug-dive.png" alt="August is Dive Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2014/september/"><img src="/assets/images/months/sep-discover.png" alt="September is Discover Month"></a></div></div>
-
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/october/"><img src="/assets/images/months/oct-harvest.png" alt="October is Harvest Month"></a></div></div>
         </div>
   </section>
   
