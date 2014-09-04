@@ -31,7 +31,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="http://mokuleleairlines.com" target="_blank"><img data-original="/assets/images/feature_hana_1600x640_loc_fly_promo.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"></a><div class="overlay-content-new"><h2>FLY TO TRAVAASA HANA / <span>MOKULELE AIRLINES FEATURES TWICE-DAILY FLIGHTS FROM KAHULUI (OGG) to HANA AIRPORT (HNM).</span></h2></div></div>
+      <div class="slide"><a href="http://mokuleleairlines.com" target="_blank"><img data-original="/assets/images/feature_hana_1600x640_loc_fly_promo.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"></a><div class="overlay-content-new"><h2>FLY TO TRAVAASA HANA / <span>MOKULELE AIRLINES FEATURES THRICE-DAILY FLIGHTS FROM KAHULUI (OGG) to HANA AIRPORT (HNM).</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_journey.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>THE JOURNEY TO TRAVAASA HANA / <span>THE ROAD HUGS MAUI'S NORTHEASTERN COAST, SKIRTING FORESTED RAVINES AND COUNTLESS WATERFALLS.</span></h2></div></div>
       <!--<div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_view.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>AS AUTHENTIC AS HAWAII GETS / <span>THE MAGIC OF HANA SIMPLY HAS TO BE EXPERIENCED TO BE BELIEVED.</span></h2></div></div>-->
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_hospitality.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>HO'OKIPA (HOSPITALITY) / <span>IT'S A HAWAIIAN WAY OF LIFE.</span></h2></div></div>
@@ -158,7 +158,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
         <div class="tab_data_inner">
                 <img src="/assets/images/hana-runway.jpg" width="885" alt="Hana Airport (HNM) Runway">
                 <br><br>
-                <h3>Roundtrip Flights from Kahului (OGG) to Hana Airport (HNM)</h3>
+                <h3>Three Daily Roundtrip Flights from Kahului to Hana Airport</h3>
                 <p>Getting to Hana has never been easier. In partership with <a href="http://mokuleleairlines.com" taret="_blank"><strong>Mokulele Airlines</strong></a>, Travaasa offers the ability connect from Kahului (OGG), with two-way shuttle service from the resort to Hana Airport (HNM).  We'll even include roundtrip airfare from Kahului to Hana Airport when you book three or more consecutive nights on a <a href="/hana/hana-rates-and-packages">Total Travaasa Package</a>.</p>
                 <p><em>Ask a reservations team member for details.</em></p>
         </div>
