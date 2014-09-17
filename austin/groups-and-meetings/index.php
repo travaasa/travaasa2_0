@@ -378,7 +378,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p>Meeting planners never fail to impress when they choose our Solidago Gardens for a meeting or event. A forest trail leads attendees to this secluded 2,500-square-foot garden courtyard, where a handcrafted mason wall creates a private space where your group can meet amidst the beauty of Texas Hill Country. A natural canopy of trees and two water features add to the tranquility of this outdoor meeting space in Austin, while a handcrafted wood and stone structure provides an additional 575-square feet of indoor space.</p>
 
 			<br><hr><br>
+      <div class="group">
+        <div class="col span_1_of_2">
+        <div class="magnify">
+          <a href="/assets/images/gallery/austin/large-chefs-table.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"></a>
+        </div>
+        <a href="/assets/images/gallery/austin/large-chefs-table.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-chefs-table.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="The Spur"></a>
+        </div>
+       <!--  /public_html/travaasa/assets/images/gallery/austin/small-chefs-table.jpg
+       /public_html/travaasa/assets/images/gallery/austin/large-chefs-table.jpg
+       /public_html/travaasa -->
 
+        <div class="col span_1_of_2">
+            <table class="meetings-table">
+                <tbody>
+                    <tr>
+                        <th colspan="2">Chef's Table</th>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Square Feet:</td>
+                        <td class="meetings-table-data">435</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Height:</td>
+                        <td class="meetings-table-data">9'</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Tehater Style:</td>
+                        <td class="meetings-table-data">30</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Classroom:</td>
+                        <td class="meetings-table-data">12</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">U-Shape:</td>
+                        <td class="meetings-table-data">12</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <h2>Chef's Table</h2>
+    <p>Bright ideas come standard with this sunny space. Centrally located across from the restaurant with easy access to the bar and Mesquite Patio, the Chef’s Table is a great space for executive retreats, breakaway sessions and other small groups. Featuring stained concrete floors, a unique collection of books and windows overlooking the courtyard, the clean, modern design is centered on a long table that can be utilized for meetings, dining or buffet service. Beyond brainstorming, the room is an ideal setting for a hospitality suite or a private dining experience. </p>
+
+    <br><hr><br>
             <!--<div class="group">
                 <div class="col span_1_of_2">
                 <div class="magnify">
