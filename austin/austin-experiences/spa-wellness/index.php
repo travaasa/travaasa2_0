@@ -42,21 +42,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
   </section>
   <section class="group grey pad storylines experience-inner-tiles austin">
-    <article>
-      <img data-original="/assets/images/exp_austin_spa_overview.jpg" src="/assets/images/exp_austin_spa_overview.jpg" alt="Austin spa resort" >
-      <h2>The Spa at Travaasa Austin</h2>
-      <p class="description">At The Spa at Travaasa Austin, we focus on healing, rejuvenating and invigorating mind, body and spirit. The careful use of plants and essential oils treats, heals and revitalizes your entire body, while classes help you decompress and recharge. Pamper yourself during your day at The Spa at Travaasa Austin with a soak in the hot tub, a few minutes in the dry sauna or a swim in the infinity pool overlooking Texas Hill Country. There is something to nourish every element of your being here.</p>
-    </article>
-    <article>
-      <img data-original="/assets/images/exp_austin_spa_meditation.jpg" src="/assets/images/exp_austin_spa_meditation.jpg" alt="Meditation lessons" >
-      <h2>Meditation</h2>
-      <p class="description">Meditation is a wonderful way to decompress after a stressful day — or to start your day in a calming state of mind. We offer three different points of view on meditation, all easy to learn and incorporate into your daily life. Let our instructors enlighten you with techniques and tools that will help you learn to let go and focus on the moment, including breathing, visualization and mantra work. Then, put your newly learned techniques into practice as your instructor gentle guides you into a meditative state in the serenity of our garden sanctuary.</p>
-    </article>
-    <article>
-      <img data-original="/assets/images/exp_austin_spa_breath.jpg" src="/assets/images/exp_austin_spa_breath.jpg" alt="Texas spa vacation" >
-      <h2>Breath Work</h2>
-      <p class="description">Who knew that focusing on something we do unconsciously all day long could do so much more for us? Breathing lays the groundwork for your body’s overall health, whether it’s through supplying your body’s vital organs with oxygen, improving your ability to work out or reducing stress levels. This class works with the breath and follows its movements through the body, teaching you how to make the most of this basic bodily function. Restorative sequencing moves us slowly into a deep somatic experience to release stress and anxiety and bring about a calmer, more relaxed state. This is especially helpful for type A personalities who have trouble relaxing. As we turn the lens inward, we will learn more about the breath and ourselves.</p>
-    </article>
+    <ul class="experience-nav">
+      <li><a href="/austin/austin-experiences/adventure/">ADVENTURE</a></li>
+      <li><a href="/austin/austin-experiences/culinary/">CULINARY</a></li>
+      <li><a href="/austin/austin-experiences/culture/">CULTURE</a></li>
+      <li><a href="/austin/austin-experiences/fitness/">FITNESS</a></li>
+      <li><a href="/austin/austin-experiences/spa-wellness/" class="on">SPA &amp; WELLNESS</a></li>
+    </ul>
+    <div>
+      <article>
+        <img data-original="/assets/images/exp_austin_spa_overview.jpg" src="/assets/images/exp_austin_spa_overview.jpg" alt="Austin spa resort" >
+        <h2>The Spa at Travaasa Austin</h2>
+        <p class="description">At The Spa at Travaasa Austin, we focus on healing, rejuvenating and invigorating mind, body and spirit. The careful use of plants and essential oils treats, heals and revitalizes your entire body, while classes help you decompress and recharge. Pamper yourself during your day at The Spa at Travaasa Austin with a soak in the hot tub, a few minutes in the dry sauna or a swim in the infinity pool overlooking Texas Hill Country. There is something to nourish every element of your being here.</p>
+      </article>
+      <article>
+        <img data-original="/assets/images/exp_austin_spa_meditation.jpg" src="/assets/images/exp_austin_spa_meditation.jpg" alt="Meditation lessons" >
+        <h2>Meditation</h2>
+        <p class="description">Meditation is a wonderful way to decompress after a stressful day — or to start your day in a calming state of mind. We offer three different points of view on meditation, all easy to learn and incorporate into your daily life. Let our instructors enlighten you with techniques and tools that will help you learn to let go and focus on the moment, including breathing, visualization and mantra work. Then, put your newly learned techniques into practice as your instructor gentle guides you into a meditative state in the serenity of our garden sanctuary.</p>
+      </article>
+      <article>
+        <img data-original="/assets/images/exp_austin_spa_breath.jpg" src="/assets/images/exp_austin_spa_breath.jpg" alt="Texas spa vacation" >
+        <h2>Breath Work</h2>
+        <p class="description">Who knew that focusing on something we do unconsciously all day long could do so much more for us? Breathing lays the groundwork for your body’s overall health, whether it’s through supplying your body’s vital organs with oxygen, improving your ability to work out or reducing stress levels. This class works with the breath and follows its movements through the body, teaching you how to make the most of this basic bodily function. Restorative sequencing moves us slowly into a deep somatic experience to release stress and anxiety and bring about a calmer, more relaxed state. This is especially helpful for type A personalities who have trouble relaxing. As we turn the lens inward, we will learn more about the breath and ourselves.</p>
+      </article>
+    </div>
   </section>
 </article>
 </section>

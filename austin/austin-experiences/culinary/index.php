@@ -42,26 +42,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
   </section>
   <section class="group grey pad storylines experience-inner-tiles austin">
-    <article>
-      <img data-original="/assets/images/exp_austin_culinary_basic.jpg" src="/assets/images/exp_austin_culinary_basic.jpg" alt="Austin culinary vacations" >
-      <h2>Basic Culinary Skills</h2>
-      <p class="description">Learn time-saving culinary tricks, discover healthy ingredients and gain practical cooking experience that you can recreate at home after your Travaasa Austin stay during this hands-on cooking class. Our executive culinary team creates a memorable experience that teaches you culinary skills and techniques while showcasing Travaasa house recipes and the nutritional benefits of various ingredients. Let our gourmet culinary team delight you with ways to prepare, cook and present your favorite dishes, then savor the flavors for yourself as you dine on the dishes you just prepared.</p>
-    </article>
-    <article>
-      <img data-original="/assets/images/exp_austin_culinary_group.jpg" src="/assets/images/exp_austin_culinary_group.jpg" alt="Austin cooking classes" >
-      <h2>Group Cooking Demo</h2>
-      <p class="description">You know those people who make entertaining and preparing recipes look so effortless? After this culinary adventure, you’ll be one of them. Learn how to whip up tempting appetizers, perfect the art of the cocktail and create an unforgettable meal as Travaasa Austin’s executive culinary team demonstrates tried and true techniques that will take your culinary skills to the next level. Watch as skilled chefs prepare a rotating menu of dishes, discover new and accessible ingredients, and have your burning culinary questions answered by the experts.</p>
-    </article>
-    <article>
-      <img data-original="/assets/images/exp_austin_culinary_juice.jpg" src="/assets/images/exp_austin_culinary_juice.jpg" alt="Juicing classes" >
-      <h2>Juicing 2.0</h2>
-      <p class="description">From detoxifying your body to providing you with a wealth of essential nutrients, there are many benefits to juicing. From detoxifying your body to providing you with a wealth of essential nutrients, there are many benefits to juicing. If you've ever given up on juicing due to the complicated prep and messy cleanup, this is the class for you. We bring you an interactive meal-making program focused on the use of a blender and fresh, whole food.  By the end, you’ll be amazed at just how easy juicing can be. This is a hands-on, experiential class that provides a novel way to discover the exciting possibilities of food. This is juicing Travaasa-style. And,  we don’t stop at creating flavorful juices. We use whole foods to blend  and mix into hot soups, ice cream, salsas, dips, spreads and desserts — all from scratch and all delicious.</p>
-    </article>
-    <article>
-      <img data-original="/assets/images/exp_austin_culinary_tastings.jpg" src="/assets/images/exp_austin_culinary_tastings.jpg" alt="Austin wine tasting" >
-      <h2>Wine Tasting</h2>
-      <p class="description">Sip. Surrender. Savor. Join us for an easy, fun and delicious introduction to enjoying wine through the art of wine tasting. Skip the pretension and learn what you need to know. First of all, wine is not just about knowing what you like. There is a difference between objective quality and subjective enjoyment. We’ll show you how to find the best of both worlds. Let yourself surrender to different tastes you may never get to experience again as you savor new flavors in the heart of Texas Hill Country. Whether you’re new to the world of wine or an experienced oenophile, you’ll enjoy the practical advice and hand-selected varietals of Travaasa Austin’s wine tasting class.</p>
-    </article>
+    <ul class="experience-nav">
+      <li><a href="/austin/austin-experiences/adventure/">ADVENTURE</a></li>
+      <li><a href="/austin/austin-experiences/culinary/" class="on">CULINARY</a></li>
+      <li><a href="/austin/austin-experiences/culture/">CULTURE</a></li>
+      <li><a href="/austin/austin-experiences/fitness/">FITNESS</a></li>
+      <li><a href="/austin/austin-experiences/spa-wellness/">SPA &amp; WELLNESS</a></li>
+    </ul>
+    <div>
+      <article>
+        <img data-original="/assets/images/exp_austin_culinary_basic.jpg" src="/assets/images/exp_austin_culinary_basic.jpg" alt="Austin culinary vacations" >
+        <h2>Basic Culinary Skills</h2>
+        <p class="description">Learn time-saving culinary tricks, discover healthy ingredients and gain practical cooking experience that you can recreate at home after your Travaasa Austin stay during this hands-on cooking class. Our executive culinary team creates a memorable experience that teaches you culinary skills and techniques while showcasing Travaasa house recipes and the nutritional benefits of various ingredients. Let our gourmet culinary team delight you with ways to prepare, cook and present your favorite dishes, then savor the flavors for yourself as you dine on the dishes you just prepared.</p>
+      </article>
+      <article>
+        <img data-original="/assets/images/exp_austin_culinary_group.jpg" src="/assets/images/exp_austin_culinary_group.jpg" alt="Austin cooking classes" >
+        <h2>Group Cooking Demo</h2>
+        <p class="description">You know those people who make entertaining and preparing recipes look so effortless? After this culinary adventure, you’ll be one of them. Learn how to whip up tempting appetizers, perfect the art of the cocktail and create an unforgettable meal as Travaasa Austin’s executive culinary team demonstrates tried and true techniques that will take your culinary skills to the next level. Watch as skilled chefs prepare a rotating menu of dishes, discover new and accessible ingredients, and have your burning culinary questions answered by the experts.</p>
+      </article>
+      <article>
+        <img data-original="/assets/images/exp_austin_culinary_juice.jpg" src="/assets/images/exp_austin_culinary_juice.jpg" alt="Juicing classes" >
+        <h2>Juicing 2.0</h2>
+        <p class="description">From detoxifying your body to providing you with a wealth of essential nutrients, there are many benefits to juicing. From detoxifying your body to providing you with a wealth of essential nutrients, there are many benefits to juicing. If you've ever given up on juicing due to the complicated prep and messy cleanup, this is the class for you. We bring you an interactive meal-making program focused on the use of a blender and fresh, whole food.  By the end, you’ll be amazed at just how easy juicing can be. This is a hands-on, experiential class that provides a novel way to discover the exciting possibilities of food. This is juicing Travaasa-style. And,  we don’t stop at creating flavorful juices. We use whole foods to blend  and mix into hot soups, ice cream, salsas, dips, spreads and desserts — all from scratch and all delicious.</p>
+      </article>
+      <article>
+        <img data-original="/assets/images/exp_austin_culinary_tastings.jpg" src="/assets/images/exp_austin_culinary_tastings.jpg" alt="Austin wine tasting" >
+        <h2>Wine Tasting</h2>
+        <p class="description">Sip. Surrender. Savor. Join us for an easy, fun and delicious introduction to enjoying wine through the art of wine tasting. Skip the pretension and learn what you need to know. First of all, wine is not just about knowing what you like. There is a difference between objective quality and subjective enjoyment. We’ll show you how to find the best of both worlds. Let yourself surrender to different tastes you may never get to experience again as you savor new flavors in the heart of Texas Hill Country. Whether you’re new to the world of wine or an experienced oenophile, you’ll enjoy the practical advice and hand-selected varietals of Travaasa Austin’s wine tasting class.</p>
+      </article>
+    </div>
   </section>
 </article>
 </section>
