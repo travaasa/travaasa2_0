@@ -127,7 +127,10 @@ bottom : -.25em; }
 
 .title { margin:.3em 0; font-size:1.5em; /* 24 / 16 */ font-family:'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; 	 }
 .title span { color:#666666; }
-.description { font-size:.9em; font-style:italic; }
+.description { 
+  font-size:.9em; 
+  font-style:italic; 
+}
 .disclaimer { font-size:.75em; font-style:italic; }
 .inset { font-size:.75em; }
 .inset h2 { font-size:.8em; font-style:italic; margin:0; }
@@ -902,6 +905,18 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
 	/* Experience inner page styles */
 .header-img {
 	display: none;
+}
+.experience-inner-tiles article {
+  background-color: #fafafa;
+  border-radius: 4px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
+  margin-bottom: 12px;
+}
+.experience-inner-tiles article h2,
+.experience-inner-tiles article .description{
+  -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+  padding-left: 17px;
+  padding-right: 17px;
 }
 
 @media (min-width: 600px) {
