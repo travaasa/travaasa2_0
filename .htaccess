@@ -11,6 +11,20 @@ RewriteRule (css|jpg|png|gif|js|swf)$ - [L]
 
 RewriteCond %{HTTP_HOST} ^184\.106\.113\.117
 RewriteRule (.*) http://www.travaasa.com/$1 [R=301,L]
+RewriteRule ^hana/#(.*)$ http://travaasa.com/hana/$1 [R=302,L]
+
+
+AddType image/svg+xml svg svgz
+AddEncoding gzip svgz
 
 # 404 page
- ErrorDocument 404 /404.html
+ErrorDocument 404 /404.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /careers/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /careers/index.php [L]
+</IfModule>
