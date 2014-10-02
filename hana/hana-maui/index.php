@@ -159,7 +159,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
                 <img src="/assets/images/hana-runway.jpg" width="885" alt="Hana Airport (HNM) Runway">
                 <br><br>
                 <h3>Three Daily Roundtrip Flights from Kahului to Hana Airport</h3>
-                <p>Getting to Hana has never been easier. In partership with <a href="http://mokuleleairlines.com" taret="_blank"><strong>Mokulele Airlines</strong></a>, Travaasa offers the ability connect from Kahului (OGG), with two-way shuttle service from the resort to Hana Airport (HNM).  We'll even include roundtrip airfare from Kahului to Hana Airport when you book three or more consecutive nights on a <a href="/hana/hana-rates-and-packages">Total Travaasa Package</a>.</p>
+                <p>Getting to Hana has never been easier. In partnership with <a href="http://mokuleleairlines.com" taret="_blank"><strong>Mokulele Airlines</strong></a>, Travaasa offers the ability connect from Kahului (OGG), with two-way shuttle service from the resort to Hana Airport (HNM).  We'll even include roundtrip airfare from Kahului to Hana Airport when you book three or more consecutive nights on a <a href="/hana/hana-rates-and-packages">Total Travaasa Package</a>.</p>
                 <p><em>Ask a reservations team member for details.</em></p>
         </div>
     </div>
