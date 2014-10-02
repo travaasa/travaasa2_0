@@ -15,7 +15,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Travaasa November 2014 Featured Experiences</title>
+  <title>Travaasa December 2014 Featured Experiences</title>
   <meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
   <meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
   <?php 
@@ -55,7 +55,7 @@ endif;
 ?>
 </header><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><img src="/assets/images/feature_months_november_2013_1600x640.jpg" alt="December is Joy Month at Travaasa"></div>
+      <div class="slide"><img src="/assets/images/feature_months_december_2013_1600x640_austin.jpg" alt="December is Joy Month at Travaasa"></div>
     </div>
 </section>
 <section id="content">
@@ -246,10 +246,9 @@ endif;
   <section class="grey pad">
         <h4>See upcoming months</h4>
       <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/september/"><img src="/assets/images/months/sep-discover.png" alt="September is Discover Month"></a></div></div>
             <div class="col span_1_of_3 month"><div><a href="/calendar/2014/october/"><img src="/assets/images/months/oct-harvest.png" alt="October is Harvest Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/november/"><img src="/assets/images/months/nov-stop.png" alt="November is Stop Month"></a></div></div>
-
+            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/november/"><img src="/assets/images/months/nov-stop.png" alt="November is Stop Month"></a></div></div>
+            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
         </div>
   </section>
   
