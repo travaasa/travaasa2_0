@@ -337,9 +337,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-labels">Width x Length</td>
                                 <td class="meetings-table-data">20' x 24'</td>
                             </tr>
-
-                                <tr><td class="meetings-table-labels">Square Feet</td>
+                                <tr><td class="meetings-table-labels">Interior Square Feet</td>
                                 <td class="meetings-table-data">576</td>
+                            </tr>
+                            <tr><td class="meetings-table-labels">Exterior Garden Square Feet</td>
+                                <td class="meetings-table-data">2500</td>
                             </tr>
                                 <tr><td class="meetings-table-labels">Height</td>
                                 <td class="meetings-table-data">11' – 18'</td>
@@ -427,7 +429,7 @@ austinsales@travaasa.com</a></td>
                 <div class="magnify">
                   <a href="/assets/images/gallery/austin/large-mesquite-patio2.jpg" data-flare-gallery="galleryPatio" data-target="flare" data-flare-scale="fitmax" title="Austin corporate meetings" alt="Austin corporate meetings"></a>
                 </div>
-                <a href="/assets/images/gallery/austin/large-mesquite-patio.jpg" data-flare-gallery="galleryPatio" data-target="flare" data-flare-scale="fitmax" title="Mesquite Patio"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-mesquite-patio.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Executive retreat ideas"></a>
+                <a href="/assets/images/gallery/austin/large-mesquite-patio2.jpg" data-flare-gallery="galleryPatio" data-target="flare" data-flare-scale="fitmax" title="Mesquite Patio"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-mesquite-patio.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Executive retreat ideas"></a>
                 </div>
                 <div class="col span_1_of_2">
                     <table class="meetings-table">
@@ -490,15 +492,15 @@ austinsales@travaasa.com</a></td>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-solidago-exterior.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Solidago Gardens"><img class="lazy" data-original="/assets/images/gallery/austin/100-solidago-exterior.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Solidago Gardens"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-solidago-grass.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Solidago Gardens"><img class="lazy" data-original="/assets/images/gallery/austin/100-solidago-grass.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Solidago Gardens"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/large-solidago-gardens-2.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Solidago Gardens"><img class="lazy" data-original="/assets/images/gallery/austin/small-solidago-gardens-2.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Solidago Gardens"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/large-solidago-gardens-3.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Solidago Gardens"><img class="lazy" data-original="/assets/images/gallery/austin/small-solidago-gardens-3.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Solidago Gardens"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-solidago-interior.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Solidago Gardens"><img class="lazy" data-original="/assets/images/gallery/austin/100-solidago-interior.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Solidago Gardens"></a></div>
-			</div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-the-preserve.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Preserve Kitchen + Bar"><img class="lazy" data-original="/assets/images/gallery/austin/100-the-preserve.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="The Preserve Kitchen + Bar"></a></div>			
+            </div>
             <div class="group">
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-foyer.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Live Oak Foyer"><img class="lazy" data-original="/assets/images/gallery/austin/100-foyer.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Foyer"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/large-parlor.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Austin Texas Meetings"><img class="lazy" data-original="/assets/images/gallery/austin/100-parlor.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Parlor"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1229-mesquite-patio.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="View from the Mesquite Patio"><img class="lazy" data-original="/assets/images/gallery/austin/100-mesquite-patio.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Mesquite Patio"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-mesquite-patio2.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Mesquite Patio"><img class="lazy" data-original="/assets/images/gallery/austin/100-mesquite-patio2.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Mesquite Patio"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-jeans-kitchen.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Jean's Kitchen"><img class="lazy" data-original="/assets/images/gallery/austin/100-jeans-kitchen.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Jean's Kitchen"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-chefs-table.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Chef's Table"><img class="lazy" data-original="/assets/images/gallery/austin/100-chefs-table.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Chef's Table"></a></div>
 			</div>
 
 			<h4>Grounds</h4>
@@ -514,7 +516,7 @@ austinsales@travaasa.com</a></td>
             	<div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-challenge-course-b.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Climbing the rope on the challenge course"><img class="lazy" data-original="/assets/images/gallery/austin/100-challenge-course-b.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Climbing the rope on challenge course"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-challenge-course.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Prickly Pear Challenge Course"><img class="lazy" data-original="/assets/images/gallery/austin/100-challenge-course.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="The Prickly Pear Challenge Course"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1229-zip-line.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Atop the Prickly Pear Challenge Course"><img class="lazy" data-original="/assets/images/gallery/austin/100-zip-line.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Challenge Course"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-geocaching.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Geocaching"><img class="lazy" data-original="/assets/images/gallery/austin/100-geocaching.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Geocaching"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-mesquite-patio-wine.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Mesquite Patio"><img class="lazy" data-original="/assets/images/gallery/austin/100-mesquite-patio-wine.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Mesquite Patio"></a></div>
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-fitness-center.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Agave Fitness Center"><img class="lazy" data-original="/assets/images/gallery/austin/100-fitness-center.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Agave Fitness Center"></a></div>
 			</div>
             <div class="group">
