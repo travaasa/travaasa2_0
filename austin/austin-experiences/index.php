@@ -84,6 +84,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </div>
         </div>
         <div class="slide">
+          <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_mountain_biking.jpg" src="/assets/images/global/placeholder.gif" alt="Mountain biking" width="440" height="290">
+            <h5>Mountain Biking &amp; Private Bike Sessions</h5>
+            <p class="description">Come experience a bite-size piece of Austin Hill Country on our cross-country mountain bike trail. Whether you’re an experienced rider or new to the sport, our expert instructor will guide you along our single track based on your skill level and preference. Designed for a few quick laps, our short track is sure to leave you re-energized and ready to take on your next activity.<br>Looking for something specific? Private Bike Sessions may cover anything from maintenance education to in-depth pump track or mountain bike instruction. Led by our resident bike mechanic, maintenance classes range from basic education to high-end repair. Private riding lessons cater to first-timers as well as seasoned riders.</p>
+          </div>
+        </div>
+
+        <div class="slide">
           <div class="slide_inner"><img data-original="/assets/images/exp_austin_adventure_archery.jpg" src="/assets/images/global/placeholder.gif" alt="Austin archery" width="440" height="290">
             <h5>Archery</h5>
             <p class="description">Learn the fundamentals that create the foundation of archery while boosting your mental attention and connecting your breath to physical performance. Experience techniques to develop your focus, patience, flexibility, concentration, and attention skills and understand why great archers continually exercise these simple concepts to heighten all aspects of their lives.</p>

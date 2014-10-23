@@ -46,17 +46,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix notheater">
     <div class="group">
-      <h2>The Spa gets a new home for the summer</h2>
+      <h2>The Recently Renovated Spa at Travaasa Austin is Now Open</h2>
       <!--<a class="btn-list scroll" href="https://travaasa.ticketbud.com/jamandjive" target="_blank">PURCHASE TICKETS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn-list scroll" href="/preferences"target="_blank">GET UPDATES</a>-->
       <br>
 
-<p>The Spa at Travaasa Austin will be spending some time getting renewed! The primary facilities will be closed June 1st – September 12th for renovations. The Watsu pool will be unavailable from May 21st – September 12th.</p>
+<p>The Spa at Travaasa Austin has been renewed! While the primary facilities have reopened, the Watsu pool will be unavailable until December 15.</p>
 
-<p>In the meantime, we’re transforming our entire Alamo Hacienda into a collection of private suites for our spa's home away from home. The living room style parlor will serve as the new spa front desk. You can look forward to fresh fruit in the morning, and tea and cookies in the afternoon.</p>
 
-<p>For a select number of transition days (September 7th–12th), there will be <u><strong>no spa facilities or services available</strong></u>. Our infinity edge pool will be open throughout the renovation.</p>
-
-<h4><strong>The new spa opens September 13th.</strong></h4><br>
+<h4><strong>Come experience all the new features of our updated spa!</strong></h4><br>
 <div class="group">
                   <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-spa-reno-01.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/100-spa-reno-01.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Renovation"></a></div>
                   <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/1433-spa-reno-02.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/100-spa-reno-02.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Renovation"></a></div>

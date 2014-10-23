@@ -387,9 +387,22 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
 
-            <a href="/spa-renovation"><img src="/assets/images/spa-reno-email.jpg".></a><br><br>
+           <!--<a href="/spa-renovation"><img src="/assets/images/spa-reno-email.jpg".></a><br><br>-->
             <h2>SEASONAL TREATMENT</h2>
             <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
+
+ <section class="spa_package">
+                <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
+                <p>Utilizing the cleansing and soothing properties of nettle, grape and carrot, this facial gently cleanses and tones. Infusing skin with vitamins A, E and C, the pumpkin, orange and cinnamon mask increases circulation. Following, the soothing carrot mask and carotene cream massage, revitalizes dry, dehydrated skin.</p>
+                <h5>80 minutes &#8211; $180 </h5>
+              </section>
+
+               <section class="spa_package">
+                <h4>FARM-TO-BODY PUMPKIN DETOX BODY WRAP</h4>
+                <p>For a whole-body detox, try a soothing body wrap that incorporates organic pumpkin (sourced from Travaasa’s own farm) in addition to products from our spa’s base line, ilike organic body care. The orange and cinnamon ingredients clean and balance skin, while the nutrient-rich pumpkin works to nourish and re-hydrate. A calming linden and marigold cream massage completes the treatment.</p>
+                <h5>80 minutes &#8211; $185 </h5>
+              </section>
+
 
             <section class="spa_package">
                 <h4>HANA COCOMINT BODY TREATMENT &amp; MASSAGE</h4>
