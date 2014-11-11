@@ -68,6 +68,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
         	<h5>For guests staying at Travaasa Austin</h5>
             <ul class="tabbed_list">
                 <li id="tab_6"><a href="#special_packages">Special Packages&nbsp;&nbsp;&#38;&nbsp;&nbsp;Seasonal Treatments</a></li>
+                <li id="tab_10"><a href="#gallery">Gallery</a></li>
                 <li id="tab_1"><a href="#body_treatments">Body Treatments</a></li>
                 <li id="tab_2"><a href="#facials">Facials</a></li>
                 <li id="tab_4"><a href="#massage_therapy">Massage Therapy</a></li>
@@ -88,6 +89,26 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             	<li id="tab_8" class="featured"><a href="#reservation_information">Reservations &amp; Information</a>
             </ul>
          </div>
+    </div>
+    <div id="gallery" class="tab_data">
+        <div class="tab_data_inner">
+            <!--<br><hr><br>
+            <h4>Meeting Facilities</h4>-->
+            <div class="group">
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-front-desk-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Spa Front Desk"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-front-desk-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Front Desk"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-hallway-with-pillows-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Spa Hallway"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-hallway-with-pillows-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Hallway"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-outside-seating-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Spa Outside Seating"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-outside-seating-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Outside Seating"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-waiting-room-02-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Spa Waiting Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-waiting-room-02-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Waiting Room"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-inside-seating-01-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Spa Inside Seating"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-inside-seating-01-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Inside Seating"></a></div>
+          </div>
+          <div class="group">
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-couples-room-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Couples Treatment Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-couples-room-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Couples Treatment Room"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-couples-courtyard-02-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Couples Courtyard"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-couples-courtyard-02-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Couples Courtyard"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-womens-locker-room-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Locker Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-womens-locker-room-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Locker Room"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-womens-lockers-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Lockers"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-womens-lockers-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Lockers"></a></div>
+                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-steam-room-01-1440.jpg" data-flare-gallery="gallery01" data-target="flare" data-flare-scale="fitmax" title="Steam Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-steam-room-01-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Steam Room"></a></div>
+          </div>
+        </div>
     </div>
     <div id="body_treatments" class="tab_data">
         <div class="tab_data_inner">
