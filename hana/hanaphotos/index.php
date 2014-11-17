@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="grey pad">
-  	<h4>GROUNDS</h4>
+  	<h4 style="text-align:center;">GROUNDS</h4>
     <div id="gallery1-wrapper" class="gallery section">
     	<div class="group">
             <!--<div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-hana-aerial.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Aerial View of Travaasa Hana"><img class="lazy" data-original="/assets/images/gallery/hana/1433-hana-aerial-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
@@ -75,7 +75,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
   </section>
   <section class="grey pad">
-  	<h4>ACCOMMODATIONS</h4>
+  	<h4 style="text-align:center;">ACCOMMODATIONS</h4>
     <div id="gallery2-wrapper" class="gallery section">
     	<div class="group">
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-sea-ranch-exteriors.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottages"><img class="lazy" data-original="/assets/images/gallery/hana/1433-sea-ranch-exteriors-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
@@ -95,7 +95,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
   </section>
   <section class="grey pad">
-  	<h4>ACTIVITIES</h4>
+  	<h4 style="text-align:center;">ACTIVITIES</h4>
     <div id="gallery3-wrapper" class="gallery section">
     	<div class="group">
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-hana-bike.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Biking around Hana"><img class="lazy" data-original="/assets/images/gallery/hana/1433-hana-bike-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
@@ -115,7 +115,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
   </section>
   <section class="grey pad">
-  	<h4>THE SPA AT TRAVAASA</h4>
+  	<h4 style="text-align:center;">THE SPA AT TRAVAASA</h4>
     <div id="gallery4-wrapper" class="gallery section">
     	<div class="group">
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-spa-shower.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Spa at Travaasa"><img class="lazy" data-original="/assets/images/gallery/hana/1433-spa-shower-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
@@ -127,7 +127,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
   </section>
 <section class="grey pad">
-    <h4>TRAVAASA ADS</h4>
+    <h4 style="text-align:center;">TRAVAASA ADS</h4>
     <div id="gallery5-wrapper" class="gallery section">
       <div class="group">
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/hana/ads-hana-01.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Hana Ad 1"><img class="lazy" data-original="/assets/images/gallery/hana/ads-hana-01-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Hana Ad 1"></a></div>
