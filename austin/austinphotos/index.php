@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
 <section class="grey pad">
-  	<h4>ACCOMMODATIONS</h4>
+  	<h4 style="text-align:center;">ACCOMMODATIONS</h4>
     <div id="gallery1-wrapper" class="gallery section">
         <div class="group">
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img class="lazy" data-original="/assets/images/gallery/austin/canyon-signature-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Canyon View Room"></a></div>
@@ -52,10 +52,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/bed-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Organic Cotton Sheets"><img class="lazy" data-original="/assets/images/gallery/austin/bed-double-small.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Organic Cotton Sheets"></a></div>
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/1229-austin-scenic-view.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin on the Balcones Canyonlands Preserve"><img class="lazy" data-original="/assets/images/gallery/austin/100-austin-scenic-view.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Balcones Canyonlands Preserve"></a></div>
         </div>
+        <a name="spa-gallery">&nbsp;</a>
       </div>
 </section>
 <section class="grey pad">
-  	<h4>THE SPA AT TRAVAASA</h4>
+  	<h4 style="text-align:center;">THE SPA AT TRAVAASA</h4> 
     <div id="gallery2-wrapper" class="gallery section">
         <div class="group">
                 <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-front-desk-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Front Desk"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-front-desk-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Front Desk"></a></div>
@@ -82,7 +83,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        </div>
 </section>
 <section class="grey pad">
-  	<h4>GROUNDS</h4>
+  	<h4 style="text-align:center;">GROUNDS</h4>
     <div id="gallery3-wrapper" class="gallery section">
     	<div class="group">
                 <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/1229-infinity-pool-cool.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Infinity Edge Pool"><img class="lazy" data-original="/assets/images/gallery/austin/100-infinity-pool-cool.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Infinity Edge Pool"></a></div>
@@ -102,7 +103,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </section>
 <section class="grey pad">
-  	<h4>EXPERIENCES</h4>
+  	<h4 style="text-align:center;">EXPERIENCES</h4>
     <div id="gallery4-wrapper" class="gallery section">
     	<div class="group">
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/1433-swing.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Giant Swing"><img class="lazy" data-original="/assets/images/gallery/austin/100-swing.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Giant Swing"></a></div>
@@ -121,7 +122,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      </div>
 </section>
 <section class="grey pad">
-    <h4>TRAVAASA ADS</h4>
+    <h4 style="text-align:center;">TRAVAASA ADS</h4>
     <div id="gallery5-wrapper" class="gallery section">
       <div class="group">
             <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/ads-austin-01.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin Ad 1"><img class="lazy" data-original="/assets/images/gallery/austin/ads-austin-01-thumb.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Travaasa Austin Ad 1"></a></div>
