@@ -33,6 +33,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="grey pad">
+    <h4 style="text-align:center;">AERIALS</h4>
+    <div id="gallery2-wrapper" class="gallery section">
+      <div class="group">
+            <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-hana-aerial.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Aerial View of Travaasa Hana"><img class="lazy" data-original="/assets/images/gallery/hana/1433-hana-aerial-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
+            <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-hana-aerial-2.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Aerial View of Travaasa Hana"><img class="lazy" data-original="/assets/images/gallery/hana/1433-hana-aerial-2-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
+            <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-hana-aerial-3.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Aerial View of Travaasa Hana"><img class="lazy" data-original="/assets/images/gallery/hana/1433-hana-aerial-3-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
+            <div class="col span_1_of_5"><a href="http://vimeo.com/112143558" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Aerial View of Hamoa Bay"><img class="lazy" data-original="/assets/images/gallery/hana/1433-hana-aerial-5-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
+            <div class="col span_1_of_5"><a href="http://vimeo.com/112130134" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Aerial View of Travaasa Hana"><img class="lazy" data-original="/assets/images/gallery/hana/1433-hana-aerial-4-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
+      </div>
+    </div>
+  </section>
+  <section class="grey pad">
   	<h4 style="text-align:center;">GROUNDS</h4>
     <div id="gallery1-wrapper" class="gallery section">
     	<div class="group">
