@@ -53,6 +53,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div>
         <article>
           <img data-original="/assets/images/exp_hana_spa_body_treatments.jpg" src="/assets/images/exp_hana_spa_body_treatments.jpg" alt="The Spa at Travaasa Hana Maui spa at Hana">
+<<<<<<< HEAD
           <br />
           <h2>The Spa at Travaasa Hana</h2>
           <p class="description">At The Spa at Travaasa Hana, we gratefully utilize the incredible bounty of Hana, using its abundant plants, minerals and water to blend in our teas and create natural body and face products and treatments. Our spa menu is designed to do more than pamper your body. We believe in honoring your body by purposefully using the healing, revitalizing and nourishing properties of local plants and essential oils to create a truly rejuvenating experience. The wide variety of therapeutic services we offer prepares our guests to experience Hana more fully, thus restoring feelings of balance and wellness to body, mind, spirit and emotion.  <a href="http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/">Spa Information</a></p>
@@ -62,6 +63,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <br />
           <h2>Guided Meditation</h2>
           <p class="description">We help demystify the ancient practice of meditation: bringing awareness to our moment-to-moment experiences. This simple — but not easy — practice of acceptance, letting go, non-striving and suspension of the judgmental mind leaves us with a deep sense of openness and receptivity to ourselves, to others and to the moment as it unfolds. Learn basic meditation techniques, such as breathing and visualization, and practice this art of mindful awareness under the gentle guidance of your instructor. By the end of this peaceful meditation, you’ll find yourself in a new state of calm after quieting your mind and focusing on the moment.  <a href="http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/">Spa Information</a></p>
+=======
+          <h2>The Spa at Travaasa Hana</h2>
+          <p class="description">At The Spa at Travaasa Hana, we gratefully utilize the incredible bounty of Hana, using its abundant plants, minerals and water to blend in our teas and create natural body and face products and treatments. Our spa menu is designed to do more than pamper your body. We believe in honoring your body by purposefully using the healing, revitalizing and nourishing properties of local plants and essential oils to create a truly rejuvenating experience. The wide variety of therapeutic services we offer prepares our guests to experience Hana more fully, thus restoring feelings of balance and wellness to body, mind, spirit and emotion.</p>
+        </article>
+        <article>
+          <img data-original="/assets/images/exp_hana_spa_guided_mediation.jpg" src="/assets/images/exp_hana_spa_guided_mediation.jpg" alt="Guided Meditation Hawaii meditation classes">
+          <h2>Guided Meditation</h2>
+          <p class="description">In this Travaasa, we help demystify the ancient practice of meditation: bringing awareness to our moment-to-moment experiences. This simple — but not easy — practice of acceptance, letting go, non-striving and suspension of the judgmental mind leaves us with a deep sense of openness and receptivity to ourselves, to others and to the moment as it unfolds. Learn basic meditation techniques, such as breathing and visualization, and practice this art of mindful awareness under the gentle guidance of your instructor. By the end of this peaceful meditation, you’ll find yourself in a new state of calm after quieting your mind and focusing on the moment.</p>
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
         </article>
       </div>
 

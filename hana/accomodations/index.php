@@ -6,9 +6,15 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<<<<<<< HEAD
 	<title>Travaasa Hana Luxury Resort & Cottages | All Inclusive Maui Resort</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Travaasa Hana is unique among Maui hotels and resorts. Experience Hawaiian island culture, total relaxation and luxury accommodations in Hana at Travaasa, one of the finest all include resorts in Hawaii. "
+=======
+	<title>Travaasa Hana Luxury Resort & Cottages | All Inclusive Maui Resort </title>
+	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
+	<meta name="description" content="Travaasa Hana is unique among Maui hotels and resorts. Experience Hawaiian island culture, total relaxation and luxury accommodations in Hana at Travaasa, one of the finest all include resorts in Hawaii. " />
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
@@ -33,12 +39,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
+<<<<<<< HEAD
           <h1>Hana Luxury Resort Rooms and Cottages on Maui</h1>
          <p>As you surrender to the timeless tranquility of the <a href="http://travaasa.com/hana/hana-maui/" target="_self">Town of Hana</a>, the rest of the world — even the island of Maui — feels as if it’s a world away. By the time you arrive at the tropical resort sanctuary that is Travaasa Hana, you can’t help but enter a Hana state of mind.</p>
          <p>Redefining luxury, the experience of Hana embraces the low-key vibe of this enchanted Hawaiian destination. Spacious resort cottages and private suites set a peaceful mood for your stay, whether you’re watching the waves roll across the Pacific Ocean from the private lanai of your Sea Ranch Cottage or relaxing in the spacious rooms of our Garden View or Waikoloa Family Suites. Whichever room type you choose, you’ll be pleased to discover our Hana accommodations feature organic linens, locally made bath amenities and organic whole bean coffee. In an environment free of radios, clocks, and televisions, nothing will distract you from the natural beauty and relaxation of Heavenly Hana.</p>
          <p>The spirit of Hawaii is yours to discover through our signature <a href="http://travaasa.com/hana/travaasa-hana-experiences/" target="_self">Travaasa Experiences</a>. Our inclusive (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Total Travaasa</a>) and a la carte (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a>) options give you the freedom to embrace Hana your way. See our <a href="http://www.travaasa.com/hana/hana-rates-and-packages/">rates and packages</a>. Start your day with a <a href="http://travaasa.com/hana/travaasa-hana-experiences/fitness/" target="_self">guided nature walk</a> along Hana’s Coast, <a href="http://travaasa.com/hana/travaasa-hana-experiences/culture/" target="_self">learn to string your own fragrant lei</a> or take your relaxation to the next level with one of the <a href="http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/" target="_self">finest spa treatments</a> in all of Hana. These experiences and more are yours to enjoy with our inclusive Total Travaasa option, which nourishes mind, body and soul with experiences, meals and non-alcoholic drinks.</p>
          <p>Or, choose the <a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a> option and add experiences to your stay a la carte. Either way, Travaasa lets you design the Hana experience you’ll remember for years to come.</p>
          <p>Whether you choose a private suite or a resort cottage with an inclusive package or a la carte experiences, Travaasa Hana invites you to relax — after all, you’re on Hana time now.</p>
+=======
+          <h1>HANA LUXURY RESORT ROOMS AND COTTAGES ON MAUI</h1>
+         <p>As you surrender to the timeless tranquility of the Town of Hana, the rest of the world — even the island of Maui — feels as if it’s a world away. By the time you arrive at the tropical resort sanctuary that is Travaasa Hana, you can’t help but enter a Hana state of mind.</p>
+         <p>Our luxury accommodations in Hana embrace the low-key vibe of this enchanted Hawaiian destination. Luxury resort cottages and private suites set a peaceful mood for your stay, whether you’re watching the waves roll across the Pacific Ocean from the private lanai of your Sea Ranch Cottage or relaxing in the spacious rooms of our Garden View or Waikoloa Family Suites. Whichever room type you choose, you’ll be pleased to discover our Hana accommodations feature organic linens, locally made bath amenities, and organic whole bean coffee. In an environment free of radios, clocks, and televisions, nothing will distract you from the natural beauty and relaxation of Heavenly Hana.</p>
+         <p>The spirit of Hawaii is yours to discover through our signature Travaasa Experiences. Our all-inclusive (Total Travaasa) and a la carte (Your Travaasa) options give you the freedom to embrace Hana your way. Start your day with a guided nature walk along Hana’s Coast, learn to string your own fragrant lei or take your relaxation to the next level with one of the finest spa treatments in all of Hana. These experiences and more are yours to enjoy with our all-inclusive Total Travaasa option, which nourishes mind, body and soul with experiences, meals, and non-alcoholic drinks.</p>
+         <p>Or, choose the Your Travaasa option and add experiences to your stay a la carte. Either way, Travaasa lets you design the Hana experience you’ll remember for years to come.</p>
+         <p>Whether you choose a luxury suite or a resort cottage with an all-inclusive package or a la carte experiences, Travaasa Hana invites you to relax — after all, you’re on Hana time now.</p>
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
           <div class="col span_1_of_1"><a href="/pdf/Travaasa-Hana-Maui-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
   </section>
   <section class="grey pad group">

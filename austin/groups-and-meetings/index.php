@@ -434,7 +434,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
     <h2>Chef's Table</h2>
+<<<<<<< HEAD
     <p>Bright ideas come standard with this sunny space. Centrally located across from the restaurant with easy access to the bar and Mesquite Patio, the Chef's Table is a great space for executive retreats, breakaway sessions and other small groups. Featuring stained concrete floors, a unique collection of books and windows overlooking the courtyard, the clean, modern design is centered on a long table that can be utilized for meetings, dining or buffet service. Beyond brainstorming, the room is an ideal setting for a hospitality suite or a private dining experience.</p>
+=======
+    <p>Bright ideas come standard with this sunny space. Centrally located across from the restaurant with easy access to the bar and Mesquite Patio, the Chef’s Table is a great space for executive retreats, breakaway sessions and other small groups. Featuring stained concrete floors, a unique collection of books and windows overlooking the courtyard, the clean, modern design is centered on a long table that can be utilized for meetings, dining or buffet service. Beyond brainstorming, the room is an ideal setting for a hospitality suite or a private dining experience. </p>
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 
     <br><hr><br>
             <!--<div class="group">

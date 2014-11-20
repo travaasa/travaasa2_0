@@ -150,6 +150,38 @@ sub {
 	padding-left: 8%;
 	width: 90%;
 }
+<<<<<<< HEAD
+=======
+
+small { 
+font-size : 1em; /* 16 / 16 = 1 */ }
+
+sub, sup { 
+font-size : 75%; 
+line-height : 0; 
+position : relative; 
+vertical-align : baseline; }
+
+sup { 
+top : -.5em; }
+
+sub { 
+bottom : -.25em; }
+
+
+.title { margin:.3em 0; font-size:1.5em; /* 24 / 16 */ font-family:'Gill Sans W04 Light', "Gill Sans MT", Calibri, sans-serif; 	 }
+.title span { color:#666666; }
+.description { 
+  font-size:.9em; 
+  font-style:italic; 
+}
+.disclaimer { font-size:.75em; font-style:italic; }
+.inset { font-size:.75em; }
+.inset h2 { font-size:.8em; font-style:italic; margin:0; }
+.inset .inset_title { color:#333333; font-style:italic; margin:0; }
+#carousel_inset { padding-left:8%; width:90%; }
+
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 /* FORMS */
 
 .form-container {
@@ -753,9 +785,38 @@ p {
 .location_condensed_nav {
 	display: none;
 }
+<<<<<<< HEAD
 .location_condensed_nav li.menu_main a {
 	padding-right: 55px;
 	background: url(../images/global/sprite.png) 70px -197px no-repeat;
+=======
+.experience-inner-tiles article {
+  background-color: #fafafa;
+  border-radius: 4px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.297);
+  margin-bottom: 12px;
+}
+.experience-inner-tiles article h2,
+.experience-inner-tiles article .description{
+  -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+  padding-left: 17px;
+  padding-right: 17px;
+}
+
+@media (min-width: 600px) {
+	.experience-inner-tiles{overflow: hidden;}
+	.experience-inner-tiles article{
+		-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+		width: 49.5%;
+		float: left;
+		clear: none;
+	}
+	.experience-inner-tiles article:nth-child(odd){
+		margin-right: 1%;
+	}
+	.experience-inner-tiles article img{width: 100%; height: auto;display: block;}
+	.experience-inner-tiles article h2{font-size: 1em;text-transform: capitalize;line-height: 100%;margin-bottom: 0;}
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 }
 .location_condensed_nav li.menu_main a:hover {
 	color: #000000;

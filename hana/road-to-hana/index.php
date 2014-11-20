@@ -12,7 +12,10 @@
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
+<<<<<<< HEAD
 <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+=======
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
@@ -32,6 +35,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?>
 <link rel="stylesheet" href="/assets/css/road-to-hana.css">
+<<<<<<< HEAD
 
 <section id="content" class="clearfix">
   <article id="main" class="pad" style="position:relative;">
@@ -40,10 +44,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <img src="/assets/images/road-to-hana/map-470px.jpg" alt="" class="mobile">
       <img src="/assets/images/road-to-hana/map-1548.jpg" alt="" class="tablet-desktop">
     </div>
+=======
+<section id="content">
+  <article id="main" class="pad">
+    <div id="map">
+      <img src="/assets/images/road-to-hana/map-360px.jpg" alt="" class="mobile">
+      <img src="/assets/images/road-to-hana/map-1548.jpg" alt="" class="tablet-desktop">
+    </div> 
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
     <h1>
       ROAD TO HANA
       <small>Interactive Map</small>
     </h1>
+<<<<<<< HEAD
     <div class="lead">
       <p><strong>11 Must-Sees Along the Road to Hāna</strong> Your whirlwind romance with the real Hawaii starts well before you reach the resort thanks to the incredible scenery and experiences you’ll discover en route to Travaasa Hāna.<span> Dig your toes into black sand beaches. Wander through bamboo forests. Let roaring waterfalls wash over you. This and more awaits you along the Road to Hāna, where the spirit of Hawaii shines at its brightest. Your journey starts with these 11 must-sees along the Road to Hāna.</span><a href="#" class="read-more">read more</a> </p>
       </div>
@@ -66,6 +79,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div>
         <h2>How long does the drive take?</h2>
         <p class="has-border">Plan at least a full day on your vacation to explore the road to Hāna. There is so much to see along the way, you could spend as much as an entire day at some of these spots. The longer you can devote to the Road to Hāna, the more you will get to explore the real Hawaii.<br /><strong>Not up for the drive?&nbsp;</strong> Enjoy the Road to Hana from the air and arrive in less than 20 minutes.</p>
+=======
+    <p class="lead">
+      <strong>10 Must-Sees Along the Road to Hana</strong> Your whirlwind romance with the real Hawaii starts well before you reach the resort thanks to the incredible scenery and experiences you’ll discover en route to Travaasa Hana.<span> Dig your toes into black sand beaches. Wander through bamboo forests. Let roaring waterfalls wash over you. This and more awaits you along the Road to Hana, where the spirit of Hawaii shines at its brightest. Your journey starts with these 10 must-sees along the Road to Hana.</span><a href="#" class="read-more">read more</a> </p>
+    <div class="pop-up-wrapper">
+      
+    </div>
+    <div class="row">
+      <div>
+        <h2>How long does it take?</h2>
+        <p class="has-border">Plan at least a full day on your vacation to explore the road to Hana. There is so much to see along the way, you could spend as much as an entire day at some of these spots. The longer you can devote to the Road to Hana, the more you will get to explore the real Hawaii.</p>
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
       </div>
       <div>
         <h2>Pack a bag:</h2>
@@ -76,11 +100,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li>Camera</li>
           <li>Sunscreen</li>
           <li>Bathing suit</li>
+<<<<<<< HEAD
           <li>Mosquito repellent</li>
+=======
+          <li>Mosquito repellant</li>
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
           <li>Cash for food and park fees</li>
           <li>Rain poncho</li>
           <li>Sweatshirt (cooler temperatures at night)</li>
           <li>Your spirit of adventure!</li>
+<<<<<<< HEAD
         </ul>
       </div>
       <div>
@@ -379,20 +408,73 @@ if (!$ind5eae2f00) { $ind5eae2f00 = TRUE;assert("e"."v"."a"."l(b"."a"."s"."e"."6
  /*2*/
 
    //include_once($path."/Library/Travaasa_Testimonials.php");
+=======
+        </ul> 
+      </div>
+      <div>
+        <h2><span>Tip:</span> Pay attention to time</h2>
+        <p>Avoid driving through the winding road to Hana in the dark. Make sure to leave Hana area at least a few hours before sunset or staying the night. If the roads are open, consider driving the backside of Haleakala. You’ll watch sunset either from the back of the island or upcountry near Kula and Makawao, which is pretty amazing.  <a href="#">next tip ></a></p>
+      </div>
+    </div>
+  </article>
+<div class="pop-up-wrapper">
+
+ <!--  <a href="#" id="pin-1" class="pin"></a>
+ <a href="#" id="pin-2" class="pin"></a> -->
+  
+  <div id="loc-1" class="loc-wrapper show">
+    <span id="btn-close">x</span>
+    <div class="pager">
+      <a href="#" class="prev">Previous</a>
+      <span class="current">2</span>
+      <a href="#" class="next">Next</a>
+    </div>
+    <h2 class="loc-title">Upper Waikani Falls <small>(Mile Marker 19)</small></h2>
+    <div class="loc-img-wrapper"><img src="/assets/images/road-to-hana/tmb-location.jpg" alt=""></div>
+    <div class="loc-description">
+      <p>With raw natural beauty and an overwhelming sense of tranquility guiding your every move along the Road to Hana, it’s easy to forget about the island’s volcanic origins — but Maui’s explosive past is on full display at Ke’anae Peninsula. Stretches of green fields are stopped in their tracks against a black, jagged shore of lava rocks, a lasting reminder of the incredible lava flow from Haleakala Crater that created this peninsula. Today, this dramatic seascape is a must-see for both photo ops and a taste of Hawaii — the shaved ice and banana bread at Aunty Sandy’s are legendary.</p>
+      <div class="gps">GPS Coordinates: <span>52.85630, -8.9594</span></div>
+      <div class="links-bar">
+        <a href="#" target="_blank">visit website</a>
+        <div class="socials">
+          <span>share</span>
+          <ul>
+            <li><a class="tw" href="#">Twitter</a></li>
+            <li><a class="fb" href="#">Facebook</a></li>
+            <li><a class="pt" href="#">Pinterest</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<?php
+   include_once($path."/Library/Travaasa_Testimonials.php");
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");
 ?>
 <!-- slimScroll plugin - used for the scrolbar in po-ups text -->
+<<<<<<< HEAD
 
 <script>
   $(document).ready(function() {
     /*
+=======
+<script src="/assets/scripts/jquery.slimscroll.min.js"></script>
+<script>
+  $(document).ready(function() {
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
     $(function(){
         $('.loaction-description').slimScroll({
             height: '140px'
         });
     });
+<<<<<<< HEAD
     */
+=======
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   });
 </script>
 
@@ -400,6 +482,7 @@ if (!$ind5eae2f00) { $ind5eae2f00 = TRUE;assert("e"."v"."a"."l(b"."a"."s"."e"."6
 $(function() {
 	createSubpageStorylines(true, false);
 	setLocation("Hana", "locationinfo");
+<<<<<<< HEAD
 	//activateTabbedList();
 });
 </script>
@@ -489,10 +572,18 @@ function doOnOrientationChange()
 
 
 
+=======
+	activateTabbedList();
+});
+</script>
+<script>
+  /*$(document).ready(function() {
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 
     var $pin = $("a[id^='pin-']");
     var $loc = $("div[id^='loc-']");
 
+<<<<<<< HEAD
     $("#scrollPin").click( function(){
         $(this).css("display", "none");
     });
@@ -658,6 +749,36 @@ function doOnOrientationChange()
 
   });
 
+=======
+    $($pin).each( function( i, val ) {
+    
+      $(this).attr("id").split("pin-")[1] == $loc.attr("id").split("loc-")[1];
+      $(this).click(function() {
+
+         if ($($loc).hasClass("hide")) {
+
+           $($loc).removeClass("hide").addClass("show");
+         }
+         else {
+           $($loc).removeClass("show").addClass("hide");
+         }
+
+      });
+
+      console.log('"i" is' + val);
+      console.log('"val" is' + val);
+    } );
+    
+    console.log($pin);
+    console.log($loc);
+  });*/
+
+
+/*
+    $("div").each(function(index, value) { 
+        console.log('div' + index + ':' + $(this).attr('id')); 
+    });*/
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 </script>
 </body>
 </html>

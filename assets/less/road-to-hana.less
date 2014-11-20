@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .clearfix:after {
     content: ".";
     display: block;
@@ -322,4 +323,261 @@
 
 
 
+=======
+#content{background-color: #C7E5F9;}
+#main {
+	background: transparent;
+	h1 {
+		font-family:"Century Gothic";
+		font-size:32px;
+		line-height:40px;
+		color:rgb(255,255,255);
+		text-align:left;
+		font-weight: bold;
+		small {
+			display: block;
+			font-size:20px;
+			line-height:24px;
+			font-weight: normal;
+			text-transform: capitalize;
+		}
+	}
+	h2 {
+		font-family:"Century Gothic";
+		font-size:24px;
+		line-height:120%;
+		font-weight:bold;
+		color:rgb(255,255,255);
+		text-align:left;
+		text-transform: capitalize;
+		span {
+			color: #CB3053;
+		}
+	}
+	p,
+	ul {
+		font-family:Lato;
+		font-size:14px;
+		line-height:140%;
+		color:rgb(51,51,51);
+		text-align:left;
+		a {
+			text-decoration: underline;
+		}
+	}
+	p.lead {
+		padding-left: 12px;
+		border-left: 2px solid rgb(203,48,85); ;
+		font-family:Lato;
+		font-size:14px;
+		line-height:18px;
+		color:rgb(51,51,51);
+		text-align:left;
+		strong {
+			font-size: 18px;
+			line-height: 26px;
+			display: block;
+		}
+		span {display: none;}
+	}
+	.stuff-list {
+		padding-left: 0;
+		-webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
+		-webkit-column-gap: 12px;
+		-moz-column-gap: 12px;
+		column-gap: 12px;
+		li{list-style:none;}
+		li:before {
+		  content: "• ";
+		}
+	}
+	.has-border {
+		border-bottom: 2px solid rgb(203,48,85);
+		padding-bottom: 18px;
+	}
+	#map {
+		width: 100%;
+		position: absolute;
+		top: 124px;
+		left: 0;
+		z-index: -1;
+		img {
+			display: block;
+			width: 100%;
+		}
+		img.tablet-desktop {display: none;}
+	}
+	.pop-up-wrapper {
+		height: 360px;
+	}
+}
+
+@media (min-width: 360px) {
+	#main {
+		h1 {
+			font-size:38px;
+		}
+		#map {
+			width: 360px;
+		}
+	}
+}
+
+@media (min-width: 480px) {
+	#main{
+		#map {
+			top: 0px;
+			width: 450px;
+		}
+		.pop-up-wrapper {
+			height: 480px;
+		}
+	}
+}
+@media (min-width: 480px) {
+	#main{
+		#map {
+			top: -50px;
+			width: 580px;
+		}
+		.pop-up-wrapper {
+			height: 600px;
+		}
+	}
+}
+
+
+@media (min-width: 768px) {
+	#main{
+		padding-top: 60px;
+		.row {
+			overflow: hidden;
+			margin-bottom: 20px;
+			>div {
+				float: left;
+				-webkit-box-sizing: border-box;
+				   -moz-box-sizing: border-box;
+				        box-sizing: border-box;
+				width: 33.3333%;
+				height: 280px;
+				&:nth-child(1),
+				&:nth-child(2) {
+					padding-right: 24px;
+					border-right: 2px solid rgb(203,48,85);
+				}
+				&:nth-child(2),
+				&:nth-child(3) {padding-left: 24px;}
+			}
+		}
+		#content{padding-top: 60px;}
+		h1 {
+			font-size: 65px;
+			line-height: 60px;
+			margin-left: 200px;
+			small {
+				font-size: 26px;
+				line-height: 31px;
+				margin-left: 290px;
+			}
+		}
+		h2{font-weight: normal;}
+		p.lead{
+			margin-left: 100px;
+			line-height: 19px;
+			strong {
+				font-size: 24px;
+				line-height: 35px;
+			}
+			span {display: inline;}
+			a.read-more {display: none;}
+		}
+		.stuff-list {
+			padding-left: 0;
+			-webkit-column-count: inherit;
+			-moz-column-count: inherit;
+			column-count: inherit;
+		}
+		.has-border {
+			border-bottom: 0;
+		}
+		#map {
+			top: 280px;
+			width: 800px;
+			left: 0;
+			right: 0;
+			margin: auto;
+			overflow: hidden;
+			img.mobile {display: none;}
+			img.tablet-desktop {display: block;}
+		}
+		.pop-up-wrapper {
+			height: 480px;
+			position: relative;
+
+		}
+	}
+}
+@media (min-width: 960px) {
+	#main{
+		.pop-up-wrapper {
+			height: 550px;
+		}
+		#map {
+			width: 960px;
+		}
+	}
+}
+
+@media (min-width:1200px ) {
+	#main{
+		h1 {
+			width: 500px;
+			float: left;
+		}
+		p.lead {margin-left: 700px;}
+		.stuff-list {
+			-webkit-column-count: 2;
+			-moz-column-count: 2;
+			column-count: 2;
+		}
+		.row {
+			margin-bottom: 50px;
+			>div {
+				height: 154px;
+			}
+		}
+		.pop-up-wrapper {
+			height: 620px;
+		}
+		#map {
+			width: 1200px;
+			top: 80px;
+		}
+	}
+}
+
+@media (min-width:1570px ) {
+	#main{
+		.pop-up-wrapper {
+			height: 850px;
+		}
+		#map {
+			top: 40px;
+			width: 1548px;
+		}
+		h1 {
+			width: 600px;
+			float: left;
+			font-size: 76px;
+			small{font-size: 26px;}
+		}
+		p.lead {margin-left: 810px;}
+	}
+}
+
+
+
+>>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 @import "map-styles.less";
