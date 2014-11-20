@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .clearfix:after {
   content: ".";
   display: block;
@@ -20,21 +20,13 @@
 #content {
   background-color: #cbebf6;
   overflow: hidden;
-=======
-#content {
-  background-color: #C7E5F9;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 }
 #main {
   background: transparent;
 }
 #main h1 {
-<<<<<<< HEAD
   /* font-family: "Century Gothic", sans-serif; */
   font-family: "Gill Sans W04 Book","Gill Sans MT",Calibri,sans-serif;
-=======
-  font-family: "Century Gothic";
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   font-size: 32px;
   line-height: 40px;
   color: #ffffff;
@@ -49,19 +41,11 @@
   text-transform: capitalize;
 }
 #main h2 {
-<<<<<<< HEAD
   font-family: "Gill Sans W04 Book","Gill Sans MT",Calibri,sans-serif;
   font-size: 24px;
   line-height: 120%;
   font-weight: bold;
   color: #333;
-=======
-  font-family: "Century Gothic";
-  font-size: 24px;
-  line-height: 120%;
-  font-weight: bold;
-  color: #ffffff;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   text-align: left;
   text-transform: capitalize;
 }
@@ -70,14 +54,9 @@
 }
 #main p,
 #main ul {
-<<<<<<< HEAD
   /* font-family: Lato, sans-serif; */
   font-family: "Gill Sans W04 Book","Gill Sans MT", Lato, sans-serif;
   font-size: 15px;
-=======
-  font-family: Lato;
-  font-size: 14px;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   line-height: 140%;
   color: #333333;
   text-align: left;
@@ -86,7 +65,6 @@
 #main ul a {
   text-decoration: underline;
 }
-<<<<<<< HEAD
 #main div.lead {
   height:140px;
 }
@@ -101,34 +79,16 @@
   margin-bottom: 1em;
 }
 #main .lead > p strong {
-=======
-#main p.lead {
-  padding-left: 12px;
-  border-left: 2px solid #cb3055;
-  font-family: Lato;
-  font-size: 14px;
-  line-height: 18px;
-  color: #333333;
-  text-align: left;
-}
-#main p.lead strong {
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   font-size: 18px;
   line-height: 26px;
   display: block;
 }
-<<<<<<< HEAD
 #main .lead > p span {
   display: none;
 }
 #main .lead > p a.read-more {
     display: none;
   }
-=======
-#main p.lead span {
-  display: none;
-}
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 #main .stuff-list {
   padding-left: 0;
   -webkit-column-count: 2;
@@ -151,7 +111,6 @@
 #main #map {
   width: 100%;
   position: absolute;
-<<<<<<< HEAD
   top: 120px;
   left: 0;
   z-index: -1;
@@ -159,17 +118,11 @@
   -moz-transition: -moz-transform 2s ease-out;
   -ms-transition: -ms-transform 2s ease-out;
   transition: transform 2s ease-out;
-=======
-  top: 124px;
-  left: 0;
-  z-index: -1;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 }
 #main #map img {
   display: block;
   width: 100%;
 }
-<<<<<<< HEAD
 #main #map img.mobile {
   width: 123.4%;
   max-width: 123.4%;
@@ -178,13 +131,10 @@
 #main #map.move-left {
   left: 23.4%;
 }
-=======
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 #main #map img.tablet-desktop {
   display: none;
 }
 #main .pop-up-wrapper {
-<<<<<<< HEAD
   /* height: 360px; */
   -webkit-transition: -webkit-transform 2s ease-out;
   -moz-transition: -moz-transform 2s ease-out;
@@ -203,184 +153,10 @@ a.pin {
   width: 17px;
   height: 35px;
   /* border: 1px solid red; */
-=======
-  height: 360px;
-}
-@media (min-width: 360px) {
-  #main h1 {
-    font-size: 38px;
-  }
-  #main #map {
-    width: 360px;
-  }
-}
-@media (min-width: 480px) {
-  #main #map {
-    top: 0px;
-    width: 450px;
-  }
-  #main .pop-up-wrapper {
-    height: 480px;
-  }
-}
-@media (min-width: 480px) {
-  #main #map {
-    top: -50px;
-    width: 580px;
-  }
-  #main .pop-up-wrapper {
-    height: 600px;
-  }
-}
-@media (min-width: 768px) {
-  #main {
-    padding-top: 60px;
-  }
-  #main .row {
-    overflow: hidden;
-    margin-bottom: 20px;
-  }
-  #main .row > div {
-    float: left;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 33.3333%;
-    height: 280px;
-  }
-  #main .row > div:nth-child(1),
-  #main .row > div:nth-child(2) {
-    padding-right: 24px;
-    border-right: 2px solid #cb3055;
-  }
-  #main .row > div:nth-child(2),
-  #main .row > div:nth-child(3) {
-    padding-left: 24px;
-  }
-  #main #content {
-    padding-top: 60px;
-  }
-  #main h1 {
-    font-size: 65px;
-    line-height: 60px;
-    margin-left: 200px;
-  }
-  #main h1 small {
-    font-size: 26px;
-    line-height: 31px;
-    margin-left: 290px;
-  }
-  #main h2 {
-    font-weight: normal;
-  }
-  #main p.lead {
-    margin-left: 100px;
-    line-height: 19px;
-  }
-  #main p.lead strong {
-    font-size: 24px;
-    line-height: 35px;
-  }
-  #main p.lead span {
-    display: inline;
-  }
-  #main p.lead a.read-more {
-    display: none;
-  }
-  #main .stuff-list {
-    padding-left: 0;
-    -webkit-column-count: inherit;
-    -moz-column-count: inherit;
-    column-count: inherit;
-  }
-  #main .has-border {
-    border-bottom: 0;
-  }
-  #main #map {
-    top: 280px;
-    width: 800px;
-    left: 0;
-    right: 0;
-    margin: auto;
-    overflow: hidden;
-  }
-  #main #map img.mobile {
-    display: none;
-  }
-  #main #map img.tablet-desktop {
-    display: block;
-  }
-  #main .pop-up-wrapper {
-    height: 480px;
-    position: relative;
-  }
-}
-@media (min-width: 960px) {
-  #main .pop-up-wrapper {
-    height: 550px;
-  }
-  #main #map {
-    width: 960px;
-  }
-}
-@media (min-width: 1200px) {
-  #main h1 {
-    width: 500px;
-    float: left;
-  }
-  #main p.lead {
-    margin-left: 700px;
-  }
-  #main .stuff-list {
-    -webkit-column-count: 2;
-    -moz-column-count: 2;
-    column-count: 2;
-  }
-  #main .row {
-    margin-bottom: 50px;
-  }
-  #main .row > div {
-    height: 154px;
-  }
-  #main .pop-up-wrapper {
-    height: 620px;
-  }
-  #main #map {
-    width: 1200px;
-    top: 80px;
-  }
-}
-@media (min-width: 1570px) {
-  #main .pop-up-wrapper {
-    height: 850px;
-  }
-  #main #map {
-    top: 40px;
-    width: 1548px;
-  }
-  #main h1 {
-    width: 600px;
-    float: left;
-    font-size: 76px;
-  }
-  #main h1 small {
-    font-size: 26px;
-  }
-  #main p.lead {
-    margin-left: 810px;
-  }
-}
-a.pin {
-  display: block;
-  width: 50px;
-  height: 50px;
-  background-color: red;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   position: absolute;
   top: 0;
   left: 0;
   z-index: 5;
-<<<<<<< HEAD
   text-indent: -9999px;
   overflow: hidden;
 }
@@ -439,10 +215,6 @@ a#pin-11 {
   left: 40%;
 }
 #popup-container {
-=======
-}
-#content > .pop-up-wrapper {
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -450,7 +222,6 @@ a#pin-11 {
   padding: 12px;
   background-color: rgba(102, 102, 102, 0.7);
   position: absolute;
-<<<<<<< HEAD
   top: 109px;
   left: 0;
   z-index: 1000;
@@ -458,11 +229,6 @@ a#pin-11 {
 }
 #popup-container.show {
   display: block;
-=======
-  top: 28px;
-  left: 0;
-  z-index: 1000;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
 }
 .loc-wrapper {
   position: relative;
@@ -470,7 +236,6 @@ a#pin-11 {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   width: 100%;
-<<<<<<< HEAD
   height: 0;
   padding-bottom: 0;
   border-radius: 5px;
@@ -482,35 +247,17 @@ a#pin-11 {
   top: 10px;
   right: 10px;
   font-family: "Gill Sans W04 Book","Gill Sans MT", Lato, sans-serif;
-=======
-  padding-bottom: 12px;
-  border-radius: 5px;
-  background: rgba(201, 231, 241, 0.8);
-}
-.loc-wrapper #btn-close {
-  position: absolute;
-  top: 0;
-  right: 5px;
-  font-family: Lato;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   font-size: 16px;
   font-weight: bold;
   line-height: 120%;
   color: #222222;
   text-align: right;
-<<<<<<< HEAD
   z-index: 1001;
   cursor: pointer;
 }
 .loc-wrapper .loc-title {
   margin: 0 12px 12px 12px;
   font-family: "Gill Sans W04 Book","Gill Sans MT",Calibri,sans-serif;
-=======
-}
-.loc-wrapper .loc-title {
-  margin: 0 12px 12px 12px;
-  font-family: "Century Gothic";
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   font-size: 22px;
   line-height: 26px;
   font-weight: normal;
@@ -530,18 +277,11 @@ a#pin-11 {
   margin-top: 12px;
   margin-left: 12px;
   margin-right: 12px;
-<<<<<<< HEAD
   font-family: "Gill Sans W04 Book","Gill Sans MT", Lato, sans-serif;
   font-size: 13px;
   line-height: 16px;
   /* color:rgb(51,51,51); */
   color: #111;
-=======
-  font-family: Lato;
-  font-size: 12px;
-  line-height: 16px;
-  color: #333333;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   text-align: left;
 }
 .loc-wrapper .gps {
@@ -550,7 +290,6 @@ a#pin-11 {
   box-sizing: border-box;
   width: 236px;
   height: 25px;
-<<<<<<< HEAD
   margin-left: 12px;
   padding-left: 4px;
   line-height: 25px;
@@ -558,12 +297,6 @@ a#pin-11 {
   font-size: 13px;
   /* color:#45565d; */
   color: #111;
-=======
-  padding-left: 8px;
-  line-height: 25px;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  color: #45565d;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   background: url(/assets/images/road-to-hana/sprites.png) 0 -200px no-repeat;
 }
 .loc-wrapper .gps span {
@@ -572,11 +305,7 @@ a#pin-11 {
   color: #54859c;
 }
 .loc-wrapper .links-bar {
-<<<<<<< HEAD
   margin: 12px 12px 0;
-=======
-  margin-top: 12px;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   overflow: hidden;
 }
 .loc-wrapper .links-bar > a {
@@ -634,11 +363,7 @@ a#pin-11 {
   height: 29px;
   line-height: 25px;
   font-family: Arial, Helvetica, sans-serif;
-<<<<<<< HEAD
   font-size: 15px;
-=======
-  font-size: 14px;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   color: #ffffff;
   text-align: center;
 }
@@ -676,7 +401,6 @@ a#pin-11 {
 }
 .loc-wrapper.show {
   opacity: 1;
-<<<<<<< HEAD
   height: auto;
   padding-bottom: 12px;
 }
@@ -1056,26 +780,6 @@ a#pin-11 {
   }
 
   /* Popup Info Window */
-=======
-}
-#pin-01 {
-  top: 0;
-  left: 400px;
-}
-#pin-02 {
-  top: 32px;
-  left: 450px;
-}
-#loc-01 {
-  top: 0;
-  left: 450px;
-}
-#loc-02 {
-  top: 32px;
-  left: 500px;
-}
-@media (min-width: 768px) {
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   #map .pup-wrapper a.pin {
     display: block;
     width: 50px;
@@ -1098,7 +802,6 @@ a#pin-11 {
   #map .pup-wrapper .show {
     opacity: 1;
   }
-<<<<<<< HEAD
   .pop-up-wrapper {
     margin: 0;
     padding: 0;
@@ -1113,29 +816,11 @@ a#pin-11 {
   }
   #popup-container .loc-wrapper {
     z-index: 1001;
-=======
-  #map .pup-wrapper #pin-01 {
-    top: 0;
-    left: 400px;
-  }
-  #map .pup-wrapper #pin-02 {
-    top: 32px;
-    left: 450px;
-  }
-  #map .pup-wrapper #loc-01 {
-    top: 0;
-    left: 450px;
-  }
-  #map .pup-wrapper #loc-02 {
-    top: 32px;
-    left: 500px;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   }
   .loc-wrapper {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-<<<<<<< HEAD
     /* padding: 24px 48px 48px 24px; */
     padding: 15px 20px 48px 20px;
     width: 320px;
@@ -1160,24 +845,10 @@ a#pin-11 {
     font-size: 18px;
     font-weight: bold;
     line-height: 110%;
-=======
-    padding: 24px 48px 48px 24px;
-    width: 405px;
-    height: 291px;
-    background: url(/assets/images/road-to-hana/bg-loc-dt.png) 0 0 no-repeat;
-    position: absolute;
-  }
-  .loc-wrapper .loc-title {
-    font-family: "Century Gothic";
-    font-size: 22px;
-    line-height: 26px;
-    font-weight: bold;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
     color: #cb3052;
     text-align: left;
   }
   .loc-wrapper .loc-title small {
-<<<<<<< HEAD
     font-size: 15px;
     line-height: 19px;
     white-space: nowrap;
@@ -1241,23 +912,10 @@ a#pin-11 {
   }
   .loc-wrapper .links-bar .socials ul li a.pt {
     background-position: -54px -115px;
-=======
-    font-size: 16px;
-    line-height: 19px;
-  }
-  .loc-wrapper .loc-description {
-    width: 215px;
-    font-family: Lato;
-    font-size: 12px;
-    line-height: 130%;
-    color: #333333;
-    text-align: left;
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
   }
   .loc-wrapper .pager {
     display: none;
   }
-<<<<<<< HEAD
   
   /* Pin links coordinates */
   a.pin {
@@ -1628,6 +1286,3 @@ a#pin-11 {
   display: inherit !important;
 }
 /*# sourceMappingURL=road-to-hana.css.map */
-=======
-}
->>>>>>> c56a783599de4f587d715ea68d68648e65ca8e50
