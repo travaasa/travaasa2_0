@@ -35,7 +35,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
           <h1>LUXURY RESORT ROOMS &amp; ACCOMMODATIONS</h1>
           	<p>The luxury resort accommodations at Travaasa Austin are comfortable, stylish and relaxing — perfect for unwinding and resting after an ambitious workout, nature hike or meeting. Each of the 70 guest rooms offers a private deck or patio welcoming the fresh outdoor air in. It's a perfect place to just breathe.</p>
-			<p>Accommodations are located in seven dwellings linked together by meandering paths across the property — allowing for privacy and a closer experience with nature.</p>
+			<p>Accommodations are located in seven dwellings linked together by meandering paths across the property, allowing for privacy and a closer experience with nature.</p>
 <div class="col span_1_of_1"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
   </section>
   <section class="grey pad group">
@@ -47,21 +47,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <a  href="/assets/images/gallery/austin/1433-room-balcony.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
             <a  href="/assets/images/gallery/austin/canyon-balcony-view-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Balcony View"></a>
         </div>
-        <a  href="/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="/assets/images/rooms_austin_canyon.jpg" alt="Austin luxury resort room" width="600" height="400"></a>
+        <a  href="/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="/assets/images/austin-rooms-2014-canyon-one-queen2.jpg" alt="Austin luxury resort room" width="600"></a>
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
             <h4>Canyon Room Accommodations</h4>
             <p>Features and amenities include:</p>
             <ul class="description">
-                <li>Expansive balconies with the best views of the Texas Hill Country</li>
+                <li>Balconies set above the tree tops with the best views of the Texas Hill Country</li>
                 <li>Plush, queen-sized beds (some with two queen beds)</li>
                 <li>Organic cotton comforters and linens</li>
                 <li>Bed lamps for easy reading</li>
                 <li>Bathrooms with walk-in showers</li>
                 <li>Complimentary light refreshments</li>
                 <li>Sundry items</li>
-                <li>Robes</li>
+                <li>Organic Cotton Robes</li>
             </ul>
             <p><strong>Other amenities include:</strong> Complimentary Wi-Fi, Desks, Coffee- and tea-makers, Irons, Hair dryers, Umbrellas</p>
          </div>
@@ -79,27 +79,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad group">
   	<div class="col span_2_of_5">
         <div class="magnify">
-            <a  href="/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
-            <a  href="/assets/images/gallery/austin/trail-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"></a>
-            <a  href="/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Patio"></a>
+            <a  href="/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
+            <a  href="/assets/images/gallery/austin/trail-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"></a>
+            <a  href="/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Patio"></a>
             <a  href="/assets/images/gallery/austin/bed-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Organic Cotton Sheets"></a>
             <a  href="/assets/images/gallery/austin/1229-austin-scenic-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin on the Balcones Canyonlands Preserve"></a>
         </div>
-        <a  href="/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Trail View Room Balcony"><img src="/assets/images/rooms_austin_trail.jpg" alt="Texas luxury resort accommodations" width="600" height="400"></a>
+        <a  href="/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"><img src="/assets/images/austin-rooms-2014-nature-two-queen.jpg" alt="Texas luxury resort accommodations" width="600"></a>
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
-            <h4>Trail Room Accommodations</h4>
+            <h4>Nature Room Accommodations</h4>
             <p>Features and amenities include:</p>
             <ul class="description">
-                <li>Balconies with views</li>
+                <li>Balconies or patios with views in the woods</li>
                 <li>Plush, queen-sized beds (some with two queen beds)</li>
                 <li>Organic cotton comforters and linens</li>
                 <li>Bed lamps for easy reading</li>
                 <li>Bathrooms with walk-in showers</li>
                 <li>Complimentary light refreshments</li>
                 <li>Sundry items</li>
-                <li>Robes</li>
+                <li>Organic Cotton Robes</li>
             </ul>
          </div>
     </div>
