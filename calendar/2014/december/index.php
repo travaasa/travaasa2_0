@@ -177,14 +177,6 @@ endif;
             </div>
 
 
-
-
-
-
-
-
-
-
        <div class="listing">
               <h6>BREATH OF JOY &ndash;  YOGA THERAPY &amp; CORE WORK <span class="disclaimer">– <a href="/austin">Austin</a></span></h6>
                 <p>Practice the breath of joy as you learn to connect your breath with your inner unit, the intrinsic muscles of your core. Feel a renewed inner girdle of strength that brings expansiveness to your body and joy to your everyday movements.</p>
@@ -245,11 +237,11 @@ endif;
   
   <section class="grey pad">
         <h4>See upcoming months</h4>
-      <div class="group">
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/october/"><img src="/assets/images/months/oct-harvest.png" alt="October is Harvest Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div><a href="/calendar/2014/november/"><img src="/assets/images/months/nov-stop.png" alt="November is Stop Month"></a></div></div>
-            <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
-        </div>
+          <div class="group">
+           <div class="col span_1_of_3 month"><div class="active"><a href="/calendar/2014/december/"><img src="/assets/images/months/dec-joy.png" alt="December is Joy Month"></a></div></div>
+           <div class="col span_1_of_3 month"><div><a href="/calendar/2015/january/"><img src="/assets/images/months/jan-vitality.png" alt="January is Vitality Month"></a></div></div>
+           <div class="col span_1_of_3 month"><div><a href="/calendar/2015/february/"><img src="/assets/images/months/feb-heart.png" alt="February is Heart Month"></a></div></div>
+          </div>  
   </section>
   
 </article>
