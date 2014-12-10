@@ -69,7 +69,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li id="tab_1"><a href="#facilities">Meeting Facilities</a></li>
             <li id="tab_2"><a href="#toolkit">Planners Toolkit &amp; Gallery</a></li>
             <li id="tab_3"><a href="#experiences">Group Experiences &amp; Team Building</a></li>
-            <li id="tab_5"><a href="#weddings">Weddings</a></li>
+            <!--<li id="tab_5"><a href="#weddings">Weddings</a></li>-->
             <li id="tab_4"><a href="#proposal">Request for Proposal</a></li>
         </ul>
     </div>
@@ -574,27 +574,14 @@ austinsales@travaasa.com</a></td>
              <p><a href="/pdf/Travaasa-Austin-Group-Activities.pdf" class="btn-jorah">Group Activities Pricing</a></p>
         </div>
     </div>
-    <div id="weddings" class="tab_data">
+    <!--<div id="weddings" class="tab_data">
         <div class="tab_data_inner">
-            <!--<h4>Weddings at Travaasa Austin</h4>
-            <div class="group">
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-01-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-01-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-                  <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-02-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-02-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-                  <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-03-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-03-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-                  <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/wedding-04-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-04-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-                  <div class="col span_1_of_5"><a class="fancy frame-left" href="/assets/images/gallery/austin/wedding-05-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-05-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-            </div>-->
+            <h4>Weddings at Travaasa Austin</h4>
+
             <p>Thinking of tying the knot at Travaasa Austin? Click below for more information.</p>
-            <!--<ul>
-                 <li>bullet</li>
-                 <li>bullet</li>
-                 <li>bullet</li>
-                 <li>bullet</li>
-                 <li>bullet</li>
-             </ul>-->
              <p><a href="/austin/weddings/" class="btn">Visit Travaasa Weddings</a></p>
         </div>
-    </div>
+    </div>-->
     <div id="proposal" class="tab_data">
         <div class="tab_data_inner">
            <iframe height="2150" style="width:100%;border:none" src="https://travaasa.wufoo.com/embed/z7x3k1/"></iframe>
