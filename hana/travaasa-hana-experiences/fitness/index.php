@@ -62,7 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <img data-original="/assets/images/exp_hana_fitness_outdoor_circuit.jpg" src="/assets/images/exp_hana_fitness_outdoor_circuit.jpg" alt="Outdoor Circuit Maui wellness vacation" >
           <br />
           <h2>Outdoor Circuit</h2>
-          <p class="description">Do you live to push your body to the next level? Then get ready to go through some tough intervals that will make your heart rate soar during this outdoor circuit. Circuit training delivers maximum results in a minimum amount of time while promoting all-around fitness. We'll challenge your body and your mind as we mix up the moves and the intensity of the workout to keep you motivated, all the while being surrounded by 360˚ views of stunning Hawaiian scenery. What truly makes our circuit unlike any other is that we'll exercise using the natural landmarks around our beautiful Hana property. Of course, our circuit wouldn't be complete if we didn't hit the beach! Get ready to see the features of Hawaii’s coast in a new light as Hana becomes your new gym during this outdoor circuit.</p>
+          <p class="description">Do you live to push your body to the next level? Then get ready to go through some tough intervals that will make your heart rate soar during this outdoor circuit. Circuit training delivers maximum results in a minimum amount of time while promoting all-around fitness. We'll challenge your body and your mind as we mix up the moves and the intensity of the workout to keep you motivated, all the while being surrounded by 360˚ views of stunning Hawaiian scenery. What truly makes our circuit unlike any other is that we'll exercise using the natural landmarks around our beautiful Hana property. Of course, our circuit wouldn't be complete if we didn't hit the beach! Get ready to see the features of Hawaii’s coast in a new light as Hana becomes your new gym during this outdoor circuit.<br /><br /></p>
         </article>
         <article>
           <img data-original="/assets/images/exp_hana_fitness_core_conditioning.jpg" src="/assets/images/exp_hana_fitness_core_conditioning.jpg" alt="Core Conditioning Hana fitness vacation" >
@@ -92,7 +92,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <img data-original="/assets/images/exp_hana_fitness_simplified_fitness.jpg" src="/assets/images/exp_hana_fitness_simplified_fitness.jpg" alt="Simplified Fitness Hawaii wellness vacation" >
           <br />
           <h2>Simplified Fitness</h2>
-          <p class="description">The simplest answer is oftentimes the best, so why make working out a complicated affair? This fitness routine takes the complexity out of your workout, focusing on simple exercises and principles to give you a body-changing workout without the need for a gym full of equipment. Use your body's resistance to strengthen, define, and challenge your muscles in this invigorating workout that can be done anytime, anywhere. You'll be amazed at the vast range of exercises you can do with just yourself, a fit ball and a Bosu.</p>
+          <p class="description">The simplest answer is oftentimes the best, so why make working out a complicated affair? This fitness routine takes the complexity out of your workout, focusing on simple exercises and principles to give you a body-changing workout without the need for a gym full of equipment. Use your body's resistance to strengthen, define, and challenge your muscles in this invigorating workout that can be done anytime, anywhere. You'll be amazed at the vast range of exercises you can do with just yourself, a fit ball and a Bosu.<br /><br /><br /></p>
         </article>
         <article>
           <img data-original="/assets/images/exp_hana_fitness_coastal_walk_stretch.jpg" src="/assets/images/exp_hana_fitness_coastal_walk_stretch.jpg" alt="Coastal Walk &amp; Stretch Hana walking trails" >
@@ -110,7 +110,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <img data-original="/assets/images/exp_hana_fitness_tennis.jpg" src="/assets/images/exp_hana_fitness_tennis.jpg" alt="Tennis Maui" >
           <br />
           <h2>Tennis</h2>
-          <p class="description">Tennis boasts an array of physical and mental benefits that you can enjoy during your stay. Whether you’re new to the game or a lifelong player, you can practice your serve, perfect your backspin or keep your backhand sharp. Travaasa Hana features two newly resurfaced tennis courts on property where you can get your daily dose of this popular outdoor sport. Tennis equipment is available for guests to use in the adjacent Makana Center.</p>
+          <p class="description">Tennis boasts an array of physical and mental benefits that you can enjoy during your stay. Whether you’re new to the game or a lifelong player, you can practice your serve, perfect your backspin or keep your backhand sharp. Travaasa Hana features two newly resurfaced tennis courts on property where you can get your daily dose of this popular outdoor sport. Tennis equipment is available for guests to use in the adjacent Makana Center.<br /><br /><br /><br /></p>
         </article>
       </div>
     </section>

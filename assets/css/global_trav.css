@@ -127,7 +127,7 @@ sub {
 }
 .description {
 	font-size: .9em;
-	font-style: italic;
+	font-style: normal;
 }
 .disclaimer {
 	font-size: .75em;
@@ -1548,7 +1548,7 @@ a.carousel_prev.disabled span, a.carousel_next.disabled span {
 }
 .experience-nav li a {
 	display: block;
-	padding: 8px 12px 2px 12px;
+	padding: 5px 12px 4px 12px;
 	color: #BBBBBB;
 	text-decoration: none;
 	border-radius: 4px;
@@ -1689,6 +1689,7 @@ a.carousel_prev.disabled span, a.carousel_next.disabled span {
 	box-sizing: border-box;
 	padding-left: 17px;
 	padding-right: 17px;
+	padding-bottom:8px;
 }
 
 @media (min-width: 600px) {
