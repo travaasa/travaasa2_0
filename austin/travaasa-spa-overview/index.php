@@ -266,12 +266,12 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
 
         	<p>Our massages run the gamut from energizing to deeply calming. No matter what your body craves, we have a special touch just for you.</p>
 
-            <section class="spa_package">
+            <!--<section class="spa_package">
                 <h4>Watsu&#174; Aquatic Massage</h4>
                 <p>Watsu uses the warmth and buoyancy of 96-degree water and a combination of unique stretches and natural movements in a secluded pool to help improve circulation, relieve nerve pressure and lessen stress, arthritis, anxiety and chronic pain. Our certified Watsu practitioners will fit the 60-minute treatment to your liking and body’s needs.</p>
-                <!--<h5>50 minutes &#8211; $140</h5>-->
+                <h5>50 minutes &#8211; $140</h5>
                 <h5 style="color:#ea5965;"><em>Watsu unavailable May 21st through September 12th during <a href="/spa-renovation" target="_blank">renovations</a>.</em></h5>
-            </section>
+            </section>-->
             <section class="spa_package">
                 <h4>TRAVAASA CUSTOM MASSAGE</h4>
     			<p>Let our highly skilled massage therapists create the perfect blend of massage techniques to suite your needs. Customize your experience even further by choosing from the following organic aromatherapy massage oils: Balancing, Energizing, Relaxing, Romance, Warming, Fitness or Unscented Pure Jojoba.</p>
