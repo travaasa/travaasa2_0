@@ -1,0 +1,788 @@
+a.pin{
+	display: block;
+	width: 17px;
+	height: 35px;
+	/* border:1px solid red; */
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 5;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+a {
+	&#pin-1 {
+		top:4%;
+		left:5%;
+	}
+	&#pin-2 {
+		top:4%;
+		left:10%;
+	}
+	&#pin-3 {
+		top:9%;
+		left:18%;
+	}
+	&#pin-4 {
+		top:15%;
+		left:24%;
+	}
+	&#pin-5 {
+		top:22%;
+		left:31%;
+	}
+	&#pin-6 {
+		top:28%;
+		left:48%;
+	}
+	&#pin-7 {
+		top:35%;
+		left:65%;
+	}
+	&#pin-8 {
+		top:45%;
+		left:75%;
+	}
+	&#pin-9 {
+		top:58%;
+		left:75%;
+	}
+	&#pin-10 {
+		top:76%;
+		left:53%;
+	}
+	&#pin-11 {
+		top:76%;
+		left:36%;
+	}
+}
+#popup-container {
+		-webkit-box-sizing: border-box;
+		   -moz-box-sizing: border-box;
+		        box-sizing: border-box;
+		width: 100%;
+		padding: 12px;
+		background-color: rgba(102,102,102, 0.7);
+		position: absolute;
+		top: 28px;
+		left: 0;
+		z-index: 1000;
+		display:none;
+		&.show {
+			display:block;
+		}
+}
+	.loc-wrapper {
+		position: relative;
+		-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+		width: 100%;
+		height:0;
+		padding-bottom: 0;
+		border-radius: 5px;
+		background:rgba(201,231,241, .8);
+		opacity:0;
+		#btn-close{
+			position: absolute;
+			top: 10px;
+			right: 10px;
+			font-family:Lato;
+			font-size:16px;
+			font-weight:bold;
+			line-height:120%;
+			color:rgb(34,34,34);
+			text-align:right;
+			z-index:1001;
+			cursor:pointer;
+		}
+		.loc-title {
+			margin: 0 12px 12px 12px;
+			font-family:"Century Gothic";
+			font-size:22px;
+			line-height:26px;
+			font-weight:normal;
+			color:rgb(203,48,82);
+			text-align:left;
+			text-transform: Capitalize;
+			small {font-size:16px; line-height:19px; }
+		}
+		.loc-img-wrapper{
+			img {
+				display: block;
+				width: 100%;
+			}
+		}
+		.loc-description {
+			margin-top: 12px;
+			margin-left: 12px;
+			margin-right: 12px;
+			font-family:Lato;
+			font-size:12px;
+			line-height:16px;
+			/* color:rgb(51,51,51); */
+			color:#111;
+			text-align:left;
+		}
+		.gps {
+			-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+			width: 236px;
+			height: 25px;
+			margin-left:12px;
+			padding-left: 4px;
+			line-height: 25px;
+			font-family: Lato;
+			font-size:12px;
+			/* color:#45565d; */
+			color:#111;
+			background: url(/assets/images/road-to-hana/sprites.png) 0 -200px no-repeat;
+			span {
+				margin-left: 12px;
+				font-size: 11px;
+				color: #54859c;
+			}
+		}
+		.links-bar {
+			margin: 12px 12px 0;
+			overflow: hidden;
+			>a{
+				float: left;
+				font-family:Lato !important;
+				font-size:18px;
+				font-weight:bold;
+				line-height:26px;
+				color:rgb(203,48,85);
+				text-align:left;
+			}
+			.socials {
+				float: right;
+				>span{
+					line-height: 30px;
+					display: inline-block;
+					vertical-align: top;
+				}
+				ul {
+					padding-left: 0;
+					margin-bottom: 0;
+					display: inline-block;
+					vertical-align: top;
+					li{
+						list-style:none;
+						display: inline-block;
+						a{
+							display: block;
+							width: 30px;
+							height: 30px;
+							text-indent: -9999px;
+							&.tw{
+								background: url(/assets/images/road-to-hana/sprites.png) 0 -75px no-repeat;
+							}
+							&.fb{
+								background: url(/assets/images/road-to-hana/sprites.png) 0 -110px no-repeat;
+							}
+							&.pt{
+								background: url(/assets/images/road-to-hana/sprites.png) 0 -150px no-repeat;
+							}
+						}
+					}
+				}
+			}
+		}
+		.pager{
+			padding-top: 15px;
+			margin-bottom: 15px;
+			position: relative;
+			.prev,
+			.next {
+				display: inline-block;
+				vertical-align: top;
+				width: 70px;
+				height: 29px;
+				line-height: 25px;
+				font-family:Arial, Helvetica, sans-serif;
+				font-size:14px;
+				color:rgb(255,255,255);
+				text-align:center;
+			}
+			.next{
+				margin-left: 40px;
+				background: url(/assets/images/road-to-hana/sprites.png) 0 -29px no-repeat;
+			}
+			.prev{
+				margin-right: 40px;
+				background: url(/assets/images/road-to-hana/sprites.png) 0 0 no-repeat;
+			}
+			.current {
+				-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+				padding-top: 2px; 
+				font-size: 24px;
+				text-align: center;
+				color: #fff;
+				display: inline-block;
+				vertical-align: top;
+				width: 35px;
+				height: 63px;
+				margin: 0 24px;
+				background: url(/assets/images/road-to-hana/sprites.png) 50% 0 no-repeat;
+				text-shadow: 0 0 1px #C40D35;
+				position: absolute;
+				top: -10px;
+				left: 0;
+				right: 0;
+				margin: auto;
+			}
+		}
+	}
+
+	.loc-wrapper.hide {opacity: 0;}
+	.loc-wrapper.show {
+		opacity: 1;
+		height:auto;
+		padding-bottom: 12px;
+	}
+
+	#pin-{
+		&01 {top: 0;left: 400px;}
+		&02 {top: 32px;left: 450px;}
+	}
+	#loc-{
+		&01 {top: 0;left: 450px;}
+		&02 {top: 32px;left: 500px;}
+	}
+@media (min-width: 480px) {
+	a {
+		&.pin {
+			width:25px;
+			height:40px;
+		}
+		&#pin-1 {
+			top:4%;
+			left:5%;
+		}
+		&#pin-2 {
+			top:4%;
+			left:10%;
+		}
+		&#pin-3 {
+			top:8%;
+			left:18%;
+		}
+		&#pin-4 {
+			top:14%;
+			left:24%;
+		}
+		&#pin-5 {
+			top:20%;
+			left:31%;
+		}
+		&#pin-6 {
+			top:24%;
+			left:48%;
+		}
+		&#pin-7 {
+			top:30%;
+			left:65%;
+		}
+		&#pin-8 {
+			top:38%;
+			left:75%;
+		}
+		&#pin-9 {
+			top:48%;
+			left:75%;
+		}
+		&#pin-10 {
+			top:62%;
+			left:53%;
+		}
+		&#pin-11 {
+			top:62%;
+			left:36%;
+		}
+	}
+}
+@media (min-width: 568px) and (orientation : landscape) {
+	a {
+		&.pin {
+			width:25px;
+			height:45px;
+		}
+		&#pin-1 {
+			top:4%;
+			left:5%;
+		}
+		&#pin-2 {
+			top:4%;
+			left:10%;
+		}
+		&#pin-3 {
+			top:8%;
+			left:19%;
+		}
+		&#pin-4 {
+			top:14%;
+			left:24%;
+		}
+		&#pin-5 {
+			top:21%;
+			left:32%;
+		}
+		&#pin-6 {
+			top:26%;
+			left:49%;
+		}
+		&#pin-7 {
+			top:33%;
+			left:66%;
+		}
+		&#pin-8 {
+			top:42%;
+			left:75%;
+		}
+		&#pin-9 {
+			top:54%;
+			left:75%;
+		}
+		&#pin-10 {
+			top:71%;
+			left:53%;
+		}
+		&#pin-11 {
+			top:72%;
+			left:37%;
+		}
+	}
+	#main div.lead {
+		height:135px;
+	}
+}
+@media (max-width: 767px) {
+	#main {
+		padding-left:0;
+		padding-right:0;
+		h1, div.lead, div.row {
+			margin-left:16px;
+			margin-right:16px;
+		}
+		.lead {
+			>p {
+				strong {
+				  line-height: 20px;
+				  font-weight:normal;
+				}
+			}
+		}
+	}
+}
+@media (min-width: 768px) {
+	#main div.lead {
+		height:145px;
+	}
+	#map {
+		.pup-wrapper {
+			a.pin{
+				display: block;
+				width: 50px;
+				height: 50px;
+				background-color: red;
+				position: absolute;
+				top: 0;
+				left: 0;
+				z-index: 5;
+			}
+			.loc-wrapper.hide {opacity: 0;}
+			.loc-wrapper.show {	opacity: 1;}
+			.hide {opacity: 0;}
+			.show {	opacity: 1;}
+			#pin-{
+				&01 {top: 0;left: 400px;}
+				&02 {top: 32px;left: 450px;}
+			}
+			#loc-{
+				&01 {top: 0;left: 450px;}
+				&02 {top: 32px;left: 500px;}
+			}
+		}
+	}
+	.pop-up-wrapper {
+		margin:0;
+		padding:0;
+	}
+	.loc-wrapper {
+		-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+		/* padding: 24px 48px 48px 24px; */
+		padding:15px 20px 48px 20px;
+		width: 320px;
+		height: 291px;
+		background: url(/assets/images/road-to-hana/bg-loc-tablet.png) 0 0 no-repeat;
+		position: absolute;
+		display:none;
+		.btn-close {
+			z-index:1002;
+		}
+		&.show {
+			height:230px;
+			display:block;
+		}
+		&.alt {
+			background: url(/assets/images/road-to-hana/bg-loc-tablet-02.png) 0 0 no-repeat;
+		}
+		.loc-title {
+			font-family:"Century Gothic";
+			margin:0 0 6px;
+			font-size:18px;
+			font-weight:bold;
+			line-height:110%;
+			color:rgb(203,48,82);
+			text-align:left;
+			small {font-size:15px; line-height:19px; white-space:nowrap; }
+		}
+		
+		.loc-img-wrapper {
+			width:114px;
+			float:right;
+		}
+		.loc-description {
+			width: 165px;
+			height:80px;
+			overflow:hidden;
+			font-family:Lato;
+			font-size:12px;
+			line-height:110%;
+			color:rgb(51,51,51);
+			text-align:left;
+			position:relative;
+			margin:0;
+			p {
+				padding-right:14px;
+				margin-bottom:0;
+			}
+		}
+		.gps {
+			margin-top:6px;
+			margin-left:0;
+		}
+		.links-bar {
+			position:absolute;
+			left:24px;
+			bottom:27px;
+			width:270px;
+			height:22px;
+			margin-top:0;
+			font-size:14px;
+			line-height:22px;
+			> a {
+				font-size:14px;
+				line-height:22px;
+			}
+			.socials {
+				line-height:22px;
+				>span {
+					line-height:22px;
+				}
+				ul {
+					li {
+						a {
+							height:22px;
+							width:22px;
+							border-left:1px dashed;
+							&.tw {
+								background-position:-54px -70px;
+							}
+							&.fb {
+								background-position:-54px -92px;
+							}
+							&.pt {
+								background-position:-54px -115px;
+							}
+						}
+					}
+				}
+			}
+		}
+		.pager{display: none;}
+	}
+	a {
+		&.pin {
+			width:17px;
+			height:30px;
+		}
+		&#pin-1 {
+			top:45px;
+			left:320px;
+		}
+		&#pin-2 {
+			top:75px;
+			left:405px;
+		}
+		&#pin-3 {
+			top:85px;
+			left:427px;
+		}
+		&#pin-4 {
+			top:105px;
+			left:446px;
+		}
+		&#pin-5 {
+			top:130px;
+			left:467px;
+		}
+		&#pin-6 {
+			top:145px;
+			left:515px;
+		}
+		&#pin-7 {
+			top:165px;
+			left:565px;
+		}
+		&#pin-8 {
+			top:195px;
+			left:592px;
+		}
+		&#pin-9 {
+			top:230px;
+			left:592px;
+		}
+		&#pin-10 {
+			top:280px;
+			left:530px;
+		}
+		&#pin-11 {
+			top:280px;
+			left:480px;
+		}
+	}
+	#popup-container {
+			/* height:100%; */
+			width:inherit;
+			top:inherit;
+			left:inherit;
+			background-image:none;
+			background-color:transparent;
+			.loc-wrapper {
+				z-index:1001;
+			}
+	}
+
+}
+@media (min-width: 960px) {
+	#main div.lead {
+		height:125px;
+	}
+	a {
+		&.pin {
+			width:20px;
+			height:40px;
+		}
+		&#pin-1 {
+			top:100px;
+			left:410px;
+		}
+		&#pin-2 {
+			top:130px;
+			left:515px;
+		}
+		&#pin-3 {
+			top:150px;
+			left:542px;
+		}
+		&#pin-4 {
+			top:175px;
+			left:562px;
+		}
+		&#pin-5 {
+			top:200px;
+			left:592px;
+		}
+		&#pin-6 {
+			top:225px;
+			left:652px;
+		}
+		&#pin-7 {
+			top:245px;
+			left:715px;
+		}
+		&#pin-8 {
+			top:285px;
+			left:750px;
+		}
+		&#pin-9 {
+			top:330px;
+			left:750px;
+		}
+		&#pin-10 {
+			top:395px;
+			left:670px;
+		}
+		&#pin-11 {
+			top:400px;
+			left:610px;
+		}
+	}
+}
+@media (min-width:1200px ) {
+	#main div.lead {
+		height:150px;
+	}
+	a {
+		&.pin {
+			width:26px;
+			height:50px;
+		}
+		&#pin-1 {
+			top:35px;
+			left:515px;
+		}
+		&#pin-2 {
+			top:85px;
+			left:645px;
+		}
+		&#pin-3 {
+			top:105px;
+			left:685px;
+		}
+		&#pin-4 {
+			top:137px;
+			left:712px;
+		}
+		&#pin-5 {
+			top:172px;
+			left:747px;
+		}
+		&#pin-6 {
+			top:200px;
+			left:825px;
+		}
+		&#pin-7 {
+			top:232px;
+			left:905px;
+		}
+		&#pin-8 {
+			top:275px;
+			left:950px;
+		}
+		&#pin-9 {
+			top:335px;
+			left:950px;
+		}
+		&#pin-10 {
+			top:418px;
+			left:846px;
+		}
+		&#pin-11 {
+			top:415px;
+			left:770px;
+		}
+	}
+	.loc-wrapper {
+		width:410px;
+		height:290px;
+		padding:20px 25px 35px 30px;
+		background: url(/assets/images/road-to-hana/bg-loc-dt.png) 0 0 no-repeat;
+		&.show {
+			height:290px;
+		}
+		&.alt {
+			background: url(/assets/images/road-to-hana/bg-loc-dt-02.png) 0 0 no-repeat;
+		}
+		#btn-close {
+			right:20px;
+			top:15px;
+		}
+		.loc-description {
+			width:225px;
+			height:130px;
+		}
+		.loc-title {
+			margin:0 10px 6px 0;
+		}
+		.links-bar {
+			width:370px;
+			margin:0;
+			height:24px;
+			.socials {
+					line-height:24px;
+					>span {
+						line-height:24px;
+					}
+					ul {
+						li {
+							a {
+								height:24px;
+								width:24px;
+								border-left:1px dashed;
+								&.tw {
+									background-position:-86px -72px;
+								}
+								&.fb {
+									background-position:-86px -94px;
+								}
+								&.pt {
+									background-position:-88px -118px;
+								}
+							}
+						}
+					}
+				}
+		}
+	}
+}
+@media (min-width: 1596px) {
+	a {
+		&.pin {
+			width:30px;
+			height:60px;
+		}
+		&#pin-1 {
+			top:120px;
+			left:695px;
+		}
+		&#pin-2 {
+			top:175px;
+			left:875px;
+		}
+		&#pin-3 {
+			top:205px;
+			left:925px;
+		}
+		&#pin-4 {
+			top:245px;
+			left:955px;
+		}
+		&#pin-5 {
+			top:290px;
+			left:1004px;
+		}
+		&#pin-6 {
+			top:330px;
+			left:1105px;
+		}
+		&#pin-7 {
+			top:370px;
+			left:1212px;
+		}
+		&#pin-8 {
+			top:430px;
+			left:1270px;
+		}
+		&#pin-9 {
+			top:505px;
+			left:1270px;
+		}
+		&#pin-10 {
+			top:620px;
+			left:1135px;
+		}
+		&#pin-11 {
+			top:625px;
+			left:1035px;
+		}
+	}
+	#main div.lead {
+		height:100px;
+	}
+	
+}
+
+.ps-container .ps-scrollbar-y-rail {
+	opacity:0.8 !important;
+	display:inherit !important;
+}

@@ -12,3 +12,6 @@ holidayproblems/*
 /nbproject/
 .gitconfig
 .ssh
+/sftp-config.json
+
+austin/weddings/index.php
