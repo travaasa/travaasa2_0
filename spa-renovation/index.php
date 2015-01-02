@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!--<a class="btn-list scroll" href="https://travaasa.ticketbud.com/jamandjive" target="_blank">PURCHASE TICKETS</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="btn-list scroll" href="/preferences"target="_blank">GET UPDATES</a>-->
       <br>
 
-<p>The Spa at Travaasa Austin has been renewed! While the primary facilities have reopened, the Watsu pool will be unavailable until December 15.</p>
+<!--<p>The Spa at Travaasa Austin has been renewed! While the primary facilities have reopened, the Watsu pool will be unavailable until December 15.</p>-->
 
 
 <h4><strong>Come experience all the new features of our updated spa!</strong></h4><br>
