@@ -34,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_001.jpg" src="/assets/images/global/placeholder.gif" alt="Austin meetings"></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_002.jpg" src="/assets/images/global/placeholder.gif" alt="Austin group events"></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_003.jpg" src="/assets/images/global/placeholder.gif" alt="Texas meeting venue"></div>
-      <div class="slide"><a href="/pdf/Travaasa-Austin_Group-Activities.pdf" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_groups_004.jpg" src="/assets/images/global/placeholder.gif" alt="Texas corporate meetings"></a></div>
+      <div class="slide"><a href="/pdf/Travaasa-Austin-Group-Activities.pdf" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_groups_004.jpg" src="/assets/images/global/placeholder.gif" alt="Texas corporate meetings"></a></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_005.jpg" src="/assets/images/global/placeholder.gif" alt="Texas executive retreats"></div>
       <!--<div class="slide"><a href="/pdf/Travaasa_Austin_Meeting_Planners_Guide_web.pdf" target="_blank"><img data-original="/assets/images/feature_austin_1600x640_groups_2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_groups_3.jpg" src="/assets/images/global/placeholder.gif" alt=""></div>
