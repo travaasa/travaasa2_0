@@ -67,7 +67,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     	<div class="tabbed_group">
         	<h5>For guests staying at Travaasa Austin</h5>
             <ul class="tabbed_list">
-                <li id="tab_6"><a href="#special_packages">Special Packages&nbsp;&nbsp;&#38;&nbsp;&nbsp;Seasonal Treatments</a></li>
+                <li id="tab_6"><a href="#special_packages">Special Packages<!--&nbsp;&nbsp;&#38;&nbsp;&nbsp;Seasonal Treatments--></a></li>
                 <li id="tab_10"><a href="#gallery">Gallery</a></li>
                 <li id="tab_1"><a href="#body_treatments">Body Treatments</a></li>
                 <li id="tab_2"><a href="#facials">Facials</a></li>
@@ -417,7 +417,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
         <div class="tab_data_inner">
 
            <!--<a href="/spa-renovation"><img src="/assets/images/spa-reno-email.jpg".></a><br><br>-->
-            <h2>SEASONAL TREATMENT</h2>
+            <!--<h2>SEASONAL TREATMENT</h2>
             <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
 
  <section class="spa_package">
@@ -439,7 +439,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h5>80 minutes &#8211; $195 </h5>
               </section>
 
-            <!--<section class="spa_package">
+            <section class="spa_package">
                 <h4>MONTH OF LOVE CHOCOLATE SCRUB &amp; MASSAGE</h4>
                 <p>Enjoy this seductively delicious chocolate temptation, without the calories. Start with a gentle coco scrub using ingredients including organic Coco and Shea butters, regenerating jojoba oil and vitamins E, A and B. Finish with a warm massage. This treatment offers an unforgettable chocolaty escape that you can take with you when you leave. Relive your spa experience with a few tasty treats from a local Austin Chocolatier along with the same coco massage candle used during your treatment.</p>
                 <h5>80 minutes &#8211; $180 </h5>
