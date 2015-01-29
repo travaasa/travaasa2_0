@@ -6,9 +6,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Texas Luxury Resorts | Austin TX Luxury Resort Accommodations</title>
+	<title>Travaasa Austin Luxury Resort | Inclusive Texas Hill Country Resort</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Travaasa Austin offers 70 comfortable and stylish luxury resort guest rooms with decks and views of the Texas Hill Country." />
+	<meta name="description" content="Travaasa Austin is unique among Texas Hill Country hotels and resorts. Whether you’re seeking luxury vacation accommodations in Austin, planning a romantic wedding or looking to host an executive retreat, Travaasa Austin is one of the finest inclusive resorts in Texas." />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
@@ -33,9 +33,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
+<!-- before miles--><!--
           <h1>LUXURY RESORT ROOMS &amp; ACCOMMODATIONS</h1>
           	<p>The luxury resort accommodations at Travaasa Austin are comfortable, stylish and relaxing — perfect for unwinding and resting after an ambitious workout, nature hike or meeting. Each of the 70 guest rooms offers a private deck or patio welcoming the fresh outdoor air in. It's a perfect place to just breathe.</p>
 			<p>Accommodations are located in seven dwellings linked together by meandering paths across the property, allowing for privacy and a closer experience with nature.</p>
+-->
+          <h1>Austin Luxury Resort Rooms in Texas Hill Country</h1>
+            <p>Upon arrival you’ll find yourself encircled by historic cypress trees and remarkable live oaks amongst the rolling hills of the Balcones Canyonlands Preserve.</p>
+      			<p>Experience is the new luxury, comfortable accommodations in Austin, Texas incorporate tasteful and soothing décor - the ultimate setting to unwind.  Our Canyon View hotel rooms feature expansive balconies with breathtaking views of the Texas Hill Country.  Trail View hotel rooms offer a balcony overlooking the property’s gardens and trails.  Whichever room type you choose, you’ll be pleased to discover our Austin accommodations feature organic linens, bathrooms with walk-in showers and plush robes.</p>
+            <p>A Texas adventure is yours to discover through our signature <a href="/austin/austin-experiences/">Travaasa Experiences</a>. Our inclusive (<a href="/austin/rates-and-packages/">Total Travaasa</a>) and a la carte (<a href="/austin/rates-and-packages/">Your Travaasa</a>) options give you the freedom to choose your level of adventure. See our <a href="/hana/hana-rates-and-packages/">rates and packages</a>. Begin your day with <a href="/austin/austin-experiences/spa-wellness/">Yoga for the Mind and Body</a>, or a <a href="/austin/austin-experiences/fitness/">Sunrise Hike</a>, then learn to play <a href="/austin/austin-experiences/culture/">the harmonica, or study the flora and fauna of Texas Hill Country</a>. Looking to relax and rejuvenuate?  Travaasa offers the <a href="/austin/travaasa-spa-overview/">finest spa treatments in all of Austin</a>.  As the sun begins to set the adventure continues with an afternoon equine encounter, evening fireside chats, and Texas Two Step.  These experiences and more are yours to enjoy with our inclusive Total Travaasa package, which nourishes mind, body and soul with experiences, meals and non-alcoholic drinks.</p>
+            <p>Or, choose the <a href="/austin/rates-and-packages/">Your Travaasa</a> option and add experiences to your stay a la carte. </p>
+            <p>Either way, Travaasa Austin lets you design a Texas Hill Country experience you’ll remember for years to come.</p>
+
 <div class="col span_1_of_1"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
   </section>
   <section class="grey pad group">
@@ -51,7 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
-            <h4>Canyon Room Accommodations</h4>
+            <h4>Canyon View Room Accommodations</h4>
             <p>Features and amenities include:</p>
             <ul class="description">
                 <li>Balconies set above the tree tops with the best views of the Texas Hill Country</li>
@@ -63,7 +72,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Sundry items</li>
                 <li>Organic Cotton Robes</li>
             </ul>
-            <p><strong>Other amenities include:</strong> Complimentary Wi-Fi, Desks, Coffee- and tea-makers, Irons, Hair dryers, Umbrellas</p>
+            <p><strong>Other amenities include:</strong> complimentary Wi-Fi, desks, coffee and tea-makers, irons, hair dryers, umbrellas</p>
          </div>
     </div>
     <div class="col span_1_of_5 pricing_grp_sub">
@@ -89,7 +98,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
-            <h4>Nature Room Accommodations</h4>
+            <h4>Nature View Room Accommodations</h4>
+
             <p>Features and amenities include:</p>
             <ul class="description">
                 <li>Balconies or patios with views in the woods</li>
@@ -116,6 +126,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
 </section>
 <?php
+
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

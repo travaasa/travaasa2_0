@@ -53,6 +53,8 @@ We are more than just destination resorts with world-class spa services, cuisine
 </article>
 </section>
 <?php
+
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer.php");
    include_once($path."/Library/Travaasa_Scripts.php");

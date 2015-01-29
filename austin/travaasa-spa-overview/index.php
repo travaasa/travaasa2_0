@@ -625,6 +625,8 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
 </article>
 </section>
 <?php
+
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

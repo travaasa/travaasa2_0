@@ -339,6 +339,8 @@ Please keep in mind that the treatment times are reserved especially for you. Th
 </article>
 </section>
 <?php
+
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

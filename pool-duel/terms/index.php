@@ -90,7 +90,9 @@ IN NO EVENT WILL THE SPONSOR OR ANY CONTEST ENTITIES BE RESPONSIBLE OR LIABLE FO
   </section>
 </article>
 </section>
-<?php 
+<?php
+
+ 
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

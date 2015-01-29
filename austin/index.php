@@ -129,6 +129,8 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
 </article>
 </section>
 <?php
+
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

@@ -4,11 +4,11 @@
 ?>
 <!DOCTYPE html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts  Adventure, Culinary, Culture, Fitness, Spa & Wellness Vacations</title>
-	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui. Our resorts provide authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa & Wellness." />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Travaasa Experiential Resorts  Adventure, Culinary, Culture, Fitness, Spa & Wellness Vacations</title>
+  <meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
+  <meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui. Our resorts provide authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa & Wellness." />
   <meta name="p:domain_verify" content="8b5fe67201926cfeb859a9501821fc80"/>
 <?php
    include_once($path."/Library/Travaasa_Head.php");
@@ -45,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content" class="clearfix">
 <article id="main" class="clearfix">
   <section class="section group" class="clearfix">
-  	<div class="pad">
+    <div class="pad">
         <div class="col span_4_of_7">
             <div id="location-selector">
                 <h1>SELECT A LOCATION</h1>
@@ -71,7 +71,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?>
 <script type="text/javascript">
 $(document).ready(function(e) {
-	createSubpageStorylines(true, false);
+  createSubpageStorylines(true, false);
 });
 </script>
 </body>
