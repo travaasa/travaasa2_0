@@ -53,7 +53,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
-          <h1>AUSTIN: GROUPS &amp; MEETINGS</h1>
+          <h1>AUSTIN TEXAS MEETINGS &amp; GROUPS</h1>
+            <p>Travaasa is an ideal location for Corporate Meetings and Executive Retreats. The boutique hotel property boasts invigorating group activities and team building, regional culinary experiences, and authentic customizable meetings.</p>
+          <!--<h1>AUSTIN: GROUPS &amp; MEETINGS</h1>
           <p><i>"Beyond exceptional."</i> — Ashland</p>
           <p>Make an impression. Inspire your group. Create a meeting they’ll talk about for years to come.</p>
           <p>Meet at Travaasa Austin.</p>
@@ -68,7 +70,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>Encourage your group to overcome obstacles — both physical and mental — as they take on our High Ropes Challenge Course. Teach them to communicate without speaking through our Equine Encounter. Fire them up with a little friendly head-to-head through our Art of the Cocktail Competition.</p>
           <p>Whatever your goals, our array of unique team building activities will encourage your group to grow — and have fun in the process.</p>
           <p>Best of all? We'll take care of the details.</p>
-          <p>Meet us here.</p>
+          <p>Meet us here.</p>-->
       </div>
       <div class="col span_3_of_9">
       	<p>TALK TO OUR SALES DEPARTMENT</p>

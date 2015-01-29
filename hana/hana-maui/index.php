@@ -44,12 +44,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix">
-      <div class="col span_9_of_9">
+      <div class="col span_6_of_9">
           <h1>Hana, Maui… as Authentic as Hawaii Gets</h1>
           <p>In Hana, Hawaiian culture is as important as breathing. Timeless local customs such as throw-net fishing and lei making are still a fundamental part of this community's fabric. At Travaasa, we're proud to be a member of such an extraordinary and tightly knit community.<br><br>
 Geographically, Hana is bookended by spectacular tropical wilderness. To the north and west lies the serpentine Hana Highway (also known as the Road to Hana), where each bend of the journey reveals ravines draped in waterfalls and lush rainforest. To the south and west, the road continues and delivers travelers to the outskirts of Haleakala National Park, where Ohe'o Gulch tumbles to the ocean in a series of magnificent cascades and swimmable pools.<br><br>
 Here at the eastern edge of Maui, you are completely removed from the ordinary, and yet completely involved in the moment. The magic of Heavenly Hana simply has to be experienced to be believed.</p>
       </div>
+       <div class="col span_3_of_9">
+         <div class="videobox"><a href="/hana/road-to-hana/"><img src="/assets/images/road-to-hana/map-thumb.jpg" width="352" height="223" alt=""/></a></div>
+       </div>
   </section>
   <section class="tabbed_container pad">
   	<div class="tabbed_list_nav">
