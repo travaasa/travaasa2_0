@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Hana Experiences | Adventure, Culinary, Culture, Fitness & Wellness Vacations</title>
+	<title>Travaasa Hana Experiences | Adventure, Culinary, Culture, Fitness &amp; Wellness Vacations</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="There are countless experiences to discover at Travaasa Hana as part of your all inclusive vacation. Discover our Adventure, Culinary, Culture, Fitness, Spa & Wellness activities." />
 	<?php
@@ -44,12 +44,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <h1>Travaasa Hana Experiences</h1>
           <p>There are countless things to do here. Picking up your jaw from the ground is one of them.
 <br><br>
-While you are with us, you will enjoy our inimitable hospitality and beauty of place, and the comforts of everything you've come to expect from a Travaasa experience: our healing and pampering spa, authentic Hawaiian pursuits (lei making, ‘ukulele, hula, snorkeling, throw net fishing, opening a coconut, enjoying local gardens and guides who will share their knowledge of ecology and culture with you), a pool with an ocean view unlike any other, outdoor yoga, so you can experience all of life—while here, we're taking you on a further journey to self, to recognition, to life, to the real Hawai'i.
+While you are with us, you will enjoy our warm hospitality and beauty of place, and the comforts of everything you've come to expect from a Travaasa experience: our healing and pampering spa, authentic Hawaiian pursuits (lei making, ‘ukulele, hula, snorkeling, throw net fishing, opening a coconut, enjoying local gardens and guides who will share their knowledge of ecology and culture with you), a pool with an ocean view unlike any other, outdoor yoga — while you're here, we're taking you on a further journey to the real Hawai'i.
 <br><br>
-And one way to do this is through our diverse course offerings we call "Travaasas." We offer five different pathways for you to explore: <a href="#adventure" class="scroll">Adventure</a>, <a href="#culinary" class="scroll">Culinary</a>, <a href="#culture" class="scroll">Culture</a>, <a href="#fitness" class="scroll">Fitness</a> and <a href="#spa" class="scroll">Spa &amp; Wellness</a>. You won't have any trouble finding something unique.<br><br><a href="/hana/hanaschedule" class="btn">View Experience Schedule</a><br><br><a href="/calendar" class="btn">January's Featured Experiences</a></p>
+We offer five different pathways for you to explore: <a href="/hana/travaasa-hana-experiences/adventure" class="scroll">Adventure</a>, <a href="/hana/travaasa-hana-experiences/culinary" class="scroll">Culinary</a>, <a href="/hana/travaasa-hana-experiences/culture" class="scroll">Culture</a>, <a href="/hana/travaasa-hana-experiences/fitness" class="scroll">Fitness</a> and <a href="/hana/travaasa-hana-experiences/spa-wellness" class="scroll">Spa &amp; Wellness</a>. You won't have any trouble finding something unique.<br><br><a href="/hana/hanaschedule" class="btn">View Experience Schedule</a><br><br></p>
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?></div>
   </section>
+
+  <section class="grey pad storylines experience-tiles hana">
+    <div class="group">
+      <a href="/hana/travaasa-hana-experiences/adventure">
+        <img data-original="/assets/images/experience/tmb-adventure.jpg" src="/assets/images/experience/tmb-adventure.jpg" alt="">
+        <h2>ADVENTURE</h2>
+      </a>
+      <a href="/hana/travaasa-hana-experiences/culinary">
+        <img data-original="/assets/images/experience/tmb-culinary.jpg" src="/assets/images/experience/tmb-culinary.jpg" alt="">
+        <h2>CULINARY</h2>
+      </a>
+      <a href="/hana/travaasa-hana-experiences/culture">
+        <img data-original="/assets/images/experience/tmb-culture.jpg" src="/assets/images/experience/tmb-culture.jpg" alt="">
+        <h2>CULTURE</h2>
+      </a>
+    </div>
+    <div class="group">
+      <a href="/hana/travaasa-hana-experiences/fitness">
+        <img data-original="/assets/images/experience/tmb-fitness.jpg" src="/assets/images/experience/tmb-fitness.jpg" alt="">
+        <h2>FITNESS</h2>
+      </a>
+      <a href="/hana/travaasa-hana-experiences/spa-wellness">
+        <img data-original="/assets/images/experience/tmb-spa.jpg" src="/assets/images/experience/tmb-spa.jpg" alt="">
+        <h2>SPA & WELLNESS</h2>
+      </a>
+      <a href="/calendar">
+        <img data-original="/assets/images/experience/title-bg.gif" src="/assets/images/experience/title-bg.gif" alt="">
+        <h2>JANUARY <br>FEATURED <br>EXPERIENCES</h2>
+      </a>
+    </div>
+  </section>
+  <!--
   <section class="grey pad storylines">
   	<a id="adventure"></a>
     <h4 class="experience-title">ADVENTURE</h4>
@@ -295,9 +327,12 @@ And one way to do this is through our diverse course offerings we call "Travaasa
       </div>
       <a class="carousel_prev" id="story4_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="story4_next" href="#"><span><b>next</b></span></a> </div>
   </section>
+  -->
 </article>
 </section>
 <?php
+
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");
