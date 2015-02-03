@@ -1,4 +1,4 @@
-iinput [type="text"] {
+input [type="text"] {
 	border: 2px solid #D1D1D1;
 	background: #FAFAFA;
 	padding: 7px 0 0 0;
@@ -6,7 +6,7 @@ iinput [type="text"] {
 
 input [type="submit"] {
 	border:none;
-	background-color:#EA5965;
+	background-color:#d11241;
 	color:white;
 	text-transform: uppercase;
 	padding: 8px 20px;
@@ -14,7 +14,7 @@ input [type="submit"] {
 }
 
 li.focused {
-	background-color: #FDEDEE;
+	background-color: #fdeeef;
 }
 
 
@@ -154,7 +154,7 @@ html {
 }
 .wufoo input.btTxt {
 	border:none;
-	background-color:#EA5965;
+	background-color:#d11241;
 	color:white;
 	text-transform: uppercase;
 	padding: 8px 20px;
@@ -164,7 +164,7 @@ html {
 }
 
 .wufoo input.btTxt:hover {
-    background-color:#EA5965;
+    background-color:#51CFF6;
 }
 
 .wufoo li.focused label.desc,  .wufoo li.focused legend.desc, .wufoo li.focused div,  .wufoo li.focused span,  .wufoo li.focused div label,  .wufoo li.focused span label, .safari .wufoo li.focused input.file {
@@ -196,7 +196,7 @@ a.powertiny b,  a.powertiny em {
     color: #666666;
 }
 .pgStyle1 .selected var {
-    border: 1px solid #EA5965;
+    border: 1px solid #d11241;
 }
 .likert table {
     background-color: #FFFFFF;
