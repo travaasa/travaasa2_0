@@ -110,7 +110,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer.php");
    include_once($path."/Library/Travaasa_Scripts.php");
-?><script type="text/javascript">
+
+
+?>
+<script type="text/javascript">
 $(function() {
 });
 </script>

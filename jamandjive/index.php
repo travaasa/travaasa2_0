@@ -112,7 +112,9 @@ The Jive 8:30–10 p.m.<br>
   </section>
 </article>
 </section>
-<?php 
+<?php
+
+ 
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");

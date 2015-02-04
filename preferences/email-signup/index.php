@@ -101,7 +101,9 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
   
 </article>
 </section>
-<?php 
+<?php
+
+ 
 include_once($path."/Library/Travaasa_Testimonials.php");
 if ($loc == 'hana') :
 include_once($path."/Library/Travaasa_Footer_Hana.php");

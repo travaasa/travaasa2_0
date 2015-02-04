@@ -92,10 +92,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<div class="group">
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-sea-ranch-exteriors.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottages"><img class="lazy" data-original="/assets/images/gallery/hana/1433-sea-ranch-exteriors-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-sea-ranch-pool-chairs.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Pool"><img class="lazy" data-original="/assets/images/gallery/hana/1433-sea-ranch-pool-chairs-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
-            <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-sea-ranch-room.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"><img class="lazy" data-original="/assets/images/gallery/hana/1433-sea-ranch-room-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
+            <!--<div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-sea-ranch-room.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"><img class="lazy" data-original="/assets/images/gallery/hana/1433-sea-ranch-room-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>-->
             <!--<div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-sea-ranch-view.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage View"><img class="lazy" data-original="/assets/images/gallery/hana/1433-sea-ranch-view-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>-->
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/sea-ranch-cottage-tj-alt-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"><img class="lazy" data-original="/assets/images/gallery/hana/sea-ranch-cottage-tj-alt-large-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/sea-ranch-cottage-alt-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage"><img class="lazy" data-original="/assets/images/gallery/hana/sea-ranch-cottage-alt-large-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
+            <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1440-src-bathroom.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Sea Ranch Cottage Bathroom"><img class="lazy" data-original="/assets/images/gallery/hana/100-src-bathroom.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
          </div>
     	<div class="group">
             <div class="col span_1_of_5"><a href="/assets/images/gallery/hana/1433-garden-view-pool.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Garden View Pool"><img class="lazy" data-original="/assets/images/gallery/hana/1433-garden-view-pool-thm.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt=""></a></div>
@@ -153,6 +154,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </article>
 </section>
 <?php
+
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Hana.php");
    include_once($path."/Library/Travaasa_Scripts.php");

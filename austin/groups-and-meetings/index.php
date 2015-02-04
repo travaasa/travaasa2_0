@@ -6,9 +6,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Executive Retreat Locations | Austin Meeting Space | Travaasa Austin Texas Meetings</title>
+	<title>Austin Meeting Space | Travaasa Austin Hill Country Resort | Executive Retreat</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Looking for Executive Retreat ideas and group team building alternatives? Travaasa Austin combines superior meeting space and unique activities in a beautiful Texas Hill Country setting." />
+	<meta name="description" content="Create a memorable and productive meeting or retreat in the beautiful Austin TX Hill Country at Travaasa Experiential Resort, which offers a variety of flexible indoor and outdoor meeting space. " />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
@@ -55,6 +55,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col span_6_of_9">
           <h1>AUSTIN TEXAS MEETINGS &amp; GROUPS</h1>
             <p>Travaasa is an ideal location for Corporate Meetings and Executive Retreats. The boutique hotel property boasts invigorating group activities and team building, regional culinary experiences, and authentic customizable meetings.</p>
+          <!--<h1>AUSTIN: GROUPS &amp; MEETINGS</h1>
+          <p><i>"Beyond exceptional."</i> — Ashland</p>
+          <p>Make an impression. Inspire your group. Create a meeting they’ll talk about for years to come.</p>
+          <p>Meet at Travaasa Austin.</p>
+          <p>Unforgettable corporate meetings, executive retreats and events are what we do. With a dynamic mix of unmatched meeting spaces, team building activities and farm-to-table cuisine, not to mention the incredible natural surroundings of Texas Hill Country, we make meetings easy.</p>
+          <p>And who doesn’t like easy?</p>
+          <p><i>"The location and the staff were unforgettable. I truly felt like I had partners for my meeting/event."</i> — Annie</p>
+          <p>Creativity comes easily at Travaasa Austin as groups find themselves inspired by the rolling green hills and majestic woodlands surrounding our secluded property. Glass windows throughout our 7,000 square feet of indoor meeting space let undisturbed views of Hill Country set the tone for an authentic meeting, while another 6,000 square feet of outdoor meeting space lets your group immerse itself in nature’s tranquil beauty, whether it’s in our gardens, on a hiking trail or at our distinguished equine farm.</p>
+          <p>This is not a meeting they'll soon forget.</p>
+          <p>Fresh air, pristine wilderness and awe-inspiring views of Hill Country let your group bond, connect and grow in ways a fluorescent-lit cubicle could never match. Add to that Travaasa Austin’s unparalleled selection of team building activities, and you’ll soon see your group’s morale reach new heights.</p>
+          <p>And you'd better bel,ieve that enthusiasm will carry right on back to the office.</p>
+          <p><i>"The team building…will be talked about for years and years to come."</i> — Jonathan</p>
+          <p>Encourage your group to overcome obstacles — both physical and mental — as they take on our High Ropes Challenge Course. Teach them to communicate without speaking through our Equine Encounter. Fire them up with a little friendly head-to-head through our Art of the Cocktail Competition.</p>
+          <p>Whatever your goals, our array of unique team building activities will encourage your group to grow — and have fun in the process.</p>
+          <p>Best of all? We'll take care of the details.</p>
+          <p>Meet us here.</p>-->
       </div>
       <div class="col span_3_of_9">
       	<p>TALK TO OUR SALES DEPARTMENT</p>
@@ -119,7 +135,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
                 </div>
             </div>
-            <p>The Lone Star Room is ideal for larger meetings and events, whether classroom, banquet- or theatre-style setup is required. Details include a bamboo floor, a tectum ceiling with exposed wood trusses, motorized blackout drapes, ceiling-mounted projector and a motorized 10’x15’ screen. Full audiovisual playback is available either through the overhead lecture sound system or the PA system with four floor boxes. Part of the Live Oak Center.</p>
+            <h2>Lone Star Room</h2>
+            <p><i>“The resort space was beautiful and provided a good mix of fun, ambience, and professional space…”</i> —Tamara</p>
+            
+           <p>When you need flexible resort meeting space in Austin that can accommodate your group, The Lone Star Room is the ideal choice. Nearly 3,000 square feet of event space can be transformed into the perfect venue for business or relaxation, whether you need a classroom, banquet- or theater-style setup. Our ceiling-mounted projector and motorized 10’x15’ screen provide top-quality visuals for presentations, while two audio options – an overhead lecture sound system and a PA system with four floor boxes – ensure presenters’ every word comes through loud and clear. Motorized blackout drapes allow you to create the perfect setting for your event.</p>
+           <p>Ambiance takes this Austin meeting space to the next level. Accents like bamboo flooring and exposed wood beam trusses create a warm contrast for attendees to enjoy, while floor-to-ceiling glass windows keep the mood bright and comfortable. This event venue is part of Travaasa’s Live Oak Center, which also features an outdoor courtyard, restrooms and our Fireside and Showroom meeting spaces, two flexible options for breakout sessions, panels, or other smaller gatherings during your meeting or conference.</p>
+
 
             <br><hr><br>
 
@@ -169,7 +190,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</tbody></table>
 				</div>
             </div>
-            <p>The Showroom, with its Barco IQ Backlit Projector, 7-1/2’x10’ screen, Dolby 7.1 surround sound and automated black-out blind system, offers excellent presentation technology with views from oversized picture windows. Part of the Live Oak Center.</p>
+            <h2>Showroom</h2>
+           <p>Meeting planners looking for flexible event space in Austin for mid-size groups or events appreciate the options of the Showroom, a 1,470-square-foot meeting space that works well for events like breakout sessions and workshops. With options for theater, banquet, classroom and U-shape seating, the Showroom’s flexible layout is an asset for meeting professionals. Plus a Barco IQ Backlit Projector and 7.5’x10’ screen complemented by an automated black-out blind system for the scenic tall glass windows give groups all the tools they need for a flawless meeting. The Showroom is part of Travaasa’s Live Oak Center, a versatile indoor event venue.</p>
 
             <br><hr><br>
 
@@ -217,7 +239,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                        </table>
 				</div>
             </div>
-            <p>The Fireside Room is an exquisite space and provides a warm environment for any gathering or meeting. Details include an open wood-deck ceiling measuring 25 feet at its peak, hickory/pecan floors, a stone fireplace and wood blinds. Part of the Live Oak Center.</p>
+            <h2>Fireside Room</h2>
+            <p><i>" It was so nice to provide our partners a space like the Fireside Room, [with] so many windows and [a] pretty view onto the property. " — Hanna Hubbs, BizNet Software</i><p>
+            <p>For an intimate gathering or meeting, the Fireside Room at Travaasa is a warm and inviting event space in Austin. A stone fireplace sets the tone for this welcoming environment, which features hickory and pecan wood flooring, two walls of windows showcasing gorgeous Hill Country views, and an open wood-deck ceiling that reaches a height of 25 feet at its peak. Versatile seating options are available for the Fireside Room, which is part of the resort’s Live Oak Center event venue.</p>
 
             <br><hr><br>
 
@@ -264,7 +288,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
 				</div>
             </div>
-            <p>The Parlor offers gracious accommodations with comfortable couches and chairs, a wrap-around porch, a kitchenette and private bathroom facilities.</p>
+            <h2>Parlor</h2>
+            <p>Intimate meetings, informal gatherings and brainstorming sessions have a relaxing home at the Parlor, a 440-square-foot meeting space with comfortable couches and chairs, a wrap-around porch, a kitchenette and private bathroom facilities. Living room-style, hospitality and reception setups allow this cozy resort meeting space in Austin to meet your group’s specific needs.</p>
 
 			<br><hr><br>
 
@@ -313,7 +338,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
 				</div>
             </div>
-            <p>The Spur is perject for hosting an intimate dinner after having drinks on the adjacent Mesquite Patio.</p>
+            <h2>The Spur</h2>
+            <p>The calming flicker of a stone fireplace and the sights of Texas Hill Country beyond floor-to-ceiling glass windows set the tone for private dining in The Spur, a private dining and meeting space adjacent to the property’s restaurant that’s perfect for an intimate group dinner in Austin. This room opens directly into the Mesquite Patio, offering an indoor/outdoor option for group dining and cocktail receptions.</p>
 
 			<br><hr><br>
 
@@ -366,10 +392,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
 				</div>
             </div>
-            <p>The Solidago Gardens, featuring a spacious handcrafted wood and stone structure, is accessible by way of a forested trail and is designed as an intimate setting for meetings and receptions.</p>
+            <h2>Solidago Gardens</h2>
+            <p>Meeting planners never fail to impress when they choose our Solidago Gardens for a meeting or event. A forest trail leads attendees to this secluded 2,500-square-foot garden courtyard, where a handcrafted mason wall creates a private space where your group can meet amidst the beauty of Texas Hill Country. A natural canopy of trees and two water features add to the tranquility of this outdoor meeting space in Austin, while a handcrafted wood and stone structure provides an additional 575-square feet of indoor space.</p>
 
 			<br><hr><br>
+      <div class="group">
+        <div class="col span_1_of_2">
+        <div class="magnify">
+          <a href="/assets/images/gallery/austin/large-chefs-table.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"></a>
+        </div>
+        <a href="/assets/images/gallery/austin/large-chefs-table.jpg" data-flare-gallery="galleryStables" data-target="flare" data-flare-scale="fitmax" title="The Spur"><img class="fitwidth lazy" data-original="/assets/images/gallery/austin/350-chefs-table.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="The Spur"></a>
+        </div>
+       <!--  /public_html/travaasa/assets/images/gallery/austin/small-chefs-table.jpg
+       /public_html/travaasa/assets/images/gallery/austin/large-chefs-table.jpg
+       /public_html/travaasa -->
 
+        <div class="col span_1_of_2">
+            <table class="meetings-table">
+                <tbody>
+                    <tr>
+                        <th colspan="2">Chef's Table</th>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Square Feet:</td>
+                        <td class="meetings-table-data">435</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Height:</td>
+                        <td class="meetings-table-data">9'</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Tehater Style:</td>
+                        <td class="meetings-table-data">30</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Classroom:</td>
+                        <td class="meetings-table-data">12</td>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">U-Shape:</td>
+                        <td class="meetings-table-data">12</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <h2>Chef's Table</h2>
+    <p>Bright ideas come standard with this sunny space. Centrally located across from the restaurant with easy access to the bar and Mesquite Patio, the Chef's Table is a great space for executive retreats, breakaway sessions and other small groups. Featuring stained concrete floors, a unique collection of books and windows overlooking the courtyard, the clean, modern design is centered on a long table that can be utilized for meetings, dining or buffet service. Beyond brainstorming, the room is an ideal setting for a hospitality suite or a private dining experience.</p>
+
+    <br><hr><br>
             <!--<div class="group">
                 <div class="col span_1_of_2">
                 <div class="magnify">
@@ -420,7 +491,9 @@ austinsales@travaasa.com</a></td>
                     </table>
                 </div>
             </div>
-            <!--<p>Example Paragraph</p>-->
+            <h2>The Farm at Travaasa</h2>
+            <p>"Every guest was amazed by the outdoor party at the farm." — Annie</i></p>
+            <p>Team building opportunities for meetings and events abound at The Farm at Travaasa, where meeting planners can take groups beyond the boardroom to learn key skills through activities like our Equine Encounter and Cowboy Roping class. The Farm at Travaasa is also the perfect outdoor event venue for your group to celebrate in true Texas fashion with a party or reception under the stars.</p>
 
             <br><hr><br>
 
@@ -445,7 +518,8 @@ austinsales@travaasa.com</a></td>
                     </table>
                 </div>
             </div>
-            <!--<p>Example Paragraph</p>-->
+            <h2>Mesquite Patio</h2>
+            <p>Your group won’t soon forget the sight of a Texas sunset, and the best event space in Austin to watch the sun set over Texas Hill Country is the Mesquite Patio at Travaasa Austin. Perfect for outdoor receptions and cocktail hours under the Texas sky, the Mesquite Patio can also be used in conjunction with the adjacent Spur room to create an indoor/outdoor event. </p>
 
             <br><hr><br>
 
@@ -594,6 +668,8 @@ austinsales@travaasa.com</a></td>
 </article>
 </section>
 <?php
+
+
    include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer_Austin.php");
    include_once($path."/Library/Travaasa_Scripts.php");
