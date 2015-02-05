@@ -44,7 +44,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <script type="text/javascript" src="https://secure.opentable.com/frontdoor/default.aspx?rid=147670&restref=147670&bgcolor=fafafa&titlecolor=444444&subtitlecolor=444444&btnbgimage=http://staging.travaasa.com/assets/images/opentable-btn.png&otlink=FAFAFA&icon=dark&mode=short&hover=1"></script><!--<a href="http://www.opentable.com/single.aspx?rid=147670&rtype=ism&restref=147670" class="OT_ExtLink">MAKE A RESERVATION</a>-->
       </div>
       <div class="col span_7_of_9">
-          <h1>DINING AT TRAVAASA AUSTIN</h1>
+          <h1>THE PRESERVE KITCHEN + BAR</h1>
           <p>Our culinary staff is obsessed with two things: nourishing our guests with delicious dishes composed of fresh, organic, and locally sourced ingredients whenever possible; and fostering a sense of community at the table. It is these two obsessions that make dining at Travaasa Austin so special. Our executive chef, Benjamin Baker, has taken great strides to deliver an experience where guests can share their story over breakfast, lunch or dinner.</p>
 <p>Dining is included in some packages at Travaasa Austin. See our <a href="/austin/rates-and-packages">rates &amp; packages</a> for more information. 
   <p>Off property guests are welcome to dine with a reservation. <b><em>Dining guests must be at least 16 years of age or older.</em><b></p>
