@@ -148,11 +148,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>To relax your muscles and encourage the elimination of toxins, we begin with an organic panela sugar scrub. Fossilized Dead Sea mud and organic herbs of chamomile, dandelion and lemon balm provide deep detoxification, while pure essential oils of rosemary, eucalyptus and lavender support, strengthen and ground the spirit.</p>
                 <h5>80 minutes &#8211; $180</h5>
 			</section>
-            <!--<section class="spa_package">
+            <section class="spa_package">
                 <h4>DETOXIFYING JUNIPER, OLIVE STONE EXFOLIATION &amp; POLISH</h4>
                 <p>Juniper, seaweed and cypress have a reputation for deep cleansing, stimulating, purifying and revitalizing the body and mind, and together they jump-start the metabolism, aid in circulation and penetrate your skin to help smooth cellulite.</p>
                 <h5>50 minutes &#8211; $130</h5>
-			</section>-->
+			</section>
             <section class="spa_package">
                 <h4>INVIGORATING AVOCADO WRAP</h4>
                 <p>Luxuriate in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. Finish with a stimulating scalp massage and full-body mineral mist to invigorate, revitalize and illuminate you from head to toe.</p>
@@ -188,11 +188,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     			<p>Restore radiance and vitality to every cell with this powerful and refreshing facial. It targets your skin's nutritional needs with skin-renewing antioxidants such as alpha lipoic acid, green and rooibos tea and vitamins A, C and E. Two masks, sun-infused oils and luxurious moisturizers hydrate and restore your skin, while a hand and foot treatment with homeopathic preparations completes this luxurious treatment.</p>
                 <h5>80 minutes &#8211; $170</h5>
 			</section>
-			<!--<section class="spa_package">
+			<section class="spa_package">
                 <h4>SACRED STONE FACIAL</h4>
     			<p>Experience a cleansing facial followed by a face-lifting massage using warm and cool stones to relieve tension and stimulate a healthy glow.</p>
                 <h5>50 minutes &#8211;  $130</h5>
-			</section>-->
+			</section>
 			<section class="spa_package">
                 <h4>NATIVE BLENDS REJUVENATING FACIAL</h4>
     			<p>Luminous skin can be yours with herbal steam wraps, lavender and rosemary cleansers blended with plant phospholipids, deep exfoliation and a super-antioxidant mask.</p>
@@ -322,11 +322,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     			<p>Based on centuries-old Eastern techniques, acupressure is combined with stretches, weight and leverage to alleviate fatigue and pain and make your body feel alive and energized like never before. Please wear comfortable clothing.</p>
                 <h5>50 or 80 minutes &#8211;  $135/$185</h5>
 			</section>
-            <!--<section class="spa_package">
+            <section class="spa_package">
                 <h4>SACRED STONES MASSAGE</h4>
     			<p>We use a variety of massage techniques with heated basalt stones to invite deep relaxation and cool marble stones to stimulate your immune system and soothe inflammation.</p>
                 <h5>50 or 80 minutes &#8211;  $135/$185</h5>
-			</section>-->
+			</section>
             <section class="spa_package">
                 <h4>SWEDISH MASSAGE</h4>
     			<p>This deeply relaxing massage uses long, flowing strokes to help reduce pain and stress, ease stiffness and aid in circulation.</p>
