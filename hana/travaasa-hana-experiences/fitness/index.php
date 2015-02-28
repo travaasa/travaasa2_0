@@ -64,12 +64,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <h2>Private Bootcamp (additional fee)</h2>
           <p class="description">Do you live to push your body to the next level? Then get ready to go through some tough intervals that will make your heart rate soar during this private outdoor bootcamp. Get maximum results in a minimum amount of time while promoting all-around fitness. We'll challenge your body and your mind as we mix up the moves and the intensity of the workout to keep you motivated, all the while being surrounded by 360˚ views of stunning Hawaiian scenery. What truly makes our bootcamp unlike any other is that we'll exercise using the natural landmarks around our beautiful Hana property. Of course, our bootcamp wouldn't be complete if we didn't hit the beach! Get ready to see the features of Hawaii’s coast in a new light as Hana becomes your new gym.<br /><br /><br /></p>
         </article>
-        <article>
+        <!--<article>
           <img data-original="/assets/images/exp_hana_fitness_core_conditioning.jpg" src="/assets/images/exp_hana_fitness_core_conditioning.jpg" alt="Core Conditioning Hana fitness vacation" >
           <br />
           <h2>Core Conditioning</h2>
           <p class="description">Mana is a divine spiritual power or energy. It's a power that comes from within, flowing through all of us and giving us the power to do what we believe we can do. So, it's no small wonder that our 30-minute core class will make you feel like you can conquer the world. You just have to believe. By harnessing and channeling your mana, you’ll tone your abs, lower back and glutes in this intense workout. You'll also improve core strength, balance and total body function using stability balls and gravity-resistant exercises. Your core muscles lay much of the groundwork for your body’s strength, flexibility and endurance, and this core conditioning class will show you how to unleash the true power that lies within you.</p>
-        </article>
+        </article>-->
         <article>
           <img data-original="/assets/images/exp_hana_fitness_pilates.jpg" src="/assets/images/exp_hana_fitness_pilates.jpg" alt="Maui Pilates" >
           <br />
@@ -80,7 +80,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <img data-original="/assets/images/exp_hana_fitness_walks.jpg" src="/assets/images/exp_hana_fitness_walks.jpg" alt="Coastal Workout Hawaii fitness travel" >
           <br />
           <h2>Coastal Walks</h2>
-          <p class="description">Your morning sets the tone for the rest of your day, and when you’re spending the day in paradise, why not start your day by immersing yourself in the natural beauty of Hana? As your explore Maui’s coast, look out for the famed "canoe plants” that were brought to Hawaii by the first Polynesians over 1,300 years ago to ensure their survival.</p>
+          <p class="description">Your morning sets the tone for the rest of your day, and when you’re spending the day in paradise, why not start your day by immersing yourself in the natural beauty of Hana? As your explore Maui’s coast, look out for the famed "canoe plants” that were brought to Hawaii by the first Polynesians over 1,300 years ago to ensure their survival.<br /><br /></p>
         </article>
         <!--<article>
           <img data-original="/assets/images/exp_hana_fitness_walks.jpg" src="/assets/images/exp_hana_fitness_walks.jpg" alt="Coastal Workout Hawaii fitness travel" >
@@ -112,12 +112,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <h2>Tennis</h2>
           <p class="description">Tennis boasts an array of physical and mental benefits that you can enjoy during your stay. Whether you’re new to the game or a lifelong player, you can practice your serve, perfect your backspin or keep your backhand sharp. Travaasa Hana features two newly resurfaced tennis courts on property where you can get your daily dose of this popular outdoor sport. Tennis equipment is available for guests to use in the adjacent Makana Center.<br /></p>
         </article>
-        <article>
+        <!--<article>
           <img data-original="/assets/images/exp_hana_fitness_foam_rollers.jpg" src="/assets/images/exp_hana_fitness_foam_rollers.jpg" alt="Foam Rollers Maui Hawaii wellness travel" >
           <br />
           <h2>Foam Rollers</h2>
           <p class="description">One of the reasons you might be here is for a relaxing, stress-free, pressure-free Hawaiian experience. Of course, you may need some help releasing all the muscular tension that civilization has placed squarely on your shoulders. We suggest foam rollers, a body rolling exercise that helps you release muscular tension with a rolling massage that feels great and helps increase flexibility. With targeted exercises that lay your body over these foam rollers, you’ll melt away aches and pain, leaving your body in tiptop shape for exploring all that Hana has to offer. You'll also improve balance, core muscles, stability and total body function. Foam rollers can also be used before or after a workout to relax your muscles.</p>
-        </article>
+        </article>-->
       </div>
     </section>
   </article>
