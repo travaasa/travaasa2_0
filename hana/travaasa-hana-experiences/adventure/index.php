@@ -67,13 +67,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <img data-original="/assets/images/exp_hana_adventure_stand_up_paddling.jpg" src="/assets/images/exp_hana_adventure_stand_up_paddling.jpg" alt="Stand Up Paddling Hawaii Stand Up Paddleboarding">
           <br />
           <h2>Stand Up Paddling</h2>
-          <p class="description">Stand Up Paddling is a popular water sport around the world today. Did you know this adventurous aquatic activity actually originated along the shores of Hawaii? Better known locally as hoe he'e nalu, SUP was once how the ancient Polynesians surfed the local waves. SUP is similar to surfing except a paddle is used to maintain balance and movement on the water, providing a strong core workout that promotes general fitness in true Hawaiian style. Plus, SUP at Travaasa Hana is more than just a fun workout — it also provides beautiful views of the natural surroundings of Hana Bay.</p>
+          <p class="description">Stand Up Paddling is a popular water sport around the world today. Did you know this adventurous aquatic activity actually originated along the shores of Hawaii? Better known locally as hoe he'e nalu, SUP was once how the ancient Polynesians surfed the local waves. SUP is similar to surfing except a paddle is used to maintain balance and movement on the water, providing a strong core workout that promotes general fitness in true Hawaiian style. Plus, SUP at Travaasa Hana is more than just a fun workout — it also provides beautiful views of the natural surroundings of Hana Bay.<br /><br /></p>
         </article>
         <article>
           <img data-original="/assets/images/exp_hana_adventure_snorkeling.jpg" src="/assets/images/exp_hana_adventure_snorkeling.jpg" alt="Snorkeling Hana snorkeling">
           <br />
           <h2>Snorkeling</h2>
-          <p class="description">Maui is by far the most popular snorkeling island in all of Hawaii — and it isn’t hard to see why. Spectacular coral reefs and colorful varieties of exotic sea life beckon you to discover the wealth of treasures that wait for you beneath the ocean’s surface. During this snorkeling experience, you’ll discover the hidden beauty of Kapueokahi Beach or Hana Bay, where a protected cove teems with tropical fish and living coral gardens in amazing shapes and colors. Take your time enjoying this snorkeler's paradise because after your first glimpse of Hawaii’s stunning underwater surroundings, you might just become hooked on this breathtaking experience.</p>
+          <p class="description">Maui is by far the most popular snorkeling island in all of Hawaii — and it isn’t hard to see why. Spectacular coral reefs and colorful varieties of exotic sea life beckon you to discover the wealth of treasures that wait for you beneath the ocean’s surface. Grab some snorkeling gear from the Makana Center and discover the hidden beauty of Hamoa Beach, Kapueokahi Beach or Hana Bay, where a protected cove teems with tropical fish and living coral gardens in amazing shapes and colors. Take your time enjoying this snorkeler's paradise because after your first glimpse of Hawaii’s stunning underwater surroundings, you might just become hooked on this breathtaking experience.</p>
+        </article>
+        <article>
+          <img data-original="/assets/images/exp_hana_adventure_canoe.jpg" src="/assets/images/exp_hana_adventure_canoe.jpg" alt="Canoe Row Hana Ocean">
+          <br />
+          <h2>Canoe Adventure</h2>
+          <p class="description">Paddle into Maui's ancient past with a maritime adventure on board Wananalua, Travaasa Hana's Outrigger Canoe.  Expert local guides teach the basics of canoeing during the paddling tour of Hana Bay.  The four-person, custom-made canoe provides an interesting twist on a full body workout while offering a maritime perspective of the pacific.  Learn the history of the canoe and its importance to Hawaiian history and a chant to honor Hana.  It is not uncommon to spot sea turtles swimming alongside the canoe, and sometimes during the winter and spring months, a few lucky guests may even see a whale or two.</p>
         </article>
       </div>
       </section>
