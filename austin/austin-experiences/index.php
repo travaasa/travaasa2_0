@@ -31,7 +31,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="/calendar/"><img data-original="/assets/images/feature_months_february_2014_1600x640_austin_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="/calendar/"><img data-original="/assets/images/feature_months_march_2015_1600x640_austin_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#" style="display:none"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#" style="display:none"><span><b>next</b></span></a>
@@ -72,7 +72,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </a>
       <a href="/calendar">
         <img data-original="/assets/images/experience/title-bg.gif" src="/assets/images/experience/title-bg.gif" alt="">
-        <h2>FEBRUARY <br>FEATURED <br>EXPERIENCES</h2>
+        <h2>MARCH <br>FEATURED <br>EXPERIENCES</h2>
       </a>
     </div>
   </section>
