@@ -62,7 +62,7 @@ Group Sales: 512-334-4649
       <a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO TALK WITH US</a><br />
       <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO CHAT WITH US</a></p>
     </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/united-states/texas/austin/travaasa-austin"><img src="/assets/images/global/preferred-logo-white-144px.png" alt=""></a><span>&copy;2015 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;Travaasa Austin is a non-smoking property.</span></p>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="http://preferredhotelgroup.com/preferred-boutique/destinations/united-states/texas/austin/travaasa-austin"><img src="/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2015 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;Travaasa Austin is a non-smoking property.</span></p>
     
     
   </nav>
