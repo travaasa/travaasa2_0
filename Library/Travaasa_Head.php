@@ -1,4 +1,4 @@
-<meta name="author" content="www.doner.com">
+<meta name="author" content="Travaasa Experiential Resorts">
 <!--<link rel="shortcut icon" href="/assets/images/global/favicon.png">-->
 <link rel="icon" type="image/png" href="/assets/images/global/favicon.png" />
 <!-- Responsive and mobile friendly stuff -->
