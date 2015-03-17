@@ -127,12 +127,12 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>For a whole-body detox, try a soothing body wrap that incorporates organic pumpkin (sourced from Travaasa’s own farm) in addition to products from our spa's base line, ilike organic body care. The orange and cinnamon ingredients clean and balance skin, while the nutrient-rich pumpkin works to nourish and rehydrate. A calming linden and marigold cream massage completes the treatment.)</p>
                 <h5>80 minutes &#8211; $185 </h5>
             </section><br>-->
-            <h2>For Your Valentine</h2>
+            <!--<h2>For Your Valentine</h2>
             <section class="spa_package">
                 <h4>Chocolate Decadence Body Treatment</h4>
                 <p>Indulge in this sensory experience that will leave you feeling silky soft, rejuvenated and decadently relaxed.  Using organic chocolate, shea butters and other aromatic elixirs, this 80 minute treatment includes an exfoliating body treatment followed by a soothing massage. The perfect treat for Valentines Month!</p>
                 <h5>80 minutes &#8211; $195 </h5>
-            </section>
+            </section>-->
 
             
 
