@@ -186,7 +186,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <p>It’s hard to argue with the views from Wailua Valley State Wayside, which span from the ocean across the Wailua Peninsula and beyond the Keanae Valley. On a clear Hawaiian day, you can even see as far as the Ko’olau Gap of Haleakala. Experience the views for yourself with this stop along the Road to Hāna. Climb the stairs to the viewpoint and look down onto the historic village and taro fields of Wailua, set against the deep blue waters of the Pacific. Spin around, and countless shades of green will sweep you away as you gaze upon Keanae Valley below.</p></div>
        <div class="gps">GPS Coordinates: <span>20.840268, -156.140152</span></div>
       <div class="links-bar">
-        <a href="http://www.hawaiistateparks.org/parks/maui/index.cfm?park_id=42" target="_blank">visit website</a>
+        <a href="http://dlnr.hawaii.gov/dsp/parks/maui/wailua-valley-state-wayside/" target="_blank">visit website</a>
         <div class="socials">
           <span>share</span>
           <ul>
@@ -261,7 +261,7 @@ From the road, you can see the waterfalls pour into the shimmering blue-green po
       <p>You may never look at a white-sand beach with same awe after digging your toes into the black sands of Wai’anapanapa State Park. Here, lava once met the ocean and shattered into the small black grains that give the beach its unique hue. Maui’s blue waters seem that much brighter as they shine against the black sand, making this stop along the Road to Hāna that much more enchanting. Wander along the coast to discover caves, sea arches and even blowholes, a sight and sound to behold as crashing waves send water jetting into the air with thundering booms.</p></div>
       <div class="gps">GPS Coordinates: <span>20.788616, -156.003687</span></div>
       <div class="links-bar">
-        <a href="http://www.hawaiistateparks.org/parks/maui/waianapanapa.cfm" target="_blank">visit website</a>
+        <a href="http://dlnr.hawaii.gov/dsp/parks/maui/waianapanapa-state-park/" target="_blank">visit website</a>
         <div class="socials">
           <span>share</span>
           <ul>
