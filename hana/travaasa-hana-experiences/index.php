@@ -31,7 +31,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="/calendar/"><img data-original="/assets/images/feature_months_march_2015_1600x640_hana_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="/hana/hanaschedule"><img data-original="/assets/images/feature_months_april_2015_1600x640_hana_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="/hana/promotions/"><img data-original="/assets/images/feature_hana_1600x640_flights_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
@@ -41,12 +41,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
-          <h1>Travaasa Hana Experiences</h1>
+          <h1>Travaasa Hana, Maui Experiences</h1>
           <p>There are countless things to do here. Picking up your jaw from the ground is one of them.
 <br><br>
 While you are with us, you will enjoy our warm hospitality and beauty of place, and the comforts of everything you've come to expect from a Travaasa experience: our healing and pampering spa, authentic Hawaiian pursuits (lei making, ‘ukulele, snorkeling, throw net fishing, enjoying local gardens and guides who will share their knowledge of ecology and culture with you), a pool with an ocean view unlike any other, outdoor yoga — while you're here, we're taking you on a further journey to the real Hawai'i.
 <br><br>
-We offer five different pathways for you to explore: <a href="/hana/travaasa-hana-experiences/adventure" class="scroll">Adventure</a>, <a href="/hana/travaasa-hana-experiences/culinary" class="scroll">Culinary</a>, <a href="/hana/travaasa-hana-experiences/culture" class="scroll">Culture</a>, <a href="/hana/travaasa-hana-experiences/fitness" class="scroll">Fitness</a> and <a href="/hana/travaasa-hana-experiences/spa-wellness" class="scroll">Spa &amp; Wellness</a>. You won't have any trouble finding something unique.<br><br><a href="/hana/hanaschedule" class="btn">View Experience Schedule</a><br><br></p>
+We offer five different pathways for you to explore: <a href="/hana/travaasa-hana-experiences/adventure" class="scroll">Adventure</a>, <a href="/hana/travaasa-hana-experiences/culinary" class="scroll">Culinary</a>, <a href="/hana/travaasa-hana-experiences/culture" class="scroll">Culture</a>, <a href="/hana/travaasa-hana-experiences/fitness" class="scroll">Fitness</a> and <a href="/hana/travaasa-hana-experiences/spa-wellness" class="scroll">Spa &amp; Wellness</a>. You won't have any trouble finding something unique.<br><br><strong><span style="color:#ea5065;">&#11015;</span></strong><!--<a href="/hana/hanaschedule" class="btn">View Experience Schedule</a><br><br>--></p>
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?></div>
   </section>
@@ -75,9 +75,9 @@ We offer five different pathways for you to explore: <a href="/hana/travaasa-han
         <img data-original="/assets/images/experience/tmb-spa.jpg" src="/assets/images/experience/tmb-spa.jpg" alt="">
         <h2>SPA & WELLNESS</h2>
       </a>
-      <a href="/calendar">
+      <a href="/hana/hanaschedule">
         <img data-original="/assets/images/experience/title-bg.gif" src="/assets/images/experience/title-bg.gif" alt="">
-        <h2>MARCH <br>FEATURED <br>EXPERIENCES</h2>
+        <h2>VIEW <br>EXPERIENCE <br>SCHEDULE</h2>
       </a>
     </div>
   </section>
