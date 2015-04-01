@@ -696,6 +696,17 @@ p {
 	left: 0;
 	z-index: 50;
 }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.2) {
+	#logo {
+	width: 196px;
+	height: 166px;
+	background: url(../images/global/sprite2x.png) 0 0 no-repeat;
+	background-size: 500px 500px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 50;
+}
 #logo a {
 	display: block;
 	width: 100%;
