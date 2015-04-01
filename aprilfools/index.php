@@ -31,6 +31,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
     <div id="feature1" class="feature">
+      
+      <div class="slide"><img data-original="/assets/images/feature_april_fools_2015_cow-tipping_1600x640.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COW TIPPING / <span>THAT'S ALL YOU'VE GOT!?</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_april_fools_2015_hatchet_1600x640.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>HATCHET CULINARY DEMO / <span>BRING OUT THE FLAVOR</span></h2></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_april_fools_2015_drone_1600x640.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>DRONE CIRCUIT TRAINING / <span>A WHOLE NEW CARDIO ZONE</span></h2></div></div>
+
       <div class="slide"><img data-original="/assets/images/feature_1600x640_april-fools-underwater.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>UNDERWATER BASKET WEAVING / <span>STEADY AS SHE GOES</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_1600x640_april-fools-chicken.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>IN-ROOM CHICKEN AMENITY / <span>YOU'RE WELCOME.</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_1600x640_april-fools-tree-stretch.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>TREE STRETCH / <span>DON'T LOOK DOWN.</span></h2></div></div>
