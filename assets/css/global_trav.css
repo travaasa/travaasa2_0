@@ -696,17 +696,6 @@ p {
 	left: 0;
 	z-index: 50;
 } 
-@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-device-width: 1025px), only screen and (   min--moz-device-pixel-ratio: 2) and (min-device-width: 1025px), only screen and (   -o-min-device-pixel-ratio: 2/1) and (min-device-width: 1025px), only screen and (        min-device-pixel-ratio: 2) and (min-device-width: 1025px), only screen and (           min-resolution: 192dpi) and (min-device-width: 1025px), only screen and (            min-resolution: 2dppx) and (min-device-width: 1025px) {
-	#logo {
-	width: 196px;
-	height: 166px;
-	background: url(../images/global/sprite2x.png) 0 0 no-repeat;
-	background-size: 500px 500px;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: 50;
-}
 #logo a {
 	display: block;
 	width: 100%;
