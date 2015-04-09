@@ -53,7 +53,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li>Complete access to resort facilities</li>
             <li>Wi-Fi</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes and service charges. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.</em></p>
+            <p><em>Based on double occupancy; excluding taxes. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.</em></p>
             <br />
 
             <h2>Sea Ranch Cottage + Air<br /><span style="color:#505050">$395/night</span></h2>
