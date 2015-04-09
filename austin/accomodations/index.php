@@ -50,10 +50,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad group">
     <div class="col span_2_of_5">
         <div class="magnify">
-        	<a  href="/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
-            <a  href="/assets/images/gallery/austin/canyon-single-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
-            <a  href="/assets/images/gallery/austin/canyon-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
+            <a  href="/assets/images/gallery/austin/canyon-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
             <a  href="/assets/images/gallery/austin/1433-room-balcony.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
+            <a  href="/assets/images/gallery/austin/canyon-single-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
+            <a  href="/assets/images/gallery/austin/1433-junior-king-suite.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Junior King Suite"></a>
             <a  href="/assets/images/gallery/austin/canyon-balcony-view-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Balcony View"></a>
         </div>
         <a  href="/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="/assets/images/austin-rooms-2014-canyon-one-queen2.jpg" alt="Austin luxury resort room" width="600"></a>
