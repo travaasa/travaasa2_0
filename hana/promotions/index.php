@@ -49,7 +49,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <h1>Thrice-Daily Flights to Hana, Maui from Kahului Airport (OGG)</h1>
           
           <p>Mokulele Airlines is now operating three daily flights from Kahului Airport in Maui to Hana Airport. Travelers will fly aboard a nine-seat Cessna Grand Caravan 208B and enjoy spectacular views of Maui during the 20-minute flight. Ticket prices start at <strong>$59 each way</strong> and travelers can book their flight starting today by visiting <a href="http://www.mokuleleairlines.com" target="_blank">mokuleleairlines.com</a>.</p>
-          <p><strong>*FOR A LIMITED TIME</strong>, book 3 nights or longer of Total Travaasa and we’ll pay your round trip fare from Kahului, Maui to Hana, Maui. Select three nights of Total Travaasa and enter code "AIR" when pressing "Make Reservation" or <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&numberOfNights=3&rateCode=AIR" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&numberOfNights=3&rateCode=AIR')]); return false;">click here to book.</a><br><br><span style="color:#707070;"><em>Based on availability at time of booking. Offer valid for flights on Mokulele Airlines only.</em></span></p>
+          <p><strong>*FOR A LIMITED TIME</strong>, book 3 nights or longer of Total Travaasa and we’ll pay your round trip fare from Kahului, Maui to Hana, Maui. Select three nights of Total Travaasa and enter code "AIR" when pressing "Make Reservation" or <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&numberOfNights=3&rateCode=AIR" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&numberOfNights=3&rateCode=AIR']); return false;">click here to book.</a><br><br><span style="color:#707070;"><em>Based on availability at time of booking. Offer valid for flights on Mokulele Airlines only.</em></span></p>
           
           <p><strong>1-855-TO-TRAVAASA (855-868-7282)</strong></p>
           
@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </li>
       </ul>
       
-      <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&numberOfNights=3&rateCode=AIR" target="_blank" onclick="_gaq.push(['_link', AppendNavisKeywordToURL('https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&numberOfNights=3&rateCode=AIR')]); return false;" class="btn">BOOK STAY AND FLIGHT</a></p>
+      <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&numberOfNights=3&rateCode=AIR" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&numberOfAdults=2&numberOfNights=3&rateCode=AIR']); return false;" class="btn">BOOK STAY AND FLIGHT</a></p>
       <p><a href="/hana/hana-rates-and-packages/">See rates and packages</a></p></div>
   </section>
 	<!-- End body content //-->
