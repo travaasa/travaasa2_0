@@ -172,7 +172,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">10' – 14'</td>
                             </tr>
                             <tr>
-                            	<td class="meetings-table-labels">Theatre</td>
+                            	<td class="meetings-table-labels">Theater</td>
 								<td class="meetings-table-data">114</td>
 							</tr>
                             <tr>
@@ -220,7 +220,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">12' – 25'</td>
                             </tr>
 
-                                <tr><td class="meetings-table-labels">Theatre</td>
+                                <tr><td class="meetings-table-labels">Theater</td>
                                 <td class="meetings-table-data">70</td>
                             </tr>
 
@@ -319,7 +319,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">9' – 26'</td>
                             </tr>
 
-                                <tr><td class="meetings-table-labels">Theatre</td>
+                                <tr><td class="meetings-table-labels">Theater</td>
                                 <td class="meetings-table-data">60</td>
                             </tr>
 
@@ -373,7 +373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">11' – 18'</td>
                             </tr>
 
-                                <tr><td class="meetings-table-labels">Theatre</td>
+                                <tr><td class="meetings-table-labels">Theater</td>
                                 <td class="meetings-table-data">50</td>
                             </tr>
 
@@ -412,6 +412,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <tbody>
                     <tr>
                         <th colspan="2">Chef's Table</th>
+                    </tr>
+                    <tr>
+                        <td class="meetings-table-labels">Width x Length</td>
+                        <td class="meetings-table-data">21' x 22'</td>
                     </tr>
                     <tr>
                         <td class="meetings-table-labels">Square Feet:</td>
