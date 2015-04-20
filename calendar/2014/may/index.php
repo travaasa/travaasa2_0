@@ -411,23 +411,7 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004189758/?value=0&amp;label=oxLWCPLEoAMQvvDq3gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<script type="text/javascript">
-adroll_adv_id = "FZE6L5WNEBGM5O4WNFGEWL";
-adroll_pix_id = "2AKTCGXQFJG5BFH7S37JH2";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-__adroll_loaded=true;
-var scr = document.createElement("script");
-var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-scr.setAttribute('async', 'true');
-scr.type = "text/javascript";
-scr.src = host + "/j/roundtrip.js";
-((document.getElementsByTagName('head') || [null])[0] ||
-document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-if(oldonload){oldonload()}};
-}());
-</script>
+
 <!-- end IMI retargeting --><script type="text/javascript">
 $(function() {
   createSubpageStorylines(true, true);
