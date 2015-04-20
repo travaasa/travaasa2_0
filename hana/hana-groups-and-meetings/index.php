@@ -356,7 +356,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </table>
                 </div>
             </div>
-            <p>Queen Ka’ahumanua offers internet access, making it the ideal meeting space for small- to medium-sized groups.</p>
+            <p>Queen Ka’ahumanu offers internet access, making it the ideal meeting space for small- to medium-sized groups.</p>
 
             <br><hr><br>
 
