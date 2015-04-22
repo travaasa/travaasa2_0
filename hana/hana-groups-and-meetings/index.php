@@ -107,7 +107,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<br><hr><br>
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="/assets/images/gallery/hana/Large-PlantationGuestHouseLanai.jpg" data-flare-gallery="galleryPlantationGuestHouseLanai" data-target="flare" data-flare-scale="fitmax" title="Lanai"><img class="fitwidth lazy" data-original="/assets/images/gallery/hana/720-PlantationGuestHouseLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lanai Hawaii wedding venue"></a>
+                <div class="col span_1_of_2"><a href="/assets/images/gallery/hana/Large-PlantationGuestHouseLanai.jpg" data-flare-gallery="galleryPlantationGuestHouseLanai" data-target="flare" data-flare-scale="fitmax" title="Plantation Lanai"><img class="fitwidth lazy" data-original="/assets/images/gallery/hana/720-PlantationGuestHouseLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lanai Hawaii wedding venue"></a>
                 </div>
 				<div class="col span_1_of_2">
                 	<table class="meetings-table">
@@ -154,6 +154,54 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p>Through French doors, right off the Living Room, the Lanai offers an ideal spot for breaks or catered meals.  Overlooking the Plantation Lawn, the Lanai can accommodate ‘meetings without walls' fostering the utmost creativity from your attendees.</p>
 
             <br><hr><br>
+
+            <div class="group">
+                <div class="col span_1_of_2"><a href="/assets/images/gallery/hana/Large-PlantationLawn.jpg" data-flare-gallery="galleryPlantationLawn" data-target="flare" data-flare-scale="fitmax" title="Plantation Guest House Lawn"><img class="fitwidth lazy" data-original="/assets/images/gallery/hana/720-PlantationLawn.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lawn Hawaii wedding venue"></a>
+                </div>
+                <div class="col span_1_of_2">
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Plantation Lawn</th>
+                            </tr>
+                             <tr>
+                                <td class="meetings-table-labels">Width x Length</td>
+                                <td class="meetings-table-data">—</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Square Feet</td>
+                                <td class="meetings-table-data">—</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Height</td>
+                                <td class="meetings-table-data">—</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Theatre</td>
+                                <td class="meetings-table-data">—</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Classroom</td>
+                                <td class="meetings-table-data">—</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Reception</td>
+                                <td class="meetings-table-data">150</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Banquet</td>
+                                <td class="meetings-table-data">130</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Conference</td>
+                                <td class="meetings-table-data">—</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+                <p>With the guest house serving as a backdrop, the Plantation Lawn offers the ultimate outdoor experience. Nestled among Cook Pines, this outdoor space is ideal for receptions or dinners of any size.</p>
+
 
             <h1>Main Building</h1>
 
@@ -252,7 +300,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-labels">Conference</td>
                                 <td class="meetings-table-data">36</td>
                             </tr>
-
                         </tbody>
                     </table>
 				</div>
@@ -361,6 +408,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <br><hr><br>
 
             <div class="group">
+                <div class="col span_1_of_2"><a href="/assets/images/gallery/hana/Large-PanioloLounge.jpg" data-flare-gallery="galleryPanioloLounge" data-target="flare" data-flare-scale="fitmax" title="Paniolo Lounge"><img class="fitwidth lazy" data-original="/assets/images/gallery/hana/720-PanioloLounge.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Paniolo Laounge"></a>
+                </div>
+                <div class="col span_1_of_2">
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Paniolo Lounge</th>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Width x Length</td>
+                                <td class="meetings-table-data">34' x 41'</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Square Feet</td>
+                                <td class="meetings-table-data">1,583</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Height</td>
+                                <td class="meetings-table-data">12'</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Theatre</td>
+                                <td class="meetings-table-data">100</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Classroom</td>
+                                <td class="meetings-table-data">70</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Reception</td>
+                                <td class="meetings-table-data">130</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Banquet</td>
+                                <td class="meetings-table-data">100</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Conference</td>
+                                <td class="meetings-table-data">50</td>
+                            </tr>
+                        </tbody>
+                    </table>       
+                </div>
+            </div>
+            <!--<p>INSERT_PANIOLO_LOUJNGE_DESCRIPTION</p>-->
+
+            <br><hr><br>
+            
+            <div class="group">
                 <div class="col span_1_of_2"><a href="/assets/images/gallery/hana/Large-MaukaLounge.jpg" data-flare-gallery="galleryMaukaLounge" data-target="flare" data-flare-scale="fitmax" title="Mauka Lounge"><img class="fitwidth lazy" data-original="/assets/images/gallery/hana/720-MaukaLounge.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Mauka Laounge"></a>
                 </div>
                 <div class="col span_1_of_2">
@@ -401,13 +497,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-labels">Conference</td>
                                 <td class="meetings-table-data">—</td>
                             </tr>
+                            <tr>
+                                <td colspan="2"><p class="description">Located right off the lobby area, this lounge is a logical gathering spot for those either arriving or departing the resort. Newly-painted plantation shutters offer an intimate feel.</p></td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
             </div>
-            <p>Located just near the lobby, this lounge is a convenient gathering spot for guests arriving or departing from the resort. Updated plantation shutters offer an intimate feel.</p>
-
-            <br><hr><br>
 
             <h1>Makana Center</h1>
 
@@ -616,96 +712,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <p>Located at legendary Hamoa Beach, our Lu'au Hale is the perfect space for a casual, oceanside event or meeting. Start with a blank palette and create your own tropical sun filled or moon lit experience.</p>
 
-            <br><hr><br>
-
-			<h1>Not Shown</h1>
-
-            <!--<div class="group">
-                <div class="col span_1_of_2">
-					<table class="meetings-table">
-                        <tbody>
-                        	<tr>
-								<th colspan="2">Paniolo Lounge</th>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">34' x 41'</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Square Feet</td>
-                                <td class="meetings-table-data">1,583</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Height</td>
-                                <td class="meetings-table-data">12'</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">100</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">70</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">130</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">100</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">50</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>-->
-                <div class="col span_1_of_2">
-                	<table class="meetings-table">
-                        <tbody>
-                        	<tr>
-								<th colspan="2">Plantation Lawn</th>
-                            </tr>
-                             <tr>
-                                <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Square Feet</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Height</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">150</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">130</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-							<tr>
-                                <td colspan="2"><p class="description">With the guest house serving as a backdrop, the Plantation Lawn offers the ultimate outdoor experience.  Nestled among Cook Pines, this outdoor space is ideal for receptions or dinners of any size.</p></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+  
              </div>
         </div>
     </div>
