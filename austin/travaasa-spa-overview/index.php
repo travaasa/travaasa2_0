@@ -142,27 +142,27 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h4>REJUVENATING CLAY &amp; ALOE WRAP</h4>
                  <p>Unrefined, sun-dried green clay blended with French spirulina define this experience to regenerate, oxygenate, clarify, balance and deeply stimulate your skin. Mature or sun-damaged skin will be restored, rehydrated and protected. </p>
                 <h5>80 minutes &#8211; $180</h5>
-			</section>
+			       </section>
             <section class="spa_package">
                 <h4>ANCIENT PURIFICATION</h4>
                 <p>To relax your muscles and encourage the elimination of toxins, we begin with an organic panela sugar scrub. Fossilized Dead Sea mud and organic herbs of chamomile, dandelion and lemon balm provide deep detoxification, while pure essential oils of rosemary, eucalyptus and lavender support, strengthen and ground the spirit.</p>
                 <h5>80 minutes &#8211; $180</h5>
-			</section>
+			      </section>
             <section class="spa_package">
                 <h4>DETOXIFYING JUNIPER, OLIVE STONE EXFOLIATION &amp; POLISH</h4>
                 <p>Juniper, seaweed and cypress have a reputation for deep cleansing, stimulating, purifying and revitalizing the body and mind, and together they jump-start the metabolism, aid in circulation and penetrate your skin to help smooth cellulite.</p>
                 <h5>50 minutes &#8211; $130</h5>
-			</section>
+			      </section>
             <section class="spa_package">
                 <h4>INVIGORATING AVOCADO WRAP</h4>
                 <p>Luxuriate in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. Finish with a stimulating scalp massage and full-body mineral mist to invigorate, revitalize and illuminate you from head to toe.</p>
                 <h5>50 minutes &#8211; $130</h5>
-			</section>
+			      </section>
             <section class="spa_package">
                 <h4>NURTURING SCALP TREATMENT</h4>
                 <p>This relaxing treatment begins with an aromatic hot-towel compress over the scalp and hair to calm and soothe. A moisture-rich elixir of pure essential oils are then gently massaged into your head and neck. You are welcome to leave the oils in for a few hours, or shower off after your treatment. Your hair, scalp and neck will thank you. Choose a blend that suits you – Stimulating, a stimulating blend of rosemary and lavender or Soothing, a soothing blend of sandalwood and lavender.</p>
                 <h5>25 minutes &#8211; $50</h5>
-			</section>
+			      </section>
     	</div>
     </div>
     <div id="facials" class="tab_data">
@@ -248,24 +248,26 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
     <div id="hands_feet_scalp" class="tab_data">
         <div class="tab_data_inner">
     		<p>Your spa treatment wouldn't be complete without taking care of those two hardworking parts of our body: the hands and feet. Trust us, they will thank you for the bliss they feel after any one of our "only at Travaasa" treatments.</p>
-
             <section class="spa_package">
                 <h4>PEPPERMINT ZENERGY FOOT CARE</h4>
-    			<p>This treatment starts with exfoliation and then smooths and softens with organic sugar and grapefruit, while the power of peppermint energizes and revitalizes.</p>
+    			      <p>This treatment starts with exfoliation and then smooths and softens with organic sugar and grapefruit, while the power of peppermint energizes and revitalizes.</p>
                 <h5>25 minutes &#8211; $65</h5>
-			</section>
-
+			      </section>
             <section class="spa_package">
                 <h4>ORGANIC COFFEE FOOT RELIEF</h4>
-    			<p>Herbs and homeopathics, relied on for centuries to detoxify and relieve acute and chronic pain, are used in this treatment to soothe overworked feet. Perfect if you are an active and sports-minded individual.</p>
+    			      <p>Herbs and homeopathics, relied on for centuries to detoxify and relieve acute and chronic pain, are used in this treatment to soothe overworked feet. Perfect if you are an active and sports-minded individual.</p>
                 <h5>25 minutes &#8211; $65</h5>
-			</section>
-
+			      </section>
             <section class="spa_package">
                 <h4>LAVENDER VANILLA HAND TREATMENT</h4>
-    			<p>We cleanse, exfoliate and hydrate your hands with this soothing and healing lavender treatment that smells as good as it feels.</p>
+    			      <p>We cleanse, exfoliate and hydrate your hands with this soothing and healing lavender treatment that smells as good as it feels.</p>
                 <h5>25 minutes &#8211; $45</h5>
-			</section>
+			      </section>
+            <section class="spa_package">
+                <h4>NURTURING SCALP TREATMENT</h4>
+                <p>This relaxing treatment begins with an aromatic hot-towel compress over the scalp and hair to calm and soothe. A moisture-rich elixir of pure essential oils are then gently massaged into your head and neck. You are welcome to leave the oils in for a few hours, or shower off after your treatment. Your hair, scalp and neck will thank you. Choose a blend that suits you – Stimulating, a stimulating blend of rosemary and lavender or Soothing, a soothing blend of sandalwood and lavender.</p>
+                <h5>25 minutes &#8211; $50</h5>
+            </section>
         </div>
     </div>
     <div id="massage_therapy" class="tab_data">
@@ -274,12 +276,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
 
         	<p>Our massages run the gamut from energizing to deeply calming. No matter what your body craves, we have a special touch just for you.</p>
 
-            <!--<section class="spa_package">
+            <section class="spa_package">
                 <h4>Watsu&#174; Aquatic Massage</h4>
                 <p>Watsu uses the warmth and buoyancy of 96-degree water and a combination of unique stretches and natural movements in a secluded pool to help improve circulation, relieve nerve pressure and lessen stress, arthritis, anxiety and chronic pain. Our certified Watsu practitioners will fit the 60-minute treatment to your liking and body’s needs.</p>
                 <h5>50 minutes &#8211; $140</h5>
-                <h5 style="color:#ea5965;"><em>Watsu unavailable May 21st through September 12th during <a href="/spa-renovation" target="_blank">renovations</a>.</em></h5>
-            </section>-->
+            </section>
             <section class="spa_package">
                 <h4>TRAVAASA CUSTOM MASSAGE</h4>
     			<p>Let our highly skilled massage therapists create the perfect blend of massage techniques to suite your needs. Customize your experience even further by choosing from the following organic aromatherapy massage oils: Balancing, Energizing, Relaxing, Romance, Warming, Fitness or Unscented Pure Jojoba.</p>
@@ -574,7 +575,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h5>80 minutes &#8211; $90</h5>
             </section>
 
-            <h2>NAIL UPGRADES & ADD-ONS</h2>
+            <h2>NAIL UPGRADES &amp; ADD-ONS</h2>
 
             <section class="spa_package">
                 <h4>FRENCH POLISH ADD-ON</h4>

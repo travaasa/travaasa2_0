@@ -42,7 +42,7 @@ Group Sales: 512-334-4649
       <h2 class="hdr">INQUIRIES</h2>
       <p><a href="/about-us">ABOUT TRAVAASA</a><br>
       <a href="/contact-us">CONTACT US</a><br>
-      <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
+      <!--<a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>-->
       <a href="http://www.travaasa.com/blog">BLOG</a><br>
       <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
       <a href="http://travaasa.com/careers">CAREERS</a><br>
