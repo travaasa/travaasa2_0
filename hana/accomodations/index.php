@@ -39,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          <p>The spirit of Hawaii is yours to discover through our signature <a href="http://travaasa.com/hana/travaasa-hana-experiences/" target="_self">Travaasa Experiences</a>. Our inclusive (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Total Travaasa</a>) and a la carte (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a>) options give you the freedom to embrace Hana your way. See our <a href="http://www.travaasa.com/hana/hana-rates-and-packages/">rates and packages</a>. Start your day with a <a href="http://travaasa.com/hana/travaasa-hana-experiences/fitness/" target="_self">guided nature walk</a> along Hana’s Coast, <a href="http://travaasa.com/hana/travaasa-hana-experiences/culture/" target="_self">learn to string your own fragrant lei</a> or take your relaxation to the next level with one of the <a href="http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/" target="_self">finest spa treatments</a> in all of Hana. These experiences and more are yours to enjoy with our inclusive Total Travaasa option, which nourishes mind, body and soul with experiences, meals and non-alcoholic drinks.</p>
          <p>Or, choose the <a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a> option and add experiences to your stay a la carte. Either way, Travaasa lets you design the Hana experience you’ll remember for years to come.</p>
          <p>Whether you choose a private suite or a resort cottage with an inclusive package or a la carte experiences, Travaasa Hana invites you to relax — after all, you’re on Hana time now.</p>
-          <div class="col span_1_of_1"><a href="/pdf/Travaasa-Hana-Maui-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
+          <div class="col span_1_of_1"><a href="/pdf/Travaasa-Hana-Maui-Property-Map.pdf" class="btn-list" target="_blank">Download Property Map</a></div>
   </section>
   <section class="grey pad group">
     <div class="col span_2_of_5">
@@ -77,7 +77,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <h3><sup>$</sup>450</h3>
             </li>
         </ul>
-        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
+        <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link1" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link1");</script></p>
     </div>
   </section>
   <section class="grey pad group">
@@ -117,7 +117,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <h3><sup>$</sup>350</h3>
             </li>
         </ul>
-        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
+        <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link2" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link2");</script></p>
     </div>
   </section>
   <section class="grey pad group">
@@ -150,7 +150,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <h3><sup>$</sup>725</h3>
             </li>
         </ul>
-        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
+        <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link3" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link3");</script></p>
     </div>
   </section>
 </article>

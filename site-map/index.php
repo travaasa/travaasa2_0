@@ -69,7 +69,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   		<section class="pad grey group">
         	<div class="col span_1_of_3">
             	<h5><a href="/austin">Travaasa Austin</a></h5>
-              	<p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a><br>
+              	<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="pricing-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("sitemap-austin-link");</script><br>
                 <?php
                 foreach($austin as $a):
                   ?>
@@ -81,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         	<div class="col span_1_of_3">
             	<h5><a href="/hana">Travaasa Hana</a></h5>
-              	<p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a><br>
+              	<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="pricing-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("sitemap-hana-link");</script><br>
                 <?php
                   foreach($hana as $h):
                     ?>

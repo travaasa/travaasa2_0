@@ -2,8 +2,10 @@
 	<div class="reservations-bar-inner">
         <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-877-261-7792</noscript></p>
         <ul class="reservation_nav menu_top">
+            <!--<li class="reservation">
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a></li>-->
             <li class="reservation">
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a></li>
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="footer-austin-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("footer-austin-link");</script></li>
         </ul>
         <ul class="pricing">
             <li>

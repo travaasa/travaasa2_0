@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Austin Resort | Austin Texas Hill Country Resort & Spa | Travaasa</title>
+	<title>Austin Resort | Austin Texas Hill Country Resort &amp; Spa | Travaasa</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Travaasa Austin is a unique, experiential resort in Texas Hill Country. Inclusive packages feature outdoor adventures, culinary discovery, a working farm, spa & wellness programs." />
 	<?php

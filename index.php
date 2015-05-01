@@ -57,8 +57,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </div>
         <div class="col span_3_of_7 col_reservation">
             <!--<h1 style="display:block; color:#666666; font-size:13px; line-height:20px;">NO RESORT FEES AT TRAVAASA</h1>-->
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;" class="btn">BOOK HANA</a>
+            <!--<a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;" class="btn">BOOK HANA</a>-->
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="homepage-austin-link" target="_blank" class="btn-jorah">BOOK AUSTIN</a><script type="text/javascript">AppendNavisKeywordToLink("homepage-austin-link");</script>&nbsp;
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="homepage-hana-link" target="_blank" class="btn-jorah">BOOK HANA</a><script type="text/javascript">AppendNavisKeywordToLink("homepage-hana-link");</script>
          </div>
      </div>
   </section>
