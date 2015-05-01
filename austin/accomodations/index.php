@@ -79,7 +79,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>300</h3>
+                <h3><sup>$</sup>325</h3>
             </li>
         </ul>
         <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
@@ -117,7 +117,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>250</h3>
+                <h3><sup>$</sup>275</h3>
             </li>
         </ul>
         <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
