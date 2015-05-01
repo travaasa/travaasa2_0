@@ -34,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section style="padding-bottom:0;" class="intro pad clearfix notheater">
     <div class="col span_1_of_2">
-          <h1>RATES & ALL INCLUSIVE PACKAGES</h1>
+          <h1>RATES &amp; ALL INCLUSIVE PACKAGES</h1>
           <p>Travaasa Experiential Resorts provide you with different rate and all inclusive resort package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a style="float:left;" class="btn-list scroll" href="/preferences">GET ON THE LIST</a>
             <!--<br><br> <a href="/jamandjive"><img class="videobox" width="350" src="/assets/images/jam-and-jive-teaser.jpg"></a></p>-->
     </div>
@@ -113,8 +113,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </tr>
         <tr class="compare-summary">
           <td class="compare-table-title">&nbsp;</td>
-          <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
-          <td><a class="btn" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">CHECK RATES &amp; AVAILABILITY</a></td>
+          <td><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="rates-austin-link1" target="_blank" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("rates-austin-link1");</script></td>
+          <td><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="rates-austin-link2" target="_blank" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("rates-austin-link2");</script></td>
         </tr>
         <tr class="compare-summary">
           <td>&nbsp;</td>

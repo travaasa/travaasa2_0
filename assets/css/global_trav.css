@@ -242,9 +242,11 @@ footer a:hover,  footer a:active {
 	display: inline-block;
 	margin: 0;
 	padding: 11px 14px 8px 14px;
-	background: #D7385E;
+	background-color:#d7385d;
+	background_REMOVE: -moz-linear-gradient(  top,  #d7385d 0%,  #AA2242);
+	background_REMOVE: -webkit-gradient(  linear, left top, left bottom,  from(#d7385d),  to(#AA2242));
 	font-family: 'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif;
-	color: white;
+	color: #FAFAFA;
 	text-decoration: none;
 	font-size: .8em;
 	cursor: pointer;
@@ -252,25 +254,29 @@ footer a:hover,  footer a:active {
 	-moz-border-radius: 2px;
 	border-radius: 2px;
 	position: relative;
-	-webkit-box-shadow: 0px 6px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.5);
-	-moz-box-shadow: 0px 6px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.5);
-	box-shadow: 0px 6px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.5);
+	-webkit-box-shadow: 0px 4px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.4);
+	-moz-box-shadow: 0px 4px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.4);
+	box-shadow: 0px 4px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.4);
+	0px -1px 0px rgba(000,000,000,0.7), 0px 1px 0px rgba(255,255,255,0.3)
 	marginOLD: 100px auto;
 	widthOLD: 160px;
 	text-align: center;
-	-webkit-transition: all .1s ease;
-	-moz-transition: all .1s ease;
-	-ms-transition: all .1s ease;
-	-o-transition: all .1s ease;
-	transition: all .1s ease;
+	-webkit-transition: all .2s ease;
+	-moz-transition: all .2s ease;
+	-ms-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;
 }
 .btn-jorah:hover {
-	-webkit-box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.8);
-	-moz-box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.8);
-	box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.8);
+	background-color: #CC284F;
+	background_REMOVE: -moz-linear-gradient(  top,  #d7385d 0%,  #A0183C);
+	background_REMOVE: -webkit-gradient(  linear, left top, left bottom,  from(#d7385d),  to(#A0183C));
+	-webkit-box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.6);
+	-moz-box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.6);
+	box-shadow: 0px 3px 0px #BB2548, 0px 3px 6px rgba(0,0,0,.6);
 	position: relative;
-	top: 5px;
-	color: #f1f1f1;
+	top: 1px;
+	color:#FFFFFF;
 }
 .btn-list {
 	display: inline-block;
@@ -278,7 +284,7 @@ footer a:hover,  footer a:active {
 	padding: 11px 14px 8px 14px;
 	background: #70CEE2;
 	font-family: 'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif;
-	color: white;
+	color: #FAFAFA;
 	text-decoration: none;
 	font-size: .8em;
 	cursor: pointer;
@@ -286,9 +292,9 @@ footer a:hover,  footer a:active {
 	-moz-border-radius: 2px;
 	border-radius: 2px;
 	position: relative;
-	-webkit-box-shadow: 0px 6px 0px #34B8D5, 0px 3px 5px rgba(0,0,0,.5);
-	-moz-box-shadow: 0px 6px 0px #34B8D5, 0px 3px 5px rgba(0,0,0,.5);
-	box-shadow: 0px 6px 0px #34B8D5, 0px 3px 5px rgba(0,0,0,.5);
+	-webkit-box-shadow: 0px 4px 0px #34B8D5, 0px 3px 5px rgba(0,0,0,.4);
+	-moz-box-shadow: 0px 4px 0px #34B8D5, 0px 3px 5px rgba(0,0,0,.4);
+	box-shadow: 0px 4px 0px #34B8D5, 0px 3px 5px rgba(0,0,0,.4);
 	marginOLD: 100px auto;
 	widthOLD: 160px;
 	text-align: center;
@@ -299,12 +305,12 @@ footer a:hover,  footer a:active {
 	transition: all .1s ease;
 }
 .btn-list:hover {
-	-webkit-box-shadow: 0px 3px 0px #34B8D5, 0px 3px 6px rgba(0,0,0,.8);
-	-moz-box-shadow: 0px 3px 0px #34B8D5, 0px 3px 6px rgba(0,0,0,.8);
-	box-shadow: 0px 3px 0px #34B8D5, 0px 3px 6px rgba(0,0,0,.8);
+	-webkit-box-shadow: 0px 3px 0px #34B8D5, 0px 3px 6px rgba(0,0,0,.6);
+	-moz-box-shadow: 0px 3px 0px #34B8D5, 0px 3px 6px rgba(0,0,0,.6);
+	box-shadow: 0px 3px 0px #34B8D5, 0px 3px 6px rgba(0,0,0,.6);
 	position: relative;
-	top: 5px;
-	color: #f1f1f1;
+	top: 1px;
+	color: #FFFFFF;
 }
 #saveForm {
 	display: inline-block;
@@ -948,25 +954,36 @@ p {
 	padding: 0;
 	margin: 0;
 	float: right;
+	color:#FAFAFA;
 	background: -moz-linear-gradient(  top,  #d7385d 0%,  #A9193F);
 	background: -webkit-gradient(  linear, left top, left bottom,  from(#d7385d),  to(#A9193F));
-	-moz-border-radius: 6px;
-	-webkit-border-radius: 6px;
-	border-radius: 6px;
-	border: 1px solid #525252;
-	-moz-box-shadow: 0px 1px 3px rgba(000,000,000,0.5),  inset 0px 0px 1px rgba(255,255,255,1);
-	-webkit-box-shadow: 0px 1px 3px rgba(000,000,000,0.5),  inset 0px 0px 1px rgba(255,255,255,1);
-	box-shadow: 0px 1px 3px rgba(000,000,000,0.5),  inset 0px 0px 1px rgba(255,255,255,1);
-	text-shadow: 0px -1px 0px rgba(000,000,000,0.7),  0px 1px 0px rgba(255,255,255,0.3);
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-webkit-box-shadow: 0px 4px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.4);
+	-moz-box-shadow: 0px 4px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.4);
+	box-shadow: 0px 4px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.4);
+	text-shadow: 0px -1px 0px rgba(000,000,000,0.3),  0px 1px 0px rgba(255,255,255,0.2);
+	letter-spacing: 1px;
 	background : #d7385d\9; /* IE8 and below */
+	-webkit-transition: all .1s ease;
+	-moz-transition: all .1s ease;
+	-ms-transition: all .1s ease;
+	-o-transition: all .1s ease;
+	transition: all .1s ease;
 }
 #reservations-bar .reservation_nav:hover {
 	padding: 0;
 	margin: 0;
 	float: right;
-	background: -moz-linear-gradient(  top,  #A9193F 0%,  #A9193F);
-	background: -webkit-gradient(  linear, left top, left bottom,  from(#A9193F),  to(#A9193F));
+	-webkit-box-shadow: 0px 3px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.1);
+	-moz-box-shadow: 0px 3px 0px #BB2548, 0px 3px 5px rgba(0,0,0,.1);
+	box-shadow: 0px 3px 3px #BB2548, 0px 3px 5px rgba(0,0,0,.1);
+	position: relative;
+	top: 1px;
+	color: #ffffff;
 }
+
 #reservations-bar .reservation_nav ul, #reservations-bar .reservation_nav li {
 	padding: 0;
 	margin: 0;

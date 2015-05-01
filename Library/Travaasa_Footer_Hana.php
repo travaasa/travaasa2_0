@@ -2,7 +2,9 @@
 	<div class="reservations-bar-inner">
         <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-888-820-1043</noscript></p>
         <ul class="reservation_nav menu_top">
-            <li class="reservation"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a></li>
+            <!--<li class="reservation"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a></li>-->
+            <li class="reservation">
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="footer-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("footer-hana-link");</script></li>
         </ul>
         <ul class="pricing">
             <li>

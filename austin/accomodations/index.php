@@ -45,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p>Or, choose the <a href="/austin/rates-and-packages/">Your Travaasa</a> option and add experiences to your stay a la carte. </p>
             <p>Either way, Travaasa Austin lets you design a Texas Hill Country experience you’ll remember for years to come.</p>
 
-<div class="col span_1_of_1"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
+<div class="col span_1_of_1"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn-list" target="_blank">Download Property Map</a></div>
   </section>
   <section class="grey pad group">
     <div class="col span_2_of_5">
@@ -82,8 +82,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <h3><sup>$</sup>325</h3>
             </li>
         </ul>
-        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
-    </div>
+        <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="accommodations-austin-link1" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-austin-link1");</script></p>    </div>
   </section>
   <section class="grey pad group">
   	<div class="col span_2_of_5">
@@ -120,7 +119,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <h3><sup>$</sup>275</h3>
             </li>
         </ul>
-        <p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">CHECK RATES &amp; AVAILABILITY</a></p>
+        <!--<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" id="accommodations-link" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-link");</script></p>-->
+        <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="accommodations-austin-link2" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-austin-link2");</script></p>
     </div>
   </section>
 </article>
