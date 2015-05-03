@@ -37,9 +37,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>This schedule is subject to change.</p>
   </section>
   <section class="grey pad group">
-  	<p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="630" src="http://forecast.io/embed/#lat=20.7553&lon=-155.9879&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
-    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=630&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hanaactivities%40travaasa.com&amp;color=%23f05033&amp;ctz=Pacific%2FHonolulu" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
-
+  	<p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=20.7553&lon=-155.9879&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
+    <div class="responsive-iframe-container">
+    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=900&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hanaactivities%40travaasa.com&amp;color=%23f05033&amp;ctz=Pacific%2FHonolulu" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
+    </div>
   </section>
 </article>
 </section>
