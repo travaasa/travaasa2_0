@@ -13,6 +13,7 @@ holidayproblems/*
 .gitconfig
 .ssh
 /sftp-config.json
+.htaccess
 
 austin/weddings/index.php
 
