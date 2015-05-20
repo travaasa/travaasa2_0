@@ -36,8 +36,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <h1>EXPERIENCE SCHEDULE</h1>
           <p>This schedule is subject to change. View our selection of <a href="/austin/austin-experiences/austin-private-classes.php">private classes</a>.</p>
           <video style="width:100% !important; height:auto !important;" preload autoplay loop>
-          <source src="/assets/images/baby-chicks.mp4" type="video/mp4">
-          <source src="/assets/images/baby-chicks.webm" type="video/webm">
+          <source src="http://static.travaasa.com/assets/images/baby-chicks.mp4" type="video/mp4">
+          <source src="http://static.travaasa.com/assets/images/baby-chicks.webm" type="video/webm">
           </video>
   </section>
   <section class="grey pad group">
