@@ -1,40 +1,40 @@
 <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <!-- JavaScript at the bottom for fast page loading -->
-<script>window.jQuery || document.write('<script src="/assets/scripts/jquery-1.7.2.min.js"><\/script>')</script>
-<script type="text/javascript" src="/assets/scripts/jquery.carouFredSel-6.1.0-packed.js"></script>
+<script>window.jQuery || document.write('<script src="http://static.travaasa.com/assets/scripts/jquery-1.7.2.min.js"><\/script>')</script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/jquery.carouFredSel-6.1.0-packed.js"></script>
 <![if !IE]>
-<script type="text/javascript" src="/assets/scripts/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/jquery.touchSwipe.min.js"></script>
 <![endif]>
-<script type="text/javascript" src="/assets/scripts/jquery.lazyload.js"></script>
-<script type="text/javascript" src="/assets/scripts/jquery.hoverIntent.minified.js"></script>
-<script type="text/javascript" src="/assets/scripts/jquery.fittext.js"></script>
-<script type="text/javascript" src="/assets/scripts/travaasa.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/jquery.lazyload.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/jquery.fittext.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/travaasa.js"></script>
 <!--[if (lt IE 9) & (!IEMobile)]>
-<script src="/assets/scripts/selectivizr-min.js"></script>
+<script src="http://static.travaasa.com/assets/scripts/selectivizr-min.js"></script>
 <![endif]-->
-<script type="text/javascript" src="/assets/scripts/responsivegridsystem.js"></script>
-<!--<script type="text/javascript" src="/assets/scripts/jquery.mixitup.min.js"></script>-->
-<!--<script type="text/javascript" src="/assets/scripts/pe.flare/jquery.pixelentity.flare.min.js"></script>//-->
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.mousewheel.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.theme.utils.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.utils.browser.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.utils.geom.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.utils.preloader.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.utils.transition.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.utils.youtube.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/froogaloop.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.utils.vimeo.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/video/projekktor.min.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.video.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.videoPlayer.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.transform.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.render.image.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.backgroundSlider.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.simplethumb.js"></script>
-<script type="text/javascript" src="/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.render.gallery.js"></script>
-<script type="text/javascript" src="/assets/scripts/jquery.address-1.5.min.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/responsivegridsystem.js"></script>
+<!--<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/jquery.mixitup.min.js"></script>-->
+<!--<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/jquery.pixelentity.flare.min.js"></script>//-->
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.theme.utils.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.utils.browser.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.utils.geom.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.utils.preloader.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.utils.transition.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.utils.youtube.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/froogaloop.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.utils.vimeo.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/video/projekktor.min.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.video.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.videoPlayer.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.transform.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.render.image.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.backgroundSlider.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.simplethumb.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.render.gallery.js"></script>
+<script type="text/javascript" src="http://static.travaasa.com/assets/scripts/jquery.address-1.5.min.js"></script>
 <script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
 <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script>
 <script type="text/javascript">SetNavisP2ChatCustomLink("lnkP2Chat");</script>

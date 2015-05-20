@@ -29,7 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <?php
    include_once($path."/Library/Travaasa_Menu_Austin.php");
-?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
+?><section id="feature1_wrapper" class="subpage_bg"><img src="http://static.travaasa.com/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
@@ -50,13 +50,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad group">
     <div class="col span_2_of_5">
         <div class="magnify">
-            <a  href="/assets/images/gallery/austin/canyon-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
-            <a  href="/assets/images/gallery/austin/1433-room-balcony.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
-            <a  href="/assets/images/gallery/austin/canyon-single-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
-            <a  href="/assets/images/gallery/austin/1433-junior-king-suite.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Junior King Suite"></a>
-            <a  href="/assets/images/gallery/austin/canyon-balcony-view-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Balcony View"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/canyon-double-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Enlarge"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/1433-room-balcony.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/canyon-single-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/1433-junior-king-suite.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Junior King Suite"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/canyon-balcony-view-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Balcony View"></a>
         </div>
-        <a  href="/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="/assets/images/austin-rooms-2014-canyon-one-queen2.jpg" alt="Austin luxury resort room" width="600"></a>
+        <a  href="http://static.travaasa.com/assets/images/gallery/austin/canyon-signature-large.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Canyon View Room"><img src="http://static.travaasa.com/assets/images/austin-rooms-2014-canyon-one-queen2.jpg" alt="Austin luxury resort room" width="600"></a>
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
@@ -87,13 +87,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad group">
   	<div class="col span_2_of_5">
         <div class="magnify">
-            <a  href="/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"><img src="/assets/images/global/transparent.gif" alt="Enlarge"></a>
-            <a  href="/assets/images/gallery/austin/trail-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"></a>
-            <a  href="/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Patio"></a>
-            <a  href="/assets/images/gallery/austin/bed-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Organic Cotton Sheets"></a>
-            <a  href="/assets/images/gallery/austin/1229-austin-scenic-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin on the Balcones Canyonlands Preserve"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Enlarge"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/trail-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/nature-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Patio"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/bed-double-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Organic Cotton Sheets"></a>
+            <a  href="http://static.travaasa.com/assets/images/gallery/austin/1229-austin-scenic-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Travaasa Austin on the Balcones Canyonlands Preserve"></a>
         </div>
-        <a  href="/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"><img src="/assets/images/austin-rooms-2014-nature-two-queen.jpg" alt="Texas luxury resort accommodations" width="600"></a>
+        <a  href="http://static.travaasa.com/assets/images/gallery/austin/trail-single-large.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Nature View Room Balcony"><img src="http://static.travaasa.com/assets/images/austin-rooms-2014-nature-two-queen.jpg" alt="Texas luxury resort accommodations" width="600"></a>
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
