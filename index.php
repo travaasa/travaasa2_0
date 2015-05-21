@@ -33,12 +33,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?>
 <section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><a href="/hana/"><img src="/assets/images/feature_home_1600x640_beach_flirt.jpg" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <!--<div class="slide"><a href="/hana/"><img src="/assets/images/feature_home_1600x640_adventure-flirt.jpg" alt=""></a></div>-->
-      <div class="slide"><a href="/austin/dining/"><img data-original="/assets/images/feature_home_1600x640_culinary.jpg" src="/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/hana/"><img data-original="/assets/images/feature_home_1600x640_culture2.jpg" src="/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/austin/"><img data-original="/assets/images/feature_home_1600x640_fitness.jpg" src="/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/austin/travaasa-spa-overview/"><img data-original="/assets/images/feature_home_1600x640_spa.jpg" src="/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/hana/"><img src="http://static.travaasa.com/assets/images/feature_home_1600x640_beach_flirt.jpg" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <!--<div class="slide"><a href="/hana/"><img src="http://static.travaasa.com/assets/images/feature_home_1600x640_adventure-flirt.jpg" alt=""></a></div>-->
+      <div class="slide"><a href="/austin/dining/"><img data-original="http://static.travaasa.com/assets/images/feature_home_1600x640_culinary.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/hana/"><img data-original="http://static.travaasa.com/assets/images/feature_home_1600x640_culture2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/austin/"><img data-original="http://static.travaasa.com/assets/images/feature_home_1600x640_fitness.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/austin/travaasa-spa-overview/"><img data-original="http://static.travaasa.com/assets/images/feature_home_1600x640_spa.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
 </section>
