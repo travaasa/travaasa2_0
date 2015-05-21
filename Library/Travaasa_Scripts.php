@@ -51,6 +51,7 @@ end IMI -->
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-17613889-1', 'auto', {'allowLinker': true});
+  ga('require', 'displayfeatures');
   ga('require', 'linker'); // Loads the linker plugin for use with ga.js
   ga('linker:autoLink', ['synxis.com','phgsecure.com'], false, true);
   ga('send', 'pageview');
