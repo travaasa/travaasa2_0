@@ -70,7 +70,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Bathrooms with walk-in showers</li>
                 <li>Complimentary light refreshments</li>
                 <li>Sundry items</li>
-                <li>Organic Cotton Robes</li>
+                <li>Cotton Robes</li>
             </ul>
             <p><strong>Other amenities include:</strong> complimentary Wi-Fi, desks, coffee and tea-makers, irons, hair dryers, umbrellas</p>
          </div>
@@ -108,7 +108,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Bathrooms with walk-in showers</li>
                 <li>Complimentary light refreshments</li>
                 <li>Sundry items</li>
-                <li>Organic Cotton Robes</li>
+                <li>Cotton Robes</li>
             </ul>
          </div>
     </div>
