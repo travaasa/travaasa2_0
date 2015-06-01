@@ -53,16 +53,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <strong>But this isn’t just another resort.</strong><br><br>
 As Texas's most active destination resort and spa, Travaasa Austin takes pride in offering its guests a compelling menu of inclusive guided adventures, culinary classes, cultural encounters, healing spa treatments, and fitness and wellness workshops, all located in a Zen-like preserve for the soul.</p>
 <a href="/austin/video/"><img class="videobox" style="float:left;!important" width="350" src="http://static.travaasa.com/assets/images/play-button-600px-austin.jpg"></a>
-
-<div style="float:left; padding: 0 0 0 10px;" id="TA_certificateOfExcellence633" class="TA_certificateOfExcellence">
+<img style="float:left; padding: 5px 0 0 10px;" width="150" height="150" src="http://static.travaasa.com/assets/images/austin-conde-nast-2014.png">
+<a href="http://www.tripadvisor.com/Hotel_Review-g30196-d2008152-Reviews-Travaasa_Austin-Austin_Texas.html" target="_blank"><img style="float:left; padding: 5px 0 0 5px;" width="152" height="126" src="http://static.travaasa.com/assets/images/austin-tripadvisor_152x126.png"></a>
+<!--<div style="float:left; padding: 0 0 0 10px;" id="TA_certificateOfExcellence633" class="TA_certificateOfExcellence">
 <ul id="spzvfhE" class="TA_links FGPJCU4">
 <li id="DgKa9Rc" class="9ewiLgLW">
 <a target="_blank" href="http://www.tripadvisor.com/"><img src="http://www.tripadvisor.com/img/cdsi/img2/awards/CoE2014_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a>
 </li>
 </ul>
-</div>
-<script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=633&amp;locationId=2008152&amp;lang=en_US&amp;year=2014"></script>
-
+</div>-->
+<!--<script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=633&amp;locationId=2008152&amp;lang=en_US&amp;year=2014"></script>
 
 <div style="float:left;" id="TA_greenleader959" class="TA_greenleader">
 <ul id="zvjcraFq" class="TA_links aiMKeD">
@@ -71,7 +71,9 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
 </li>
 </ul>
 </div>
-<script src="http://www.jscache.com/wejs?wtype=greenleader&amp;uniq=959&amp;locationId=2008152&amp;lang=en_US&amp;border=false"></script>
+<script src="http://www.jscache.com/wejs?wtype=greenleader&amp;uniq=959&amp;locationId=2008152&amp;lang=en_US&amp;border=false"></script>-->
+<a href="http://www.tripadvisor.com/Hotel_Review-g30196-d2008152-Reviews-Travaasa_Austin-Austin_Texas.html" target="_blank"><img style="float:left; padding: 5px 0 0 0;" width="172" height="126" src="http://static.travaasa.com/assets/images/austin-greenleaders-172x126.png"></a>
+
 
 
 
