@@ -40,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>An intimate elopement on black lava rock at the Pacific’s edge awaits you. Your vision of an island wedding is a dream come true at our sea ranch resort. Dream away…</p>
           <h2>Elopement Wedding $5,000</h2>
           <ul>
-            <li>Two night stay in an ocean view Sea Ranch Cottage with private hot tub</li>
+            <li>Two night stay in an ocean view Sea Ranch Cottage</li>
             <li>Daily breakfast, lunch and dinner for two</li>
             <li>Choice of one premium activity</li>
             <li>Daily spa treatments for two (four treatments total)</li>
