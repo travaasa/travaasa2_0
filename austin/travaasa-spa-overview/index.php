@@ -470,7 +470,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <p>For those who want the convenience of choosing a spa package, Travaasa offers several different options—including full- and half-day packages.</p>
             <section class="spa_package">
                 <h4>ULTIMATE BLISS FULL-DAY PACKAGE</h4>
-                <p>Experience bliss and total relaxation with a Full-Day Spa Package that will nurture your body from head to toe. It begins with an Ancient Purification Body Treatment, a Swedish Massage and Nurturing Scalp Treatment followed by a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment. A healthy lunch in Jean's Kitchen is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
+                <p>Experience bliss and total relaxation with a Full-Day Spa Package that will nurture your body from head to toe. It begins with an Ancient Purification Body Treatment, a Swedish Massage and Nurturing Scalp Treatment followed by a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment. A healthy lunch at the Preserve Kitchen + Bar is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
                 <h5>5 hours &#8211; $615 </h5>
             </section>
             <section class="spa_package">
