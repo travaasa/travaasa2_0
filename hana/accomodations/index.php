@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Interior ceiling fans (air conditioning isn't necessary)</li>
                 <li>Complimentary nightly turndown service</li>
             </ul>
-            <p><strong>Note: only guests ages 16 and older are allowed in the Sea Ranch Cottages area, with the exception of special Family Weeks.</strong></p>
+            <!--<p><strong>Note: only guests ages 16 and older are allowed in the Sea Ranch Cottages area, with the exception of special Family Weeks.</strong></p>-->
          </div>
     </div>
     <div class="col span_1_of_5 pricing_grp_sub">
