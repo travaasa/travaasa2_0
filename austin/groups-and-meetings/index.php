@@ -537,7 +537,7 @@ austinsales@travaasa.com</a></td>
             <div class="group">
             	<div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Meeting-Planners-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Planners Guide</a></div>
             	<div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Meeting-Space-Capacities.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Space Capacites</a></div>
-            	<div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Meeting-Packages.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Packages</a></div>
+            	<div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Meeting-Package-Menus.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Package Menus</a></div>
             </div>
             <div class="group">
             	<div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Property-Map.pdf" class="btn-jorah fitwidth" target="_blank">Property Map</a></div>
