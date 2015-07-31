@@ -147,7 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <!--<h5>Age Policy</h5>
         <ul>
-          <li>The <a href="/hana/accomodations/">Sea Ranch Cottages</a> and <strong>Total Travaasa</strong> packages are limited to adults <strong>16 and over</strong>.</li>
+          <li>The <a href="/hana/accomodations/">Ocean Bungalows</a> and <strong>Total Travaasa</strong> packages are limited to adults <strong>16 and over</strong>.</li>
           <li>Children are welcome on the Garden View Suite side of the property throughout the year.</li>
         </ul>-->
 
