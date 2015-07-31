@@ -37,10 +37,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>Nestled between the Haleakala mountain range and the Pacific Ocean, the tropical oasis of Hana on the east coast of Maui awaits. In ancient Hawaiian legend from Hana, Maui was pulled out of the ocean and born into the Hawaiian island chain. Your new life together begins in the exact same spot. Surrounded by mystery and beauty, historic Hana town exudes a blend of aloha spirit and small town charm.</p>
           <p>The journey to Hana begins the second your plane lands. Your senses are overtaken by the sweet scent of tuberose, pikake and plumeria flowers. As the singing of little birds welcome you and the warm Pacific trade winds envelop your being, rejoice as you step into the land of Aloha.</p>
           <p>Our well-trained and dedicated staff invites you to stay where authentic Hawaiian traditions are a way of life. Try throw net fishing, learn how to dance hula, braid a fresh ti-leaf lei, or play the ukulele. Then pamper yourself in our award-winning spa, go for a bike ride, hike to the 400-foot Waimoku Falls, relax at our infinity pool, frolick at the world-famous Hamoa Beach, or just lay in a hammock and read a book.</p> 
-          <p>An intimate elopement on black lava rock at the Pacific’s edge awaits you. Your vision of an island wedding is a dream come true at our sea ranch resort. Dream away…</p>
+          <p>An intimate elopement on black lava rock at the Pacific’s edge awaits you. Your vision of an island wedding is a dream come true at our ocean bungalow resort. Dream away…</p>
           <h2>Elopement Wedding $5,000</h2>
           <ul>
-            <li>Two night stay in an ocean view Sea Ranch Cottage</li>
+            <li>Two night stay in an Ocean Bungalow</li>
             <li>Daily breakfast, lunch and dinner for two</li>
             <li>Choice of one premium activity</li>
             <li>Daily spa treatments for two (four treatments total)</li>
