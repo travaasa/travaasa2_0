@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <h2>Travaasa Austin Packing List</h2>
   </section>
   <section class="grey pad group">
-        <p style="margin:10px 0 10px 15px;">&bull;&nbsp;Swimsuit<br />&bull;&nbsp;Sun block<br /> &bull;&nbsp;Sunglasses<br /> &bull;&nbsp;Hat<br /> &bull;&nbsp;Poolside shoes<br /> &bull;&nbsp;Workout clothes<br /> &bull;&nbsp;Comfortable walking shoes<br /> &bull;&nbsp;Comfortable clothing for participating in activities<br /> &bull;&nbsp;Close toed shoes for adventure activities<br /> &bull;&nbsp;Casual clothing for dinner<br /> &bull;&nbsp;Toiletries<br /> &bull;&nbsp;Book or magazine<br /> &bull;&nbsp;Rain jacket (in case there is rain)</p>
+        <p style="margin:10px 0 10px 15px;">&bull;&nbsp;Swimsuit<br />&bull;&nbsp;Sun block<br /> &bull;&nbsp;Sunglasses<br /> &bull;&nbsp;Hat<br /> &bull;&nbsp;Poolside shoes<br /> &bull;&nbsp;Workout clothes<br /> &bull;&nbsp;Comfortable walking shoes<br /> &bull;&nbsp;Comfortable clothing for participating in activities<br /> &bull;&nbsp;Close toed shoes for adventure activities<br /> &bull;&nbsp;Casual clothing for dinner<br /> &bull;&nbsp;Toiletries<br /> &bull;&nbsp;Book or magazine<br /> &bull;&nbsp;Bug Spray<br /> &bull;&nbsp;Rain jacket (in case there is rain)</p>
         <div class="col span_1_of_1"><a href="/pdf/Travaasa-Austin-Property-Map.pdf" class="btn fitwidth" target="_blank">Property Map</a></div>
   </section>
 </article>
