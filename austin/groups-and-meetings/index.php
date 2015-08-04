@@ -542,7 +542,7 @@ austinsales@travaasa.com</a></td>
             <div class="group">
             	<div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Property-Map.pdf" class="btn-jorah fitwidth" target="_blank">Property Map</a></div>
                 <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Wine-Pairings.pdf" class="btn-jorah fitwidth" target="_blank">Wine Pairings</a></div>
-                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Group-Activities.pdf" class="btn-jorah fitwidth" target="_blank">Group Activities</a></div>
+                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Group-Activity-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Group Activity Guide</a></div>
             </div>
             <div class="group">
                 <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn-jorah fitwidth" target="_blank">Travaasa Austin Spa Guide</a></div>
