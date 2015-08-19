@@ -269,7 +269,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">9'</td>
                             </tr>
 
-                                <tr><td class="meetings-table-labels">Living Room Style</td>
+                                <tr><td class="meetings-table-labels">Living Room</td>
                                 <td class="meetings-table-data">8 – 14</td>
                             </tr>
 
@@ -422,19 +422,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <td class="meetings-table-data">435</td>
                     </tr>
                     <tr>
-                        <td class="meetings-table-labels">Height:</td>
+                        <td class="meetings-table-labels">Height</td>
                         <td class="meetings-table-data">9'</td>
                     </tr>
                     <tr>
-                        <td class="meetings-table-labels">Tehater Style:</td>
+                        <td class="meetings-table-labels">Theater</td>
                         <td class="meetings-table-data">30</td>
                     </tr>
                     <tr>
-                        <td class="meetings-table-labels">Classroom:</td>
+                        <td class="meetings-table-labels">Classroom</td>
                         <td class="meetings-table-data">12</td>
                     </tr>
                     <tr>
-                        <td class="meetings-table-labels">U-Shape:</td>
+                        <td class="meetings-table-labels">U-Shape</td>
                         <td class="meetings-table-data">12</td>
                     </tr>
                 </tbody>
