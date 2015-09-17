@@ -112,7 +112,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <td class="compare-table-check">&nbsp;</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box"><strong>$125</strong> resort credit per person per day, good toward <a href="/hana/hana-the-spa-at-travaasa-hana/">spa treatments</a> and private classes.</td>
+          <td class="compare-table-description-box"><strong>$125</strong> resort credit per person per night stay, good toward <a href="/hana/hana-the-spa-at-travaasa-hana/">spa treatments</a> and private classes.</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
         </tr>
