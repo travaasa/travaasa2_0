@@ -138,11 +138,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
 
             <h2>SIGNATURE BODY TREATMENTS</h2>
             <p>Therapeutic, energetic, soothing, cleansing or stimulating; you decide which of our body treatments to delight in during your stay.</p>
-            <section class="spa_package">
+            <!--<section class="spa_package">
                 <h4>REJUVENATING CLAY &amp; ALOE WRAP</h4>
                  <p>Unrefined, sun-dried green clay blended with French spirulina define this experience to regenerate, oxygenate, clarify, balance and deeply stimulate your skin. Mature or sun-damaged skin will be restored, rehydrated and protected. </p>
                 <h5>80 minutes &#8211; $180</h5>
-			       </section>
+			       </section>-->
             <section class="spa_package">
                 <h4>ANCIENT PURIFICATION</h4>
                 <p>To relax your muscles and encourage the elimination of toxins, we begin with an organic panela sugar scrub. Fossilized Dead Sea mud and organic herbs of chamomile, dandelion and lemon balm provide deep detoxification, while pure essential oils of rosemary, eucalyptus and lavender support, strengthen and ground the spirit.</p>
