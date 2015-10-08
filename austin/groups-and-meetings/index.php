@@ -649,7 +649,7 @@ austinsales@travaasa.com</a></td>
             <h4>Constructive Challenges</h4>
             <p>These leadership activities involve a series of fun and challenging scenarios, requiring participation and collaboration from the entire group. Our facilitators lead your team through activity stations, each taking 15-45 minutes. We offer a full range of options for stations, from simple group games to complex mental and physical challenges. For example, the team must cross a “river” using only the materials provided. Afterwards, facilitators offer a short debriefing session and encourage participants to share insights and make connections to real world situations.
             Check out our most popular packages below or completely customize your own. Our leadership staff is available to help you choose which package fits your team and desired outcome.</p>
-             <p><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Group-Activities.pdf" class="btn-jorah">Group Activities Pricing</a></p>
+             <p><a href="http://static.travaasa.com/pdf/Travaasa-Austin-Group-Activity-Guide.pdf" class="btn-jorah">Group Activities Pricing</a></p>
         </div>
     </div>
     <!--<div id="weddings" class="tab_data">
