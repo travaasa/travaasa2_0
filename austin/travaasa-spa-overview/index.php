@@ -153,11 +153,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>Juniper, seaweed and cypress have a reputation for deep cleansing, stimulating, purifying and revitalizing the body and mind, and together they jump-start the metabolism, aid in circulation and penetrate your skin to help smooth cellulite.</p>
                 <h5>50 minutes &#8211; $130</h5>
 			      </section>
-            <section class="spa_package">
+            <!--<section class="spa_package">
                 <h4>INVIGORATING AVOCADO WRAP</h4>
                 <p>Luxuriate in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. Finish with a stimulating scalp massage and full-body mineral mist to invigorate, revitalize and illuminate you from head to toe.</p>
                 <h5>50 minutes &#8211; $130</h5>
-			      </section>
+			      </section>-->
             <section class="spa_package">
                 <h4>NURTURING SCALP TREATMENT</h4>
                 <p>This relaxing treatment begins with an aromatic hot-towel compress over the scalp and hair to calm and soothe. A moisture-rich elixir of pure essential oils are then gently massaged into your head and neck. You are welcome to leave the oils in for a few hours, or shower off after your treatment. Your hair, scalp and neck will thank you. Choose a blend that suits you – Stimulating, a stimulating blend of rosemary and lavender or Soothing, a soothing blend of sandalwood and lavender.</p>
@@ -473,11 +473,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>Experience bliss and total relaxation with a Full-Day Spa Package that will nurture your body from head to toe. It begins with an Ancient Purification Body Treatment, a Swedish Massage and Nurturing Scalp Treatment followed by a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment. A healthy lunch at the Preserve Kitchen + Bar is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
                 <h5>5 hours &#8211; $615 </h5>
             </section>
-            <section class="spa_package">
+            <!--<section class="spa_package">
                 <h4>SERENE &amp; CALM HALF-DAY PACKAGE</h4>
                 <p>Unwind and renew with an amazing Half-Day Spa Package that will restore and renew your mind, body and spirit. Begin with an Invigorating Avocado Wrap Body Treatment followed by an Organic Ultimate Hydration Facial and finally a Lavender Vanilla Hand Treatment. All gratuities are included; tax is additional.</p>
                 <h5>3 hours &#8211; $380 </h5>
-            </section>
+            </section>-->
             <section class="spa_package">
                 <h4>MEN'S "WHAT ALES YOU" PACKAGE</h4>
                 <p>Let your aches and pains melt away like a Texas Sunset. This exclusive men's package begins with an Energetic Edge 80-minute massage followed by a Peppermint Zenergy Foot Treatment. End your experience with an organic Texas ale, included in the price. All gratuities are included; tax is additional.</p>
