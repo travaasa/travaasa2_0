@@ -2,12 +2,12 @@
     <li>
         <h2>INCLUSIVE</h2>
         <p>Starting at</p>
-        <h3><sup>$</sup>500</h3>
+        <h3><sup>$</sup>525</h3>
     </li>
     <li>
         <h2>&#192; LA CARTE</h2>
         <p>Starting at</p>
-        <h3><sup>$</sup>275</h3>
+        <h3><sup>$</sup>300</h3>
     </li>
 </ul>
 <!--<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">MAKE A RESERVATION</a></p>-->

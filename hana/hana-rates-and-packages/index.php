@@ -106,13 +106,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
         </tr>
-        <tr class="compare-table-row">
+        <!--<tr class="compare-table-row">
           <td class="compare-table-description-box">All snacks and non-alcoholic beverages</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
-        </tr>
+        </tr>-->
         <tr class="compare-table-row">
-          <td class="compare-table-description-box"><strong>$125</strong> resort credit per person per night stay, good toward <a href="/hana/hana-the-spa-at-travaasa-hana/">spa treatments</a> and private classes.</td>
+          <td class="compare-table-description-box"><strong>$175</strong> resort credit* per person per night stay, good toward <a href="/hana/hana-the-spa-at-travaasa-hana/">spa treatments</a> and private classes.<br /><em>*Rates booked on or before December 1, 2015 receive $125 credit.</em></td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
         </tr>
@@ -128,13 +128,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </tr>-->
         <tr class="compare-summary">
           <td>&nbsp;</td>
-          <td class="compare-price"><p><strong>SINGLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>600</p></td>
-          <td class="compare-price"><p><strong>SINGLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>350</p></td>
+          <td class="compare-price"><p><strong>SINGLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>650</p></td>
+          <td class="compare-price"><p><strong>SINGLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>400</p></td>
         </tr>
         <tr class-"compare-summary2">
           <td style="border:1px solid #FFFFFF;" >&nbsp;</td>
-          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>925</p></td>
-          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>400</p></td>
+          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>950</p></td>
+          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>450</p></td>
         </tr>
      </tbody>
     </table>
@@ -148,7 +148,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--<h5>Age Policy</h5>
         <ul>
           <li>The <a href="/hana/accomodations/">Ocean Bungalows</a> and <strong>Total Travaasa</strong> packages are limited to adults <strong>16 and over</strong>.</li>
-          <li>Children are welcome on the Garden View Suite side of the property throughout the year.</li>
+          <li>Children are welcome on the Garden Junior Suite side of the property throughout the year.</li>
         </ul>-->
 
         <h5>The Fine Print</h5>

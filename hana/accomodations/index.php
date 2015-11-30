@@ -35,7 +35,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
           <h1>Hana, Maui Resort Rooms and Bungalows in Hawaii</h1>
          <p>As you surrender to the timeless tranquility of the <a href="http://travaasa.com/hana/hana-maui/" target="_self">Town of Hana</a>, the rest of the world — even the island of Maui — feels as if it’s a world away. By the time you arrive at the tropical resort sanctuary that is Travaasa Hana, you can’t help but enter a Hana state of mind.</p>
-         <p>The experience of Hana embraces the low-key vibe of this enchanted Hawaiian destination. Spacious resort cottages and private suites set a peaceful mood for your stay, whether you’re watching the waves roll across the Pacific Ocean from the private lanai of your Ocean Bungalow or relaxing in the spacious rooms of our Garden View or Waikoloa Family Suites. Whichever room type you choose, you’ll be pleased to discover our Hana accommodations feature organic linens, locally made bath amenities and organic whole bean coffee. In an environment free of radios, clocks, and televisions, nothing will distract you from the natural beauty and relaxation of Heavenly Hana.</p>
+         <p>The experience of Hana embraces the low-key vibe of this enchanted Hawaiian destination. Spacious resort cottages and private suites set a peaceful mood for your stay, whether you’re watching the waves roll across the Pacific Ocean from the private lanai of your Ocean Bungalow or relaxing in the spacious rooms of our Garden Junior Suites or Waikoloa Family Suites. Whichever room type you choose, you’ll be pleased to discover our Hana accommodations feature organic linens, locally made bath amenities and organic whole bean coffee. In an environment free of radios, clocks, and televisions, nothing will distract you from the natural beauty and relaxation of Heavenly Hana.</p>
          <p>The spirit of Hawaii is yours to discover through our signature <a href="http://travaasa.com/hana/travaasa-hana-experiences/" target="_self">Travaasa Experiences</a>. Our inclusive (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Total Travaasa</a>) and a la carte (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a>) options give you the freedom to embrace Hana your way. See our <a href="http://www.travaasa.com/hana/hana-rates-and-packages/">rates and packages</a>. Start your day with a <a href="http://travaasa.com/hana/travaasa-hana-experiences/fitness/" target="_self">guided nature walk</a> along Hana’s Coast, <a href="http://travaasa.com/hana/travaasa-hana-experiences/culture/" target="_self">learn to string your own fragrant lei</a> or take your relaxation to the next level with one of the <a href="http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/" target="_self">finest spa treatments</a> in all of Hana. These experiences and more are yours to enjoy with our inclusive Total Travaasa option, which nourishes mind, body and soul with experiences, meals and non-alcoholic drinks.</p>
          <p>Or, choose the <a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a> option and add experiences to your stay a la carte. Either way, Travaasa lets you design the Hana experience you’ll remember for years to come.</p>
          <p>Whether you choose a private suite or a resort cottage with an inclusive package or a la carte experiences, Travaasa Hana invites you to relax — after all, you’re on Hana time now.</p>
@@ -74,7 +74,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>450</h3>
+                <h3><sup>$</sup>650</h3>
             </li>
         </ul>
         <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link1" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link1");</script></p>
@@ -83,18 +83,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad group">
   	<div class="col span_2_of_5">
         <div class="magnify">
-        	<a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-bathroom.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Bathroom"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-pool.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Pool" alt="Hawaii luxury resort rooms"></a>
+        	<a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-bathroom.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Junior Suite Bathroom"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Hawaii luxury resort rooms"></a>
+            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-pool.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Junior Suite Pool" alt="Hawaii luxury resort rooms"></a>
             <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-view.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Suite View" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-green.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Lawn" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-lawn.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Lawn" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-room-double.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Double Room" alt="Hawaii luxury resort rooms"></a>
+            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-green.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Junior Suite Lawn" alt="Hawaii luxury resort rooms"></a>
+            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-lawn.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Junior Suite Lawn" alt="Hawaii luxury resort rooms"></a>
+            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-room-double.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Junior Suite Double Room" alt="Hawaii luxury resort rooms"></a>
         </div>
-        <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-room.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden View Suite"><img src="http://static.travaasa.com/assets/images/rooms_garden_view.jpg" alt="Hawaii luxury resort rooms" width="300" height="196" class="fitwidth"></a>
+        <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-room.jpg" data-flare-gallery="gallery2" data-target="flare" data-flare-scale="fitmax" title="Garden Junior Suite"><img src="http://static.travaasa.com/assets/images/rooms_garden_view.jpg" alt="Hawaii luxury resort rooms" width="300" height="196" class="fitwidth"></a>
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
-            <h4>Garden View Suites</h4>
+            <h4>Garden Junior Suites</h4>
             <p>Features and amenities include:</p>
             <ul class="description">
                 <li>Access to activities at the Makana Center</li>
@@ -114,7 +114,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>350</h3>
+                <h3><sup>$</sup>400</h3>
             </li>
         </ul>
         <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link2" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link2");</script></p>
