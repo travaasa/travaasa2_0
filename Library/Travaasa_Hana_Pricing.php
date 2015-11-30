@@ -2,12 +2,12 @@
           <li>
               <h2>INCLUSIVE</h2>
               <p>Starting at</p>
-              <h3><sup>$</sup>600</h3>
+              <h3><sup>$</sup>650</h3>
           </li>
           <li>
               <h2>&#192; LA CARTE</h2>
               <p>Starting at</p>
-              <h3><sup>$</sup>350</h3>
+              <h3><sup>$</sup>400</h3>
           </li>
       </ul>
       
