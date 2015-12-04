@@ -33,8 +33,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="feature1" class="feature">
       <!--<div class="slide"><img data-original="/assets/images/placeholder_food_A1.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>DISH NAME GOES HERE / <span>SHORT DESCRIPTION HERE PLEFF LOREM IPSUM DOLOR SIT AMET</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/placeholder_food_A2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>DISH NAME GOES HERE / <span>SHORT DESCRIPTION HERE PLEFF LOREM IPSUM DOLOR SIT AMET</span></h2></div></div>//-->
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_dining.jpg" src="/assets/images/global/placeholder.gif" alt="Hana restaurants, Dining in Hana, Authentic Hawaiian Food"></div>
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_dining_fish.jpg" src="/assets/images/global/placeholder.gif" alt="Hana restaurants, Dining in Hana, Authentic Hawaiian Food"><div class="overlay-content-new"><h2>Charred Wild New Zealand Salmon / <span>Asian Vegetables, Salad Balsamic Reduction &amp; Micro Greens</span></h2></div></div>
+      <!--<div class="slide"><img data-original="/assets/images/feature_hana_1600x640_dining2.jpg" src="/assets/images/global/placeholder.gif" alt="The Preserve Kitchen + Bar at Travaasa Hana, Dining in Hana, Authentic Hawaiian Food"></div>-->
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_1600x640_preserve.jpg" src="/assets/images/global/placeholder.gif" alt="The Preserve Kitchen + Bar at Travaasa Hana, Dining in Hana, Authentic Hawaiian Food"><div class="overlay-content-new"><h2>The Preserve Kitchen + Bar / <span>Evening on the Lanai</span></h2></div></div>
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_1600x640_preserve2.jpg" src="/assets/images/global/placeholder.gif" alt="The Preserve Kitchen + Bar at Travaasa Hana, Dining in Hana, Authentic Hawaiian Food"><div class="overlay-content-new"><h2>The Preserve Kitchen + Bar / <span>Main Room</span></h2></div></div>
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_1600x640_preserve3.jpg" src="/assets/images/global/placeholder.gif" alt="The Preserve Kitchen + Bar at Travaasa Hana, Dining in Hana, Authentic Hawaiian Food"><div class="overlay-content-new"><h2>The Preserve Kitchen + Bar / <span>Bar Lanai</span></h2></div></div>
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_1600x640_dining.jpg" src="/assets/images/global/placeholder.gif" alt="The Preserve Kitchen + Bar at Travaasa Hana, Dining in Hana, Authentic Hawaiian Food"></div>
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_1600x640_dining_fish.jpg" src="/assets/images/global/placeholder.gif" alt="The Preserve Kitchen + Bar at Travaasa Hana, Dining in Hana, Authentic Hawaiian Food"><div class="overlay-content-new"><h2>Charred Wild New Zealand Salmon / <span>Asian Vegetables, Salad Balsamic Reduction &amp; Micro Greens</span></h2></div></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -43,8 +47,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix notheater">
       <div class="col span_8_of_9">
-          <h1>AUTHENTIC HAWAIIAN DINING AT TRAVAASA HANA</h1>
-          <p>With the incredible abundance and inspiration of Hana to draw from, our Executive Chef has created a dining experience that's pure Travaasa – a celebration of life and the bounty of the earth that nourishes us body and soul. He's coined a name for his eclectic, creative culinary style: Hana Fusion, a combination of techniques from classical to innovative blending bold flavors with a focus on in-season, local ingredients.</p>
+          <h1>THE PRESERVE KITCHEN + BAR AT TRAVAASA HANA, MAUI</h1>
+          <p>The Preserve Kitchen + Bar is set amid rolling hills and palm trees overlooking tranquil Hana Bay and historic Kauiki Hill. The open-air restaurant has a relaxed atmosphere reflecting Hana’s low-key lifestyle and is open seven days a week for breakfast, lunch and dinner. Live Hawaiian music and hula are featured throughout the week. <br /><br />
+          With the incredible abundance and inspiration of Hana to draw from, our Executive Chef has created a dining experience that's pure Travaasa&#8212;a celebration of life and the bounty of the earth that nourishes us body and soul. A combination of techniques from classical to innovative blends bold flavors with a focus on in-season, local ingredients.</p>
       </div>
   </section>
   <!--<section class="grey pad group">
