@@ -44,9 +44,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="grey pad group">
     <div class="col span_2_of_5">
         <div class="magnify">
-        	<a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Ocean Bungalow luxury resort cottages"></a>
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-living.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow" alt="Ocean Bungalow luxury resort cottages"></a>
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-front-1k.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow"></a>
+        	<a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Ocean Bungalow"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-living.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Ocean Bungalow" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-front-1k.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Ocean Bungalow"></a>
           <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-bathroom.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow Bathroom" alt="Ocean Bungalow Bathroom"></a>
           <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-sea-ranch-pool-chairs.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow Pool" alt="Ocean Bungalow luxury resort cottages"></a>
         </div>
@@ -54,7 +54,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
-            <h4>Ocean Bungalows</h4>
+            <h4>The Ocean Bungalow</h4>
             <p>Inclusive resort features &amp; amenities include:</p>
             <ul class="description">
                 <li>Inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
@@ -93,7 +93,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div class="col span_2_of_5">
     	<div class="room-details">
-            <h4>Garden Junior Suites</h4>
+            <h4>The Garden Junior Suite</h4>
             <p>Features and amenities include:</p>
             <ul class="description">
                 <li>Access to activities at the Makana Center</li>
