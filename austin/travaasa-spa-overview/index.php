@@ -33,12 +33,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2-organic.jpg" src="/assets/images/global/placeholder.gif" alt="Austin Day Spa at Travaasa"><div class="overlay-content-new"><h2><span>THE SPA AT TRAVAASA AUSTIN IS PROUD TO BE RECOGNIZED BY </span>ORGANIC SPA MAGAZINE</h2></div></div>
-      <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>PERFECT BALANCE FACIAL / <span>ORGANIC SAGE OIL AND GRAPE SEEDS RESTORE SKIN'S HARMONY.</span></h2></div></div>-->
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby.jpg" src="/assets/images/global/placeholder.gif" alt="Austin Resort Spa"><div class="overlay-content-new"><h2>ULTIMATE BLISS FULL-DAY PACKAGE / <span>EXPERIENCE THE BLISS AND RELAXATION OF BEING NURTURED FROM HEAD TO TOE.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="/assets/images/global/placeholder.gif" alt="Unique Texas Spa"><div class="overlay-content-new"><h2>WESTERN SKY ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_facial.jpg" src="/assets/images/global/placeholder.gif" alt="Spa Resort Austin"><div class="overlay-content-new"><h2>ORGANIC ULTIMATE HYDRATION FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
-      <!--<div class="slide"><img data-original="/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_spa_facial2-organic.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Austin Day Spa at Travaasa"><div class="overlay-content-new"><h2><span>THE SPA AT TRAVAASA AUSTIN IS PROUD TO BE RECOGNIZED BY </span>ORGANIC SPA MAGAZINE</h2></div></div>
+      <!--<div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_spa_facial2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>PERFECT BALANCE FACIAL / <span>ORGANIC SAGE OIL AND GRAPE SEEDS RESTORE SKIN'S HARMONY.</span></h2></div></div>-->
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_spa_treatment.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Austin Resort Spa"><div class="overlay-content-new"><h2>FULL-DAY ESCAPE / <span>EXPERIENCE THE BLISS AND RELAXATION OF BEING NURTURED FROM HEAD TO TOE.</span></h2></div></div>
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Unique Texas Spa"><div class="overlay-content-new"><h2>WESTERN SKY ROOM / <span>A TREATMENT ROOM SPECIALLY DESIGNED FOR MEN</span></h2></div></div>
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_spa_facial.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Spa Resort Austin"><div class="overlay-content-new"><h2>ULTIMATE INDULGENCE FACIAL / <span>LEAVES SKIN FEELING FRESH, RADIANT AND YOUTHFUL.</span></h2></div></div>
+      <!--<div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_spa_lobby2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>COUPLES "DOUBLE TROUBLE" MASSAGE / <span>ENJOY BLUE CYPRESS, AGAVE AND SANDALWOOD OILS AND ESPECIALLY EACH OTHER.</span></h2></div></div>-->
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -49,9 +49,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="col span_6_of_9">
           <h1>THE SPA AT TRAVAASA AUSTIN</h1>
           <p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Featuring 11 treatment rooms, including a couple's room, as well as a hot tub and dry sauna, our unique Texas spa sits adjacent to the property's saline infinity pool, which overlooks the serene and scenic hill country landscape.<br><br>
-We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.</p>
-<div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn fitwidth" target="_blank">Download Spa Guide</a></div>
-<div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa-Mens-Guide.pdf" class="btn fitwidth" target="_blank">Download Men's Spa Guide</a></div>
+We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products.<!--, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.--></p>
+<div class="col span_1_of_2"><a href="http://static.travaasa.com/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn-jorah" target="_blank">Download Spa Guide</a></div>
+<!--<div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa-Mens-Guide.pdf" class="btn fitwidth" target="_blank">Download Men's Spa Guide</a></div>-->
       </div>
       <div class="pricing_grp col span_3_of_9">
       		<h2>Hours of Operation</h2>
@@ -72,7 +72,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <li id="tab_1"><a href="#body_treatments">Body Treatments</a></li>
                 <li id="tab_2"><a href="#facials">Facials</a></li>
                 <li id="tab_4"><a href="#massage_therapy">Massage Therapy</a></li>
-                <li id="tab_3"><a href="#hands_feet_scalp">Hands, Feet &amp; Scalp</a></li>
+                <li id="tab_3"><a href="#couples">For Couples</a></li>
                 <li id="tab_5"><a href="#waxing">Waxing &amp; Tinting Services</a></li>
                 <li id="tab_7"><a href="#healing">Holistic Healing</a></li>
                 <li id="tab_8"><a href="#nails">Nails</a></li>
@@ -95,74 +95,68 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <!--<br><hr><br>
             <h4>Meeting Facilities</h4>-->
             <div class="group">
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-front-desk-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Front Desk"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-front-desk-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Front Desk"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-hallway-with-pillows-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Hallway"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-hallway-with-pillows-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Hallway"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-outside-seating-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Outside Seating"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-outside-seating-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Outside Seating"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-waiting-room-02-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Waiting Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-waiting-room-02-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Waiting Room"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-inside-seating-01-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Inside Seating"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-inside-seating-01-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Inside Seating"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-front-desk-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Front Desk"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-front-desk-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Front Desk"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-hallway-with-pillows-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Hallway"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-hallway-with-pillows-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Hallway"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-outside-seating-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Outside Seating"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-outside-seating-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Outside Seating"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-waiting-room-02-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Waiting Room"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-waiting-room-02-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Waiting Room"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-inside-seating-01-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Spa Inside Seating"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-inside-seating-01-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Spa Inside Seating"></a></div>
           </div>
           <div class="group">
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-western-sky-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Western Sky Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-western-sky-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Western Sky Room"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-single-room-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Treatment Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-single-room-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Treatment Room"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-couples-room-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Couples Treatment Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-couples-room-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Couples Treatment Room"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-couples-courtyard-01-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Couples Courtyard"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-couples-courtyard-01-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Couples Courtyard"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-couples-courtyard-02-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Couples Courtyard"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-couples-courtyard-02-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Couples Courtyard"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-western-sky-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Western Sky Room"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-western-sky-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Western Sky Room"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-single-room-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Treatment Room"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-single-room-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Treatment Room"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-couples-room-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Couples Treatment Room"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-couples-room-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Couples Treatment Room"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-couples-courtyard-01-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Couples Courtyard"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-couples-courtyard-01-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Couples Courtyard"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-couples-courtyard-02-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Couples Courtyard"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-couples-courtyard-02-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Couples Courtyard"></a></div>
           </div>                   
           <div class="group">
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-steam-room-01-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Steam Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-steam-room-01-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Steam Room"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-womens-locker-room-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Womens Locker Room"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-womens-locker-room-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Womens Locker Room"></a></div>
-                <div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-womens-lockers-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Lockers"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-womens-lockers-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Lockers"></a></div>
-                <!--<div class="col span_1_of_5"><a href="/assets/images/gallery/austin/austin-spa-shower-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Shower"><img class="lazy" data-original="/assets/images/gallery/austin/austin-spa-shower-100.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Shower"></a></div>-->
-                <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/1433-spa-facial.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="A Soothing Facial"><img class="lazy" data-original="/assets/images/gallery/austin/100-spa-facial.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Facial"></a></div>
-                <div class="col span_1_of_5"><a  href="/assets/images/gallery/austin/1433-spa-entrance.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Spa at Travaasa Austin"><img class="lazy" data-original="/assets/images/gallery/austin/100-spa-entrance.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Spa at Travaasa Austin"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-steam-room-01-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Steam Room"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-steam-room-01-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Steam Room"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-womens-locker-room-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Womens Locker Room"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-womens-locker-room-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Womens Locker Room"></a></div>
+                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-womens-lockers-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Lockers"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-womens-lockers-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Lockers"></a></div>
+                <!--<div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-shower-1440.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Shower"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-shower-100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="170" height="170" alt="Shower"></a></div>-->
+                <div class="col span_1_of_5"><a  href="http://static.travaasa.com/assets/images/gallery/austin/1433-spa-facial.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="A Soothing Facial"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/100-spa-facial.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="180" height="180" alt="Facial"></a></div>
+                <div class="col span_1_of_5"><a  href="http://static.travaasa.com/assets/images/gallery/austin/1433-spa-entrance.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="The Spa at Travaasa Austin"><img class="lazy" data-original="http://static.travaasa.com/assets/images/gallery/austin/100-spa-entrance.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" width="180" height="180" alt="The Spa at Travaasa Austin"></a></div>
            </div>
         </div>
     </div>
     <div id="body_treatments" class="tab_data">
         <div class="tab_data_inner">
-            <!--<h2>HARVEST BODY TREATMENTS </h2>
-            <p>Featuring pumpkin, an ingredient known for its detoxifying qualities and skin-perfecting nutrients, minerals and enzymes, these unique treatments leave skin glowing and healthy. (Treatments offered for a limited time only.)</p>
+            <h2>BODY TREATMENTS</h2>
             <section class="spa_package">
-                <h4>FARM-TO-BODY PUMPKIN DETOX BODY WRAP</h4>
-                <p>For a whole-body detox, try a soothing body wrap that incorporates organic pumpkin (sourced from Travaasa’s own farm) in addition to products from our spa's base line, ilike organic body care. The orange and cinnamon ingredients clean and balance skin, while the nutrient-rich pumpkin works to nourish and rehydrate. A calming linden and marigold cream massage completes the treatment.)</p>
-                <h5>80 minutes &#8211; $185 </h5>
-            </section><br>-->
-            <!--<h2>For Your Valentine</h2>
-            <section class="spa_package">
-                <h4>Chocolate Decadence Body Treatment</h4>
-                <p>Indulge in this sensory experience that will leave you feeling silky soft, rejuvenated and decadently relaxed.  Using organic chocolate, shea butters and other aromatic elixirs, this 80 minute treatment includes an exfoliating body treatment followed by a soothing massage. The perfect treat for Valentines Month!</p>
-                <h5>80 minutes &#8211; $195 </h5>
-            </section>-->
+              <h4>Detoxifying Exfoliant</h4>
+              <p>Leaves skin extra smooth and rejuvenated.</p>
+              <h5>60 or 90 minutes &#8211;  $175/$250 w/massage</h5>
+            </section>
 
-            
+            <section class="spa_package">
+              <h4>Hydrating Cocoon Body Wrap</h4>
+              <p>Skin is exfoliated, followed by hydrating balm applied all over. A warm, cozy coccoon of plush blankets helps your body absorb maximum moisture.</p>
+              <h5>60 minutes &#8211;  $175</h5>
+            </section>
 
             <h2>SIGNATURE BODY TREATMENTS</h2>
             <p>Therapeutic, energetic, soothing, cleansing or stimulating; you decide which of our body treatments to delight in during your stay.</p>
+            <section class="spa_package">
+              <h4>Hill Country Honeybee Massage &amp; Body Treatment</h4>
+              <p>Skin is nourished and moisturized with organic honey, propolis, ginger and rosemary. Tension, sore muscles and stress are relieved with a myofascial massage using warm organic honey and ginger massage oil.  Ends with a nourishing facial massage using a shea butter-, Tamanu oil- and essential oil-infused balm.</p>
+              <h5>90 minutes &#8211;  $275</h5>
+            </section>
+
+            <section class="spa_package">
+              <h4>Purifying Cocoon Body Wrap</h4>
+              <p>Relax your muscles and encourage the elimination of toxins.  Begin with an organic sugar exfoliation layered with locally-sourced clay infused with organic purifying essential oils.  A cozy hot wrap aids in drawing out impurities, followed by a warm oil application to seal in moisture.</p>
+              <h5>90 minutes &#8211;  $275</h5>
+            </section>
+
+            <section class="spa_package">
+              <h4>Hana Cocomint Escape</h4>
+              <p>Escape to our Hāna, Maui resort with a  hydrating, gentle milk scrub and body wrap followed by a warm coconut, mint and cocoa butter massage to help relax your muscles and ease away stress.  End with an aloe vera and coconut oil facial massage to soothe and heal stressed skin.</p>
+              <h5>90 minutes &#8211;  $275</h5>
+            </section>
             <!--<section class="spa_package">
-                <h4>REJUVENATING CLAY &amp; ALOE WRAP</h4>
-                 <p>Unrefined, sun-dried green clay blended with French spirulina define this experience to regenerate, oxygenate, clarify, balance and deeply stimulate your skin. Mature or sun-damaged skin will be restored, rehydrated and protected. </p>
-                <h5>80 minutes &#8211; $180</h5>
-			       </section>-->
-            <section class="spa_package">
-                <h4>ANCIENT PURIFICATION</h4>
-                <p>To relax your muscles and encourage the elimination of toxins, we begin with an organic panela sugar scrub. Fossilized Dead Sea mud and organic herbs of chamomile, dandelion and lemon balm provide deep detoxification, while pure essential oils of rosemary, eucalyptus and lavender support, strengthen and ground the spirit.</p>
-                <h5>80 minutes &#8211; $180</h5>
-			      </section>
-            <section class="spa_package">
-                <h4>DETOXIFYING JUNIPER, OLIVE STONE EXFOLIATION &amp; POLISH</h4>
-                <p>Juniper, seaweed and cypress have a reputation for deep cleansing, stimulating, purifying and revitalizing the body and mind, and together they jump-start the metabolism, aid in circulation and penetrate your skin to help smooth cellulite.</p>
-                <h5>50 minutes &#8211; $130</h5>
-			      </section>
-            <!--<section class="spa_package">
-                <h4>INVIGORATING AVOCADO WRAP</h4>
-                <p>Luxuriate in a warm wrap of sumptuous avocado body butter blended with essential oils of lavender, pine, orange and lemon to balance, purify and tone. Finish with a stimulating scalp massage and full-body mineral mist to invigorate, revitalize and illuminate you from head to toe.</p>
-                <h5>50 minutes &#8211; $130</h5>
-			      </section>-->
-            <section class="spa_package">
                 <h4>NURTURING SCALP TREATMENT</h4>
                 <p>This relaxing treatment begins with an aromatic hot-towel compress over the scalp and hair to calm and soothe. A moisture-rich elixir of pure essential oils are then gently massaged into your head and neck. You are welcome to leave the oils in for a few hours, or shower off after your treatment. Your hair, scalp and neck will thank you. Choose a blend that suits you – Stimulating, a stimulating blend of rosemary and lavender or Soothing, a soothing blend of sandalwood and lavender.</p>
                 <h5>25 minutes &#8211; $50</h5>
-			      </section>
+			      </section>-->
     	</div>
     </div>
     <div id="facials" class="tab_data">
@@ -173,81 +167,75 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
              <section class="spa_package">
                 <h4>FARM-TO-FACE PUMPKIN FACIAL</h4>
                 <p>Utilizing the cleansing and soothing properties of nettle, grape and carrot, this facial gently cleanses and tones. Infusing skin with vitamins A, E and C, the pumpkin, orange and cinnamon mask increases circulation. Following, the soothing carrot mask and carotene cream massage, revitalizes dry, dehydrated skin.</p>
-                <h5>80 minutes &#8211; $180 </h5>
+                <h5>90 minutes &#8211; $275 </h5>
             </section><br>-->
 
-            <h2>FACIAL TREATMENTS</h2>
+            <h2>Facial Treatments</h2>
+
             <p>Put your face in good hands with a Travaasa facial created expressly for you.</p>
-			<section class="spa_package">
-                <h4>ORGANIC ULTIMATE HYDRATION FACIAL</h4>
-    			<p>The skin-purifying effect of sun-dried white and green clays, jojoba beads, aloe vera extract, organic licorice extract and spirulina combine with the rejuvenating properties of organic rose and pomegranate to create the harmonizing effect of this treatment. It will leave your skin feeling fresh and radiant while restoring youthful elasticity.</p>
-                <h5>80 minutes &#8211; $170</h5>
-			</section>
-			<section class="spa_package">
-                <h4>VITAMIN C BIOENERGETIC HEALING FACIAL</h4>
-    			<p>Restore radiance and vitality to every cell with this powerful and refreshing facial. It targets your skin's nutritional needs with skin-renewing antioxidants such as alpha lipoic acid, green and rooibos tea and vitamins A, C and E. Two masks, sun-infused oils and luxurious moisturizers hydrate and restore your skin, while a hand and foot treatment with homeopathic preparations completes this luxurious treatment.</p>
-                <h5>80 minutes &#8211; $170</h5>
-			</section>
-			<section class="spa_package">
-                <h4>SACRED STONE FACIAL</h4>
-    			<p>Experience a cleansing facial followed by a face-lifting massage using warm and cool stones to relieve tension and stimulate a healthy glow.</p>
-                <h5>50 minutes &#8211;  $130</h5>
-			</section>
-			<section class="spa_package">
-                <h4>NATIVE BLENDS REJUVENATING FACIAL</h4>
-    			<p>Luminous skin can be yours with herbal steam wraps, lavender and rosemary cleansers blended with plant phospholipids, deep exfoliation and a super-antioxidant mask.</p>
-                <h5>50 minutes &#8211; $125</h5>
-			</section>
-			<section class="spa_package">
-                <h4>ECO-LUXE CUSTOM FACIAL</h4>
-    			<p>Customized to provide your complexion with the most benefits, we lavish your skin with phytonutrients, antioxidants such as Vitamin C and alpha lipoic acid, organic and wild-crafted botanicals, and pure essential oils.</p>
-                <h5>50 minutes &#8211; $125</h5>
-			</section>
-			<section class="spa_package">
-                <h4>REPLENISHING DEEP MOISTURE FACIAL</h4>
-    			<p>Our organic, fair-trade cultivated and custom-distilled neroli oil, along with organic jojoba and willow bark extract, will soothe dry, flaky skin while calming and balancing your senses.</p>
-                <h5>50 minutes &#8211; $125</h5>
-			</section>
-			<section class="spa_package">
-                <h4>REMINERALIZING SKIN REPAIR FACIAL</h4>
-    			<p>Unrefined, sun-dried white and green clays blended with French spirulina, organic and fair-trade rose and argan oil, pomegranate seed oil, white tea, shea butter and organic licorice extract are at the heart of this facial. It's designed to regenerate, oxygenate, clarify and balance mature or sun-damaged skin.</p>
-                <h5>50 minutes &#8211; $125</h5>
-			</section>
-			<section class="spa_package">
-                <h4>CLARIFYING OIL CONTROL FACIAL</h4>
-    			<p>Restore balance, clarity and radiance to your skin with wild-crafted sandalwood, organic lemon and bitter orange to exfoliate and decongest pores. Fair-trade certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production. Organic licorice extract calms and soothes as it balances uneven pigmentation.</p>
-                <h5>50 minutes &#8211; $125</h5>
-			</section>
-			<section class="spa_package">
-                <h4>GENTLEMAN'S CLARIFYING FACIAL</h4>
-    			<p>A deeply cleansing and hydrating facial that uses wild-crafted sandalwood, organic lemon and bitter orange to exfoliate and purify your skin, decongest pores and lift the spirits.</p>
-                <h5>50 minutes &#8211; $125</h5>
-			</section>
-			<section class="spa_package">
-                <h4>CALMING GENTLE FACIAL</h4>
-    			<p>This organic, botanical facial uses a white clay, sandalwood and camellia-seed-oil face pack to calm and nurture sensitive or overexposed skin back to healthy balance and even tone. In addition, organic neroli and argan oil, black currant, shea butter and rose replenish the skin's moisture level.</p>
-                <h5>50 minutes &#8211; $125</h5>
-			</section>
-			<section class="spa_package">
-                <h4>PERFECT BALANCE FACIAL</h4>
-    			<p>Organic sage essential oil reduces excess oil while reviving the senses, and organic grape seeds' powerful antioxidants and essential fatty acids work to maintain your skin's natural elasticity for an ideal harmony of plant-derived benefits that is ideal for combination to oily skin.</p>
-                <h5>50 minutes &#8211; $125</h5>
-			</section>
-			<section class="spa_package">
-                <h4>CLARIFYING BACK TREATMENT</h4>
-    			<p>Restore balance, clarity and radiance to your skin with wild-crafted sandalwood, organic lemon and bitter orange to exfoliate, purify and decongest pores. Fair-trade certified algae extract and unrefined, sun-dried green and white clays help control excessive oil production and remove clogging impurities, while organic licorice extract calms and soothes.</p>
-                <h5>25 minutes &#8211; $75</h5>
-			</section>
-			<section class="spa_package">
-                <h4>HYDRATING EYE TREATMENT</h4>
-    			<p>Rehydrate and refresh the delicate skin around your eyes. This treatment reduces puffiness and addresses fine lines. It's a great addition to any facial.</p>
-                <h5>25 minutes &#8211; $45</h5>
-			</section>
+            <section class="spa_package">
+              <h4>In the Moment Custom</h4>
+              <p>Everyone’s skin is different. Let us customize your facial to provide your complexion with the most benefits.</p>
+              <h5>60 or 90 minutes &#8211;  $175/$250 w hand &amp; foot massage, second mask</h5>
+            </section>
+
+            <section class="spa_package">
+              <h4>Sacred Stone</h4>
+              <p>A custom cleansing facial is followed by a face-lifting massage using warm and cool stones to relieve tension.</p>
+              <h5>60 minutes &#8211;  $175</h5>
+            </section>
+
+            <section class="spa_package">
+              <h4>Modern Man</h4>
+              <p>Our skin care specialists will leave your skin purged of impurities and looking youthful.</p>
+              <h5>60 or 90 minutes &#8211;  $175/$250</h5>
+            </section>
+
+            <h2>Signature Facial Treatments</h2>
+
+            <section class="spa_package">
+              <h4>Modern Radiance</h4>
+              <p>Modern science and old world alchemy combine in highly evolved, organic ingredients, targeting specific concerns and bringing forth glowing health and long-term healing of your skin.</p>
+              <h5>60 minutes &#8211;  $200</h5>
+            </section>
+
+            <section class="spa_package">
+              <h4>Ultimate Indulgence</h4>
+              <p>In this intoxicating and highly addictive skincare ritual, active enzymes and pure aromatic plant oils are married to envelope and infuse the skin, creating a regenerative appearance and healthy glow.</p>
+              <h5>90 minutes &#8211;  $275</h5>
+            </section>
         </div>
     </div>
-    <div id="hands_feet_scalp" class="tab_data">
+    <div id="couples" class="tab_data">
         <div class="tab_data_inner">
-    		<p>Your spa treatment wouldn't be complete without taking care of those two hardworking parts of our body: the hands and feet. Trust us, they will thank you for the bliss they feel after any one of our "only at Travaasa" treatments.</p>
+    		  <h2><em><span style="font-weight:normal; font-family: adobe caslon pro, garamond, georgia, serif; text-transform:none;">featuring</em> The Couple's Suite</h2>
+
+            <img src="http://static.travaasa.com/assets/images/gallery/austin/austin-spa-couples-courtyard-02-1440.jpg" width="600">
+            <section class="spa_package">
+                <p>Relax in tandem inside our retreat-within-a-retreat Couple’s Suite, complete with private steam room, couple’s shower, private outdoor courtyard with day bed lounge and secluded vitality pool.</p>
+            </section>
+
+
+
+            <section class="spa_package">
+                <h4>Couple's Escape</h4>
+                <p>Also known as the "I don't wanna go home." <br /><em>Package includes:</em></br>
+                <ul>
+                  <li>Two 60min Swedish Massages</li>
+                  <li>Two 60min Travaasa Custom Facials</li>
+                  <li>Additional 60min in private Couples’ Suite</li>
+                  <li>Champagne &amp; strawberries</li>
+                </ul>
+                <h5>3 hours &#8211; $800</h5>
+            </section>
+
+            <section class="spa_package">
+                <h4>Couple's Soak</h4>
+                <p>Soak, steam and relax either before or after your individual treatments in the privacy of the Couple’s Suite.</p>
+                <h5>$70 per 25 minutes</h5>
+            </section>
+
+        <!--<p>Your spa treatment wouldn't be complete without taking care of those two hardworking parts of our body: the hands and feet. Trust us, they will thank you for the bliss they feel after any one of our "only at Travaasa" treatments.</p>
             <section class="spa_package">
                 <h4>PEPPERMINT ZENERGY FOOT CARE</h4>
     			      <p>This treatment starts with exfoliation and then smooths and softens with organic sugar and grapefruit, while the power of peppermint energizes and revitalizes.</p>
@@ -267,95 +255,89 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h4>NURTURING SCALP TREATMENT</h4>
                 <p>This relaxing treatment begins with an aromatic hot-towel compress over the scalp and hair to calm and soothe. A moisture-rich elixir of pure essential oils are then gently massaged into your head and neck. You are welcome to leave the oils in for a few hours, or shower off after your treatment. Your hair, scalp and neck will thank you. Choose a blend that suits you – Stimulating, a stimulating blend of rosemary and lavender or Soothing, a soothing blend of sandalwood and lavender.</p>
                 <h5>25 minutes &#8211; $50</h5>
-            </section>
+            </section>-->
         </div>
     </div>
     <div id="massage_therapy" class="tab_data">
         <div class="tab_data_inner">
-
+          <h2>Massages</h2>
 
         	<p>Our massages run the gamut from energizing to deeply calming. No matter what your body craves, we have a special touch just for you.</p>
 
-            <section class="spa_package">
-                <h4>Watsu&#174; Aquatic Massage</h4>
-                <p>Watsu uses the warmth and buoyancy of 96-degree water and a combination of unique stretches and natural movements in a secluded pool to help improve circulation, relieve nerve pressure and lessen stress, arthritis, anxiety and chronic pain. Our certified Watsu practitioners will fit the 60-minute treatment to your liking and body’s needs.</p>
-                <h5>50 minutes &#8211; $140</h5>
-            </section>
-            <section class="spa_package">
-                <h4>TRAVAASA CUSTOM MASSAGE</h4>
-    			<p>Let our highly skilled massage therapists create the perfect blend of massage techniques to suite your needs. Customize your experience even further by choosing from the following organic aromatherapy massage oils: Balancing, Energizing, Relaxing, Romance, Warming, Fitness or Unscented Pure Jojoba.</p>
-                <h5>50 minutes &#8211; $140<br>
-				80 minutes &#8211; $190</h5>
-			</section>
-            <section class="spa_package">
-                <h4>HILL COUNTRY HONEY BEE MASSAGE AND BODY TREATMENT</h4>
-    			<p>All stress and tension will melt away with this blissful organic massage and body treatment. Your skin will be nourished, moisturized and exfoliated with organic honey, ginger and rosemary. Tension, sore muscles and stress will float away with our soothing bee propolis compress, followed by a myofacial massage using warm organic honey and ginger massage oil. A nourishing facial mask of royal jelly, bee propolis, jojoba and avacado oils completes this soothing and highly effective treatment.</p>
-            	<p class="description">A portion of the proceeds from this treatment will be donated to the Texas Beekeepers Association.</p>
-                <h5>80 minutes &#8211; $195</h5>
-			</section>
-            <section class="spa_package">
-                <h4> DETOXIFYING JUNIPER, OLIVE STONE EXFOLIATION &amp; MASSAGE</h4>
-    			<p>This treatment starts with a gentle, mineral-rich sea salt and crushed olive stone body polish to exfoliate, stimulate and cleanse the skin. Organic jojoba, almond and apricot kernel oils are mixed with organic juniper and cypress to detoxify and restore healthy tone and texture.</p>
-                <h5>80 minutes &#8211; $180</h5>
-			</section>
-            <section class="spa_package">
-                <h4>THE ENERGETIC EDGE</h4>
-    			<p>This is an intensive therapy designed to target the muscle groups you demand maximum output from. Organic sun-infused oils, homeopathic preparations and enzyme therapy will bathe and penetrate during this therapeutic massage.</p>
-                <h5>80 minutes &#8211;  $185</h5>
-			</section>
-            <section class="spa_package">
-                <h4>DEEP SLEEP AROMATHERAPY MASSAGE</h4>
-    			<p>Melt away the stress of the day with a gentle Swedish massage enhanced by <!--hot stones,-->soothing foot wraps, an herbal eye pack and relaxing herbal tea. Sweet dreams!</p>
-                <h5>80 minutes &#8211; $180</h5>
-			</section>
-            <section class="spa_package">
-                <h4>DEEP TISSUE MASSAGE</h4>
-    			<p>This is the massage for you if you want to release muscle tension, realign your posture and restore proper range of motion.</p>
-                <h5>50 or 80 minutes &#8211;  $135/$185</h5>
-			</section>
-            <section class="spa_package">
-                <h4>THAI MASSAGE</h4>
-    			<p>A dynamic massage using yoga stretches, compression, joint manipulation and pressure points. Please wear comfortable clothing.</p>
-                <h5>50 or 80 minutes &#8211;  $135/$185</h5>
-			</section>
-            <section class="spa_package">
-                <h4>SHIATSU</h4>
-    			<p>Based on centuries-old Eastern techniques, acupressure is combined with stretches, weight and leverage to alleviate fatigue and pain and make your body feel alive and energized like never before. Please wear comfortable clothing.</p>
-                <h5>50 or 80 minutes &#8211;  $135/$185</h5>
-			</section>
-            <section class="spa_package">
-                <h4>SACRED STONES MASSAGE</h4>
-    			<p>We use a variety of massage techniques with heated basalt stones to invite deep relaxation and cool marble stones to stimulate your immune system and soothe inflammation.</p>
-                <h5>50 or 80 minutes &#8211;  $135/$185</h5>
-			</section>
-            <section class="spa_package">
-                <h4>SWEDISH MASSAGE</h4>
-    			<p>This deeply relaxing massage uses long, flowing strokes to help reduce pain and stress, ease stiffness and aid in circulation.</p>
-                <h5>50 or 80 minutes &#8211;  $125/$170</h5>
-			</section>
-            <section class="spa_package">
-                <h4>PRENATAL MASSAGE</h4>
-    			<p>A massage that reduces fluid retention, increases muscle tone and soothes a sore back and neck. It's perfect for all stages of pregnancy, even the last month.</p>
-                <h5>50 or 80 minutes &#8211;  $125/$170</h5>
-			</section>
+          <section class="spa_package">
+            <h4>Swedish</h4>
+            <p>Long, flowing strokes reduce stress, ease muscle stiffness 
+          and aid in circulation.
+            <h5>60 or 90 minutes &#8211;  $175/$250</h5>
+          </section>
 
-            <h2>Signature Massages</h2>
+          <section class="spa_package">
+            <h4>Deep Tissue</h4>
+            <p>Promotes the release of tension, posture realignment and proper range of motion.</p>
+            <h5>60 or 90 minutes &#8211;  $175/$250</h5>
+          </section>
 
-            <section class="spa_package">
-                <h4>ON THE ROAD AGAIN MASSAGE</h4>
-    			<p>Inspired by Willie Nelson, this custom massage uses hemp oil with essential oils of orange and patchouli to soothe the road-weary soul.</p>
-                <h5>50 minutes &#8211;  $135 </h5>
-			</section>
-            <section class="spa_package">
-                <h4>THE ROSE MASSAGE</h4>
-    			<p>Inspired by Janis Joplin, this custom massage uses organic rose oil to uplift your spirits and allay aches and pains. Tie-dyed sheets round out the experience.</p>
-                <h5>50 minutes &#8211;  $135 </h5>
-			</section>
-            <section class="spa_package">
-                <h4>COUPLES "DOUBLE TROUBLE" MASSAGE</h4>
-    			<p>Inspired by Stevie Ray Vaughn, this blues-influenced experience features blue cypress, agave and sandalwood massage oil. Relax and enjoy with a partner or friend.</p>
-                <h5>50 minutes &#8211;  $135  per person</h5>
-			</section>
+          <section class="spa_package">
+            <h4>Thai</h4>
+            <p>Utilizes stretches, compression, joint manipulation and pressure points. Performed fully clothed on a bodywork floormat.</p>
+            <h5>60 or 90 minutes &#8211;  $175/$250</h5>
+          </section>
+
+          <section class="spa_package">
+            <h4>Shiatsu</h4>
+            <p>Accupressure and assisted stretching alleive fatigue and pain. Performed fully clothed on a bodywork floormat.</p>
+            <h5>60 or 90 minutes &#8211;  $175/$250</h5>
+          </section>
+
+          <section class="spa_package">
+            <h4>Enlighten Me (head, neck, shoulders &amp; feet)</h4>
+            <p>Special attention is paid to areas that hold a great amount of tension.</p>
+            <h5>60 minutes &#8211;  $175</h5>
+          </section>
+
+          <section class="spa_package">
+            <h4>Nurturing Prenatal</h4>
+            <p>Allow our experienced massage therapists to ease any discomfort you may be experiencing by reducing fluid retention, increasing muscle tone and inducing relaxation. Perfect for all stages of pregnancy.</p>
+            <h5>60 minutes &#8211;  $175</h5>
+          </section>
+
+          <h2>Signature Massages</h2>
+
+          <section class="spa_package">
+            <h4>Travaasa Custom</h4>
+            <p>Let our highly skilled massage therapists create the perfect blend of massage techniques to suit your needs.</p>
+            <h5>60 or 90 minutes &#8211;  $200/$275</h5>
+          </section>
+
+          <section class="spa_package">
+            <h4>Sacred Stone Massage</h4>
+            <p>Combining the soothing feel of a Swedish massage with the therapeutics of Deep Tissue, this treatment uses heated basalt stones to invite deep relaxation and cool marble stones to stimulate your immune system and soothe inflammation.</p>
+            <h5>90 minutes &#8211;  $275</h5>
+          </section>
+
+          <section class="spa_package">
+            <h4>Therapeutic Muscle Relief</h4>
+            <p>An intensive therapy designed to target the muscle groups you demand maximum output from. Hot towels steeped in an herbal blend and organic massage balm infused with essential oils penetrate and soothe during this therapeutic massage.</p>
+            <h5>90 minutes &#8211;  $275</h5>
+          </section>
+
+          <section class="spa_package">
+            <h4>Grounding Birchwood Sticks</h4>
+            <p>This treatment uses smooth sticks from the Birchwood tree, long a symbol of renewal. Unique massage techniques release tension, increase range of motion and induce relaxation. You will leave this massage feeling restored for a new day.</p>
+            <h5>90 minutes &#8211;  $275</h5>
+          </section>
+
+          <section class="spa_package">
+            <h4>Blissful Relaxation</h4>
+            <p>Melt away the stress of the day with a relaxing Swedish massage enhanced with bliss inducing aromatherapy, hot stones and a relaxing herbal tea.</p>
+            <h5>90 minutes &#8211;  $275</h5>
+          </section>
+
+          <section class="spa_package">
+            <h4>Watsu Aquatic Massage</h4>
+            <p>Float and move gently through 96°F water as one of our massage therapists supports your weight. Watsu’s gentle and deep stretches take pressure off joints, and frees the spine for greater movement and tension relief.</p>
+            <h5>60 minutes &#8211;  $200</h5>
+          </section> 
         </div>
     </div>
     <div id="waxing" class="tab_data">
@@ -363,69 +345,69 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
         	<h2>Waxing</h2>
             <section class="spa_package">
                 <h4>LIP</h4>
-                <h5>15 minutes &#8211;  $20</h5>
+                <h5>$30</h5>
 			</section>
             <section class="spa_package">
                 <h4>BROW</h4>
-                <h5>15 minutes &#8211;  $25</h5>
+                <h5>$35</h5>
 			</section>
             <section class="spa_package">
                 <h4>BROW &amp; SHAPE</h4>
-                <h5>15 minutes &#8211;  $35</h5>
+                <h5>$45</h5>
 			</section>
             <section class="spa_package">
                 <h4>CHIN</h4>
-                <h5>15 minutes &#8211;  $20</h5>
+                <h5>$30</h5>
 			</section>
             <section class="spa_package">
                 <h4>FACE</h4>
-                <h5>45 minutes &#8211;  $60</h5>
+                <h5>$75</h5>
 			</section>
             <section class="spa_package">
                 <h4>UNDERARM</h4>
-                <h5>30 minutes &#8211;  $30</h5>
+                <h5>$45</h5>
 			</section>
             <section class="spa_package">
                 <h4>BIKINI</h4>
-                <h5>30 minutes &#8211;  $45</h5>
+                <h5>$55</h5>
 			</section>
             <section class="spa_package">
                 <h4>HALF LEG</h4>
-                <h5>30 minutes &#8211;  $60</h5>
+                <h5>$75</h5>
 			</section>
             <section class="spa_package">
                 <h4>FULL LEG</h4>
-                <h5>60 minutes &#8211;  $95</h5>
+                <h5>115</h5>
 			</section>
             <section class="spa_package">
                 <h4>BACK</h4>
-                <h5>60 minutes &#8211;  $95</h5>
+                <h5>$115</h5>
 			</section>
             <section class="spa_package">
                 <h4>CHEST</h4>
-                <h5>60 minutes &#8211;  $95</h5>
+                <h5>$115</h5>
 			</section>
 
 
         	<h2>Lash &amp; Brow Tinting</h2>
             <section class="spa_package">
                 <h4>LASH DYE</h4>
-                <h5>15 minutes &#8211;  $30</h5>
+                <h5>$45</h5>
 			</section>
             <section class="spa_package">
                 <h4>BROW DYE</h4>
-                <h5>15 minutes &#8211;  $30</h5>
+                <h5>$40</h5>
 			</section>
             <section class="spa_package">
                 <h4>LASH DYE, BROW DYE &amp; BROW WAX</h4>
-                <h5>25 minutes &#8211;  $75</h5>
+                <h5>$90</h5>
 			</section>
         </div>
     </div>
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
 
-           <!--<a href="/spa-renovation"><img src="/assets/images/spa-reno-email.jpg".></a><br><br>-->
+           <!--<a href="/spa-renovation"><img src="http://static.travaasa.com/assets/images/spa-reno-email.jpg".></a><br><br>-->
             <!--<h2>SEASONAL TREATMENT</h2>
             <p>We’ve incorporated your favorite seasonal treats into Travaasa’s spa offerings. Your next treatment is sure to cheer you up and calm you down all at once.</p>
 
@@ -469,9 +451,27 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <h2>SPECIAL PACKAGES</h2>
             <p>For those who want the convenience of choosing a spa package, Travaasa offers several different options—including full- and half-day packages.</p>
             <section class="spa_package">
-                <h4>ULTIMATE BLISS FULL-DAY PACKAGE</h4>
-                <p>Experience bliss and total relaxation with a Full-Day Spa Package that will nurture your body from head to toe. It begins with an Ancient Purification Body Treatment, a Swedish Massage and Nurturing Scalp Treatment followed by a Vitamin C Bio-Energetic Healing Facial and Hydrating Eye Treatment. A healthy lunch at the Preserve Kitchen + Bar is included. Your day ends with a soothing tea served in a quiet corner of the spa. All gratuities are included; tax is additional.</p>
-                <h5>5 hours &#8211; $615 </h5>
+                <h4>Full-Day Escape</h4>
+                <p>Also known as the "I don't wanna go home." <br /><em>Package includes:</em></br>
+                <ul>
+                  <li>60min Hyrdrating Cocoon Body Treatment</li>
+                  <li>60min Travaasa Custom Massage</li>
+                  <li>60min “In the Moment” Facial</li>
+                  <li>25min Snap Manicure</li>
+                  <li>25min Tap Pedicure</li>
+                  <li>End the day with calming herbal tea served in one of our relaxing lounges.</li>
+                </ul>
+                <h5>4 hours &#8211; $650</h5>
+            </section>
+
+            <section class="spa_package">
+                <h4>Half-Day Escape</h4>
+                <p>A decidedly glass-half-full experience. <br /><em>Package includes:</em></br>
+                <ul>
+                  <li>90min Detoxifying Exfoliant w/ massage</li>
+                  <li>60min “In the Moment” Facial w/ hydrating eye renewal</li>
+                </ul>
+                <h5>2.5 hours &#8211; $400</h5>
             </section>
             <!--<section class="spa_package">
                 <h4>SERENE &amp; CALM HALF-DAY PACKAGE</h4>
@@ -480,10 +480,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             </section>-->
             <section class="spa_package">
                 <h4>MEN'S "WHAT ALES YOU" PACKAGE</h4>
-                <p>Let your aches and pains melt away like a Texas Sunset. This exclusive men's package begins with an Energetic Edge 80-minute massage followed by a Peppermint Zenergy Foot Treatment. End your experience with an organic Texas ale, included in the price. All gratuities are included; tax is additional.</p>
-                <h5>2 hours &#8211; $265 </h5>
+                <p>This exclusive men’s package begins with 90min Therapeutic Muscle Relief Massage followed by a Men’s Tap Pedicure and an organic, locally crafted Texas ale.</p>
+                <h5>2 hours &#8211; $325</h5>
             </section>
-    		<p class="description">All package gratuities are included; tax is additional.</p>
+    		    <p class="description">All package gratuities are included; tax is additional.</p>
+
         </div>
     </div>
     <div id="day_spa_packages" class="tab_data">
@@ -491,26 +492,39 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <h6>Not staying the night? When available, these packages allow you to experience Travaasa for the day.</h6>
 
             <section class="spa_package">
-                <h4>FULL DAY ESCAPE</h4>
-                <p>Discover all that Travaasa Austin has to offer through our experiential day package. It's our version of Choose Your Own Adventure – get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to the challenge course, and recharge with a healthy lunch. Offered from 9:00am until 5:00pm. Includes all on-property activities; use of the infinity pool; spa locker rooms; whirlpool; dry sauna; and one $125  spa credit. All gratuities are included; tax is additional.</p>
-                <h5>$229 </h5>
+                <h4>Choose Your Own Adventure</h4>
+                <p>Get your spa on, lounge at the infinity pool, and participate in any regularly scheduled activities ranging from yoga to foot care classes. Offered from 9:00 a.m. until 5:00 p.m.
+                <br /><em>Package includes:</em></br>
+                <ul>
+                  <li>One $175 spa credit</li>
+                  <li>Access to robust list of daily activities</li>
+                  <li>Use of the infinity pool</li>
+                  <li>Access to spa locker rooms, vitality pool and dry sauna</li>
+                </ul>
+                <h5>$275</h5>
             </section>
             <section class="spa_package">
-                <h4>TRAVAASA SPA</h4>
-                <p>Slip away to somewhere beautiful – treat yourself to the Travaasa Spa and get pampered with a $125  spa credit. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, dry sauna, and jealousy-inducing views from the infinity edge pool. All gratuities are included; tax is additional.</p>
-                <h5>Monday - Thursday $155; Friday - Sunday $175</h5>
-    </section>
+                <h4>Travaasa Spa</h4>
+                <p>Slip away to somewhere beautiful. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, dry sauna, and jealousy-inducing views from the infinity edge pool.
+                <br /><em>Package includes:</em></br>
+                <ul>
+                  <li>One $175 spa credit</li>
+                  <li>Use of the infinity pool</li>
+                  <li>Access to spa locker rooms, vitality pool and dry sauna</li>
+                </ul>
+                <h5>$200</h5>
+            </section>
     <p class="description">All package gratuities are included; tax is additional.</p>
         </div>
     </div>
     <div id="healing" class="tab_data">
         <div class="tab_data_inner">
         	<p>Focusing on the body, mind and spirit, our holistic healing offerings are designed to touch you deeply, both inside and out, giving you a complete experience of well-being.<p>
-            <section class="spa_package">
-                <h4>ENERGY BALANCING &amp; HEALING</h4>
-                <p>Experience the art of channeling energy to create a deep state of tranquility on both the physical and spiritual planes. Explore a number of techniques such as Reiki, healing touch, polarity therapy, Pranic Healing and Chakra clearing to balance and heal your internal energy. Each session is unique and tailored to the individual's needs.</p>
-                <h5>50 or 80 minutes &#8211; $125/$170</h5>
-            </section>
+          <section class="spa_package">
+            <h4>Energy Healing &amp; Balancing</h4>
+            <p>Explore the art of channeling energy to create a deep state of tranquility. Each session is unique and tailored to your needs.</p>
+            <h5>60 or 90 minutes &#8211;  $175/$250</h5>
+          </section>
         </div>
     </div>
     <div id="nails" class="tab_data">
@@ -520,97 +534,101 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <h2>MANICURE</h2>
 
             <section class="spa_package">
-                <h4>AU NATUREL HANDS</h4>
-                <p>Clean, shape and buff.</p>
-                <h5>25 minutes &#8211;  $35</h5>
+                <h4>Custom Aromatherapy</h4>
+                <p>Let our highly skilled massage therapists create the perfect blend of massage techniques to suite your needs. Customize your experience even further by choosing from a select array of organic massage oils made on our very own farm.</p>
+                <h5>50 minutes &#8211;  $90</h5>
             </section>
 
             <section class="spa_package">
                 <h4>SNAP</h4>
                 <p>Clean, shape, light massage and polish.</p>
-                <h5>25 minutes &#8211; $40</h5>
+                <h5>25 minutes &#8211; $50</h5>
             </section>
 
             <section class="spa_package">
-                <h4>ORGANIC LAVENDER & VANILLA MANICURE</h4>
-                <p>Exfoliate and hydrate with organic lavender and vanilla<!--, followed by warm stone massage-->. Polish or buff.</p>
-                <h5>50 minutes &#8211; $70</h5>
+                <h4>French Polish Change</h4>
+                <h5>$35</h5>
             </section>
 
             <section class="spa_package">
-                <h4>MEDITATION MANICURE</h4>
-                <p>Experience Zen with this calming and hydrating manicure. Using essential oils of jasmine and frankincense, vegan body butter, masque,<!-- warm stone arm and hand massage,--> your hands will be soft and supple. Polish or buff.</p>
-                <h5>50 minutes &#8211; $70</h5>
+                <h4>Polish Change</h4>
+                <h5>$25</h5>
             </section>
 
             <section class="spa_package">
-                <h4>CLEAN GEL MANICURE</h4>
-                <p>Vitamin-infused gel lacquer is applied to the natural nail. Final result is an effortlessly durable manicure that delivers up to two weeks of chip-free color. Clean, hydrate, shape and polish.</p>
-                <h5>50 minutes &#8211; $65</h5>
+                <h4>Gel Removal</h4>
+                <h5>$20</h5>
             </section>
 
             <h2>PEDICURE</h2>
 
             <section class="spa_package">
-                <h4>AU NATUREL FEET</h4>
-                <p>Clean, shape and buff.</p>
-                <h5>25 minutes &#8211; $40</h5>
+                <h4>Custom Aromatherapy</h4>
+                <p>Let our highly skilled massage therapists create the perfect blend of massage techniques to suite your needs. Customize your experience even further by choosing from a select array of organic massage oils made on our very own farm.</p>
+                <h5>50/80 minutes &#8211;  $90/$115</h5>
             </section>
 
             <section class="spa_package">
-                <h4>PEPPERMINT ZENERGY PEDICURE</h4>
+                <h4>Tap</h4>
                 <p>Revitalize tired and achy feet with essential oils of peppermint and grapefruit followed by an organic sugar scrub to exfoliate. Finish with peppermint foot cream to soften and hydrate, <!--Warm stone massage-->followed by polish or buff.</p>
-                <h5>50 minutes &#8211; $75</h5>
+                <h5>25 minutes &#8211; $75, Men's $55</h5>
             </section>
 
             <section class="spa_package">
-                <h4>ORGANIC COFFEE PEDICURE</h4>
-                <p>Herbs and homeopathics, relied on for centuries to detoxify and relieve acute and chronic pain, are used in this treatment to soothe overworked feet. Perfect if you are an active and sports-minded individual. <!--Warm stone massage-->Finished with a polish or buff.</p>
-                <h5>50 minutes &#8211; $75</h5>
+                <h4>French Polish Change</h4>
+                <h5>$40</h5>
             </section>
 
             <section class="spa_package">
-                <h4>THE JOURNEY</h4>
-                <p>Start your journey by selecting your intent: relaxation–geranium; love–jasmine; introspection–frankincense; energy–ginger. A soothing sugar scrub is followed by a masque, warm oil <!--and stone-->massage. Polish or buff.</p>
-                <h5>80 minutes &#8211; $90</h5>
+                <h4>Polish Change</h4>
+                <h5>$25</h5>
             </section>
 
-            <h2>NAIL UPGRADES &amp; ADD-ONS</h2>
+            <h2>Enhancements</h2>
 
             <section class="spa_package">
-                <h4>FRENCH POLISH ADD-ON</h4>
-                <h5>10 minutes &#8211; $10</h5>
+                <h4>Hydrating Eye Renewal</h4>
+                <h5>$25</h5>
             </section>
 
              <section class="spa_package">
-                <h4>FRENCH POLISH CHANGE</h4>
-                <h5>25 minutes &#8211; $30</h5>
+                <h4>Nourishing Scalp Massage</h4>
+                <h5>$25</h5>
             </section>
 
              <section class="spa_package">
-                <h4>POLISH CHANGE</h4>
-                <h5>15 minutes &#8211; $20</h5>
+                <h4>Birchwood Sticks</h4>
+                <h5>$20</h5>
+            </section>
+             
+             <section class="spa_package">
+                <h4>Cupping</h4>
+                <h5>$20</h5>
             </section>
 
              <section class="spa_package">
-                <h4>GEL POLISH REMOVAL</h4>
-                <h5>20 minutes &#8211; $15</h5>
+                <h4>Dry Brushing</h4>
+                <h5>$20</h5>
             </section>
 
              <section class="spa_package">
-                <h4>MEN'S POLISH</h4>
-                <p>Black, navy blue or racer green, with any polish manicure or pedicure.</p>
-                <h5>$10 add-on to Au Naturel</h5>
+                <h4>Hot &amp; Cold Stones</h4>
+                <h5>$20</h5>
             </section>
 
-            <h2>FOR OFF-PROPERTY GUESTS</h2>
+             <section class="spa_package">
+                <h4>Hot Pack</h4>
+                <h5>$10</h5>
+            </section>
+
+            <!--<h2>FOR OFF-PROPERTY GUESTS</h2>
 
              <section class="spa_package">
                 <h4>NAIL THE DAY*</h4>
                 <p>Offered from 9 a.m. to 5 p.m., this inclusive day allows you to get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to tai chi, and recharge with a healthy lunch. Experience our Snap Manicure and choose from one of three $75 pedicures. 18% gratuity included in package price on nail services and lunch.</p>
                 <h5>$218</h5>
              </section>
-             <p class="description">Upgrades and add-ons not included. 18% gratuity not included unless stated. Tax on lunch additional.</p>
+             <p class="description">Upgrades and add-ons not included. 18% gratuity not included unless stated. Tax on lunch additional.</p>-->
         </div>
     </div>
     <div id="reservation_information" class="tab_data">
@@ -626,7 +644,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
 <li>Please arrive a minimum of 30 minutes prior to your treatment time to begin the relaxation process, and allow time to change into your spa robe and slippers. Late arrivals may receive a reduced treatment time.</li>
 <li>Please turn off all cell phones during your spa visit.</li>
 <li>Travaasa does not accept children under the age of 16.</li>
-<li>For your convenience, an 18% gratuity will be added to each spa service.</li>
+<li>Gratuity is included in all spa services. You may choose to add additional gratuity if you choose.</li>
 </ul></div>
 	</div>
   </section>
