@@ -35,10 +35,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
           <h1>EXPERIENCE SCHEDULE</h1>
           <p>This schedule is subject to change. View our selection of <a href="/austin/austin-experiences/austin-private-classes.php">private classes</a>.</p>
-          <video style="width:100% !important; height:auto !important;" preload autoplay loop>
+          <!--<video style="width:100% !important; height:auto !important;" preload autoplay loop>
           <source src="http://static.travaasa.com/assets/images/baby-chicks.mp4" type="video/mp4">
           <source src="http://static.travaasa.com/assets/images/baby-chicks.webm" type="video/webm">
-          </video>
+          </video>-->
   </section>
   <section class="grey pad group">
       <p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=30.444271&lon=-97.864709&name=Travaasa Austin&color=#D7385E&font=Helvetica&units=us"> </iframe></p>

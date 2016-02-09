@@ -34,9 +34,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!--<div class="slide"><img data-original="/assets/images/placeholder_food_A1.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>DISH NAME GOES HERE / <span>SHORT DESCRIPTION HERE PLEFF LOREM IPSUM DOLOR SIT AMET</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/placeholder_food_A2.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>DISH NAME GOES HERE / <span>SHORT DESCRIPTION HERE PLEFF LOREM IPSUM DOLOR SIT AMET</span></h2></div></div>//-->
       <!--<div class="slide"><img data-original="/assets/images/feature_hana_1600x640_dining2.jpg" src="/assets/images/global/placeholder.gif" alt="The Preserve Kitchen + Bar at Travaasa Hana, Dining in Hana, Authentic Hawaiian Food"></div>-->
-      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_weddings_1600x640_01_bluff.jpg" src="/assets/images/global/placeholder.gif" alt="The Ocean Bluff"><div class="overlay-content-new"><h2>The Ocean Bluff / <span>Ceremony</span></h2></div></div>
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_weddings_1600x640_01_bluff.jpg" src="/assets/images/global/placeholder.gif" alt="The Ocean Bluff"><div class="overlay-content-new"><h2>The Ocean Lawn / <span>Ceremony</span></h2></div></div>
       <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_weddings_1600x640_03_reception.jpg" src="/assets/images/global/placeholder.gif" alt="Reception at The Preserve"><div class="overlay-content-new"><h2>The Preserve Kitchen + Bar / <span>Reception</span></h2></div></div>
-      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_weddings_1600x640_04_tent.jpg" src="/assets/images/global/placeholder.gif" alt="Plantation Guest House Reception"><div class="overlay-content-new"><h2>Plantation Guest House / <span>Reception</span></h2></div></div>
+      <div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_weddings_1600x640_02_hands.jpg" src="/assets/images/global/placeholder.gif" alt="Ceremony at Travaasa"><div class="overlay-content-new"><!--<h2>The Ocean Lawn / <span>Ceremony</span></h2>--></div></div>
+      <!--<div class="slide"><img data-original="http://static.travaasa.com/assets/images/feature_hana_weddings_1600x640_04_tent.jpg" src="/assets/images/global/placeholder.gif" alt="Plantation Guest House Reception"><div class="overlay-content-new"><h2>Plantation Guest House / <span>Reception</span></h2></div></div>-->
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -46,10 +47,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
       <div class="col span_8_of_9">
           <h1>WEDDINGS AT TRAVAASA HANA, MAUI</h1>
+
           <p>Let the lush beauty of Maui's landscape inspire your tropical dream wedding. Whether you envision an intimate ocean bluff ceremony or a grand Lu’au lasting late into the night, Travaasa Hāna provides the perfect scene for your life-changing union. <br /><br />
           Four outdoor ceremony locations and eight indoor or outdoor reception locations offer the perfect venue for weddings of any size. Customize your dream wedding with add ons such as a tropical flower crown, hula dancers, a ukulele musician and other options.<br /><br />
           What better way to relax and prepare for the big day than at our <a href="/hana/hana-the-spa-at-travaasa-hana/" target="_self">award-winning spa</a> with your bridal party?<br /><br />
           Heavenly Hāna is the perfect location for your Island wedding dreams to come true.</p>
+          <!--<a href="###"><img class="###" title="Travaasa Hana Wedding Guide" src="###"></a>-->
+          <iframe src="https://player.vimeo.com/video/47562264?color=c76f74&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          <a href="http://travaasa.com/pdf/Travaasa-Hana-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Hana Wedding Guide" style="float:left; padding: 0 15px 15px 0;" class="videobox"  width="200" height="259" src="http://static.travaasa.com/assets/images/hana-wedding-guide-thumb.jpg"></a>
 
       </div>
   </section>
