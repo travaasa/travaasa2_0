@@ -58,7 +58,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<div class="tabbed_group">
         	<h5>For guests staying at Travaasa Hana</h5>
             <ul class="tabbed_list">
-                <li id="tab_9"><a href="#seasonal_treatments">Seasonal Treatments</a></li>
+                <!--<li id="tab_9"><a href="#seasonal_treatments">Seasonal Treatments</a></li>-->
                 <li id="tab_4"><a href="#massage_therapy">Massages</a></li>
                 <li id="tab_1"><a href="#body_treatments">Body Treatments</a></li>
                 <li id="tab_2"><a href="#facials">Facials</a></li>
@@ -79,7 +79,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </ul>
          </div>
     </div>
-    <div id="seasonal_treatments" class="tab_data">
+    <!--<div id="seasonal_treatments" class="tab_data">
         <div class="tab_data_inner">
 
             <h2>SEASONAL TREATMENTS</h2>
@@ -91,24 +91,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               </section>
             <p class="description">18% gratuity and tax not included.</p>
         </div>
-    </div>
+    </div>-->
     <div id="body_treatments" class="tab_data">
         <div class="tab_data_inner">
             <h2>BODY TREATMENTS</h2>
             <p>Body treatments at Travaasa Hana are designed to energize or soothe, and at Travaasa Hana we have a special name for the special herbal treatments we use: Pala‘au Kino (heal the body with herbs).</p>
-            <section class="spa_package">
+            <!--<section class="spa_package">
                 <h4>Ho'ala ("To Arise") Refining Clay Body Wrap</h4>
     <p>Unrefined, sun-dried pink clay blended with wild-crafted, organic myrtle, sandalwood, lemon, sea algae and wild rose defines this deeply cleansing, purifying and toning experience. Witch hazel, organic fig and rosemary help balance and clear the mind while reducing stress and tension trapped in the body. Clay has been used throughout the ages for its healing, cooling, anti-inflammatory and regenerative properties. This treatment includes a gentle exfoliation, comforting clay body wrap and Harmonizing Ear &amp; Scalp massage. Healing botanicals of organic cypress, juniper and hyssop also help cleanse, tone, moisturize and deeply stimulate your skin.</p>
                 <h5>90 minutes – $175</h5>
-			</section>
+			</section>-->
             <section class="spa_package">
                 <h4>Ho'ola hou ("To Restore Life") Aromatherapy Massage and Warm Body Wrap</h4>
                 <p>Enjoy the calming and genuine healing properties of pure organic essential oils. This 90-minute customized massage soothes the soul with your choice of Relaxing, Balancing, Warming, Energizing or Fitness premium massage oil blends. Your massage is followed with a warm body wrap to allow this pure oil blend to deeply penetrate your skin. During the wrap, a Harmonizing Ear &amp; Scalp Massage is performed to usher your body and psyche into a state of total relaxation and renewal.</p>
                 <h5>90 minutes – $185</h5>
 			</section>
             <section class="spa_package">
-                <h4>Ho'opa'a ("To Complete") Detoxifying Body Massage &amp; Algae Wrap</h4>
-                <p>Unrefined, sun-dried green clay blended with the purest spirulina defines this experience. Finding balance and clarity using organic myrtle, lemon and juniper combined with sandalwood and olive stone to regenerate, oxygenate and clarify your skin. Skin will be restored, rehydrated and protected by our organic myrtle, cypress, hyssop, juniper, rosemary and other healing plants and flowers, leaving it feeling pure, clean, firm and smooth. A Swedish massage finishes this age-defying treatment.</p>
+                <h4>Spirulina Body Wrap &amp; Massage</h4>
+                <p>Enjoy it all with a full body sea salt exfoliation, which will prepare your skin for an application of nutrient and vitamin rich Hawaiian Spirulina, helping to cleanse, detoxify and reduce water retention. Melt further into relaxation with a full body massage, leaving you feeling refreshed and renewed with the tropical essence of Hana surrounding you.</p>
                 <h5>90 minutes – $185</h5>
 			</section>
 
