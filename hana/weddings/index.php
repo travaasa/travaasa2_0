@@ -53,8 +53,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           What better way to relax and prepare for the big day than at our <a href="/hana/hana-the-spa-at-travaasa-hana/" target="_self">award-winning spa</a> with your bridal party?<br /><br />
           Heavenly Hāna is the perfect location for your Island wedding dreams to come true.</p>
           <!--<a href="###"><img class="###" title="Travaasa Hana Wedding Guide" src="###"></a>-->
-          <iframe src="https://player.vimeo.com/video/47562264?color=c76f74&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          <!--<iframe src="https://player.vimeo.com/video/47562264?color=c76f74&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
           <a href="http://travaasa.com/pdf/Travaasa-Hana-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Hana Wedding Guide" style="float:left; margin: 0 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="200" height="259" src="http://static.travaasa.com/assets/images/hana-wedding-guide-thumb.jpg"></a>
+          <div class="embed-container">
+              <iframe
+              src="http://player.vimeo.com/video/47562264?color=62cadf&title=0&amp;byline=0&amp;portrait=0"
+              frameborder="0"
+              webkitAllowFullScreen mozallowfullscreen allowFullScreen>
+              </iframe>
+          </div>
 
       </div>
   </section>
