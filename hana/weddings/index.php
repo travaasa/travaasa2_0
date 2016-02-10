@@ -45,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-      <div class="col span_8_of_9">
+      <div class="col span_6_of_9">
           <h1>WEDDINGS AT TRAVAASA HANA, MAUI</h1>
 
           <p>Let the lush beauty of Maui's landscape inspire your tropical dream wedding. Whether you envision an intimate ocean bluff ceremony or a grand Lu’au lasting late into the night, Travaasa Hāna provides the perfect scene for your life-changing union. <br /><br />
@@ -54,6 +54,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           Heavenly Hāna is the perfect location for your Island wedding dreams to come true.</p>
           <!--<a href="###"><img class="###" title="Travaasa Hana Wedding Guide" src="###"></a>-->
           <!--<iframe src="https://player.vimeo.com/video/47562264?color=c76f74&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+          </div>
+          <div class="col span_3_of_9">
+          <p>INTERESTED IN WEDDINGS?</p>
+          <h2 class="big">877-648-0782</h2>
+          <p>or <a href="mailto:sales@travaasa.com" target="_blank">sales@travaasa.com</a><br><br>
+          <a class="btn-jorah" href="https://travaasa.wufoo.com/forms/request-for-proposal/" target="_blank">REQUEST FOR PROPOSAL</a></p>
+          </div>
+          <div class="col span_8_of_9">
           <a href="http://travaasa.com/pdf/Travaasa-Hana-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Hana Wedding Guide" style="float:left; margin: 0 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="200" height="259" src="http://static.travaasa.com/assets/images/hana-wedding-guide-thumb.jpg"></a>
           <div class="embed-container">
               <iframe
