@@ -99,17 +99,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--<section class="spa_package">
                 <h4>Ho'ala ("To Arise") Refining Clay Body Wrap</h4>
     <p>Unrefined, sun-dried pink clay blended with wild-crafted, organic myrtle, sandalwood, lemon, sea algae and wild rose defines this deeply cleansing, purifying and toning experience. Witch hazel, organic fig and rosemary help balance and clear the mind while reducing stress and tension trapped in the body. Clay has been used throughout the ages for its healing, cooling, anti-inflammatory and regenerative properties. This treatment includes a gentle exfoliation, comforting clay body wrap and Harmonizing Ear &amp; Scalp massage. Healing botanicals of organic cypress, juniper and hyssop also help cleanse, tone, moisturize and deeply stimulate your skin.</p>
-                <h5>90 minutes – $175</h5>
+                <h5>90 minutes &#8211; $175</h5>
 			</section>-->
             <section class="spa_package">
                 <h4>Ho'ola hou ("To Restore Life") Aromatherapy Massage and Warm Body Wrap</h4>
                 <p>Enjoy the calming and genuine healing properties of pure organic essential oils. This 90-minute customized massage soothes the soul with your choice of Relaxing, Balancing, Warming, Energizing or Fitness premium massage oil blends. Your massage is followed with a warm body wrap to allow this pure oil blend to deeply penetrate your skin. During the wrap, a Harmonizing Ear &amp; Scalp Massage is performed to usher your body and psyche into a state of total relaxation and renewal.</p>
-                <h5>90 minutes – $185</h5>
+                <h5>90 minutes &#8211; $185</h5>
 			</section>
             <section class="spa_package">
                 <h4>Spirulina Body Wrap &amp; Massage</h4>
                 <p>Enjoy it all with a full body sea salt exfoliation, which will prepare your skin for an application of nutrient and vitamin rich Hawaiian Spirulina, helping to cleanse, detoxify and reduce water retention. Melt further into relaxation with a full body massage, leaving you feeling refreshed and renewed with the tropical essence of Hana surrounding you.</p>
-                <h5>90 minutes – $185</h5>
+                <h5>90 minutes &#8211; $185</h5>
 			</section>
 
             <h2>Add-On Treatments</h2>
@@ -122,12 +122,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <section class="spa_package">
                 <h4>‘Anainai Pa'akai ("To Scrub with Salt") Sea Mineral Salt Scrub</h4>
                 <p>A perfect add-on to any massage. Unrefined, mineral rich sea salt will gently buff away dry flaky skin, leaving your body silky smooth.</p>
-                <h5>30 minutes – $65</h5>
+                <h5>30 minutes &#8211; $65</h5>
 			</section>
             <section class="spa_package">
                 <h4>‘Anainai ‘Ili ("To Scrub the Skin") Dry Brush Treatment</h4>
                 <p>Stimulate the lymphatic system with this massage add-on. Dry skin will be brushed off, while stimulating the lymphatic system to help create perfect balance.</p>
-                <h5>30 minutes – $50</h5>
+                <h5>30 minutes &#8211; $50</h5>
 			</section>
     	</div>
     </div>
@@ -138,42 +138,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <section class="spa_package">
                 <h4>MOST PURE FACIAL</h4>
     <p>Throughout time, blue lotus has symbolized purity of mind and body. Blue lotus, and other healing plants, seed oils and flowers such as jasmine, papaya, coco bean, green tea and green algae inspired this balancing, clarifying and restorative treatment. Indian Rassoul clay is incorporated for its deep-cleansing and healing properties. Our signature Vedic Marma Cleansing Technique, combined with wild-crafted bamboo, tiger grass and ginger, provides essential nutrition and replenishes amino acids to purify the skin as it restores balance. The rare blue lotus provides essential nutrition for a pure, healthy complexion. Great for all skin types.</p>
-                <h5>90 minutes – $195</h5>
+                <h5>90 minutes &#8211; $195</h5>
 			</section>
             <section class="spa_package">
                 <h4>OIL CONTROL FACIAL</h4>
     <p>Restore balance, clarity and radiance to skin inspired by the healing plants and flowers of the Islands. Fair-trade rice germ, blue lotus, bamboo, algae extract and green and white clays help control excessive oil production and remove clogging impurities from skin. Wild-crafted tiger grass, tonka, macadamia and organic aloe, ginger and lemon help heal blemishes and promote clear skin. Organic green and white teas provide antioxidant protection, soothe skin and even skin tone for a pure, clear and healthy complexion. Perfect for oily and combination skin.</p>
-                <h5>60 minutes – $135</h5>
+                <h5>60 minutes &#8211; $135</h5>
 			</section>
             <section class="spa_package">
                 <h4>DEEP MOISTURIZING FACIAL</h4>
     <p>Quench dry, dehydrated skin with our organic, fair-trade cultivated and custom-distilled jasmine, along with organic papaya, jojoba and shea butter. Soothing fruits and healing herbs will restore lasting hydration and elasticity while protecting skin from free radical damage. Fine lines and uneven skin texture are smoothed by clove bud, lychee, rosewood and turmeric. The healing power of jasmine and other South Pacific plant ingredients replenish and sustain the skin's moisture and pono (balance) for a silky smooth texture and healthy, even tone. Essential for dehydrated, tired or jetlagged skin.</p>
-                <h5>60 minutes – $135</h5>
+                <h5>60 minutes &#8211; $135</h5>
 			</section>
             <section class="spa_package">
                 <h4>FIRMING FACIAL</h4>
     <p>Nourish, rejuvenate and firm your skin with this luxurious and highly effective facial. A combination of organic jasmine, avocado, macadamia nut and papaya gently hydrates. The perfect blend of organic cocoa bean, acerola, damask rose, sandalwood and hibiscus rejuvenates and brightens your skin. Restorative fruits and plants such as andiroba, neroli and buriti will smooth fine lines and renew elasticity of the skin. Sun-dried sea algae, organic aloe, green coffee oil and licorice root trap and remove impurities, leaving your skin firmer, brighter with a more radiant and youthful skin tone.</p>
-                <h5>60 minutes – $135</h5>
+                <h5>60 minutes &#8211; $135</h5>
 			</section>
             <section class="spa_package">
                 <h4>HANA REMINERALIZING FACIAL</h4>
     <p>Unrefined white and pink clays blended with the purest spirulina define this facial experience. Healing organic plants and flowers nourish parched skin. Inherent minerals will regenerate, oxygenate and deeply stimulate your skin. Your skin will gently absorb the minerals, vitamins and moisture from our organic cocoa bean, acai, andiroba, brazil nut, island plants and flowers, leaving skin brighter, firmer, smoother, more youthful. Great for all skin types, especially mature or long-term sun damaged skin. </p>
-                <h5>60 minutes – $140</h5>
+                <h5>60 minutes &#8211; $140</h5>
 			</section>
             <section class="spa_package">
                 <h4>SOOTHING SKIN FACIAL</h4>
     <p>Sun-dried, white clay has been used by indigenous cultures throughout the ages for its healing, cooling, anti-inflammatory and regenerative properties. Our organic, botanical facial uses white clay to calm and nurture sensitive or overexposed skin back to healthy balance. Organic jasmine, shea butter, aloe, rose, papaya and other healing plants and flowers will replenish the skin's moisture level and restore a healthy, even tone. Sensitive skin and sunburned skin will also benefit from this facial. </p>
-                <h5>60 minutes – $135</h5>
+                <h5>60 minutes &#8211; $135</h5>
 			</section>
             <section class="spa_package">
                 <h4>KANE (GENTLEMAN'S) FACIAL</h4>
     <p>The healing blue lotus has come to symbolize purity and balance. Our gentleman's deeply cleansing and hydrating facial employs wild-crafted blue lotus, algae extract, rice germ, bamboo, ginger, lemon and tiger grass to exfoliate and purify the skin and decongest pores. Perfect for a man's skin, this facial provides the full spectrum of skin benefits as nature intended. </p>
-                <h5>60 minutes – $135</h5>
+                <h5>60 minutes &#8211; $135</h5>
 			</section>
             <section class="spa_package">
                 <h4>PURIFYING BACK TREATMENT</h4>
     <p>Restore balance, clarity and radiance to your skin with this back treatment inspired by the healing properties of rice germ, blue lotus, bamboo, algae extract and green and white clays. Control excessive oil production and remove clogging impurities from skin. Tiger grass and lemon help heal blemishes and promote clear skin; green and white teas provide antioxidant protection, soothe skin and even skin tone for a pure, healthy complexion. </p>
-                <h5>60 minutes – $135</h5>
+                <h5>60 minutes &#8211; $135</h5>
 			</section>
         </div>
     </div>
@@ -183,17 +183,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         	<section class="spa_package">
                 <h4>AROMATHERAPY SCALP TREATMENT</h4>
     <p>This wonderful scalp treatment uses herbal oils of cinnamon and clove to stimulate and nourish your hair and scalp.</p>
-                <h5>15 minutes – $35</h5>
+                <h5>15 minutes &#8211; $35</h5>
 			</section>
             <section class="spa_package">
                 <h4>HANA HYDRATING HAND TREATMENT</h4>
     <p>Soften and smooth dehydrated skin with the fruits and flowers of Southeast Asia. Hands are exfoliated with organic olive stone and salt, and then wrapped in a detoxifying myrtle and clay mask. Organic jasmine, papaya, shea butter and jojoba strengthen the skin's moisture barrier and help prevent signs of aging for smooth, healthy hands.</p>
-                <h5>30 minutes – $65</h5>
+                <h5>30 minutes &#8211; $65</h5>
 			</section>
             <section class="spa_package">
                 <h4>HANA DETOXIFYING FOOT TREATMENT</h4>
     <p>Myrtle has a long reputation for deep cleansing. Feet are soaked in organic myrtle salt water, exfoliated with organic olive stone and salt and wrapped in a detoxifying myrtle and clay mask. Our organic myrtle, cypress, hyssop and juniper will purify, cleanse, refresh, smooth and refine the skin, leaving your feet feeling silky, smooth and energized.</p>
-                <h5>30 minutes – $75</h5>
+                <h5>30 minutes &#8211; $75</h5>
 			</section>
         </div>
     </div>
@@ -203,32 +203,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <section class="spa_package">
                 <h4>HAWAIIAN LOMILOMI</h4>
     <p>Lomilomi is a powerful native Hawaiian healing tradition. Rhythmic strokes, joint movement and deep kneading open the body and soothe the soul. Enjoy your choice of aromatherapy signature oil blends – $10 additional.</p>
-                <h5>60 or 90 minutes – $130/$185</h5>
+                <h5>60 or 90 minutes &#8211; $130/$185</h5>
 			</section>
             <section class="spa_package">
                 <h4>DEEP TISSUE MASSAGE</h4>
     <p>Melt away deep-seated tension and pain. This massage will release muscle fatigue and toxicity, help to realign your posture and increase range of motion. Our signature rice bran, coconut and monoi oil is used during this massage.</p>
-                <h5>60 or 90 minutes – $140/$195</h5>
+                <h5>60 or 90 minutes &#8211; $140/$195</h5>
 			</section>
             <section class="spa_package">
                 <h4>SWEDISH MASSAGE</h4>
     <p>This deeply relaxing and soothing massage uses long, flowing strokes to help reduce tension and stress, ease stiffness and gently increase circulation. Our signature coconut, rice bran and monoi oil is used during this massage.</p>
-                <h5>60 or 90 minutes – $130/$185</h5>
+                <h5>60 or 90 minutes &#8211; $130/$185</h5>
 			</section>
             <section class="spa_package">
                 <h4>PRENATAL MASSAGE</h4>
     <p>Perfect for that special mom-to-be. This massage can be performed in all stages of pregnancy and is designed to reduce fluid retention, increase muscle tone and soothe aching backs and necks.</p>
-                <h5>60 minutes – $130</h5>
+                <h5>60 minutes &#8211; $130</h5>
 			</section>
             <section class="spa_package">
                 <h4>POHAKU WELA HOT STONE</h4>
     <p>In the traditions of Hawai'i, smooth heated stones apply the elements of earth, air, fire and water to achieve a healing, centering, rejuvenating treatment as muscle tension melts.</p>
-                <h5>60 or 90 minutes – $140/$195</h5>
+                <h5>60 or 90 minutes &#8211; $140/$195</h5>
 			</section>
             <section class="spa_package">
                 <h4>REFLEXOLOGY</h4>
     <p>Reflexology uses a specific touch to stimulate points along meridian paths over the entire body. This treatment begins with a dry brush treatment over the feet and lower leg, followed by a detoxifying foot soak using organic myrtle, fig and juniper. A soothing hand and foot massage completes this treatment. Not recommended for pregnant women. </p>
-                <h5>60 minutes – $130</h5>
+                <h5>60 minutes &#8211; $130</h5>
 			</section>
             <section class="spa_package">
                 <h4>HO'A'ALA ("TO MAKE FRAGRANT") AROMATHERAPY OIL</h4>
@@ -241,19 +241,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <h2>WAXING SERVICES</h2>
             <section class="spa_package">
                 <h4>LIP</h4>
-                <h5>15 minutes – $20</h5>
+                <h5>15 minutes &#8211; $20</h5>
 			</section>
             <section class="spa_package">
                 <h4>BROW SHAPE</h4>
-                <h5>15 minutes – $25</h5>
+                <h5>15 minutes &#8211; $25</h5>
 			</section>
             <section class="spa_package">
                 <h4>BIKINI</h4>
-                <h5>30 minutes – Starting at $75</h5>
+                <h5>30 minutes &#8211; Starting at $75</h5>
 			</section>
             <section class="spa_package">
                 <h4>FULL LEG</h4>
-                <h5>90 minutes – Starting at $90</h5>
+                <h5>90 minutes &#8211; Starting at $90</h5>
 			</section>
         </div>
     </div>
