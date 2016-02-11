@@ -523,7 +523,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
           <section class="spa_package">
             <h4>Energy Healing &amp; Balancing</h4>
             <p>Explore the art of channeling energy to create a deep state of tranquility. Each session is unique and tailored to your needs.</p>
-            <h5>60 or 90 minutes &#8211;  $175/$250</h5>
+            <h5>60 minutes &#8211;  $175</h5>
           </section>
         </div>
     </div>
