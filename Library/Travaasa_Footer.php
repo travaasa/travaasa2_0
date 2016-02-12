@@ -29,7 +29,7 @@
       <a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8772617792" target="_blank">CLICK FOR A PHONE CALL</a><br />
       <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO CHAT ONLINE</a></p>
     </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2016 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="http://static.travaasa.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2016 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
   </nav>
 </footer>
 <script type="text/javascript">
