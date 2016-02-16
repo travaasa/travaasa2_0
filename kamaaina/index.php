@@ -42,7 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <h2>Garden Junior Suite<br /><span style="color:#505050">$360 / $400* night</span></h2>
 
             <ul>
-            <li>Accommodations in a low-rise Garden Junior Suite (three night minimum)</li>
+            <li>Accommodations in a low-rise Garden Junior Suite</li>
             <li>Access to a robust schedule of resort activities</li>
             <li>In-room bottled water and organic fair trade coffee</li>
             <li>Welcome refreshment upon arrival</li>
@@ -51,14 +51,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li>Complete access to resort facilities</li>
             <li>Wi-Fi</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.<br />
+            <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.<br />
             *Low Season / High Season rates</em></p>
             <br />
 
             <h2>The Ocean Bungalow<br /><span style="color:#505050">$560 / $600* night</span></h2>
 
             <ul>
-             <li>Accommodations in a plantation-style, Ocean Bungalow with a private lanai (three night minimum)</li>
+             <li>Accommodations in a plantation-style, Ocean Bungalow with a private lanai</li>
              <li>Access to a robust schedule of resort activities</li>
              <li>In-room bottled water and organic fair trade coffee</li>
              <li>Welcome refreshment upon arrival</li>
@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <li>Complete access to resort facilities</li>
              <li>Wi-Fi</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.<br />
+            <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.<br />
             *Low Season / High Season rates</em></p>
   </section>
 
