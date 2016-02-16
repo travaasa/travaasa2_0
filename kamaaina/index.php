@@ -34,17 +34,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix notheater">
           <h1>Exclusive Kamaaina Rates for Hawaii Residents</h1>
-          <p>Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui. Located at the end of the Road to Hana on Maui’s secluded eastern shore, Travaasa Hana is offering Hawaii residents incredible savings for stays three nights and longer. The newly created kamaaina offers highlight <a href="http://mokuleleairlines.com/" target="_blank">Mokulele Airlines'</a> twice-daily air service between Kahului and Hana.</p>
+          <p>Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui. Located at the end of the Road to Hana on Maui’s secluded eastern shore, Travaasa Hana is offering Hawaii residents incredible savings for stays three nights and longer. <!--The newly created kamaaina offers highlight <a href="http://mokuleleairlines.com/" target="_blank">Mokulele Airlines'</a> twice-daily air service between Kahului and Hana.--></p>
 
             <p>Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:</p>
             <br />
 
-            <h2>Garden Suite + Air<br /><span style="color:#505050">$295/night</span></h2>
+            <h2>Garden Junior Suite<br /><span style="color:#505050">$360 / $400* night</span></h2>
 
             <ul>
-            <li>Accommodations in a low-rise bungalow Garden Suite (three night minimum)</li>
-            <li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) on Mokulele Airlines for two (valued at $240)</li>
-            <li>Ground transportation to and from the Hana Airport</li>
+            <li>Accommodations in a low-rise Garden Junior Suite (three night minimum)</li>
             <li>Access to a robust schedule of resort activities</li>
             <li>In-room bottled water and organic fair trade coffee</li>
             <li>Welcome refreshment upon arrival</li>
@@ -53,15 +51,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li>Complete access to resort facilities</li>
             <li>Wi-Fi</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.</em></p>
+            <p><em>Based on double occupancy; excluding taxes. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.<br />
+            *Low Season / High Season rates</em></p>
             <br />
 
-            <h2>Ocean Bungalow + Air<br /><span style="color:#505050">$395/night</span></h2>
+            <h2>The Ocean Bungalow<br /><span style="color:#505050">$560 / $600* night</span></h2>
 
             <ul>
              <li>Accommodations in a plantation-style, Ocean Bungalow with a private lanai (three night minimum)</li>
-             <li>Roundtrip air from Kahului Airport (OGG) to Hana Airport (HNM) on Mokulele Airlines for two (valued at $240)</li>
-             <li>Ground transportation to and from the Hana Airport</li>
              <li>Access to a robust schedule of resort activities</li>
              <li>In-room bottled water and organic fair trade coffee</li>
              <li>Welcome refreshment upon arrival</li>
@@ -70,7 +67,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <li>Complete access to resort facilities</li>
              <li>Wi-Fi</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.</em></p>
+            <p><em>Based on double occupancy; excluding taxes. Three-night minimum stay required. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.<br />
+            *Low Season / High Season rates</em></p>
   </section>
 
 </article>
