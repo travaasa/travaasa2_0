@@ -22,7 +22,7 @@
               <ul class="menu_sub">
                   <li><a class="lnk_farm" href="/austin/farm">THE FARM</a></li>
                   <li><a class="lnk_food-truck" href="/austin/food-truck">FOOD TRUCK</a></li>
-                  <!--<li><a class="lnk_weddings" href="/austin/weddings">WEDDINGS</a></li>-->
+                  <li><a class="lnk_weddings" href="/austin/weddings">WEDDINGS</a></li>
                   <li><a class="lnk_schedule" href="/austin/austinschedule">EXPERIENCE SCHEDULE</a></li>
                </ul>
           </li>
