@@ -69,8 +69,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="col span_3_of_9">
           <p>INTERESTED IN WEDDINGS?</p>
           <h2 class="big">877-648-0782</h2>
-          <p>or <a href="mailto:sales@travaasa.com" target="_blank">sales@travaasa.com</a><br><br>
-          <a class="btn-jorah" href="https://static.travaasa.wufoo.com/forms/request-for-proposal/" target="_blank">REQUEST FOR PROPOSAL</a></p>
+          <p>or <a href="mailto:austinsales@travaasa.com" target="_blank">austinsales@travaasa.com</a><br><br>
+          <a class="btn-jorah" href="https://travaasa.wufoo.com/forms/travaasa-wedding-request-for-proposal/" target="_blank">REQUEST FOR PROPOSAL</a></p>
           <a href="http://static.travaasa.com/pdf/Travaasa-Austin-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Austin Wedding Guide" style="float:left; margin: 0 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="200" height="259" src="http://static.travaasa.com/assets/images/aus-wedding-thumb.jpg"></a>
           </div>
           <!--BEGIN VIDEO EMBED PLACEHOLDER-->
