@@ -315,7 +315,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-TheLibrary.jpg" data-flare-gallery="galleryKauikiLibrary" data-target="flare" data-flare-scale="fitmax" title="The Library"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-Library.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Library – Maui small even venue"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-TheLibrary.jpg" data-flare-gallery="galleryKauikiLibrary" data-target="flare" data-flare-scale="fitmax" title="The Library"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-Library2.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Library – Maui small even venue"></a>
                 </div>
 				<div class="col span_1_of_2">
                 	<table class="meetings-table">
