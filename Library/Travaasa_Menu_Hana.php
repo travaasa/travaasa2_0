@@ -17,12 +17,12 @@
           <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
           <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
           <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
+          <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
           <li class="menu_main menu_plus"><a href="#" class="plus"><span>+</span></a>
               <ul class="menu_sub">
                   <li><a class="lnk_schedule" href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a></li>
                   <li><a class="lnk_locationinfo" href="/hana/hana-maui">HANA &amp; GETTING HERE</a></li>
-                  <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
-                  <li><a class="lnk_groups" href="/hana/weddings">WEDDINGS</a></li>
+                  <li><a class="lnk_weddings" href="/hana/weddings">WEDDINGS</a></li>
                   <li><a class="lnk_offproperty" href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></li>
                </ul>
           </li>

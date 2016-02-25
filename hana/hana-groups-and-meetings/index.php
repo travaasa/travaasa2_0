@@ -40,7 +40,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
-          <h1>MAUI WEDDING &amp; GROUP VENUE</h1>
+          <h1>HANA, MAUI MEETINGS &amp; GROUPS</h1>
           <p>Located at the end of the famed ‘road to Hana', Travaasa Hana, Maui offers more than 5,000 square feet of flexible indoor space, plus an additional 10,000 square feet of beautifully landscaped outdoor function space. Take advantage of the option of booking the entire resort for your group, and a pampering spa treatment to make meetings more relaxing.</p>
       </div>
   </section>
@@ -60,7 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="tab_data_inner">
 
         	<h1>The Plantation Guest House</h1>
-            <p>The Plantation Guest House is an elegant and secluded venue for group meetings, events and exclusive entertaining.  Located on property, behind the Hana Ranch store, this former ranch manager's residence is unlike any other venue on Maui.</p>
+            <p>The Plantation Guest House is an elegant and secluded venue for group meetings, events and exclusive entertaining. Located on property, behind the Hana Ranch store, this former ranch manager's residence is unlike any other venue on Maui.</p>
 
         	<div class="group">
                 <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PlantationGuestHouseLivingRoom2.jpg" data-flare-gallery="galleryPlantationGuestHouseLivingRoom" data-target="flare" data-flare-scale="fitmax" title="Plantation Guest House Living Room"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PlantationGuestHouse.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Maui wedding venues"></a>
@@ -84,24 +84,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">8'9"</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">60</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">35</td>
+                                <td class="meetings-table-data">36</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">60</td>
+                                <td class="meetings-table-data">75</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">65</td>
+                                <td class="meetings-table-data">60</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">25</td>
+                                <td class="meetings-table-data">24</td>
                             </tr>
                         </tbody>
                     </table>
@@ -109,7 +105,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <p>The largest area within the Plantation Guest House, the Living Room offers natural light, and opens out to the Lanai.</p>
 
-			<br><hr><br>
+			<hr>
 
             <div class="group">
                 <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PlantationGuestHouseLanai.jpg" data-flare-gallery="galleryPlantationGuestHouseLanai" data-target="flare" data-flare-scale="fitmax" title="Plantation Lanai"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PlantationGuestHouseLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lanai Hawaii wedding venue"></a>
@@ -122,7 +118,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">23' x 20'</td>
+                                <td class="meetings-table-data">23' x 30'</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Square Feet</td>
@@ -133,12 +129,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">8'9"</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">55</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">30</td>
+                                <td class="meetings-table-data">36</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
@@ -146,19 +138,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">55</td>
+                                <td class="meetings-table-data">40</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">20</td>
+                                <td class="meetings-table-data">18</td>
                             </tr>
                         </tbody>
                     </table>
 				</div>
             </div>
-            <p>Through French doors, right off the Living Room, the Lanai offers an ideal spot for breaks or catered meals.  Overlooking the Plantation Lawn, the Lanai can accommodate ‘meetings without walls' fostering the utmost creativity from your attendees.</p>
+            <p>Through French doors, right off the Living Room, the Lanai offers an ideal spot for breaks or catered meals. Overlooking the Plantation Lawn, the Lanai can accommodate ‘meetings without walls' fostering the utmost creativity from your attendees.</p>
 
-            <br><hr><br>
+            <hr>
 
             <div class="group">
                 <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PlantationLawn.jpg" data-flare-gallery="galleryPlantationLawn" data-target="flare" data-flare-scale="fitmax" title="Plantation Guest House Lawn"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PlantationLawn.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lawn Hawaii wedding venue"></a>
@@ -171,23 +163,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                              <tr>
                                 <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Square Feet</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
@@ -199,7 +187,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                         </tbody>
                     </table>
@@ -207,6 +195,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
                 <p>With the guest house serving as a backdrop, the Plantation Lawn offers the ultimate outdoor experience. Nestled among Cook Pines, this outdoor space is ideal for receptions or dinners of any size.</p>
 
+            <hr>
 
             <h1>Main Building</h1>
 
@@ -225,43 +214,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">49' x 66'</td>
+                                <td class="meetings-table-data">37' x 66'</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Square Feet</td>
-                                <td class="meetings-table-data">3,280</td>
+                                <td class="meetings-table-data">2,260</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
                                 <td class="meetings-table-data">14' – 20'</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">275</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">150</td>
+                                <td class="meetings-table-data">60</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">275</td>
+                                <td class="meetings-table-data">237</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">225</td>
+                                <td class="meetings-table-data">120</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">109</td>
+                                <td class="meetings-table-data">48</td>
                             </tr>
                         </tbody>
                     </table>
 				</div>
             </div>
-            <p>The largest on property, The Preserve Kitchen + Bar Dining Room offers 3,200 square feet of flexible function space.  With an assortment of comfy couches as well as locally-inspired artwork the dining room can accommodate all types of events in a Hawaiian inspired atmosphere.</p>
+            <p>The largest on property, The Preserve Kitchen + Bar Dining Room offers 2,260 square feet of flexible function space.  With an assortment of comfy couches as well as locally-inspired artwork the dining room can accommodate all types of events in a Hawaiian inspired atmosphere.</p>
 
-              <br><hr><br>
+              <hr>
 
 
               <div class="group">
@@ -275,43 +260,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">49' x 22'</td>
+                                <td class="meetings-table-data">54' x 22'</td>
                             </tr>
 
                                 <tr><td class="meetings-table-labels">Square Feet</td>
-                                <td class="meetings-table-data">1,089</td>
+                                <td class="meetings-table-data">1,188</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
                                 <td class="meetings-table-data">12'</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">75</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">50</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">90</td>
+                                <td class="meetings-table-data">120</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">75</td>
+                                <td class="meetings-table-data">90</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">36</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                         </tbody>
                     </table>
 				</div>
             </div>
-            <p>Overlooking the meticulous Travaasa Hana, Maui grounds, the lanai offers over 1,000 s.f. of open air meeting and dining space.</p>
+            <p>Overlooking the meticulous Travaasa Hana, Maui grounds, the lanai offers over 1,100 square feet of open air meeting and dining space.</p>
 
-            <br><hr><br>
+            <hr>
 
 
             <div class="group">
@@ -336,24 +317,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">8'</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">36</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">20</td>
+                                <td class="meetings-table-data">18</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">36</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Banquet</td>
                                 <td class="meetings-table-data">30</td>
                             </tr>
                             <tr>
+                                <td class="meetings-table-labels">Banquet</td>
+                                <td class="meetings-table-data">20</td>
+                            </tr>
+                            <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">16</td>
+                                <td class="meetings-table-data">18</td>
                             </tr>
                         </tbody>
                     </table>
@@ -361,7 +338,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <p>Warm, cozy and intimate, this quiet space is centrally located near the lobby, opening out to the Koi-filled frog pond.</p>
 
-			<br><hr><br>
+			<hr>
 
             <div class="group">
                 <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-Queen.jpg" data-flare-gallery="galleryQueen" data-target="flare" data-flare-scale="fitmax" title="Queen Ka'ahumanu Room"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-Queen.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Queen Ka'ahumanu Room"></a>
@@ -374,7 +351,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">23' x 25'</td>
+                                <td class="meetings-table-data">23' x 24'</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Square Feet</td>
@@ -382,11 +359,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">8'7"</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Classroom</td>
@@ -410,7 +383,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <p>Queen Ka’ahumanu offers internet access, making it the ideal meeting space for small- to medium-sized groups.</p>
 
-            <br><hr><br>
+            <hr>
 
             <div class="group">
                 <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PanioloLounge.jpg" data-flare-gallery="galleryPanioloLounge" data-target="flare" data-flare-scale="fitmax" title="Paniolo Lounge"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PanioloLounge.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Paniolo Laounge"></a>
@@ -423,27 +396,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">34' x 41'</td>
+                                <td class="meetings-table-data">26' x 52'</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Square Feet</td>
-                                <td class="meetings-table-data">1,583</td>
+                                <td class="meetings-table-data">1,128</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
                                 <td class="meetings-table-data">12'</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">100</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">70</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">130</td>
+                                <td class="meetings-table-data">150</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
@@ -451,7 +420,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">50</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                         </tbody>
                     </table>       
@@ -459,7 +428,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <!--<p>INSERT_PANIOLO_LOUJNGE_DESCRIPTION</p>-->
 
-            <br><hr><br>
+            <hr>
             
             <div class="group">
                 <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-MaukaLounge.jpg" data-flare-gallery="galleryMaukaLounge" data-target="flare" data-flare-scale="fitmax" title="Mauka Lounge"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-MaukaLounge.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Mauka Laounge"></a>
@@ -468,50 +437,47 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <table class="meetings-table">
                         <tbody>
                             <tr>
-                                <th colspan="2">Mauka Lounge</th>
+                                <th colspan="2">The Preserve Mauka Lounge</th>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Width x Length</td>
-                                <td class="meetings-table-data">20' x 38'</td>
+                                <td class="meetings-table-data">21' x 39'</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Square Feet</td>
-                                <td class="meetings-table-data">760</td>
+                                <td class="meetings-table-data">819</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
                                 <td class="meetings-table-data">12'</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">70</td>
+                                <td class="meetings-table-data">60</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">40</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
-                            <tr>
+                            <!--<tr>
                                 <td colspan="2"><p class="description">Located right off the lobby area, this lounge is a logical gathering spot for those either arriving or departing the resort. Newly-painted plantation shutters offer an intimate feel.</p></td>
-                            </tr>
+                            </tr>-->
                         </tbody>
                     </table>
                 </div>
             </div>
-
+            <p>Located right off the lobby area, this lounge is a logical gathering spot for those either arriving or departing the resort. Newly-painted plantation shutters offer an intimate feel.</p>
+            <hr>
+           
             <h1>Makana Center</h1>
-
 
             <div class="group">
                 <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-MakanaPavilion.jpg" data-flare-gallery="galleryMakanaPavillion" data-target="flare" data-flare-scale="fitmax" title="Makana Pavilion"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-MakanaPavilion.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Makana Pavilion"></a>
@@ -532,15 +498,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">50</td>
+                                <td class="meetings-table-data">36</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
@@ -548,11 +514,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">60</td>
+                                <td class="meetings-table-data">80</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">20</td>
+                                <td class="meetings-table-data">42</td>
                             </tr>
 
                         </tbody>
@@ -561,7 +527,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <p>Located next to the family pool, the Makana Pavilion features pocket doors that invite the warm tropical trade winds.</p>
 
-            <br><hr><br>
+            <hr>
 
             <div class="group">
                 <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-MakanaLanai.jpg" data-flare-gallery="galleryMakanaLanai" data-target="flare" data-flare-scale="fitmax" title="Makana Lanai"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-MakanaLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Makana Lanai"></a>
@@ -582,15 +548,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
@@ -602,7 +564,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
 
                         </tbody>
@@ -611,7 +573,104 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <p>Makana (gift) is at the heart of the property. A covered outdoor Lanai offers the ideal setting for dinner and dancing under the stars.</p>
 
-            <br><hr><br>
+            <hr>
+            
+            <h1>Poolside Lanai</h1>
+
+
+            <div class="group">
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PoolsideLanai.jpg" data-flare-gallery="galleryWellnessPavillion" data-target="flare" data-flare-scale="fitmax" title="Wellness Pavilion"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PoolsideLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Poolside Lanai"></a>
+                </div>
+                <div class="col span_1_of_2">
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Poolside Lanai</th>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Width x Length</td>
+                                <td class="meetings-table-data">29' x 35'</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Square Feet</td>
+                                <td class="meetings-table-data">1,015</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Height</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Classroom</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Reception</td>
+                                <td class="meetings-table-data">70</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Banquet</td>
+                                <td class="meetings-table-data">100</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Conference</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <p>Overlooking the blue Pacific Ocean, the Poolside Lanai features a stone floor, bar area and fire pit, making it a unique poolside dinner location.</p>
+
+            <hr>
+            <h1>Art Gallery Lanai</h1>
+
+
+            <div class="group">
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-ArtGalleryLanai.jpg" data-flare-gallery="galleryWellnessPavillion" data-target="flare" data-flare-scale="fitmax" title="Wellness Pavilion"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-ArtGalleryLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Art Gallery Lanai"></a>
+                </div>
+                <div class="col span_1_of_2">
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Art Gallery Lanai</th>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Width x Length</td>
+                                <td class="meetings-table-data">15' x 106'</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Square Feet</td>
+                                <td class="meetings-table-data">1,590</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Height</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Classroom</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Reception</td>
+                                <td class="meetings-table-data">50</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Banquet</td>
+                                <td class="meetings-table-data">30</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Conference</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <p>A covered wrap-around lanai with views of the land and sea. Inside are local works of art, jewelry and trinkets all made by hand.</p>
+
+            <hr>
 
             <h1>Pailoa Studio</h1>
 
@@ -635,11 +694,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Height</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">20'</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Classroom</td>
@@ -647,11 +702,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">80</td>
+                                <td class="meetings-table-data">75</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">40</td>
+                                <td class="meetings-table-data">50</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
@@ -664,7 +719,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <p>Yoga Retreats are welcome to use the wellness center complimentary during unstructured hours.</p>
 
-            <br><hr><br>
+            <hr>
 
             <h1>Hamoa Beach</h1>
 
@@ -691,24 +746,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">10' – 18'</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">—</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Reception</td>
-                                <td class="meetings-table-data">150</td>
+                                <td class="meetings-table-data">200</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Banquet</td>
-                                <td class="meetings-table-data">130</td>
+                                <td class="meetings-table-data">120</td>
                             </tr>
                             <tr>
                                 <td class="meetings-table-labels">Conference</td>
-                                <td class="meetings-table-data">—</td>
+                                <td class="meetings-table-data">&#8212;</td>
                             </tr>
 
                         </tbody>
@@ -716,6 +767,54 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</div>
             </div>
             <p>Located at legendary Hamoa Beach, our Lu'au Hale is the perfect space for a casual, oceanside event or meeting. Start with a blank palette and create your own tropical sun filled or moon lit experience.</p>
+            
+            <hr>
+            
+            <h1>Spa Terrace</h1>
+
+            <div class="group">
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-SpaTerrace.jpg" data-flare-gallery="galleryWellnessPavillion" data-target="flare" data-flare-scale="fitmax" title="Wellness Pavilion"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-SpaTerrace.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Spa Terrace"></a>
+                </div>
+                <div class="col span_1_of_2">
+                    <table class="meetings-table">
+                        <tbody>
+                            <tr>
+                                <th colspan="2">Spa Terrace</th>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Width x Length</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Square Feet</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Height</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Classroom</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Reception</td>
+                                <td class="meetings-table-data">200</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Banquet</td>
+                                <td class="meetings-table-data">200</td>
+                            </tr>
+                            <tr>
+                                <td class="meetings-table-labels">Conference</td>
+                                <td class="meetings-table-data">&#8212;</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <p>Set on lush green grass and overlooking Hāna Bay, the Spa Terrace is surrounded by tropical plants and floral scents you take in with each breath. This abundant garden is just outside the spa beside the lava-rock whirlpool.</p>
 
   
              </div>
