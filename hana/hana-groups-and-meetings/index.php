@@ -501,10 +501,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <td class="meetings-table-data">&#8212;</td>
                             </tr>
                             <tr>
-                                <td class="meetings-table-labels">Theatre</td>
-                                <td class="meetings-table-data">&#8212;</td>
-                            </tr>
-                            <tr>
                                 <td class="meetings-table-labels">Classroom</td>
                                 <td class="meetings-table-data">36</td>
                             </tr>
