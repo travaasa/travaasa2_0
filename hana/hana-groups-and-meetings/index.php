@@ -108,7 +108,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<hr>
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PlantationGuestHouseLanai.jpg" data-flare-gallery="galleryPlantationGuestHouseLanai" data-target="flare" data-flare-scale="fitmax" title="Plantation Lanai"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PlantationGuestHouseLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lanai Hawaii wedding venue"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PlantationGuestHouseLanai.jpg" data-flare-gallery="galleryPlantationGuestHouseLanai" data-target="flare" data-flare-scale="fitmax" title="Plantation Guest House Lanai"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PlantationGuestHouseLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lanai Hawaii wedding venue"></a>
                 </div>
 				<div class="col span_1_of_2">
                 	<table class="meetings-table">
@@ -204,7 +204,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-KauikiDiningRoom.jpg" data-flare-gallery="galleryKauikiDiningRoom" data-target="flare" data-flare-scale="fitmax" title="Main Dining Room"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-Kauiki.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Main Building Hana weddings and events"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-KauikiDiningRoom.jpg" data-flare-gallery="galleryThePreserveDiningRoom" data-target="flare" data-flare-scale="fitmax" title="The Preserve Dining Room"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-Kauiki.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Main Building Hana weddings and events"></a>
                 </div>
 				<div class="col span_1_of_2">
                 	<table class="meetings-table">
@@ -250,7 +250,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
               <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-KauikiLanai.jpg" data-flare-gallery="galleryKauikiLanai" data-target="flare" data-flare-scale="fitmax" title="Lanai"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-KauikiLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Kauiki – Maui wedding reception"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-KauikiLanai.jpg" data-flare-gallery="galleryPreserveLanai" data-target="flare" data-flare-scale="fitmax" title="The Preserve Lanai"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-KauikiLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Kauiki – Maui wedding reception"></a>
                 </div>
 				<div class="col span_1_of_2">
                 	<table class="meetings-table">
@@ -296,7 +296,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-TheLibrary.jpg" data-flare-gallery="galleryKauikiLibrary" data-target="flare" data-flare-scale="fitmax" title="The Library"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-Library2.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Library – Maui small even venue"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-TheLibrary.jpg" data-flare-gallery="galleryLibrary" data-target="flare" data-flare-scale="fitmax" title="The Library"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-Library2.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Library – Maui small even venue"></a>
                 </div>
 				<div class="col span_1_of_2">
                 	<table class="meetings-table">
@@ -386,7 +386,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <hr>
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PanioloLounge.jpg" data-flare-gallery="galleryPanioloLounge" data-target="flare" data-flare-scale="fitmax" title="Paniolo Lounge"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PanioloLounge.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Paniolo Laounge"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PanioloLounge.jpg" data-flare-gallery="galleryPanioloLounge" data-target="flare" data-flare-scale="fitmax" title="The Preserve Bar"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PanioloLounge.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Paniolo Laounge"></a>
                 </div>
                 <div class="col span_1_of_2">
                     <table class="meetings-table">
@@ -579,7 +579,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PoolsideLanai.jpg" data-flare-gallery="galleryWellnessPavillion" data-target="flare" data-flare-scale="fitmax" title="Wellness Pavilion"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PoolsideLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Poolside Lanai"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-PoolsideLanai.jpg" data-flare-gallery="galleryPoolsideLanai" data-target="flare" data-flare-scale="fitmax" title="Poolside Lanai"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-PoolsideLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Poolside Lanai"></a>
                 </div>
                 <div class="col span_1_of_2">
                     <table class="meetings-table">
@@ -627,7 +627,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-ArtGalleryLanai.jpg" data-flare-gallery="galleryWellnessPavillion" data-target="flare" data-flare-scale="fitmax" title="Wellness Pavilion"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-ArtGalleryLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Art Gallery Lanai"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-ArtGalleryLanai.jpg" data-flare-gallery="galleryArtGalleryLanai" data-target="flare" data-flare-scale="fitmax" title="Art Gallery Lanai"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-ArtGalleryLanai.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Art Gallery Lanai"></a>
                 </div>
                 <div class="col span_1_of_2">
                     <table class="meetings-table">
@@ -773,7 +773,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <h1>Spa Terrace</h1>
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-SpaTerrace.jpg" data-flare-gallery="galleryWellnessPavillion" data-target="flare" data-flare-scale="fitmax" title="Wellness Pavilion"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-SpaTerrace.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Spa Terrace"></a>
+                <div class="col span_1_of_2"><a href="http://static.travaasa.com/assets/images/gallery/hana/Large-SpaTerrace.jpg" data-flare-gallery="gallerySpaTerrace" data-target="flare" data-flare-scale="fitmax" title="Spa Terrace"><img class="fitwidth lazy" data-original="http://static.travaasa.com/assets/images/gallery/hana/720-SpaTerrace.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="Spa Terrace"></a>
                 </div>
                 <div class="col span_1_of_2">
                     <table class="meetings-table">
