@@ -36,8 +36,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
         <h1>Travaasa Hana, Maui Resort</h1>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/wcwKeO48b5Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        <div class="embed-container">
+        <iframe width="950" height="534" src="https://www.youtube.com/embed/wcwKeO48b5Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        </div>
         <!--<h1>Hana, Maui Resort Rooms and Bungalows in Hawaii</h1>
          <p>As you surrender to the timeless tranquility of the <a href="http://travaasa.com/hana/hana-maui/" target="_self">Town of Hana</a>, the rest of the world — even the island of Maui — feels as if it’s a world away. By the time you arrive at the tropical resort sanctuary that is Travaasa Hana, you can’t help but enter a Hana state of mind.</p>
          <p>The experience of Hana embraces the low-key vibe of this enchanted Hawaiian destination. Spacious resort cottages and private suites set a peaceful mood for your stay, whether you’re watching the waves roll across the Pacific Ocean from the private lanai of your Ocean Bungalow or relaxing in the spacious rooms of our Garden Junior Suites or Waikoloa Family Suites. Whichever room type you choose, you’ll be pleased to discover our Hana accommodations feature organic linens, locally made bath amenities and organic whole bean coffee. In an environment free of radios, clocks, and televisions, nothing will distract you from the natural beauty and relaxation of Heavenly Hana.</p>
