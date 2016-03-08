@@ -57,7 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </ul>
           </div>-->
           <!--<img style="float:left; padding: 10px 0 0 10px;" width="135" src="http://static.travaasa.com/assets/images/andrew-harper.png">-->
-          <img style="float:left; padding: 5px 0 0 0;" width="135" src="http://static.travaasa.com/assets/images/hawaii-mag-readers-choice.png">
+          <img style="float:left; padding: 5px 0 0 0;" width="135" src="http://static.travaasa.com/assets/images/hawaii-mag-readers-choice2.png">
           <img style="float:left; padding: 0 0 0 10px;" width="125" src="http://static.travaasa.com/assets/images/andrew-harper-grand-award.png">
           <script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=565&amp;locationId=120706&amp;lang=en_US&amp;year=2014"></script>
 
