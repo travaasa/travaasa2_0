@@ -32,7 +32,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
       <!--<div class="slide"><a href="https://travaasa.ticketbud.com/jamandjive" target="_blank"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_jam-n-jive.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
-      <div class="slide"><a href="/austin/austinphotos/" ><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_2015_top_100.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="/austin/austinphotos/" ><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_2015_top_100_2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>
       <!--<div class="slide"><a href="/austin/austinphotos/" ><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_number-one_pool.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
       <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_dayvideo_promo2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="/austin/farm/" ><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_farm2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>
