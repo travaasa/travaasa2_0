@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>THE SPA AT TRAVAASA AUSTIN</h1>
-          <p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Featuring 11 treatment rooms, including a couple's room, as well as a hot tub and dry sauna, our unique Texas spa sits adjacent to the property's saline infinity pool, which overlooks the serene and scenic hill country landscape.<br><br>
+          <p>A visit to The Spa at Travaasa Austin goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. Featuring 11 treatment rooms, including a couple's room, steam rooms, as well as a hot tub, our unique Texas spa sits adjacent to the property's saline infinity pool, which overlooks the serene and scenic hill country landscape.<br><br>
 We offer an array of massages, healing rituals, beauty treatments and personalized services, using only organic, bioenergetic products.<!--, including the Primavera and Anakiri skin care lines, which are also available in our Spa Boutique.--></p>
 <div class="col span_1_of_2"><a href="http://static.travaasa.com/pdf/The-Spa-at-Travaasa_Guide.pdf" class="btn-jorah" target="_blank">Download Spa Guide</a></div>
 <!--<div class="col span_1_of_2"><a href="/pdf/The-Spa-at-Travaasa-Mens-Guide.pdf" class="btn fitwidth" target="_blank">Download Men's Spa Guide</a></div>-->
@@ -499,18 +499,18 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                   <li>One $175 spa credit</li>
                   <li>Access to robust list of daily activities</li>
                   <li>Use of the infinity pool</li>
-                  <li>Access to spa locker rooms, vitality pool and dry sauna</li>
+                  <li>Access to spa locker rooms, vitality pool and steam rooms</li>
                 </ul>
                 <h5>$275</h5>
             </section>
             <section class="spa_package">
                 <h4>Travaasa Spa</h4>
-                <p>Slip away to somewhere beautiful. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, dry sauna, and jealousy-inducing views from the infinity edge pool.
+                <p>Slip away to somewhere beautiful. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, steam rooms, and jealousy-inducing views from the infinity edge pool.
                 <br /><em>Package includes:</em></br>
                 <ul>
                   <li>One $175 spa credit</li>
                   <li>Use of the infinity pool</li>
-                  <li>Access to spa locker rooms, vitality pool and dry sauna</li>
+                  <li>Access to spa locker rooms, vitality pool and steam rooms</li>
                 </ul>
                 <h5>$200</h5>
             </section>
