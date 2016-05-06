@@ -497,6 +497,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <br /><em>Package includes:</em></br>
                 <ul>
                   <li>One $175 spa credit</li>
+                  <li>One $75 activity credit</li>
                   <li>Access to robust list of daily activities</li>
                   <li>Use of the infinity pool</li>
                   <li>Access to spa locker rooms, vitality pool and steam rooms</li>
