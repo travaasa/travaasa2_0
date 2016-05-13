@@ -63,6 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>Interior ceiling fans (air conditioning isn't necessary)</li>
+                <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
             <!--<p><strong>Note: only guests ages 16 and older are allowed in the Ocean Bungalows area, with the exception of special Family Weeks.</strong></p>-->
          </div>
