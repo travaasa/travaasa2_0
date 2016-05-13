@@ -72,7 +72,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <td class="compare-table-check">✔</td>
         </tr>
         <tr class="compare-table-row">
-          <td class="compare-table-description-box">Welcome snack and refreshments upon arrival</td>
+          <td class="compare-table-description-box">Welcome Banana Bread upon arrival</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
@@ -81,11 +81,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
         </tr>
-        <tr class="compare-table-row">
+        <!--<tr class="compare-table-row">
           <td class="compare-table-description-box">Organic cotton linens</td>
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">✔</td>
-        </tr>
+        </tr>-->
         <tr class="compare-table-row">
           <td class="compare-table-description-box">Complete access to resort facilities</td>
           <td class="compare-table-check total_travaasa">✔</td>
