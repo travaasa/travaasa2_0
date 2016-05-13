@@ -60,6 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <ul class="description">
                 <li>Inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
                 <li>Private, expansive lanais with <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow View">views</a> of the Pacific Ocean</li>
+                <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>Interior ceiling fans (air conditioning isn't necessary)</li>
             </ul>
@@ -96,6 +97,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Access to activities at the Makana Center</li>
                 <li>Wet bar</li>
                 <li>Indoor and outdoor sitting areas</li>
+                <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>Interior ceiling fans (air conditioning isn't necessary)</li>
                 <li>Family-friendly and open to adults and children of all ages</li>
