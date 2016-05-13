@@ -34,11 +34,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix notheater">
           <h1>Hana, Maui Resort Rooms and Bungalows in Hawaii</h1>
-         <p>As you surrender to the timeless tranquility of the <a href="http://travaasa.com/hana/hana-maui/" target="_self">Town of Hana</a>, the rest of the world — even the island of Maui — feels as if it’s a world away. By the time you arrive at the tropical resort sanctuary that is Travaasa Hana, you can’t help but enter a Hana state of mind.</p>
-         <p>The experience of Hana embraces the low-key vibe of this enchanted Hawaiian destination. Spacious resort cottages and private suites set a peaceful mood for your stay, whether you’re watching the waves roll across the Pacific Ocean from the private lanai of your Ocean Bungalow or relaxing in the spacious rooms of our Garden Junior Suites or Waikoloa Family Suites. Whichever room type you choose, you’ll be pleased to discover our Hana accommodations feature organic linens, locally made bath amenities and organic whole bean coffee. In an environment free of radios, clocks, and televisions, nothing will distract you from the natural beauty and relaxation of Heavenly Hana.</p>
-         <p>The spirit of Hawaii is yours to discover through our signature <a href="http://travaasa.com/hana/travaasa-hana-experiences/" target="_self">Travaasa Experiences</a>. Our inclusive (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Total Travaasa</a>) and a la carte (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a>) options give you the freedom to embrace Hana your way. See our <a href="http://www.travaasa.com/hana/hana-rates-and-packages/">rates and packages</a>. Start your day with a <a href="http://travaasa.com/hana/travaasa-hana-experiences/fitness/" target="_self">guided nature walk</a> along Hana’s Coast, <a href="http://travaasa.com/hana/travaasa-hana-experiences/culture/" target="_self">learn to string your own fragrant lei</a> or take your relaxation to the next level with one of the <a href="http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/" target="_self">finest spa treatments</a> in all of Hana. These experiences and more are yours to enjoy with our inclusive Total Travaasa option, which nourishes mind, body and soul with experiences, meals and non-alcoholic drinks.</p>
-         <p>Or, choose the <a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a> option and add experiences to your stay a la carte. Either way, Travaasa lets you design the Hana experience you’ll remember for years to come.</p>
-         <p>Whether you choose a private suite or a resort cottage with an inclusive package or a la carte experiences, Travaasa Hana invites you to relax — after all, you’re on Hana time now.</p>
+         <p>As you surrender to the timeless tranquility of the <a href="http://travaasa.com/hana/hana-maui/" target="_self">Town of Hana</a>, the rest of the world&#8212;even the island of Maui&#8212;feels as if it’s a world away. By the time you arrive at the tropical resort sanctuary that is Travaasa Hana, you can’t help but enter a Hana state of mind.</p>
+         <p>The experience of Hana embraces the low-key vibe of this enchanted Hawaiian destination. Spacious resort cottages and private suites set a peaceful mood for your stay, whether you’re watching the waves roll across the Pacific Ocean from the private lanai of your Ocean Bungalow or relaxing in the spacious rooms of our Garden Junior Suites or Waikoloa Family Suites. In an environment free of radios, clocks, and televisions, nothing will distract you from the natural beauty and relaxation of Heavenly Hana.</p>
+         <p>The spirit of Hawaii is yours to discover through our signature <a href="http://travaasa.com/hana/travaasa-hana-experiences/" target="_self">Travaasa Experiences</a>. Our inclusive (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Total Travaasa</a>) and &#224; la carte (<a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a>) options give you the freedom to embrace Hana your way. See our <a href="http://www.travaasa.com/hana/hana-rates-and-packages/">rates and packages</a>. Start your day with a <a href="http://travaasa.com/hana/travaasa-hana-experiences/fitness/" target="_self">guided nature walk</a> along Hana’s Coast, <a href="http://travaasa.com/hana/travaasa-hana-experiences/culture/" target="_self">learn to string your own fragrant lei</a> or take your relaxation to the next level with one of the <a href="http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/" target="_self">finest spa treatments</a> in all of Hana. These experiences and more are yours to enjoy with our inclusive Total Travaasa option, which nourishes mind, body and soul with experiences, meals and non-alcoholic drinks.</p>
+         <p>Or, choose the <a href="http://travaasa.com/hana/hana-rates-and-packages/">Your Travaasa</a> option and add experiences to your stay &#224; la carte. Either way, Travaasa lets you design the Hana experience you’ll remember for years to come.</p>
+         <p>Whether you choose a private suite or a resort cottage with an inclusive package or &#224; la carte experiences, Travaasa Hana invites you to relax&#8212;after all, you’re on Hana time now.</p>
           <div class="col span_1_of_1"><a href="/pdf/Travaasa-Hana-Maui-Property-Map.pdf" class="btn-list" target="_blank">Download Property Map</a></div>
   </section>
   <section class="grey pad group">
@@ -60,12 +60,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <ul class="description">
                 <li>Inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
                 <li>Private, expansive lanais with <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow View">views</a> of the Pacific Ocean</li>
-                <li>Organic linens and blankets</li>
-                <li>Made in Maui bath products</li>
-                <li>Banana bread and snacks</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>Interior ceiling fans (air conditioning isn't necessary)</li>
-                <li>Complimentary nightly turndown service</li>
             </ul>
             <!--<p><strong>Note: only guests ages 16 and older are allowed in the Ocean Bungalows area, with the exception of special Family Weeks.</strong></p>-->
          </div>
@@ -100,12 +96,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Access to activities at the Makana Center</li>
                 <li>Wet bar</li>
                 <li>Indoor and outdoor sitting areas</li>
-                <li>Organic linens and blankets</li>
-                <li>Made in Maui bath products</li>
-                <li>Banana bread and snacks</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>Interior ceiling fans (air conditioning isn't necessary)</li>
-                <li>Complimentary nightly turndown service</li>
                 <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
          </div>
@@ -137,7 +129,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Adjacent to 3-hole pitch &amp; putt golf course</li>
                 <li>Large dining area and gourmet kitchen</li>
                 <li>Full Kitchen</li>
-                <li>Organic linens</li>
                 <li>Cable TV in living room</li>
                 <li>Coffee and tea</li>
             </ul>
