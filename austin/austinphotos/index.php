@@ -9,6 +9,11 @@
 	<title>Austin Texas Luxury Resort | Travaasa Austin Photos</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Experience Austin and the Texas Hill Country at Travaasa Austin. Visit our photo gallery to see the unique experiences that can be discovered here." />
+  <meta property="og:url"                content="http://travaasa.com/austin/austinphotos" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="Travaasa Austin Gallery" />
+  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>

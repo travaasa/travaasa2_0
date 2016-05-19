@@ -9,6 +9,11 @@
 	<title>Austin Resort | Austin Texas Hill Country Resort &amp; Spa | Travaasa</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Travaasa Austin is a unique, experiential resort in Texas Hill Country. Inclusive packages feature outdoor adventures, culinary discovery, a working farm, spa & wellness programs." />
+  <meta property="og:url"                content="http://travaasa.com/austin" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="Travaasa Austin" />
+  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>

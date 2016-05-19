@@ -8,7 +8,12 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>Travaasa Hana Inclusive Resort &amp; Cottages | All Inclusive Maui Resort</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Travaasa Hana is unique among Maui hotels and resorts. Experience Hawaiian island culture, total relaxation and luxury accommodations in Hana at Travaasa, one of the finest all include resorts in Hawaii. "
+	<meta name="description" content="Travaasa Hana is unique among Maui hotels and resorts. Experience Hawaiian island culture, total relaxation and luxury accommodations in Hana at Travaasa, one of the finest all include resorts in Hawaii. "/>
+    <meta property="og:url"                content="http://travaasa.com/hana/accomodations" />
+    <meta property="og:type"               content="website" />
+    <meta property="og:title"              content="Travaasa Hana, Maui Accommodations" />
+    <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+    <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-hana-rooms-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>

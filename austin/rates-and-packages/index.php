@@ -9,6 +9,11 @@
 	<title>Austin All Inclusive Resort Rates & Packages | Travaasa Austin Texas</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Travaasa Austin provides you with different rates and all inclusive resort package selections so that you can customize your journey, and make the most of your time with us." />
+  <meta property="og:url"                content="http://travaasa.com/austin/rates-and-packages" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="Travaasa Austin Rates &map; Packages" />
+  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
