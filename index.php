@@ -8,8 +8,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Travaasa Experiential Resorts  Adventure, Culinary, Culture, Fitness, Spa & Wellness Vacations</title>
   <meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-  <meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui. Our resorts provide authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa & Wellness." />
+  <meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui. Our resorts provide authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa &amp; Wellness." />
   <meta name="p:domain_verify" content="8b5fe67201926cfeb859a9501821fc80"/>
+  <meta property="og:url"                content="http://travaasa.com" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="Travaasa Experiential Resorts&#174;" />
+  <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://travaasa.com/assets/images/og-austin-1200x630.jpg" />
 <?php
    include_once($path."/Library/Travaasa_Head.php");
 ?>

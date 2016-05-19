@@ -9,11 +9,11 @@
 	<title>Maui Resort | Travaasa Experiential  Hana | Hawaii Resort & Spa</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Rediscover the magic of travel with Travaasa Hana, the most unique luxury  resort on Maui. All inclusive resort Guided activities include adventures, culinary and cultural odysseys, and fitness/yoga/wellness programs." />
-    <meta property="og:url"                content="http://travaasa.com/hana/" />
+  <meta property="og:url"                content="http://travaasa.com/hana/" />
   <meta property="og:type"               content="website" />
   <meta property="og:title"              content="Travaasa Hana, Maui" />
-  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
-  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-hana-1200x630.jpg" />
+  <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://travaasa.com/assets/images/og-hana-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
