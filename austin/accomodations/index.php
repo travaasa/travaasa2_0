@@ -12,8 +12,8 @@
   <meta property="og:url"                content="http://travaasa.com/austin/accommodations" />
   <meta property="og:type"               content="website" />
   <meta property="og:title"              content="Travaasa Austin Accommodations" />
-  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
-  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-rooms-1200x630.jpg" />
+  <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://travaasa.com/assets/images/og-austin-rooms-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
