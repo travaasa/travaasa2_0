@@ -8,7 +8,12 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>Austin Adventures | Culinary, Culture, Fitness & Wellness Vacations | Travaasa  Austin</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="There are countless experiences to discover at Travaasa Austin as part of your all inclusive vacation. Explore our Adventure, Culinary, Culture, Fitness, Spa & Wellness activities." />
+	<meta name="description" content="There are countless experiences to discover at Travaasa Austin as part of your all inclusive vacation. Explore our Adventure, Culinary, Culture, Fitness, Spa &amp; Wellness activities." />
+  <meta property="og:url"                content="http://travaasa.com/austin/austin-experiences" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="Travaasa Austin Activities" />
+  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-activities-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>

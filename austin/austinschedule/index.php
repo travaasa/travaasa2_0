@@ -9,6 +9,11 @@
 	<title>Travaasa Austin Resort Experiences Schedule | All Inclusive Resort Activities</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Every day is a new discovery at Travaasa Austin resort. Our schedule includes both all inclusive resort experiences and additional adventures." />
+  <meta property="og:url"                content="http://travaasa.com/austin/austinschedule" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="Travaasa Austin Activity Schedule" />
+  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-activities-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>

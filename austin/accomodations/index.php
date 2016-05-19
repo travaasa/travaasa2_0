@@ -9,6 +9,11 @@
 	<title>Travaasa Austin Luxury Resort | Inclusive Texas Hill Country Resort</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Travaasa Austin is unique among Texas Hill Country hotels and resorts. Whether you’re seeking luxury vacation accommodations in Austin, planning a romantic wedding or looking to host an executive retreat, Travaasa Austin is one of the finest inclusive resorts in Texas." />
+  <meta property="og:url"                content="http://travaasa.com/austin/accommodations" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="Travaasa Austin Accommodations" />
+  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-rooms-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>

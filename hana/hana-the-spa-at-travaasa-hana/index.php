@@ -9,6 +9,11 @@
 	<title>Maui Spa Retreat | Hawaiian Experience Spa | Spa at Travaasa Hana Hawaii</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="The Spa at Travaasa Hana, a Maui spa retreat,  is a deeply relaxing sanctuary enhanced by Hana’s natural tropical beauty - a true Hawaiian experience spa. " />
+    <meta property="og:url"                content="http://travaasa.com/hana/hana-the-spa-at-travaasa-hana" />
+    <meta property="og:type"               content="website" />
+    <meta property="og:title"              content="Travaasa Hana, Maui Spa" />
+    <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+    <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-hana-spa-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>

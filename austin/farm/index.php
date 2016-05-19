@@ -9,6 +9,11 @@
 	<title>Farm Vacations | Working Farm Vacation at Travaasa Austin</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Travaasa Austin resort features our very own 3.25-acre working farm and provide guests with programs to participate in a working farm vacation throughout the year." />
+  <meta property="og:url"                content="http://travaasa.com/austin/farm" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="The Farm at Travaasa Austin" />
+  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-farm-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>

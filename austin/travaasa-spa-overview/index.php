@@ -11,6 +11,11 @@
 	<title>Austin Resort Spa | Austin Day Spa at Travaasa | Texas Spas</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="A Top 10 Destination Spa - The Spa at Travaasa Austin provides a truly unforgettable and rejuvenating resort spa or day spa experience in Austin Texas." />
+  <meta property="og:url"                content="http://travaasa.com/austin/travaasa-spa-overview" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="The Spa at Travaasa Austin" />
+  <meta property="og:description"        content="ADVENTURE / CULTINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-austin-spa-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
