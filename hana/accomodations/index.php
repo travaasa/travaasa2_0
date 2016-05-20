@@ -155,7 +155,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
       <section class="grey pad group">
     <h2>Hana Cooling System</h2>
-    <p>In lieu of A/C, our Bungalows are equipped with interior ceiling fans and panoramic sliding doors offering ample trade winds for cooling.</p>
+    <p>In lieu of A/C, our Bungalows are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</p>
     <p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=20.7553&lon=-155.9879&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
   </section>
 </article>
