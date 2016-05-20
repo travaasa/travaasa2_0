@@ -173,11 +173,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>CANCELLATION POLICY: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
 
 
-
-
-
-
-
   </section>
 </article>
 </section>

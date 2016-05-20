@@ -4,14 +4,19 @@
 ?>
 <!DOCTYPE html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Kamaaina Rates | Hawaii Resident Rates | Travaasa Hana</title>
-	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Travaasa Hana is offering Hawaii residents incredible savings for stays three nights and longer. Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui." />
-	<?php
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Kamaaina Rates | Hawaii Resident Rates | Travaasa Hana</title>
+  <meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
+  <meta name="description" content="Travaasa Hana is offering Hawaii residents incredible savings for stays three nights and longer. Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui." />
+  <meta property="og:url"                content="http://travaasa.com/kamaaina/" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="Travaasa Hana Kamaaina Rates" />
+  <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-hana-1200x630.jpg" />
+  <?php
    include_once($path."/Library/Travaasa_Head.php");
-	?>
+  ?>
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
@@ -34,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix notheater">
           <h1>Exclusive Kamaaina Rates for Hawaii Residents</h1>
-          <p>Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui. Located at the end of the Road to Hana on Maui’s secluded eastern shore, Travaasa Hana is offering Hawaii residents incredible savings for stays three nights and longer. <!--The newly created kamaaina offers highlight <a href="http://mokuleleairlines.com/" target="_blank">Mokulele Airlines'</a> twice-daily air service between Kahului and Hana.--></p>
+          <p>Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui. Located at the end of the Road to Hana on Maui’s secluded eastern shore, Travaasa Hana, Maui is offering Hawaii residents incredible savings for stays three nights and longer. <!--The newly created kamaaina offers highlight <a href="http://mokuleleairlines.com/" target="_blank">Mokulele Airlines'</a> twice-daily air service between Kahului and Hana.--></p>
 
             <p>Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:</p>
             <br />
@@ -45,9 +50,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li>Accommodations in a low-rise Garden Junior Suite</li>
             <li>Access to a robust schedule of resort activities</li>
             <li>In-room bottled water and organic fair trade coffee</li>
-            <li>Welcome refreshment upon arrival</li>
+            <li>Welcome banana bread upon arrival</li>
             <li>Gratuities on all package components</li>
-            <li>Organic linens</li>
             <li>Complete access to resort facilities</li>
             <li>Wi-Fi</li>
             </ul>
@@ -61,9 +65,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <li>Accommodations in a plantation-style, Ocean Bungalow with a private lanai</li>
              <li>Access to a robust schedule of resort activities</li>
              <li>In-room bottled water and organic fair trade coffee</li>
-             <li>Welcome refreshment upon arrival</li>
+             <li>Welcome banana bread upon arrival</li>
              <li>Gratuities on all package components</li>
-             <li>Organic linens</li>
              <li>Complete access to resort facilities</li>
              <li>Wi-Fi</li>
             </ul>
@@ -81,8 +84,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Scripts.php");
 ?><script type="text/javascript">
 $(function() {
-	$('a[data-target="flare"]').peFlareLightbox();
-	setLocation("Hana", "rooms");
+  $('a[data-target="flare"]').peFlareLightbox();
+  setLocation("Hana", "rooms");
 });
 </script>
 </body>
