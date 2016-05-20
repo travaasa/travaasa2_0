@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Private, expansive lanais with <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow View">views</a> of the Pacific Ocean</li>
                 <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
-                <li>Interior ceiling fans (air conditioning isn't necessary)</li>
+                <li>Interior ceiling fans (<a href="#airconditioning">no air conditioning necessary</a>)</li>
                 <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
             <!--<p><strong>Note: only guests ages 16 and older are allowed in the Ocean Bungalows area, with the exception of special Family Weeks.</strong></p>-->
@@ -105,7 +105,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Indoor and outdoor sitting areas</li>
                 <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
-                <li>Interior ceiling fans (air conditioning isn't necessary)</li>
+                <li>Interior ceiling fans (<a href="#airconditioning">no air conditioning necessary</a>)</li>
                 <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
          </div>
@@ -149,8 +149,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <h3><sup>$</sup>725</h3>
             </li>
         </ul>
+        <a id="airconditioning"></a>
         <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link3" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link3");</script></p>
     </div>
+  </section>
+      <section class="grey pad group">
+    <h2>Hana Cooling System</h2>
+    <p>In lieu of A/C, our Bungalows are equipped with interior ceiling fans and panoramic sliding doors offering ample trade winds for cooling.</p>
+    <p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=20.7553&lon=-155.9879&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
   </section>
 </article>
 </section>
