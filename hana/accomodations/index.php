@@ -67,7 +67,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Private, expansive lanais with <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-flare-gallery="gallery1" data-target="flare" data-flare-scale="fitmax" title="Ocean Bungalow View">views</a> of the Pacific Ocean</li>
                 <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
-                <li>Interior ceiling fans (<a style="font-family: 'Gill Sans W04 Book', 'Gill Sans MT', Calibri, sans-serif; font-weight:400 !important;" href="#airconditioning">no air conditioning necessary</a>)</li>
+                <li>In lieu of air conditioning, our Bungalows are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</li>
+                <!--<li>Interior ceiling fans (<a style="font-family: 'Gill Sans W04 Book', 'Gill Sans MT', Calibri, sans-serif; font-weight:400 !important;" href="#airconditioning">no air conditioning necessary</a>)</li>-->
                 <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
             <!--<p><strong>Note: only guests ages 16 and older are allowed in the Ocean Bungalows area, with the exception of special Family Weeks.</strong></p>-->
@@ -105,7 +106,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Indoor and outdoor sitting areas</li>
                 <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
-                <li>Interior ceiling fans (<a style="font-family: 'Gill Sans W04 Book', 'Gill Sans MT', Calibri, sans-serif; font-weight:400 !important;" href="#airconditioning">no air conditioning necessary</a>)</li>
+                <li>In lieu of air conditioning, our Junior Suites are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</li>
+                <!--<li>Interior ceiling fans (<a style="font-family: 'Gill Sans W04 Book', 'Gill Sans MT', Calibri, sans-serif; font-weight:400 !important;" href="#airconditioning">no air conditioning necessary</a>)</li>-->
                 <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
          </div>
@@ -139,6 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Full Kitchen</li>
                 <li>Cable TV in living room</li>
                 <li>Coffee and tea</li>
+                <li>In lieu of air conditioning, our Family Suites are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</li>
             </ul>
          </div>
     </div>
