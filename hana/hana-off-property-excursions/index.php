@@ -45,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<h2>Wai'anapanapa State Park</h2>
 					<p>Walk along the ancient "King's Trail," explore a legendary freshwater cave, discover important archeological sites, visit Maui's only black-sand beach and of course, it all overlooks the Pacific Ocean.</p>
 					<h2>Hana Bay</h2>
-					<p><em>Kapueokahi</em> (the lone owl) is commonly referred to as "Hana Bay." It was the major shipping port for the sugar companies. Today, this quarter-mile slice of black and white sand is a favorite with local families for swimming, snorkeling and strolling. Complimentary snorkeling equipment is available at the Concierge Desk.</p>
+					<p><em>Kapueokahi</em> (the lone owl) is commonly referred to as "Hana Bay." It was the major shipping port for the sugar companies. Today, this quarter-mile slice of black and white sand is a favorite with local families for swimming, snorkeling and strolling. Snorkeling equipment is available for purchase in the gift shop.</p>
 					<h2>Hana Cultural Center</h2>
 					<p>Just a short walk from Travaasa Hana, the Cultural Center houses a fascinating collection of historical photos, documents and artifacts. The gift shop helps support the collections and any donation is greatly appreciated.</p>
 					<p>Open Monday – Friday 10:00 a.m.–4:00 pm.</p>
