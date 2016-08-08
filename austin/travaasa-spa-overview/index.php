@@ -576,7 +576,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
 
             <section class="spa_package">
                 <h4>Tap</h4>
-                <p>Revitalize tired and achy feet with essential oils of peppermint and grapefruit followed by an organic sugar scrub to exfoliate. Finish with peppermint foot cream to soften and hydrate, <!--Warm stone massage-->followed by polish or buff.</p>
+                <!--<p>Revitalize tired and achy feet with essential oils of peppermint and grapefruit followed by an organic sugar scrub to exfoliate. Finish with peppermint foot cream to soften and hydrate, followed by polish or buff.</p>-->
                 <h5>25 minutes &#8211; $75, Men's $55</h5>
             </section>
 
