@@ -125,7 +125,7 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
             <p class="description">"For a yoga and spa getaway, this resort that overlooks Lake Travis may be a fit. With 70 guests rooms, Travaasa Austin is brimming with amenities, including a fitness center and yoga studio, an infinity-edge pool, horse stables, a labyrinth and a challenge course." <a href="http://articles.chicagotribune.com/2012-10-23/travel/sc-trav-1023-yoga-getaways-20121023_1_yoga-students-yoga-health-yoga-getaways" target="_blank" class="more">Read article</a></p>
         </div>
     	<div class="col span_1_of_3 accolade">
-       		<img class="lazy" width="350" data-original="http://static.travaasa.com/assets/images/logo-culturemap.png" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Culture Map">
+       		<img class="lazy" width="350" data-original="http://travaasa.com/assets/images/logo-culturemap.png" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Culture Map">
             <p class="description">"This week, Condé Nast Traveler released its 2015 Readers’ Choice Awards for the top 100 hotels and resorts in the world." <a href="http://austin.culturemap.com/news/travel/10-23-15-austin-best-hotels-in-the-world-conde-nast-traveler-travaasa-lake-austin-spa-resort/#slide=0" target="_blank" class="more">Read article</a></p>
         </div>
     	<div class="col span_1_of_3 accolade">
