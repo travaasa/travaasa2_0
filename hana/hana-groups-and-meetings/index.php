@@ -48,7 +48,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   	<div class="tabbed_list_nav">
         <ul class="tabbed_list">
             <li id="tab_2"><a href="#facilities">Meeting Facilities</a></li>
-            <li id="tab_3"><a href="#proposal">Request for Proposal</a></li>
+            <li id="tab_3"><a href="#toolkit">Planners Toolkit</a></li>
+            <li id="tab_4"><a href="#proposal">Request for Proposal</a></li>
             <!--<li id="tab_4"><a href="/hana/weddings" target="_blank">Looking for Weddings?</a></li>-->
         </ul>
         <div style="display:inline-block;">
@@ -815,6 +816,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
              </div>
         </div>
+    </div>
+    <div id="toolkit" class="tab_data">
+        <div class="tab_data_inner">
+            <div class="group">
+                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Planners Guide</a></div>
+                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Group-Activity-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Group Activity Guide</a></div>
+                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Meal-Package-Menu.pdf" class="btn-jorah fitwidth" target="_blank">Meal Package Menu</a></div>
+            </div>
+            <div class="group">
+                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Spa-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Travaasa Hana Spa Guide</a></div>
+                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Maui-Property-Map.pdf" class="btn-jorah fitwidth" target="_blank">Property Map</a></div>
+                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Transportation-Options.pdf" class="btn-jorah fitwidth" target="_blank">Transportation Options</a></div>
+            </div>
     </div>
     <div id="proposal" class="tab_data">
         <div class="tab_data_inner">
