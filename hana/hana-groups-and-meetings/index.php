@@ -55,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div style="display:inline-block;">
     <a href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank"><img title="Travaasa Hana, Maui Meeting Planners Guide" style="float:left; margin: 20px 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="259" src="http://static.travaasa.com/assets/images/hana-meeting-planners-guide-thumb.jpg"></a>
     </div>
-    <a class="btn-jorah" href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank">MEETING PLANNER'S GUIDE</a></p>
+    <a class="btn-jorah" href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank">MEETING PLANNERS GUIDE</a></p>
     </div>
     <div id="facilities" class="tab_data">
         <div class="tab_data_inner">
