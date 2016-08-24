@@ -48,14 +48,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   	<div class="tabbed_list_nav">
         <ul class="tabbed_list">
             <li id="tab_2"><a href="#facilities">Meeting Facilities</a></li>
-            <li id="tab_3"><a href="#toolkit">Planners Toolkit</a></li>
+            <li id="tab_3"><a href="#toolkit">Planner's Toolkit</a></li>
             <li id="tab_4"><a href="#proposal">Request for Proposal</a></li>
             <!--<li id="tab_4"><a href="/hana/weddings" target="_blank">Looking for Weddings?</a></li>-->
         </ul>
         <div style="display:inline-block;">
     <a href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank"><img title="Travaasa Hana, Maui Meeting Planners Guide" style="float:left; margin: 20px 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="259" src="http://static.travaasa.com/assets/images/hana-meeting-planners-guide-thumb.jpg"></a>
     </div>
-    <a class="btn-jorah" href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank">MEETING PLANNERS GUIDE</a></p>
+    <a class="btn-jorah" href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank">Meeting Planner's Guide</a></p>
     </div>
     <div id="facilities" class="tab_data">
         <div class="tab_data_inner">
@@ -819,8 +819,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="toolkit" class="tab_data">
         <div class="tab_data_inner">
+        <h1>Planner's Toolkit</h1>
             <div class="group">
-                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Planners Guide</a></div>
+                <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Meeting Planner's Guide</a></div>
                 <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Group-Activity-Guide.pdf" class="btn-jorah fitwidth" target="_blank">Group Activity Guide</a></div>
                 <div class="col span_1_of_3"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Meal-Package-Menu.pdf" class="btn-jorah fitwidth" target="_blank">Meal Package Menu</a></div>
             </div>
