@@ -100,7 +100,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="body_treatments" class="tab_data">
         <div class="tab_data_inner">
             <h2>BODY TREATMENTS</h2>
-            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional.</p>
+            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional. Age 16 and up welcome.</p>
             <p>Body treatments at Travaasa Hana are designed to energize or soothe, and at Travaasa Hana we have a special name for the special herbal treatments we use: Pala‘au Kino (heal the body with herbs).</p>
             <!--<section class="spa_package">
                 <h4>Ho'ala ("To Arise") Refining Clay Body Wrap</h4>
@@ -109,14 +109,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</section>-->
             <section class="spa_package">
                 <h4>Hana Honey Body Wrap</h4>
+                <p>A luxurious Hawaiian Herbal Honey Mask made with local organic honey and organic Hawaiian herbal extracts will soften and rejuvenate your skin to the deepest levels. While your body is gently wrapped, enjoy a lavish foot and scalp treatment leaving you glowing and feeling youthful.</p>
                 <h5>60 minutes &#8211; $175</h5>
 			</section>
             <section class="spa_package">
                 <h4>Rebalance Hand &amp; Foot</h4>
+                <p>Focus specific attention where it may be needed most throughout your travels. Beginning with a soothing foot soak and warm towel wrap, your hands and feet will feel relaxed and recharged for the next step of your journey.</p>
                 <h5>60 minutes &#8211; $175</h5>
             </section>
             <section class="spa_package">
                 <h4>‘Awapuhi Sugar Cane Body Scrub</h4>
+                <p>This full body exfoliation treatment with organic coconut oil will soften your skin, while the pure essential oils of citrus, ginger and lemongrass will balance your internal energy and promote peace and renewal.</p>
                 <h5>60 minutes &#8211; $175, 90 minutes w/massage – $250</h5>
             </section>
             <section class="spa_package">
@@ -157,11 +160,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="facials" class="tab_data">
         <div class="tab_data_inner">
             <h2>FACIALS</h2>
-            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional.</p>
+            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional. Age 16 and up welcome.</p>
         	<p><strong>Pala'au ‘Ili (Heal the Skin with Herbs) Skin Care Facials</strong><br>We believe that natural beauty is best restored using natural remedies. At Travaasa Hana we call it Pala‘au ‘lli (heal the skin with herbs). Let us create a facial expressly for you and your skin type, then lay back and relax as we soothe, heal and clarify your skin with local clay, wild-crafted oils, plants, minerals and flowers.</p>
             <section class="spa_package">
                 <h4>IN THE MOMENT CUSTOM FACIAL</h4>
-    <p>Handcrafted on the island of Hawai‘i, this facial features all locally grown ingredients. Leave glowing and recharged.</p>
+    <p>Everyone’s skin is different. Let us customize your facial to provide your complexion with the most benefits.</p>
                 <h5>60 minutes &#8211; $200</h5>
 			</section>
             <section class="spa_package">
@@ -171,7 +174,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </section>
             <section class="spa_package">
                 <h4><em>KANE</em> (GENTLEMAN'S) CUSTOM FACIAL</h4>
-    <p>The healing blue lotus has come to symbolize purity and balance. Our gentleman's deeply cleansing and hydrating facial employs wild-crafted blue lotus, algae extract, rice germ, bamboo, ginger, lemon and tiger grass to exfoliate and purify the skin and decongest pores. Perfect for a man's skin, this facial provides the full spectrum of skin benefits as nature intended. </p>
+    <p>Perfect for a man's skin, this customized-for-men facial provides the full spectrum of skin benefits as nature intended. </p>
                 <h5>60 minutes &#8211; $175</h5>
             </section>
             <!--<section class="spa_package">
@@ -209,7 +212,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="enhancements" class="tab_data">
         <div class="tab_data_inner">
             <h2>ENHANCEMENTS</h2>
-            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional.</p>
+            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional. Age 16 and up welcome.</p>
         	<section class="spa_package">
                 <h4>MOLOKA'I SEA SALT SCRUB</h4>
     <p>The Friendly Isle invites you to enjoy one of its most famous exports, ‘alaea sea salt. This full body exfoliation is rich in over 80 minerals allowing your skin to take in all of the benefits while leaving you feeling glowing and radiant!</p>
@@ -238,17 +241,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional.</p>
             <section class="spa_package">
                 <h4>HAWAIIAN LOMILOMI</h4>
-    <p>Lomilomi is a powerful native Hawaiian healing tradition. Rhythmic strokes, joint movement and deep kneading open the body and soothe the soul. Enjoy your choice of aromatherapy signature oil blends – $10 additional.</p>
+    <p>Lomilomi is a powerful native Hawaiian healing tradition. Rhythmic strokes, joint movement and deep kneading open the body and soothe the soul.</p>
                 <h5>60 or 90 minutes &#8211; $175/$250</h5>
 			</section>
             <section class="spa_package">
                 <h4>DEEP TISSUE MASSAGE</h4>
-    <p>Melt away deep-seated tension and pain. This massage will release muscle fatigue and toxicity, help to realign your posture and increase range of motion. Our signature rice bran, coconut and monoi oil is used during this massage.</p>
+    <p>Melt away deep-seated tension and pain. This massage will release muscle fatigue and toxicity, help to realign your posture and increase range of motion.</p>
                 <h5>60 or 90 minutes &#8211; $175/$250</h5>
 			</section>
             <section class="spa_package">
                 <h4>SWEDISH MASSAGE</h4>
-    <p>This deeply relaxing and soothing massage uses long, flowing strokes to help reduce tension and stress, ease stiffness and gently increase circulation. Our signature coconut, rice bran and monoi oil is used during this massage.</p>
+    <p>This deeply relaxing and soothing massage uses long, flowing strokes to help reduce tension and stress, ease stiffness and gently increase circulation.</p>
                 <h5>60 or 90 minutes &#8211; $175/$250</h5>
 			</section>
             <section class="spa_package">
@@ -262,7 +265,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <h5>60 minutes &#8211; $175</h5>
 			</section>
             <section class="spa_package">
-                <h4>POHAKU WELA HOT STONE</h4>
+                <h4><em>POHAKU WELA</em> HOT STONE</h4>
     <p>In the traditions of Hawai'i, smooth heated stones apply the elements of earth, air, fire and water to achieve a healing, centering, rejuvenating treatment as muscle tension melts.</p>
                 <h5>60 or 90 minutes &#8211; $175/$250</h5>
 			</section>
@@ -286,16 +289,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <p>This goes one step beyond the standard deep tissue, including sports massage techniques combined with a therapeutic muscle relief balm and custom aromatherapy oil, leaving you feeling revitalized and ready for your next adventure.</p>
                 <h5>90 minutes &#8211; $275</h5>
             </section>
-            <section class="spa_package">
-                <h4>HO'A'ALA ("TO MAKE FRAGRANT") AROMATHERAPY OIL</h4>
-                <h5>Added to any massage treatment – $10</h5>
-			</section>
         </div>
     </div>
     <div id="waxing" class="tab_data">
         <div class="tab_data_inner">
             <h2>WAXING SERVICES</h2>
-            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional.</p>
+            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional. Age 16 and up welcome.</p>
             <section class="spa_package">
                 <h4>LIP</h4>
                 <h5>$25</h5>
@@ -325,7 +324,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div id="special_packages" class="tab_data">
         <div class="tab_data_inner">
             <h2>PACKAGES</h2>
-            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional.</p>
+            <p style="text-transform: uppercase; font-size:12px; letter-spacing: 1px; ">All prices include gratuity; tax is additional. Age 16 and up welcome.</p>
             <section class="spa_package">
                 <h4><em>MALAMA PONO</em> PACKAGE</h4>
     <p>Malama Pono literally translates to “take care of yourself.” Enough said. <em>Includes:</em></p>
@@ -410,10 +409,6 @@ Please keep in mind that the treatment times are reserved especially for you. Th
 			<section class="spa_package">
 <h4>FOR YOUR COMFORT</h4>
 <p>Please shower before all treatments. Avoid shaving one day prior to body scrubs. Rest and avoid vigorous activity for at least one hour after treatments, and drink water before and after all therapies.</p>
-            </section>
-			<section class="spa_package">
-<h4>IN-ROOM MASSAGE</h4>
-<p>Enjoy massages in the privacy of your Cottage for an additional $40 per person.</p>
             </section>
 			<section class="spa_package">
 <h4>PREGNANCY</h4>
