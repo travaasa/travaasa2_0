@@ -165,12 +165,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <section class="spa_package">
                 <h4>IN THE MOMENT CUSTOM FACIAL</h4>
     <p>Everyone’s skin is different. Let us customize your facial to provide your complexion with the most benefits.</p>
-                <h5>60 minutes &#8211; $200</h5>
+                <h5>60 or 90 minutes &#8211; $175/$250</h5>
 			</section>
             <section class="spa_package">
                 <h4>ISLAND GLOW FACIAL</h4>
     <p>Handcrafted on the island of Hawai‘i, this facial features all locally grown ingredients. Leave glowing and recharged.</p>
-                <h5>60 or 90 minutes &#8211; $175/$250</h5>
+                <h5>60 minutes &#8211; $200</h5>
             </section>
             <section class="spa_package">
                 <h4><em>KANE</em> (GENTLEMAN'S) CUSTOM FACIAL</h4>
