@@ -60,12 +60,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           Find out why the Mai Tai is synonymous with Hawaii — or is it? Learn the difference between a martini that is shaken or stirred. Discover what a muddle is and why you would use it. Join us as we embark on a tasting journey, learning how quintessential old-world recipes have morphed in search of the complex, layered flavors that create today's savory new trends.
           </p>
         </article>
-        <article>
+        <!--<article>
           <img data-original="http://static.travaasa.com/assets/images/exp_hana_culinary_healthy_regional_cuisine.jpg" src="http://static.travaasa.com/assets/images/exp_hana_culinary_healthy_regional_cuisine.jpg" alt="Healthy Regionl Cuisine Hawaii Culinary travel">
           <br />
           <h2>Healthy Regional Cuisine</h2>
           <p class="description">You won’t find dishes like those of modern Hawaiian cuisine anywhere else in the world. Here, Hawaii’s traditional foods meet with the many diverse ethnic flavors brought to the islands over a long and rich history of immigration, resulting in a local fusion with tastes of Japan, China and the Philippines, to name a few. The island is also a paradise for gourmets, with abundant fruits and vegetables grown from rich volcanic soil, a wide variety of high quality, fresh fish and locally sourced cattle. During this experience, you'll learn about Hawaii's many food staples and try your hand at some of our most revered local delicacies.</p>
-        </article>
+        </article>-->
         <article>
           <img data-original="http://static.travaasa.com/assets/images/exp_hana_culinary_juicing.jpg" src="http://static.travaasa.com/assets/images/exp_hana_culinary_juicing.jpg" alt="Juicing 2.0">
           <br />
