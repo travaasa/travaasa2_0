@@ -141,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <br>
         <h5>Age Policy</h5>
-        <p>Travaasa welcomes guests aged <strong>16 and up</strong>.</p>
+        <p>Travaasa welcomes guests aged <strong>16 and up</strong>. Must be 21 or older to check in.</p>
 
         <h5>The Fine Print</h5>
 
