@@ -29,7 +29,7 @@ Austin, TX 78726<br>
 Fax: 512-506-9737<br>
 Group Sales: 512-334-4649
 <br>
-<a href="http://maps.google.com/maps?hl=en&amp;q=travaasa+austin&amp;safe=off&amp;ie=UTF8&amp;sqi=2&amp;hq=travaasa&amp;hnear=Austin,+Travis,+Texas&amp;t=m&amp;vpsrc=6&amp;ll=30.45844,-97.835999&amp;spn=0.12326,0.221786&amp;z=13&amp;iwloc=A&amp;cid=5151063792531704065">DIRECTIONS</a></p>
+<a href="https://maps.google.com/maps?hl=en&amp;q=travaasa+austin&amp;safe=off&amp;ie=UTF8&amp;sqi=2&amp;hq=travaasa&amp;hnear=Austin,+Travis,+Texas&amp;t=m&amp;vpsrc=6&amp;ll=30.45844,-97.835999&amp;spn=0.12326,0.221786&amp;z=13&amp;iwloc=A&amp;cid=5151063792531704065">DIRECTIONS</a></p>
     </div>
     <div class="col span_1_of_4">
       <p><a href="/austin/austinphotos">GALLERY</a><br>
@@ -55,17 +55,17 @@ Group Sales: 512-334-4649
     <div class="col span_1_of_4">
       <h2 class="hdr">FOLLOW US</h2>
       <ul id="social" class="clearfix">
-      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
-        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="/assets/images/global/transparent.gif" alt="Twitter"></a></li>
-        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="/assets/images/global/transparent.gif" alt="YouTube"></a></li>
-        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
-        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="/assets/images/global/transparent.gif" alt="Blog"></a></li>
+      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Facebook"></a></li>
+        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Twitter"></a></li>
+        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="YouTube"></a></li>
+        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
+        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>
       <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
-      <a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO TALK WITH US</a><br />
-      <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO CHAT WITH US</a></p>
+      <a id="lnkP2Talk" class="btn" href="https://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO TALK WITH US</a><br />
+      <a id="lnkP2Chat" class="btn" href="https://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO CHAT WITH US</a></p>
     </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/austin-tx/travaasa-austin"><img src="http://static.travaasa.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2016 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;Travaasa Austin is a non-smoking property.</span></p>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/austin-tx/travaasa-austin"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2016 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;Travaasa Austin is a non-smoking property.</span></p>
     
     
   </nav>
