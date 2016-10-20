@@ -13,12 +13,12 @@
   <meta property="og:type"               content="website" />
   <meta property="og:title"              content="Travaasa Austin" />
   <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
-  <meta property="og:image"              content="http://travaasa.com/assets/images/og-austin-1200x630.jpg" />
+  <meta property="og:image"              content="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/og-austin-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
-<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_AUSTIN ?>"></script>
+<script type="text/javascript" src="https://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_AUSTIN ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
 <!-- end NAVIS Code -->
 </head>
@@ -36,15 +36,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Austin.php");
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <!--<div class="slide"><a href="https://travaasa.ticketbud.com/jamandjive" target="_blank"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_jam-n-jive.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
-      <div class="slide"><a href="/austin/austinphotos/" ><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_2015_top_100_2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>
-      <!--<div class="slide"><a href="/austin/austinphotos/" ><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_number-one_pool.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
-      <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_dayvideo_promo2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>
-      <div class="slide"><a href="/austin/farm/" ><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_farm2.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>
-      <!--<div class="slide"><a href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank"><img data-original="http://static.travaasa.com/assets/images/feature_home_1600x640_harvest-dinner-2013.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
-      <!--<div class="slide"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="http://static.travaasa.com/assets/images/feature_home_1600x640_mondavi-wine-dinner.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
-      <div class="slide"><a href="/austin/travaasa-spa-overview/" ><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="The Spa at Travaasa Austin"></a></div>
-      <div class="slide"><a href="http://www.mancation.travaasa.com/stories/?utm_source=main-site&utm_medium=internal%20link&utm_campaign=man-month" target="_blank"><img data-original="http://static.travaasa.com/assets/images/feature_austin_1600x640_mancation.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a></div>
+      <!--<div class="slide"><a href="https://travaasa.ticketbud.com/jamandjive" target="_blank"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_austin_1600x640_jam-n-jive.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
+      <div class="slide"><a href="/austin/austinphotos/" ><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_austin_1600x640_2015_top_100_2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
+      <!--<div class="slide"><a href="/austin/austinphotos/" ><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_austin_1600x640_number-one_pool.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
+      <div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=YLFU16k-6f8"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_austin_1600x640_dayvideo_promo2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="/austin/farm/" ><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_austin_1600x640_farm2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
+      <!--<div class="slide"><a href="https://travaasaharvestdinner.ticketbud.com/houston2013" target="_blank"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_harvest-dinner-2013.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
+      <!--<div class="slide"><a href="https://travaasa.ticketbud.com/robert-mondavi-wine-dinner" target="_blank"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_mondavi-wine-dinner.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
+      <div class="slide"><a href="/austin/travaasa-spa-overview/" ><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_austin_1600x640_spa_western-star.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="The Spa at Travaasa Austin"></a></div>
+      <div class="slide"><a href="http://www.mancation.travaasa.com/stories/?utm_source=main-site&utm_medium=internal%20link&utm_campaign=man-month" target="_blank"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_austin_1600x640_mancation.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
 
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
@@ -58,9 +58,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>The location of Travaasa Austin alone will inspire you. Surrounded by the ancient live oaks and undulating hills of the Balcones Canyonlands Preserve, our resort embraces nature … and is embraced by nature in return.<br><br>
 <strong>But this isn’t just another resort.</strong><br><br>
 As Texas's most active destination resort and spa, Travaasa Austin takes pride in offering its guests a compelling menu of inclusive guided adventures, culinary classes, cultural encounters, healing spa treatments, and fitness and wellness workshops, all located in a Zen-like preserve for the soul.</p>
-<a href="/austin/video/"><img class="videobox" style="float:left;!important" width="350" src="http://static.travaasa.com/assets/images/play-button-600px-austin.jpg"></a>
-<img style="float:left; padding: 5px 0 0 10px;" width="150" height="150" src="http://static.travaasa.com/assets/images/austin-conde-nast-2014.png">
-<a href="http://www.tripadvisor.com/Hotel_Review-g30196-d2008152-Reviews-Travaasa_Austin-Austin_Texas.html" target="_blank"><img style="float:left; padding: 5px 0 0 5px;" width="152" height="126" src="http://static.travaasa.com/assets/images/austin-tripadvisor_152x126.png"></a>
+<a href="/austin/video/"><img class="videobox" style="float:left;!important" width="350" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/play-button-600px-austin.jpg"></a>
+<img style="float:left; padding: 5px 0 0 10px;" width="150" height="150" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/austin-conde-nast-2014.png">
+<a href="https://www.tripadvisor.com/Hotel_Review-g30196-d2008152-Reviews-Travaasa_Austin-Austin_Texas.html" target="_blank"><img style="float:left; padding: 5px 0 0 5px;" width="152" height="126" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/austin-tripadvisor_152x126.png"></a>
 <!--<div style="float:left; padding: 0 0 0 10px;" id="TA_certificateOfExcellence633" class="TA_certificateOfExcellence">
 <ul id="spzvfhE" class="TA_links FGPJCU4">
 <li id="DgKa9Rc" class="9ewiLgLW">
@@ -78,7 +78,7 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
 </ul>
 </div>
 <script src="http://www.jscache.com/wejs?wtype=greenleader&amp;uniq=959&amp;locationId=2008152&amp;lang=en_US&amp;border=false"></script>-->
-<a href="http://www.tripadvisor.com/Hotel_Review-g30196-d2008152-Reviews-Travaasa_Austin-Austin_Texas.html" target="_blank"><img style="float:left; padding: 5px 0 0 0;" width="172" height="126" src="http://static.travaasa.com/assets/images/austin-greenleaders-172x126.png"></a>
+<a href="https://www.tripadvisor.com/Hotel_Review-g30196-d2008152-Reviews-Travaasa_Austin-Austin_Texas.html" target="_blank"><img style="float:left; padding: 5px 0 0 0;" width="172" height="126" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/austin-greenleaders-172x126.png"></a>
 
 
 
@@ -91,25 +91,25 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
     <div id="story1-wrapper" class="storyline_carousel">
       <div id="story1" class="storyline">
         <div class="slide">
-          <div class="slide_inner"><a href="/austin/austin-experiences/"><img data-original="http://static.travaasa.com/assets/images/exp_austin_experiences_overview.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Austin Texas Resort Experiences"></a>
+          <div class="slide_inner"><a href="/austin/austin-experiences/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_austin_experiences_overview.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Austin Texas Resort Experiences"></a>
             <h5>Travaasa Austin Experiences</h5>
             <p class="description">Situated on the edge of the Balcones Canyonlands Preserve, Travaasa Austin offers an extensive selection of guided activities set amidst — and inspired by — the beautiful Texas Hill Country. Learn how to Texas Two-Step, overcome your inhibitions on the Prickly Pear Challenge Course, take a mechanical bull riding workout class, embrace your intuition through a sunrise horseback ride, and more. At Travaasa Austin, you will never run out of things to do. <a href="/austin/austin-experiences/" class="more">Explore</a></p>
           </div>
         </div>
         <div class="slide">
-          <div class="slide_inner"><a href="/austin/travaasa-spa-overview/"><img data-original="http://static.travaasa.com/assets/images/exp_austin_spa_overview.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Texas Hill Country Resort Spa"></a>
+          <div class="slide_inner"><a href="/austin/travaasa-spa-overview/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_austin_spa_overview.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Texas Hill Country Resort Spa"></a>
             <h5>Travaasa Austin a Top 10 Destination Spa</h5>
             <p class="description">TripAdvisor named Travaasa Austin a Top 10 Destination Spa. Because a visit here goes far beyond pampering and indulgence. Our treatments reflect our passion for, and knowledge of, the human body and the ability of plants and essential oils to naturally treat, heal and revitalize the soul. <a href="/austin/travaasa-spa-overview/" class="more">Explore</a></p>
           </div>
         </div>
         <div class="slide">
-          <div class="slide_inner"><a href="/austin/accomodations/"><img data-original="http://static.travaasa.com/assets/images/exp_austin_accommodations_overview.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a>
+          <div class="slide_inner"><a href="/austin/accomodations/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_austin_accommodations_overview.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a>
             <h5>Relaxing digs</h5>
             <p class="description">The accommodations at Travaasa Austin are comfortable, stylish and soothing — perfect for unwinding after an ambitious workout, nature hike or meeting. Each rooms offers a private deck or patio welcoming the fresh outdoor air in. The a perfect place to just breathe. <a href="/austin/accomodations/" class="more">Explore</a></p>
           </div>
         </div>
         <div class="slide">
-          <div class="slide_inner"><a href="/austin/dining/"><img data-original="http://static.travaasa.com/assets/images/exp_austin_dining_overview.jpg" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt=""></a>
+          <div class="slide_inner"><a href="/austin/dining/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_austin_dining_overview.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a>
             <h5>A taste of Travaasa Austin</h5>
             <p class="description">With the emphasis on locally sourced, organic food, and a focus on healthy eating, Travaasa Austin brings you a well-rounded culinary program that offers everything from basic culinary skills and juicing, to wine tasting and group cooking demonstrations and challenges. <a href="/austin/dining/" class="more">Explore</a></p>
           </div>
@@ -121,16 +121,16 @@ As Texas's most active destination resort and spa, Travaasa Austin takes pride i
     <h4>AS FEATURED IN</h4>
     <div class="group">
     	<div class="col span_1_of_3 accolade">
-        	<img class="lazy" data-original="http://static.travaasa.com/assets/images/logo-chicago-tribune.png" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Chicago Tribune">
+        	<img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/logo-chicago-tribune.png" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Chicago Tribune">
             <p class="description">"For a yoga and spa getaway, this resort that overlooks Lake Travis may be a fit. With 70 guests rooms, Travaasa Austin is brimming with amenities, including a fitness center and yoga studio, an infinity-edge pool, horse stables, a labyrinth and a challenge course." <a href="http://articles.chicagotribune.com/2012-10-23/travel/sc-trav-1023-yoga-getaways-20121023_1_yoga-students-yoga-health-yoga-getaways" target="_blank" class="more">Read article</a></p>
         </div>
     	<div class="col span_1_of_3 accolade">
-       		<img class="lazy" width="400" data-original="http://travaasa.com/assets/images/logo-culturemap.png" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="Culture Map">
+       		<img class="lazy" width="400" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/logo-culturemap.png" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Culture Map">
             <p class="description">"This week, Condé Nast Traveler released its 2015 Readers’ Choice Awards for the top 100 hotels and resorts in the world." <a href="http://austin.culturemap.com/news/travel/10-23-15-austin-best-hotels-in-the-world-conde-nast-traveler-travaasa-lake-austin-spa-resort/#slide=0" target="_blank" class="more">Read article</a></p>
         </div>
     	<div class="col span_1_of_3 accolade">
-        	<img class="lazy" data-original="http://static.travaasa.com/assets/images/logo-wall-street-journal.png" src="http://static.travaasa.com/assets/images/global/placeholder.gif" alt="The Wall Street Journal">
-            <p class="description">"All it takes to learn how to raise chickens in your backyard is a few nights at a spa ­ specifically, the Travaasa Austin resort in Texas hill country. In the retreat’s new farming program, organic farmer Kim Grabosky teaches city slickers about seed germination, plant transferring and a handful of other topics." <a href="http://online.wsj.com/article/SB10001424127887324789504578384941838075034.html" target="_blank" class="more">Read article</a></p>
+        	<img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/logo-wall-street-journal.png" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="The Wall Street Journal">
+            <p class="description">"All it takes to learn how to raise chickens in your backyard is a few nights at a spa ­ specifically, the Travaasa Austin resort in Texas hill country. In the retreat’s new farming program, organic farmer Kim Grabosky teaches city slickers about seed germination, plant transferring and a handful of other topics." <a href="https://online.wsj.com/article/SB10001424127887324789504578384941838075034.html" target="_blank" class="more">Read article</a></p>
         </div>
     </div>
   </section>

@@ -27,7 +27,7 @@
 <br>Tel: <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>808-359-2401</noscript><br>
 Fax: 808-248-7202<br>
 <br>
-<a href="http://maps.google.com/maps?hl=en&amp;q=5031+Hana+Highway+Hana,+HI+96713&amp;gs_upl=3125l8296l0l9305l5l5l0l0l0l1l203l724l1.3.1l5l0&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;biw=638&amp;bih=933&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x7954ac25effd1793:0x535647e82e0e776,5031+Hana+Hwy,+Hana,+HI+96713&amp;gl=us&amp;ei=Hh4GT_KFB4nE2wX9zIn5CQ&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=1&amp;ved=0CB0Q8gEwAA5">DIRECTIONS</a></p>
+<a href="https://maps.google.com/maps?hl=en&amp;q=5031+Hana+Highway+Hana,+HI+96713&amp;gs_upl=3125l8296l0l9305l5l5l0l0l0l1l203l724l1.3.1l5l0&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;biw=638&amp;bih=933&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x7954ac25effd1793:0x535647e82e0e776,5031+Hana+Hwy,+Hana,+HI+96713&amp;gl=us&amp;ei=Hh4GT_KFB4nE2wX9zIn5CQ&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=1&amp;ved=0CB0Q8gEwAA5">DIRECTIONS</a></p>
     </div>
     <div class="col span_1_of_4">
       <p><a href="/hana/hanaphotos">GALLERY</a><br>
@@ -56,17 +56,17 @@ Fax: 808-248-7202<br>
     <div class="col span_1_of_4">
       <h2 class="hdr">FOLLOW US</h2>
       <ul id="social" class="clearfix">
-      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="/assets/images/global/transparent.gif" alt="Facebook"></a></li>
-        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="/assets/images/global/transparent.gif" alt="Twitter"></a></li>
-        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="/assets/images/global/transparent.gif" alt="YouTube"></a></li>
-        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
-        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="/assets/images/global/transparent.gif" alt="Blog"></a></li>
+      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Facebook"></a></li>
+        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Twitter"></a></li>
+        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="YouTube"></a></li>
+        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
+        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>
       <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
-      <a id="lnkP2Talk" class="btn" href="http://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO TALK WITH US</a><br />
-      <a id="lnkP2Chat" class="btn" href="http://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO CHAT WITH US</a></p>
+      <a id="lnkP2Talk" class="btn" href="https://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO TALK WITH US</a><br />
+      <a id="lnkP2Chat" class="btn" href="https://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8888201043" target="_blank">CLICK TO CHAT WITH US</a></p>
     </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="http://static.travaasa.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2016 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2016 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
   </nav>
 </footer>
 <script type="text/javascript">
