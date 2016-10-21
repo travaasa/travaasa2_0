@@ -1,7 +1,7 @@
 <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <!-- JavaScript at the bottom for fast page loading -->
-<script>window.jQuery || document.write('<script src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery-1.7.2.min.js"><\/script>')</script>
+<!--<script>window.jQuery || document.write('<script src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery-1.7.2.min.js"><\/script>')</script>-->
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.carouFredSel-6.1.0-packed.js"></script>
 <![if !IE]>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.touchSwipe.min.js"></script>
