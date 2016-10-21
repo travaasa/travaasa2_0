@@ -22,7 +22,7 @@ footer { width:100%; background-color:#63CADF; margin:0; padding:0; height:25px;
 
 /* HEADER STYLES */
 #main_nav { float:left; margin-left:190px; }
-#logo { width:196px; height:166px; background:url(../images/global/sprite.png) 0 0 no-repeat; position:absolute; top:0; left:0; z-index:50; }
+#logo { width:196px; height:166px; background:url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) 0 0 no-repeat; position:absolute; top:0; left:0; z-index:50; }
 #logo span { display:none; }
 .menu_top { float:left; display:block; padding:8px; margin:0; }
 .menu_top li { display:inline-block; margin:0; padding:0 3px; border:none; list-style:none; text-align:left; }
@@ -33,10 +33,10 @@ footer { width:100%; background-color:#63CADF; margin:0; padding:0; height:25px;
 .location_group_nav { float:left; display:none; }
 .location_selector_nav { background-color:#63CADF; color:white; }
 .location_selector_nav li a { color:white; }
-.location_selector_nav li.menu_main a { padding-right:0; width:110px; background:url(../images/global/sprite.png) 0px -268px no-repeat; } 
+.location_selector_nav li.menu_main a { padding-right:0; width:110px; background:url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) 0px -268px no-repeat; } 
 .location_condensed_nav, .location_nav { display:block; background-color:#EDEDED; background-color:rgba(237, 237, 237, .8); }
 .location_condensed_nav { display:none; }
-.location_condensed_nav li.menu_main a { padding-right:55px; background:url(../images/global/sprite.png) 70px -197px no-repeat; } 
+.location_condensed_nav li.menu_main a { padding-right:55px; background:url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) 70px -197px no-repeat; } 
 .location_condensed_nav li.menu_main a:hover { color:#000000; }
 .location_nav li { border-right:1px solid #666666; }
 .location_nav li.menu_plus { border-right:none; }
@@ -98,7 +98,7 @@ a.carousel_prev, a.carousel_next { width: 25%; height: 100%; display: block; pos
 a.carousel_prev { left:0; }
 a.carousel_next { right:0; }
 a.carousel_prev:hover span, a.carousel_next:hover span { opacity:1; }
-a.carousel_prev span, a.carousel_next span { background: url(../images/global/sprite.png) no-repeat transparent; width: 48px; height: 90px; display: block; position: absolute; top: 40%; opacity:.2; }
+a.carousel_prev span, a.carousel_next span { background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) no-repeat transparent; width: 48px; height: 90px; display: block; position: absolute; top: 40%; opacity:.2; }
 a.carousel_prev span { left: 0; background-position: -200px 0; }
 a.carousel_next span { right: 0; background-position: -250px 0; }
 a.carousel_prev span b, a.carousel_next span b { display: none; }
@@ -126,7 +126,7 @@ a.carousel_prev.disabled span, a.carousel_next.disabled span { display: none; }
 #main { padding:24px 8px; }
 .reservation_nav { display:none; }
 header { position:relative; background-color:#63CADF; }
-#logo { width:100%; height:70px; margin:0; background:#63CADF url(../images/global/logo.png) center no-repeat; position:relative; }
+#logo { width:100%; height:70px; margin:0; background:#63CADF url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/logo.png) center no-repeat; position:relative; }
 #main_nav { float:none; margin:0; }
 }
 
