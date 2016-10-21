@@ -1,4 +1,5 @@
 RewriteEngine On
+RewriteBase /
 # For security reasons, Option followsymlinks cannot be overridden.
 #Options +FollowSymLinks
 Options +SymLinksIfOwnerMatch
@@ -13,12 +14,14 @@ RewriteCond %{HTTP_HOST} ^184\.106\.113\.117
 RewriteRule (.*) http://www.travaasa.com/$1 [R=301,L]
 RewriteRule ^hana/#(.*)$ http://travaasa.com/hana/$1 [R=302,L]
 
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 AddType image/svg+xml svg svgz
 AddEncoding gzip svgz
 
 # 404 page
-ErrorDocument 404 /404.php
+ErrorDocument 404 /var/www/html/404.php
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
@@ -28,3 +31,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /careers/index.php [L]
 </IfModule>
+
