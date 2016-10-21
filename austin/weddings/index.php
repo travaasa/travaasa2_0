@@ -13,7 +13,7 @@
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
-<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_AUSTIN ?>"></script>
+<script type="text/javascript" src="https://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_AUSTIN ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
 <!-- end NAVIS Code -->
 </head>
@@ -64,14 +64,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li>Over 7,300 sq. ft. of indoor function space</li>
           <li>Outdoor venues blanketed by big, bright Texas stars at night</li>
           </ul>
-          <p>Don’t want to cover everything? No problem. We’ll work with you to create a package for your guests that covers everyone and meets the resort minimum. Download our <a href="http://travaasa.com/pdf/Travaasa-Austin-Wedding-Guide.pdf" target="_blank">Wedding Guide</a> to learn more.</p>
+          <p>Don’t want to cover everything? No problem. We’ll work with you to create a package for your guests that covers everyone and meets the resort minimum. Download our <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com//pdf/Travaasa-Austin-Wedding-Guide.pdf" target="_blank">Wedding Guide</a> to learn more.</p>
           </div>
           <div class="col span_3_of_9">
           <p>INTERESTED IN WEDDINGS?</p>
           <h2 class="big">877-648-0782</h2>
           <p>or <a href="mailto:austinsales@travaasa.com" target="_blank">austinsales@travaasa.com</a><br><br>
           <a class="btn-jorah" href="https://travaasa.wufoo.com/forms/travaasa-wedding-request-for-proposal/" target="_blank">REQUEST FOR PROPOSAL</a></p>
-          <a href="http://static.travaasa.com/pdf/Travaasa-Austin-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Austin Wedding Guide" style="float:left; margin: 0 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="200" height="259" src="http://static.travaasa.com/assets/images/aus-wedding-thumb.jpg"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Austin-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Austin Wedding Guide" style="float:left; margin: 0 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="200" height="259" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/aus-wedding-thumb.jpg"></a>
           </div>
           <!--BEGIN VIDEO EMBED PLACEHOLDER-->
           <!--<div class="embed-container">
@@ -90,11 +90,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <h4 style="text-align:center;">GALLERY</h4>
     <div id="austin-wedding-gallery-wrapper" class="gallery section">
         <div class="group">
-                <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/wedding-01-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-01-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-                  <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/wedding-02-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-02-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-                  <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/wedding-03-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-03-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-                  <div class="col span_1_of_5"><a href="http://static.travaasa.com/assets/images/gallery/austin/wedding-04-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-04-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
-                  <div class="col span_1_of_5"><a class="fancy frame-left" href="http://static.travaasa.com/assets/images/gallery/austin/wedding-05-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-05-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
+                <div class="col span_1_of_5"><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/austin/wedding-01-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-01-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
+                  <div class="col span_1_of_5"><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/austin/wedding-02-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-02-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
+                  <div class="col span_1_of_5"><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/austin/wedding-03-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-03-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
+                  <div class="col span_1_of_5"><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/austin/wedding-04-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-04-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
+                  <div class="col span_1_of_5"><a class="fancy frame-left" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/austin/wedding-05-large.jpg" data-flare-gallery="wedding1" data-target="flare" data-flare-scale="fitmax" title="Weddings at Travaasa"><img class="lazy" data-original="/assets/images/gallery/austin/wedding-05-small.jpg" src="/assets/images/global/placeholder.gif" width="170" height="170" alt="Weddings at Travaasa"></a></div>
             </div>
         <a name="austin-wedding-gallery">&nbsp;</a>
       </div>
