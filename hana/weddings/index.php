@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
           <p>Let the lush beauty of Maui's landscape inspire your tropical dream wedding. Whether you envision an intimate ocean bluff ceremony or a grand Lu’au lasting late into the night, Travaasa Hāna provides the perfect scene for your life-changing union. <br /><br />
           Four outdoor ceremony locations and eight indoor or outdoor reception locations offer the perfect venue for weddings of any size. Customize your dream wedding with add ons such as a tropical flower crown, hula dancers, a ukulele musician and other options.<br /><br />
-          What better way to relax and prepare for the big day than at our <a href="/hana/hana-the-spa-at-travaasa-hana/" target="_self">award-winning spa</a> with your bridal party?<br /><br />
+          What better way to relax and prepare for the big day than at our <a href="../../hana/hana-the-spa-at-travaasa-hana/" target="_self">award-winning spa</a> with your bridal party?<br /><br />
           Heavenly Hāna is the perfect location for your Island wedding dreams to come true.</p>
           <!--<a href="###"><img class="###" title="Travaasa Hana Wedding Guide" src="###"></a>-->
           <!--<iframe src="https://player.vimeo.com/video/47562264?color=c76f74&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
@@ -62,10 +62,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <a class="btn-jorah" href="https://travaasa.wufoo.com/forms/travaasa-wedding-request-for-proposal/" target="_blank">REQUEST FOR PROPOSAL</a></p>
           </div>
           <div class="col span_8_of_9">
-          <a href="http://travaasa.com/pdf/Travaasa-Hana-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Hana Wedding Guide" style="float:left; margin: 0 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="200" height="259" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hana-wedding-guide-thumb.jpg"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Hana Wedding Guide" style="float:left; margin: 0 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="200" height="259" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hana-wedding-guide-thumb.jpg"></a>
           <div class="embed-container">
               <iframe
-              src="http://player.vimeo.com/video/47562264?color=62cadf&title=0&amp;byline=0&amp;portrait=0"
+              src="https://player.vimeo.com/video/47562264?color=62cadf&title=0&amp;byline=0&amp;portrait=0"
               frameborder="0"
               webkitAllowFullScreen mozallowfullscreen allowFullScreen>
               </iframe>

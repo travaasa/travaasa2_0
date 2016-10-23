@@ -13,7 +13,7 @@
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
-<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
+<script type="text/javascript" src="https://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
 <!-- end NAVIS Code -->
 </head>
@@ -31,12 +31,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="http://mokuleleairlines.com" target="_blank"><img data-original="/assets/images/feature_hana_1600x640_loc_fly_promo.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"></a><div class="overlay-content-new"><h2>FLY TO TRAVAASA HANA / <span>MOKULELE AIRLINES FEATURES THRICE-DAILY FLIGHTS FROM KAHULUI (OGG) to HANA AIRPORT (HNM).</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_journey.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>THE JOURNEY TO TRAVAASA HANA / <span>THE ROAD HUGS MAUI'S NORTHEASTERN COAST, SKIRTING FORESTED RAVINES AND COUNTLESS WATERFALLS.</span></h2></div></div>
-      <!--<div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_view.jpg" src="/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>AS AUTHENTIC AS HAWAII GETS / <span>THE MAGIC OF HANA SIMPLY HAS TO BE EXPERIENCED TO BE BELIEVED.</span></h2></div></div>-->
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_hospitality.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>HO'OKIPA (HOSPITALITY) / <span>IT'S A HAWAIIAN WAY OF LIFE.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_history.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>THE HISTORY OF HANA / <span>UNPARALLELED BEAUTY AND A BASEBALL TEAM PUT IT ON THE MAP.</span></h2></div></div>
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_loc_rentalcars.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>RENT A CAR AND EXPLORE HANA / <span>TRAVERSE BEAUTIFUL EASTERN MAUI IN YOUR OWN JEEP OR CAR.</span></h2></div></div>
+      <div class="slide"><a href="http://mokuleleairlines.com" target="_blank"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_loc_fly_promo.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"></a><div class="overlay-content-new"><h2>FLY TO TRAVAASA HANA / <span>MOKULELE AIRLINES FEATURES THRICE-DAILY FLIGHTS FROM KAHULUI (OGG) to HANA AIRPORT (HNM).</span></h2></div></div>
+      <div class="slide"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_loc_journey.jpg" src="/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>THE JOURNEY TO TRAVAASA HANA / <span>THE ROAD HUGS MAUI'S NORTHEASTERN COAST, SKIRTING FORESTED RAVINES AND COUNTLESS WATERFALLS.</span></h2></div></div>
+      <!--<div class="slide"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_loc_view.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""><div class="overlay-content-new"><h2>AS AUTHENTIC AS HAWAII GETS / <span>THE MAGIC OF HANA SIMPLY HAS TO BE EXPERIENCED TO BE BELIEVED.</span></h2></div></div>-->
+      <div class="slide"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_loc_hospitality.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>HO'OKIPA (HOSPITALITY) / <span>IT'S A HAWAIIAN WAY OF LIFE.</span></h2></div></div>
+      <div class="slide"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_loc_history.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>THE HISTORY OF HANA / <span>UNPARALLELED BEAUTY AND A BASEBALL TEAM PUT IT ON THE MAP.</span></h2></div></div>
+      <div class="slide"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_loc_rentalcars.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Hana Hawaii resort, Maui resort vacation"><div class="overlay-content-new"><h2>RENT A CAR AND EXPLORE HANA / <span>TRAVERSE BEAUTIFUL EASTERN MAUI IN YOUR OWN JEEP OR CAR.</span></h2></div></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
@@ -51,7 +51,7 @@ Geographically, Hana is bookended by spectacular tropical wilderness. To the nor
 Here at the eastern edge of Maui, you are completely removed from the ordinary, and yet completely involved in the moment. The magic of Heavenly Hana simply has to be experienced to be believed.</p>
       </div>
        <div class="col span_3_of_9">
-         <div class="videobox"><a href="/hana/road-to-hana/"><img src="/assets/images/road-to-hana/map-thumb.jpg" width="352" height="223" alt=""/></a></div>
+         <div class="videobox"><a href="/hana/road-to-hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/road-to-hana/map-thumb.jpg" width="352" height="223" alt=""/></a></div>
        </div>
   </section>
   <section class="tabbed_container pad">
@@ -79,7 +79,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
     </div>
     <div id="journey" class="tab_data">
         <div class="tab_data_inner">
-            <a class="frame-right" href="http://www.mokuleleairlines.com/" target="_blank" title="Mokulele Airlines"><img src="/assets/images/mokulele-badge.jpg" width="330" alt="Mokulele Airlines"></a>
+            <a class="frame-right" href="http://www.mokuleleairlines.com/" target="_blank" title="Mokulele Airlines"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/mokulele-badge.jpg" width="330" alt="Mokulele Airlines"></a>
             <p>Your reception at the Travaasa Hana begins with a spectacular 49-mile drive along the coast, and ends with a Ti leaf lei in our lobby. Between point A and point B is one of the world's most amazing journeys.</p>
             <p>It's called the Hana Highway (or commonly known as the Road to Hana), and it is often referred to as one of the most scenic drives in America (visit <a href="http://ther2h.com" target="_blank"><strong>R2H</strong></a> to learn more).</p>
             <p>The road's serpentine course follows Maui's northeastern coast, skirting forested ravines and countless waterfalls. The drive takes anywhere from two to four hours, but we recommend you make it a half day. That's right. We invite you to not hurry to the Travaasa Hana. Take your time, savor the scenery, and embrace the journey. You'll be glad you did.</p>
@@ -87,8 +87,8 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
             <p>Our vision at Travaasa has always been to uncover the magic of travel — the story of the journey. The road to the Travaasa Hana will give you stories to last a lifetime, even before your stay at our hotel.</p>
             <hr>
             <h4>News Coverage of Flight Service to Hana</h4>
-            <iframe width="308" height="231" style="margin-right:20px; float:left;" src="http://www.youtube.com/embed/92E10e1j4qc?rel=0"></iframe>
-            <iframe width="308" height="231" src="http://www.youtube.com/embed/4Ji_bOK355A?rel=0"></iframe>
+            <iframe width="308" height="231" style="margin-right:20px; float:left;" src="https://www.youtube.com/embed/92E10e1j4qc?rel=0"></iframe>
+            <iframe width="308" height="231" src="https://www.youtube.com/embed/4Ji_bOK355A?rel=0"></iframe>
         </div>
     </div>
     <div id="history" class="tab_data">
@@ -109,30 +109,30 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
 
                 <h4>Throw Net Fishing</h4>
                 <p><audio controls="controls">
-                  <source src="http://travaasa.com/lightbox/throw-net-fishing.mp3" type="audio/mpeg">
-                  <source src="http://travaasa.com/lightbox/throw-net-fishing.ogg" type="audio/ogg">
-                <embed height="50" width="250" src="http://travaasa.com/lightbox/throw-net-fishing.mp3">
+                  <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/throw-net-fishing.mp3" type="audio/mpeg">
+                  <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/throw-net-fishing.ogg" type="audio/ogg">
+                <embed height="50" width="250" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/throw-net-fishing.mp3">
                 </audio></p>
 
                 <h4>Glider Adventure</h4>
                 <p><audio controls="controls">
-                  <source src="http://travaasa.com/lightbox/glider-adventure.mp3" type="audio/mpeg">
-                  <source src="http://travaasa.com/lightbox/glider-adventure.ogg" type="audio/ogg">
-                <embed height="50" width="200" src="http://travaasa.com/lightbox/gider-adventure.mp3">
+                  <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/glider-adventure.mp3" type="audio/mpeg">
+                  <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/glider-adventure.ogg" type="audio/ogg">
+                <embed height="50" width="200" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/gider-adventure.mp3">
                 </audio></p>
 
                 <h4>Haleakala National Park (Seven Pools)</h4>
                 <p><audio controls="controls">
-                  <source src="http://travaasa.com/lightbox/seven-pools.mp3" type="audio/mpeg">
-                  <source src="http://travaasa.com/lightbox/seven-pools.ogg" type="audio/ogg">
-                <embed height="50" width="200" src="http://travaasa.com/lightbox/seven-pools.mp3">
+                  <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/seven-pools.mp3" type="audio/mpeg">
+                  <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/seven-pools.ogg" type="audio/ogg">
+                <embed height="50" width="200" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/seven-pools.mp3">
                 </audio></p>
 
                 <h4>Haleakala National Park (Bamboo Forest)</h4>
                 <p><audio controls="controls">
-                <source src="http://travaasa.com/lightbox/bamboo-forest.mp3" type="audio/mpeg">
-                <source src="http://travaasa.com/lightbox/bamboo-forest.ogg" type="audio/ogg">
-                <embed height="50" width="200" src="http://travaasa.com/lightbox/bamboo-forest.mp3">
+                <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/bamboo-forest.mp3" type="audio/mpeg">
+                <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/bamboo-forest.ogg" type="audio/ogg">
+                <embed height="50" width="200" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/bamboo-forest.mp3">
                 </audio></p>
 
                 <p>&nbsp;</p>
@@ -145,7 +145,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
     </div>
     <div id="carrental" class="tab_data">
         <div class="tab_data_inner">
-                <img src="/assets/images/rental-cars-500.jpg" width="435" alt="Rental Cars at Travaasa Hana, Maui">
+                <img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/rental-cars-500.jpg" width="435" alt="Rental Cars at Travaasa Hana, Maui">
                 <br />
                 <h3>Car Rental at Travaasa Hana</h3>
                 <p>Travaasa Hana, Maui is proud to offer car rentals locally in partnership with <strong>Enterprise Rent-A-Car&#174;</strong>.</p>
@@ -159,9 +159,9 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
     </div>
     <div id="flights" class="tab_data">
         <div class="tab_data_inner">
-                <img src="/assets/images/hana-runway.jpg" width="885" alt="Hana Airport (HNM) Runway">
+                <img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hana-runway.jpg" width="885" alt="Hana Airport (HNM) Runway">
                 <br><br>
-                <h3>Three Daily Roundtrip Flights from Kahului to Hana Airport</h3>
+                <h3>Two Daily Roundtrip Flights from Kahului to Hana Airport</h3>
                 <p>Getting to Hana has never been easier. In partnership with <a href="http://mokuleleairlines.com" taret="_blank"><strong>Mokulele Airlines</strong></a>, Travaasa offers the ability connect from Kahului (OGG), with two-way shuttle service from the resort to Hana Airport (HNM).  We'll even include roundtrip airfare from Kahului to Hana Airport when you book three or more consecutive nights on a <a href="/hana/hana-rates-and-packages">Total Travaasa Package</a>.</p>
                 <p><em>Ask a reservations team member for details.</em></p>
         </div>
