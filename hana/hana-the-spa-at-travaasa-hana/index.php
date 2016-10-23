@@ -13,12 +13,12 @@
     <meta property="og:type"               content="website" />
     <meta property="og:title"              content="Travaasa Hana, Maui Spa" />
     <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
-    <meta property="og:image"              content="http://travaasa.com/assets/images/og-hana-spa-1200x630.jpg" />
+    <meta property="og:image"              content="https://travaasa.com/assets/images/og-hana-spa-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
 <!-- start NAVIS Code -->
-<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
+<script type="text/javascript" src="https://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
 <!-- end NAVIS Code -->
 </head>
@@ -48,7 +48,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>THE SPA AT TRAVAASA HANA, MAUI</h1>
-          <p>Our Maui spa treatments go far beyond pampering and indulgence. They reflect Hana, our passion for,  and knowledge of, the human body. We honor the ability of plants and essential oils to naturally treat, heal and revitalize the soul. An array of massages, healing rituals, beauty treatments and personalized services are available, using only organic, bioenergetic products. We feature Amala skin care products, which are also available in our spa boutique.<br><br><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Spa-Guide.pdf" target="_blank" class="btn-jorah">Download Spa Guide</a></p>
+          <p>Our Maui spa treatments go far beyond pampering and indulgence. They reflect Hana, our passion for,  and knowledge of, the human body. We honor the ability of plants and essential oils to naturally treat, heal and revitalize the soul. An array of massages, healing rituals, beauty treatments and personalized services are available, using only organic, bioenergetic products.<br><br><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Spa-Guide.pdf" target="_blank" class="btn-jorah">Download Spa Guide</a></p>
       </div>
       <div class="pricing_grp col span_3_of_9">
       		<h2>Hours of Operation</h2>

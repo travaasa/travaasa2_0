@@ -13,12 +13,12 @@
   <meta property="og:type"               content="website" />
   <meta property="og:title"              content="Travaasa Hana Kamaaina Rates" />
   <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
-  <meta property="og:image"              content="http://static.travaasa.com/assets/images/og-hana-1200x630.jpg" />
+  <meta property="og:image"              content="https://travaasa.com/assets/images/og-hana-1200x630.jpg" />
   <?php
    include_once($path."/Library/Travaasa_Head.php");
   ?>
 <!-- start NAVIS Code -->
-<script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
+<script type="text/javascript" src="https://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
 <!-- end NAVIS Code -->
 </head>
