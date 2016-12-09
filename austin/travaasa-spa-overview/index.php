@@ -234,11 +234,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h5>3 hours &#8211; $800</h5>
             </section>
 
-            <section class="spa_package">
+            <!--<section class="spa_package">
                 <h4>Couple's Soak</h4>
                 <p>Soak, steam and relax either before or after your individual treatments in the privacy of the Couple’s Suite.</p>
                 <h5>$70 per 25 minutes</h5>
-            </section>
+            </section>-->
 
         <!--<p>Your spa treatment wouldn't be complete without taking care of those two hardworking parts of our body: the hands and feet. Trust us, they will thank you for the bliss they feel after any one of our "only at Travaasa" treatments.</p>
             <section class="spa_package">
