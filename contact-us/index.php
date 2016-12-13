@@ -47,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 Austin, TX 78726</a><br><br>
 
                 <strong>Email:</strong> <a href="mailto:austin@travaasa.com">austin@travaasa.com</a><br>
-                <strong>Main:</strong> 512-364-0061<br>
+                <strong>Main:</strong><a style="color:#454545;" href="tel:5123640061">512-364-0061</a><br>
                 <strong>Fax:</strong> 512-506-9737<br><br>
 
                 <strong>Group Sales:</strong> 512-334-4649<br>
@@ -62,7 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 Hana, Hi 96713</a><br><br>
 
                 <strong>Email:</strong> <a href="mailto:hana@travaasa.com">hana@travaasa.com</a><br>
-                <strong>Main:</strong> 808-359-2401<br>
+                <strong>Main:</strong> <a style="color:#454545;" href="tel:8082488211">808-248-8211</a><br>
                 <strong>Fax:</strong> 808-248-7202<br><br>
 
                 <strong>Group Sales:</strong> 808-248-8211<br>
