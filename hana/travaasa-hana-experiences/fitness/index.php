@@ -6,9 +6,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Hana Fitness, Hana Yoga, Beach Walks, Pilates | Travaasa Hana Resort</title>
+	<title>Hana Fitness, Hana Yoga, Beach Walks | Travaasa Hana Resort</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Stay in shape during your visit to Travaasa Experiential Resort in Hana with a range of fitness programs, including yoga, pilates, coastal walks and more. " />
+	<meta name="description" content="Stay in shape during your visit to Travaasa Experiential Resort in Hana with a range of fitness programs, including yoga, coastal walks and more. " />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
@@ -62,7 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_outdoor_circuit.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_outdoor_circuit.jpg" alt="Outdoor Circuit Maui wellness vacation" >
           <br />
           <h2>Private Bootcamp (additional fee)</h2>
-          <p class="description">Do you live to push your body to the next level? Then get ready to go through some tough intervals that will make your heart rate soar during this private outdoor bootcamp. Get maximum results in a minimum amount of time while promoting all-around fitness. We'll challenge your body and your mind as we mix up the moves and the intensity of the workout to keep you motivated, all the while being surrounded by 360˚ views of stunning Hawaiian scenery. What truly makes our bootcamp unlike any other is that we'll exercise using the natural landmarks around our beautiful Hana property. Of course, our bootcamp wouldn't be complete if we didn't hit the beach! Get ready to see the features of Hawaii’s coast in a new light as Hana becomes your new gym.<br /><br /><br /></p>
+          <p class="description">Do you live to push your body to the next level? Then get ready to go through some tough intervals that will make your heart rate soar during this private outdoor bootcamp. Get maximum results in a minimum amount of time while promoting all-around fitness. We'll challenge your body and your mind as we mix up the moves and the intensity of the workout to keep you motivated, all the while being surrounded by 360˚ views of stunning Hawaiian scenery. What truly makes our bootcamp unlike any other is that we'll exercise using the natural landmarks around our beautiful Hana property. Of course, our bootcamp wouldn't be complete if we didn't hit the beach! Get ready to see the features of Hawaii’s coast in a new light as Hana becomes your new gym.<br /><br /></p>
         </article>
         <!--<article>
           <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_core_conditioning.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_core_conditioning.jpg" alt="Core Conditioning Hana fitness vacation" >
@@ -70,17 +70,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <h2>Core Conditioning</h2>
           <p class="description">Mana is a divine spiritual power or energy. It's a power that comes from within, flowing through all of us and giving us the power to do what we believe we can do. So, it's no small wonder that our 30-minute core class will make you feel like you can conquer the world. You just have to believe. By harnessing and channeling your mana, you’ll tone your abs, lower back and glutes in this intense workout. You'll also improve core strength, balance and total body function using stability balls and gravity-resistant exercises. Your core muscles lay much of the groundwork for your body’s strength, flexibility and endurance, and this core conditioning class will show you how to unleash the true power that lies within you.</p>
         </article>-->
-        <article>
+        <!--<article>
           <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_pilates.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_pilates.jpg" alt="Maui Pilates" >
           <br />
           <h2>Pilates</h2>
           <p class="description">Maybe you’re here to stretch your horizons, or maybe you’re looking to stretch your imagination. While you’re at it, there’s one more thing you’ll want to stretch: your body, the vessel that allows all other parts of your Travaasa journey to be possible. The drop-dead gorgeous setting of our Wellness Center is the perfect place to stretch body, mind and soul alike, as floor-to-ceiling glass windows offer views of tropical beachfront surroundings as you strengthen and lengthen your body through Pilates. Pilates is designed to transform the way your body looks, feels and performs, building strength without excess bulk. This basic all-level Pilates class on the mat teaches awareness, good posture and easy, graceful movement.</p>
-        </article>
+        </article>-->
         <article>
           <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_walks.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_walks.jpg" alt="Coastal Workout Hawaii fitness travel" >
           <br />
           <h2>Coastal Walks</h2>
-          <p class="description">Your morning sets the tone for the rest of your day, and when you’re spending the day in paradise, why not start your day by immersing yourself in the natural beauty of Hana? As your explore Maui’s coast, look out for the famed "canoe plants” that were brought to Hawaii by the first Polynesians over 1,300 years ago to ensure their survival.<br /><br /></p>
+          <p class="description">Your morning sets the tone for the rest of your day, and when you’re spending the day in paradise, why not start your day by immersing yourself in the natural beauty of Hana? As your explore Maui’s coast, look out for the famed "canoe plants” that were brought to Hawaii by the first Polynesians over 1,300 years ago to ensure their survival.<br /></p>
         </article>
         <!--<article>
           <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_walks.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_fitness_walks.jpg" alt="Coastal Workout Hawaii fitness travel" >
