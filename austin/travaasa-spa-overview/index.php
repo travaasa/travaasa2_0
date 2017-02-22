@@ -142,19 +142,19 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <p>Therapeutic, energetic, soothing, cleansing or stimulating; you decide which of our body treatments to delight in during your stay.</p>
             <section class="spa_package">
               <h4>Hill Country Honeybee Massage &amp; Body Treatment</h4>
-              <p>Skin is nourished and moisturized with organic honey, propolis, ginger and rosemary. Tension, sore muscles and stress are relieved with a myofascial massage using warm organic honey and ginger massage oil.  Ends with a nourishing facial massage using a shea butter-, Tamanu oil- and essential oil-infused balm.</p>
+              <p>Skin is nourished and moisturized with organic honey, propolis, ginger and rosemary. Tension, sore muscles and stress are relieved with a myofascial massage using warm organic honey and ginger massage oil. Ends with a nourishing facial massage using a shea butter-, Tamanu oil- and essential oil-infused balm.</p>
               <h5>90 minutes &#8211;  $275</h5>
             </section>
 
             <section class="spa_package">
               <h4>Purifying Cocoon Body Wrap</h4>
-              <p>Relax your muscles and encourage the elimination of toxins.  Begin with an organic sugar exfoliation layered with locally-sourced clay infused with organic purifying essential oils.  A cozy hot wrap aids in drawing out impurities, followed by a warm oil application to seal in moisture.</p>
+              <p>Relax your muscles and encourage the elimination of toxins. Begin with an organic sugar exfoliation layered with locally-sourced clay infused with organic purifying essential oils.  A cozy hot wrap aids in drawing out impurities, followed by a warm oil application to seal in moisture.</p>
               <h5>90 minutes &#8211;  $275</h5>
             </section>
 
             <section class="spa_package">
               <h4>Hana Cocomint Escape</h4>
-              <p>Escape to our Hāna, Maui resort with a  hydrating, gentle milk scrub and body wrap followed by a warm coconut, mint and cocoa butter massage to help relax your muscles and ease away stress.  End with an aloe vera and coconut oil facial massage to soothe and heal stressed skin.</p>
+              <p>Escape to our Hāna, Maui resort with a hydrating, gentle milk scrub and body wrap followed by a warm coconut, mint and cocoa butter massage to help relax your muscles and ease away stress. End with an aloe vera and coconut oil facial massage to soothe and heal stressed skin.</p>
               <h5>90 minutes &#8211;  $275</h5>
             </section>
             <!--<section class="spa_package">
@@ -229,7 +229,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                   <li>Two 60min Swedish Massages</li>
                   <li>Two 60min Travaasa Custom Facials</li>
                   <li>Additional 60min in private Couples’ Suite</li>
-                  <li>Champagne &amp; strawberries</li>
+                  <li>Sparkling Water &amp; gourmet chocolates</li>
                 </ul>
                 <h5>3 hours &#8211; $800</h5>
             </section>
@@ -474,7 +474,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>A decidedly glass-half-full experience. <br /><em>Package includes:</em></br>
                 <ul>
                   <li>90min Detoxifying Exfoliant w/ massage</li>
-                  <li>60min “In the Moment” Facial w/ hydrating eye renewal</li>
+                  <li>60min “In the Moment” Facial</li>
                 </ul>
                 <h5>2.5 hours &#8211; $400</h5>
             </section>
@@ -484,8 +484,8 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h5>3 hours &#8211; $380 </h5>
             </section>-->
             <section class="spa_package">
-                <h4>MEN'S "WHAT ALES YOU" PACKAGE</h4>
-                <p>This exclusive men’s package begins with 90min Therapeutic Muscle Relief Massage followed by a Men’s Tap Pedicure and an organic, locally crafted Texas ale.</p>
+                <h4>MEN'S "WHAT AILES YOU" PACKAGE</h4>
+                <p>This exclusive men’s package begins with 90min Therapeutic Muscle Relief Massage followed by a Men’s Tap Pedicure and a sparkling water, warm cider or premium tea of your choice.</p>
                 <h5>2 hours &#8211; $325</h5>
             </section>
     		    <p class="description">All package gratuities are included; tax is additional.</p>
@@ -501,22 +501,19 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <p>Get your spa on, lounge at the infinity pool, and participate in any regularly scheduled activities ranging from yoga to foot care classes. Offered from 9:00 a.m. until 5:00 p.m.
                 <br /><em>Package includes:</em></br>
                 <ul>
-                  <li>One $175 spa credit</li>
-                  <li>One $75 activity credit</li>
-                  <li>Access to robust list of daily activities</li>
-                  <li>Use of the infinity pool</li>
-                  <li>Access to spa locker rooms, vitality pool and steam rooms</li>
+                  <li>$175 booking minimum in spa services</li>
+                  <li>$75 toward any premium activity</li>
+                  <li>$25 facility fee covering use of infinity pool, access to spa locker rooms, vitality pool and steam rooms</li>
                 </ul>
                 <h5>$275</h5>
             </section>
             <section class="spa_package">
                 <h4>Travaasa Spa</h4>
-                <p>Slip away to somewhere beautiful. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms, whirlpool, steam rooms, and jealousy-inducing views from the infinity edge pool.
+                <p>Slip away to somewhere beautiful. Spend a few hours before or after your service taking advantage of freshly-outfitted spa locker rooms and jealousy-inducing views from the infinity edge pool.
                 <br /><em>Package includes:</em></br>
                 <ul>
-                  <li>One $175 spa credit</li>
-                  <li>Use of the infinity pool</li>
-                  <li>Access to spa locker rooms, vitality pool and steam rooms</li>
+                  <li>$175 booking minimum in spa services</li>
+                  <li>$25 facility fee covering use of infinity pool, access to spa locker rooms, vitality pool and steam rooms</li>
                 </ul>
                 <h5>$200</h5>
             </section>
@@ -593,8 +590,13 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <h2>Enhancements</h2>
 
             <section class="spa_package">
-                <h4>Hydrating Eye Renewal</h4>
+                <h4>Hydrating Eye Renewal <em>(facial only)</em></h4>
                 <h5>$25</h5>
+            </section>
+
+            <section class="spa_package">
+                <h4>Jade Roller &amp; Stones <em>(facial only)</em></h4>
+                <h5>$20</h5>
             </section>
 
              <section class="spa_package">
@@ -625,6 +627,10 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
              <section class="spa_package">
                 <h4>Hot Pack</h4>
                 <h5>$10</h5>
+            </section>
+            <section class="spa_package">
+                <h4>Allergy Relief</h4>
+                <h5>$35</h5>
             </section>
 
             <!--<h2>FOR OFF-PROPERTY GUESTS</h2>
