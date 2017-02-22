@@ -294,11 +294,11 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
             <h5>60 or 90 minutes &#8211;  $175/$250</h5>
           </section>
 
-          <section class="spa_package">
+          <!--<section class="spa_package">
             <h4>Enlighten Me (head, neck, shoulders &amp; feet)</h4>
             <p>Special attention is paid to areas that hold a great amount of tension.</p>
             <h5>60 minutes &#8211;  $175</h5>
-          </section>
+          </section>-->
 
           <section class="spa_package">
             <h4>Nurturing Prenatal</h4>
