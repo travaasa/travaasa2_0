@@ -81,6 +81,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <li id="tab_5"><a href="#waxing">Waxing &amp; Tinting Services</a></li>
                 <li id="tab_7"><a href="#healing">Holistic Healing</a></li>
                 <li id="tab_8"><a href="#nails">Nails</a></li>
+                <li id="tab_9"><a href="#enhancements">Enhancements</a></li>
             </ul>
          </div>
     	<div class="tabbed_group">
@@ -291,7 +292,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
           <section class="spa_package">
             <h4>Shiatsu</h4>
             <p>Accupressure and assisted stretching alleive fatigue and pain. Performed fully clothed on a bodywork floormat.</p>
-            <h5>60 or 90 minutes &#8211;  $175/$250</h5>
+            <h5>60 minutes &#8211;  $175</h5>
           </section>
 
           <!--<section class="spa_package">
@@ -484,7 +485,7 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h5>3 hours &#8211; $380 </h5>
             </section>-->
             <section class="spa_package">
-                <h4>MEN'S "WHAT AILES YOU" PACKAGE</h4>
+                <h4>MEN'S "WHAT AILS YOU" PACKAGE</h4>
                 <p>This exclusive men’s package begins with 90min Therapeutic Muscle Relief Massage followed by a Men’s Tap Pedicure and a sparkling water, warm cider or premium tea of your choice.</p>
                 <h5>2 hours &#8211; $325</h5>
             </section>
@@ -587,6 +588,18 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h5>$25</h5>
             </section>
 
+            <!--<h2>FOR OFF-PROPERTY GUESTS</h2>
+
+             <section class="spa_package">
+                <h4>NAIL THE DAY*</h4>
+                <p>Offered from 9 a.m. to 5 p.m., this inclusive day allows you to get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to tai chi, and recharge with a healthy lunch. Experience our Snap Manicure and choose from one of three $75 pedicures. 18% gratuity included in package price on nail services and lunch.</p>
+                <h5>$218</h5>
+             </section>
+             <p class="description">Upgrades and add-ons not included. 18% gratuity not included unless stated. Tax on lunch additional.</p>-->
+        </div>
+    </div>
+        <div id="enhancements" class="tab_data">
+        <div class="tab_data_inner">
             <h2>Enhancements</h2>
 
             <section class="spa_package">
@@ -632,15 +645,6 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
                 <h4>Allergy Relief</h4>
                 <h5>$35</h5>
             </section>
-
-            <!--<h2>FOR OFF-PROPERTY GUESTS</h2>
-
-             <section class="spa_package">
-                <h4>NAIL THE DAY*</h4>
-                <p>Offered from 9 a.m. to 5 p.m., this inclusive day allows you to get your spa on, lounge at the infinity pool, participate in any regularly scheduled activity from yoga to tai chi, and recharge with a healthy lunch. Experience our Snap Manicure and choose from one of three $75 pedicures. 18% gratuity included in package price on nail services and lunch.</p>
-                <h5>$218</h5>
-             </section>
-             <p class="description">Upgrades and add-ons not included. 18% gratuity not included unless stated. Tax on lunch additional.</p>-->
         </div>
     </div>
     <div id="reservation_information" class="tab_data">
