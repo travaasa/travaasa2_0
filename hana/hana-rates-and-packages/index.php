@@ -133,8 +133,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </tr>-->
         <tr class="compare-summary">
           <td>&nbsp;</td>
-          <td class="compare-price"><p><strong>SINGLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>675</p></td>
-          <td class="compare-price"><p><strong>SINGLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>425</p></td>
+          <td class="compare-price"><p><strong>SINGLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>700</p></td>
+          <td class="compare-price"><p><strong>SINGLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>450</p></td>
         </tr>
         <tr class-"compare-summary2">
           <td style="border:1px solid #FFFFFF;" >&nbsp;</td>
