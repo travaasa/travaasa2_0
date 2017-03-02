@@ -60,7 +60,8 @@ We offer an array of massages, healing rituals, beauty treatments and personaliz
       </div>
       <div class="pricing_grp col span_3_of_9">
       		<h2>Hours of Operation</h2>
-			<p>Monday–Sunday, 9 a.m. to 7 p.m.</p>
+			<p>Sunday–Thursday, 9 a.m. to 7 p.m.</p>
+      <p>Friday &amp; Saturday, 9 a.m. to 8 p.m.</p>
             <br>
             <h2>Make a Reservation</h2>
 			<p>Please call <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-877-261-7792</noscript></p>
