@@ -84,7 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>375</h3>
+                <h3><sup>$</sup>400</h3>
             </li>
         </ul>
         <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="accommodations-austin-link1" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-austin-link1");</script></p>    </div>
@@ -121,7 +121,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>300</h3>
+                <h3><sup>$</sup>325</h3>
             </li>
         </ul>
         <!--<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" id="accommodations-link" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-link");</script></p>-->
