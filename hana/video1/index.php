@@ -32,7 +32,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" style="height:93%;" alt=""></section>
 <!--<section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      	<div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=NOtwkBLTFzM"><img data-original="/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      	<div class="slide"><a data-target="flare" href="https://www.youtube.com/watch?v=NOtwkBLTFzM"><img data-original="/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
         <div class="slide"><a href="/hana/travaasa-hana-experiences/"><img data-original="/assets/images/feature_hana_1600x640_accolade.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
       	<div class="slide"><a href="/hana/hana-the-spa-at-travaasa-hana/"><img data-original="/assets/images/feature_hana_1600x640_accolade2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     	<div class="slide"><a href="/hana/promotions/"><img data-original="/assets/images/feature_hana_1600x640_flights_promo.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>

@@ -31,7 +31,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      	<div class="slide"><a data-target="flare" href="http://www.youtube.com/watch?v=At162DdDTGM" id="lnk"><img data-original="/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      	<div class="slide"><a data-target="flare" href="https://www.youtube.com/watch?v=At162DdDTGM" id="lnk"><img data-original="/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
