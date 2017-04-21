@@ -34,6 +34,7 @@
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/src/jquery.pixelentity.backgroundSlider.js"></script>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/src/jquery.pixelentity.simplethumb.js"></script>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.render.gallery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.47/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.address-1.5.min.js"></script>
 <script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
 <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script>
