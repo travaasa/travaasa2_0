@@ -71,7 +71,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Banana bread and snacks</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>Interior ceiling fans (air conditioning isn't necessary)</li>
-                <li>Complimentary nightly turndown service</li>
             </ul>
          </div>
     </div>
@@ -110,7 +109,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li>Banana bread and snacks</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>Interior ceiling fans (air conditioning isn't necessary)</li>
-                <li>Complimentary nightly turndown service</li>
                 <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
          </div>
