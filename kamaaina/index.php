@@ -44,7 +44,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p>Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:</p>
             <br />
 
-            <h2>Garden Junior Suite<br /><span style="color:#505050">$360 / $400* night</span></h2>
+            <h2>Garden Junior Suite<br /><span style="color:#505050">$400 / $440* night</span></h2>
 
             <ul>
             <li>Accommodations in a low-rise Garden Junior Suite</li>
@@ -59,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             *Low Season / High Season rates</em></p>
             <br />
 
-            <h2>The Ocean Bungalow<br /><span style="color:#505050">$560 / $600* night</span></h2>
+            <h2>The Ocean Bungalow<br /><span style="color:#505050">$600 / $640* night</span></h2>
 
             <ul>
              <li>Accommodations in a plantation-style, Ocean Bungalow with a private lanai</li>
