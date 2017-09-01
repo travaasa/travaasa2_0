@@ -54,7 +54,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
-          <h1>Travaasa Austin: The Newest Experiential Resort &amp; Spa in Texas</h1>
+          <h1 style="text-decoration: line-through;">Travaasa Austin: The Newest Experiential Resort &amp; Spa in Texas</h1>
+          <h2>TRAVAASA AUSTIN IS CLOSED FOR RENOVATIONS <br />AS OF SEPTEMBER 1ST, 2017</h2>
+          <a style="float:left;" class="btn-jorah scroll" href="/austin-renovation">READ ABOUT OUR RENOVATIONS</a> <a style="float:left; margin-left:30px;" class="btn-list scroll" href="/preferences">GET ON THE LIST</a><p>&nbsp;<br/></p><p>&nbsp;<br/></p>
           <p>The location of Travaasa Austin alone will inspire you. Surrounded by the ancient live oaks and undulating hills of the Balcones Canyonlands Preserve, our resort embraces nature … and is embraced by nature in return.<br><br>
 <strong>But this isn’t just another resort.</strong><br><br>
 As Texas's most active destination resort and spa, Travaasa Austin takes pride in offering its guests a compelling menu of inclusive guided adventures, culinary classes, cultural encounters, healing spa treatments, and fitness and wellness workshops, all located in a Zen-like preserve for the soul.</p>

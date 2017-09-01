@@ -38,20 +38,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <h1>EXPERIENCE SCHEDULE</h1>
-          <p>This schedule is subject to change. View our selection of <a href="/austin/austin-experiences/austin-private-classes.php">private classes</a>.</p>
+          <h1 style="text-decoration: line-through;">EXPERIENCE SCHEDULE</h1>
+          <h2>TRAVAASA AUSTIN IS CLOSED FOR RENOVATIONS <br />AS OF SEPTEMBER 1ST, 2017</h2>
+          <a style="float:left;" class="btn-jorah scroll" href="/austin-renovation">READ ABOUT OUR RENOVATIONS</a> <a style="float:left; margin-left:30px;" class="btn-list scroll" href="/preferences">GET ON THE LIST</a><p>&nbsp;<br/></p><p>&nbsp;<br/></p>
+          <!--<p>This schedule is subject to change. View our selection of <a href="/austin/austin-experiences/austin-private-classes.php">private classes</a>.</p>-->
           <!--<video style="width:100% !important; height:auto !important;" preload autoplay loop>
           <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/baby-chicks.mp4" type="video/mp4">
           <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/baby-chicks.webm" type="video/webm">
           </video>-->
   </section>
-  <section class="grey pad group">
+  <!--<section class="grey pad group">
       <p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="https://forecast.io/embed/#lat=30.444271&lon=-97.864709&name=Travaasa Austin&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
   	<div class="responsive-iframe-container">
       <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=900&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=travaasa.com_a8hp6jo2ugd1l3dmunvcqgdu3s%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FChicago" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
     </div>
 
-  </section>
+  </section>-->
 </article>
 </section>
 <?php
