@@ -39,8 +39,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section style="padding-bottom:0;" class="intro pad clearfix notheater">
     <div class="col span_1_of_2">
-          <h1>RATES &amp; ALL INCLUSIVE PACKAGES</h1>
-          <p>Travaasa Experiential Resorts provide you with different rate and all inclusive resort package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a style="float:left;" class="btn-list scroll" href="/preferences">GET ON THE LIST</a><a style="float:left; margin-left:20px;" class="btn-jorah scroll" href="/austin-renovation">READ ABOUT OUR RENOVATIONS</a>
+          <h1 style="text-decoration: line-through;">RATES &amp; ALL INCLUSIVE PACKAGES</h1>
+          <h2>TRAVAASA AUSTIN IS CLOSED FOR RENOVATIONS <br />AS OF SEPTEMBER 1ST, 2017</h2>
+          <a style="float:left;" class="btn-jorah scroll" href="/austin-renovation">READ ABOUT OUR RENOVATIONS</a> <a style="float:left; margin-left:30px;" class="btn-list scroll" href="/preferences">GET ON THE LIST</a><p>&nbsp;<br/></p><p>&nbsp;<br/></p>
+          <p>Travaasa Experiential Resorts provide you with different rate and all inclusive resort package selections so that you can customize your journey, and make the most of your time with us. <strong>Travaasa Austin welcomes guests age 16 and up. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;-->
             <!--<br><br> <a href="/jamandjive"><img class="videobox" width="350" src="/assets/images/jam-and-jive-teaser.jpg"></a></p>-->
     </div>
     <!--<div class="col span_1_of_2" style="margin:0">

@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="/hana/hanaschedule"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_months_august_2016_1600x640_hana_promo.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
+      <div class="slide"><a href="/hana/hanaschedule"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_months_september_2015_1600x640-hana.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
       <div class="slide"><a href="/hana/promotions/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_flights_promo.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
