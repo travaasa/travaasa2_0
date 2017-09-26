@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_spa_1.jpg" src="/assets/images/global/placeholder.gif" alt="Maui spa, Hawaiian Experience Spa, Hana Spa, Maui spa retreat"><div class="overlay-content-new"><!--<h2>THE JOURNEY<span> / UNWIND AND RENEW FROM YOUR TRAVELS WITH THIS HOLISTIC TREATMENT.</span></h2>--></div></div>
+      <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_accolade_spa.jpg" src="/assets/images/global/placeholder.gif" alt="Maui spa, Hawaiian Experience Spa, Hana Spa, Maui spa retreat"><div class="overlay-content-new"><!--<h2>THE JOURNEY<span> / UNWIND AND RENEW FROM YOUR TRAVELS WITH THIS HOLISTIC TREATMENT.</span></h2>--></div></div>
       <div class="slide"><img data-original="/assets/images/placeholder_spa_A2.jpg" src="/assets/images/global/placeholder.gif" alt="Maui spa, Hawaiian Experience Spa, Hana Spa, Maui spa retreat"><div class="overlay-content-new"><h2>KANE (GENTLEMAN'S) FACIAL<span> / BLUE LOTUS, ALGAE EXTRACT, RICE GERM, BAMBOO, GINGER, LEMON AND TIGER GRASS PURIFY THE SKIN.</span></h2></div></div>
       <div class="slide"><img data-original="/assets/images/feature_hana_1600x640_spa_4.jpg" src="/assets/images/global/placeholder.gif" alt="Maui spa, Hawaiian Experience Spa, Hana Spa, Maui spa retreat"><div class="overlay-content-new"><h2>‘AWAPUHI SUGAR CANE BODY SCRUB<span> / A NATURALLY SWEET EXFOLIANT.</span></h2></div></div>
     </div>
