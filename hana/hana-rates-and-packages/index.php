@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel sub_feature clearfix">
 	<div id="feature1" class="feature">
-      <div class="slide"><a href="/hana/promotions/"><img data-original="/assets/images/feature_hana_1600x640_flights_promo.jpg" src="/assets/images/global/placeholder.gif" alt="All inclusive Hawaii resort, Maui all inclusive packages"></a></div>
+      <div class="slide"><a href="/hana/promotions/"><img data-original="/assets/images/feature_hana_1600x640_aloha.jpg" src="/assets/images/global/placeholder.gif" alt="All inclusive Hawaii resort, Maui all inclusive packages"></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
