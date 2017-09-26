@@ -55,7 +55,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div style="display:inline-block;">
     <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank"><img title="Travaasa Hana, Maui Meeting Planners Guide" style="float:left; margin: 20px 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="259" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hana-meeting-planners-guide-thumb.jpg"></a>
     </div>
-    <a class="btn-jorah" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank">Meeting Planner's Guide</a></p>
+    <a class="btn-jorah" style="width:152px;" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank">Meeting Planner's Guide</a></p>
+<p><a class="btn-jorah" style="width:152px;" href="https://travaasa.wufoo.com/forms/travaasa-hana-request-for-group-proposal/" target="_blank">Request for Proposal</a></p>
     </div>
     <div id="facilities" class="tab_data">
         <div class="tab_data_inner">
