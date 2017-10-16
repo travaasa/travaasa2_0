@@ -4,8 +4,10 @@
         <ul class="reservation_nav menu_top">
             <!--<li class="reservation">
             <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;">MAKE A RESERVATION</a></li>-->
+            <!--<li class="reservation">
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="footer-austin-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("footer-austin-link");</script></li>-->
             <li class="reservation">
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="footer-austin-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("footer-austin-link");</script></li>
+            <a href="http://travaasa.com/austin-renovation/" id="footer-austin-link">MAKE A RESERVATION</a></li>
         </ul>
         <ul class="pricing">
             <li>

@@ -118,10 +118,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <td class="compare-table-check total_travaasa">✔</td>
           <td class="compare-table-check">&nbsp;</td>
         </tr>
-        <tr class="compare-summary">
+        <!--<tr class="compare-summary">
           <td class="compare-table-title">&nbsp;</td>
           <td><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="rates-austin-link1" target="_blank" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("rates-austin-link1");</script></td>
           <td><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="rates-austin-link2" target="_blank" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("rates-austin-link2");</script></td>
+        </tr>-->
+        <tr class="compare-summary">
+          <td class="compare-table-title">&nbsp;</td>
+          <td><a class="btn-jorah" href="http://travaasa.com/austin-renovation/" class="btn">CHECK RATES &amp; AVAILABILITY</a></td>
+          <td><a class="btn-jorah" href="http://travaasa.com/austin-renovation/" class="btn">CHECK RATES &amp; AVAILABILITY</a></td>
         </tr>
         <tr class="compare-summary">
           <td>&nbsp;</td>
