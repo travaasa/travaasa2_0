@@ -127,7 +127,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
         </ul>
         <!--<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" id="accommodations-link" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-link");</script></p>-->
-        <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="accommodations-austin-link2" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-austin-link2");</script></p>
+        <!--<p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="accommodations-austin-link2" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-austin-link2");</script></p>-->
+        <p class="clear"><a class="btn-jorah" href="http://travaasa.com/austin-renovation/">CHECK RATES &amp; AVAILABILITY</a></p>
     </div>
   </section>
 </article>
