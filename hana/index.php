@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      	<div class="slide"><a data-fancybox href="https://www.youtube.com/watch?v=NOtwkBLTFzM&amp;autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
+      	<div class="slide"><a data-fancybox href="https://www.youtube.com/watch?v=NOtwkBLTFzM&amp;autoplay=1&amp;rel=0&amp;controls=1&amp;showinfo=0"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
         <div class="slide"><a href="/hana/travaasa-hana-experiences/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_accolade_pool.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
     <!--<div id="feature1" class="feature">
         <div class="slide"><a data-target="flare" href="https://www.youtube.com/watch?v=NOtwkBLTFzM&autoplay=1"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
@@ -60,7 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <!--<div style="float:left; padding: 0 0 0 10px;" id="TA_certificateOfExcellence565" class="TA_certificateOfExcellence">
           <ul id="VRstgan" class="TA_links 3XF0xV">
           <li id="JMaOZqFDaB" class="krhfUg22Z">
-          <a target="_blank" href="http://www.tripadvisor.com/"><img src="http://www.tripadvisor.com/img/cdsi/img2/awards/CoE2014_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a>
+          <a target="_blank" href="https://www.tripadvisor.com/"><img src="https://www.tripadvisor.com/img/cdsi/img2/awards/CoE2014_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/></a>
           </li>
           </ul>
           </div>-->
@@ -116,11 +116,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="group">
     	<div class="col span_1_of_3 accolade">
         	<img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/logo-celebrated-living.png" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="">
-            <p class="description">"...We found that we were wonderfully transported back to the same 'Old Hawaii' we once knew, a Hawaii with only the ocean breeze to keep us cool, tropical surroundings to soothe us, and a sense of adventure that only the true Hawaii gave us. Travaasa Hana…was that experience." <a href="http://hub.aa.com/en/cl/journey-in-time" target="_blank" class="more">Read article</a></p>
+            <p class="description">"...We found that we were wonderfully transported back to the same 'Old Hawaii' we once knew, a Hawaii with only the ocean breeze to keep us cool, tropical surroundings to soothe us, and a sense of adventure that only the true Hawaii gave us. Travaasa Hana…was that experience." <a href="https://hub.aa.com/en/cl/journey-in-time" target="_blank" class="more">Read article</a></p>
         </div>
     	<div class="col span_1_of_3 accolade">
        		<img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/logo-la-times.png" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="">
-            <p class="description">"At the end of a long, winding road is remote Hana and the Travaasa Hana resort. The area has beautiful beaches, the Seven Sacred Pools and star-filled skies." <a href="http://articles.latimes.com/2012/apr/22/travel/la-tr-hana-20120422" target="_blank" class="more">Read article</a></p>
+            <p class="description">"At the end of a long, winding road is remote Hana and the Travaasa Hana resort. The area has beautiful beaches, the Seven Sacred Pools and star-filled skies." <a href="https://articles.latimes.com/2012/apr/22/travel/la-tr-hana-20120422" target="_blank" class="more">Read article</a></p>
         </div>
     	<div class="col span_1_of_3 accolade">
         	<img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/logo-ny-times.png" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="">
