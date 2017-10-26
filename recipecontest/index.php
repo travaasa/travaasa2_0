@@ -49,8 +49,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li>One grand prize winner of a Total Travaasa two-night getaway for two at Travaasa Austin</li>
           <li>Winning recipe will be featured in Travaasa's next newsletter and social channels</li>
         </ul>
-        <iframe height="707" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="http://travaasa.wufoo.com/embed/k7x1a3/"><a href="http://travaasa.wufoo.com/forms/k7x1a3/">Fill out my Wufoo form!</a></iframe>
-        <p>Having trouble? <a href="http://travaasa.wufoo.com/forms/k7x1a3" target="_blank">Fill out the form on its own page.</a></p>
+        <iframe height="707" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://travaasa.wufoo.com/embed/k7x1a3/"><a href="https://travaasa.wufoo.com/forms/k7x1a3/">Fill out my Wufoo form!</a></iframe>
+        <p>Having trouble? <a href="https://travaasa.wufoo.com/forms/k7x1a3" target="_blank">Fill out the form on its own page.</a></p>
       </div>
   </section>
   <section class="grey pad group">
