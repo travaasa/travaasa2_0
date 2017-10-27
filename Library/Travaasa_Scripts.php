@@ -37,8 +37,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.address-1.5.min.js"></script>
 <script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
-<script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script>
-<script type="text/javascript">SetNavisP2ChatCustomLink("lnkP2Chat");</script>
 <!-- start IMI
 <script type="text/javascript">
 document.write(unescape('%3Cscript src="' + document.location.protocol + '//d1ivexoxmp59q7.cloudfront.net/imi/live.js" type="text/javascript"%3E%3C/script%3E'));
