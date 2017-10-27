@@ -64,8 +64,12 @@ Group Sales: 512-334-4649
         <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>
       <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
-      <a id="lnkP2Talk" class="btn" href="https://www.navistechnologies.info/p2talk/p2talk.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO TALK WITH US</a><br />
-      <a id="lnkP2Chat" class="btn" href="https://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8772617792" target="_blank">CLICK TO CHAT WITH US</a></p>
+    <!-- NAVIS Push to Talk link -->
+        <a id="lnkP2Talk" class="btn" target="_blank" href="https://www.thenavisway.com/p2talk/P2TCust.aspx?account=15070&dnis=8772617792">CLICK TO TALK WITH US</a>
+        <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script><br />
+        <!-- NAVIS Push to Chat link -->
+        <a id="lnkP2Chat" class="btn" target="_blank" href="https://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8772617792&cust=1">CLICK TO CHAT WITH US</a>
+        <script type="text/javascript">SetNavisP2ChatCustomLink("lnkP2Chat");</script></p>
     </div>
 <p class="clear" id="footer-copyright"><!--<a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/austin-tx/travaasa-austin"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a>--><span>&copy;2017 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;Travaasa Austin is a non-smoking property.</span></p>
     
