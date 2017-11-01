@@ -640,12 +640,12 @@ input[type="search"] {
 p {
 	/* http://www.w3.org/TR/css3-text/#hyphenation */
 
-	-webkit-hyphens: auto;
+	-webkit-hyphens: none;
 	-webkit-hyphenate-character: "\2010";
 	-webkit-hyphenate-limit-after: 1;
 	-webkit-hyphenate-limit-before: 3;
-	-moz-hyphens: auto;
-	hyphens: auto;
+	-moz-hyphens: none;
+	hyphens: none;
 }
 .peFlareLightbox {
 	text-align: left;

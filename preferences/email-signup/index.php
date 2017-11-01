@@ -79,7 +79,7 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { m1gbj6ka06fc414 = new WufooForm();m1gbj6ka06fc414.initialize(options);m1gbj6ka06fc414.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
-<p style="margin-left:40px"><a class="btn-jorah" href="/austin/rates-and-packages/">Back to Austin Rates</a>&nbsp;&nbsp;&nbsp;<a class="btn-jorah" href="/hana/hana-rates-and-packages/">Back to Hana Rates</a></p>
+<p style="margin-left:40px"><a class="btn-jorah" href="/berkshire-county/">Back to Berkshire County</a>&nbsp;&nbsp;&nbsp;<a class="btn-jorah" href="/hana/hana-rates-and-packages/">Back to Hana Rates</a></p>
   </section>
 
   <!--<p><a class="btn-list" href="/preferences/">GET ON THE LIST</a></p>-->
