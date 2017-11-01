@@ -73,9 +73,10 @@ p, ol, ul, dl, address {
 	font-size : 1em; /* 16 / 16 = 1 */
 }
 p {
-	-webkit-hyphens: auto;
-	-moz-hyphens: auto;
-	hyphens: auto;
+	-webkit-hyphens: none;
+	-ms-hyphens: none;
+	-moz-hyphens: none;
+	hyphens: none;
 }
 ul,  ol {
 	margin : 0 0 1.5em 0;

@@ -10,7 +10,6 @@
         <title>Travaasa Berkshire County | Elm Court Lenox Stockbridge Berkshires Massachusettes</title>
         <meta name="keywords" content="travaasa, travel, resorts, Massachusettes, Berkshires, hana, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
         <meta name="description" content="Rediscover the magic of travel with Hana, Maui or the forthcoming Travaasa Berkshire County. Our resorts provide authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa &amp; Wellness." />
-        <meta name="p:domain_verify" content="8b5fe67201926cfeb859a9501821fc80" />
         <meta property="og:url" content="http://travaasa.com/berkshirecounty" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Travaasa Experiential Resorts&#174;" />
@@ -83,10 +82,10 @@
      </div>
   </section>-->
                     <section class="intro pad clearfix">
-                        <div class="col span_6_of_9">
-                            <h1>TRAVAASA BERKSHIRE COUNTY: NEW LIFE FOR A HISTORIC TREASURE</h1>
+                        <div class="col span_5_of_9">
+                            <h1>TRAVAASA BERKSHIRE COUNTY</h1>
                             <p>Travaasa Berkshire County's plan preserves and protects a beloved historic property, respects community character, conserves open space and contributes to the hospitality culture of the region. A tasteful, responsible commercial use of this property by a financially healthy organization will revive a dormant estate, create living-wage hospitality jobs at all skill levels and maintain the property on town tax rolls.</p>
-                            <h2>THE BASICS</h2>
+                            <h2>NEW LIFE FOR A HISTORIC TREASURE, INCLUDING PLANS TO...</h2>
                             <ul>
                                 <li>Renovate and preserve the current mansion as main element on property.</li>
                                 <li>Tuck a visually cohesive new wing down the hill and into the woods.</li>
@@ -94,10 +93,10 @@
                                 <li>Create a single structure that is shorter, smaller, connected to, and behind the mansion.</li>
                             </ul>
                             <h2>TEAM</h2>
-                            <p><a href="http://www.fando.com/" target="_blank">Fuss &amp; O’Neill</a> – Traffic Engineering, peer reviewed by Tighe &amp; Bond</p>\
-                            <p><a href="http://www.johnsonbraund.com/" target="_blank">Johnson Braund</a> – Architectural Firm, hotel addition</p>
-                            <p><a href="http://www.sandleraia.com/" target="_blank">Pamela Sandler, AIA</a> – Architect, original house</p>
-                            <p><a href="http://www.whiteeng.com/" target="_blank">White Engineering, Inc</a> – Civil &amp; Environmental Engineers</p>
+                            <p><a href="http://www.fando.com/" target="_blank">Fuss &amp; O’Neill</a> – Traffic Engineering, peer reviewed by Tighe &amp; Bond<br />
+                            <a href="http://www.johnsonbraund.com/" target="_blank">Johnson Braund</a> – Architectural Firm, hotel addition<br />
+                            <a href="http://www.sandleraia.com/" target="_blank">Pamela Sandler, AIA</a> – Architect, original house<br />
+                            <a href="http://www.whiteeng.com/" target="_blank">White Engineering, Inc</a> – Civil &amp; Environmental Engineers</p>
                         </div>
                         <div class="col span_3_of_9">
                             <p>&nbsp;</p>
@@ -150,16 +149,16 @@
                                     <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_bw-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_bw-thumb.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
                                 </div>
                                 <div class="col span_1_of_5">
-                                    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_01-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_01-thumb.jgp" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
+                                    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_01-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_01-thumb.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
                                 </div>
                                 <div class="col span_1_of_5">
-                                    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_02-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_02-thumb.jgp" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
+                                    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_02-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_02-thumb.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
                                 </div>
                                 <div class="col span_1_of_5">
-                                    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_03-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_03-thumb.jgp" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
+                                    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_03-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_03-thumb.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
                                 </div>
                                 <div class="col span_1_of_5">
-                                    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_04-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_04-thumb.jgp" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
+                                    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_04-original.jpg" data-fancybox="gallery9" data-caption="New Hotel Wing"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/berkshire_county-new_wing_color_04-thumb.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="New Hotel Wing"></a>
                                 </div>
                                 <!--<div class="col span_1_of_5">
                 <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/IMAGE_URL" data-fancybox="gallery9" data-caption="IMAGE_DESCRIPTION"><img class="lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/berkshire_county/THUMB_URL" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" width="180" height="180" alt="IMAGE_DESCRIPTION"></a>
@@ -170,7 +169,6 @@
                 </article>
             </section>
             <?php
-   include_once($path."/Library/Travaasa_Testimonials.php");
    include_once($path."/Library/Travaasa_Footer.php");
    include_once($path."/Library/Travaasa_Scripts.php");
 ?>
