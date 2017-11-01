@@ -36,12 +36,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
-?><section id="feature1_wrapper" class="subpage_bg"><img src="/assets/images/bg_hana_clouds.jpg" alt=""></section>
+?><section id="feature1_wrapper" class="feature_carousel clearfix">
+    <div id="feature1" class="feature">
+        <div class="slide"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hana_featured_1600x640_kamaaina.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></div>
+        <div class="slide"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_accolade_pool.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></div>
+    </div>
+    <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
+    <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
+</section>
 <section id="content">
 <article id="main">
-  <section class="intro pad clearfix notheater">
+  <section class="intro pad clearfix">
+      <div class="col span_4_of_9">
           <h1>Exclusive Kamaaina Rates for Hawaii Residents</h1>
-          <p>Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui. Located at the end of the Road to Hana on Maui’s secluded eastern shore, Travaasa Hana, Maui is offering Hawaii residents incredible savings for stays three nights and longer. <!--The newly created kamaaina offers highlight <a href="http://mokuleleairlines.com/" target="_blank">Mokulele Airlines'</a> twice-daily air service between Kahului and Hana.--></p>
+          <p>Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui. Located at the end of the Road to Hana on Maui’s secluded eastern shore, Travaasa Hana, Maui is offering Hawaii residents incredible savings <strong>for stays three nights and longer</strong>. <!--The newly created kamaaina offers highlight <a href="http://mokuleleairlines.com/" target="_blank">Mokulele Airlines'</a> twice-daily air service between Kahului and Hana.--></p>
 
             <p>Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:</p>
             <br />
@@ -57,9 +65,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li>Complete access to resort facilities</li>
             <li>Wi-Fi</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.<br />
+            <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. <br /><strong>Proof of Hawaii residency is required at check-in.</strong><br />
             *Low Season / High Season rates</em></p>
-            <br />
+            <p class="clear"><a href="tel:8082488211" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
+            <br /><br />
 
             <h2>The Ocean Bungalow<br /><span style="color:#505050">$600 / $640* night</span></h2>
 
@@ -72,8 +81,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <li>Complete access to resort facilities</li>
              <li>Wi-Fi</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. Proof of Hawaii residency is required at check-in.<br />
+            <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. <br /><strong>Proof of Hawaii residency is required at check-in.</strong><br />
             *Low Season / High Season rates</em></p>
+            <p class="clear"><a href="tel:8082488211" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
+      </div>
+            <div class="pricing_grp col span_2_of_9"><p>&nbsp;</p>
+      </div>
+      <div class="pricing_grp col span_3_of_9">NON-RESIDENT RATES<br /><br /><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?>
+        Hawaii Residents Call: <a href="tel:8082488211" target="_blank">808-248-8211</a>
+      </div>
   </section>
 
 </article>
@@ -86,8 +102,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Scripts.php");
 ?><script type="text/javascript">
 $(function() {
-  $('a[data-target="flare"]').peFlareLightbox();
-  setLocation("Hana", "rooms");
+  createSubpageStorylines(true, false);
+  setLocation("Hana", "kamaaina");
+  activateTabbedList();
 });
 </script>
 </body>
