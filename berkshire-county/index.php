@@ -84,7 +84,7 @@
                     <section class="intro pad clearfix">
                         <div class="col span_5_of_9">
                             <h1>TRAVAASA BERKSHIRE COUNTY</h1>
-                            <p>Travaasa has built our brand on the premise of creating memorable travel experiences in inspirational, irreplaceable locations, celebrating the uniqueness of a place and its people. Elm Court fit this bill perfectly&#8212;a gorgeous estate with truly unique character, significant history and a passionate community. Our team has spent years working on a plan that celebrates the beauty &amp; charm of the property, and we're ecstatic to begin making our vision a reality. <strong>This is just the beginning.</strong> We can't wait to host you and share the magic of travel at Travaasa Berkshire County.</p>
+                            <p>Travaasa has built our brand on the premise of creating memorable travel experiences in inspirational, irreplaceable locations, celebrating the uniqueness of a place and its people. Elm Court fit this bill perfectly&#8212;a gorgeous estate with truly unique character, significant history and a passionate community. Our team has spent years working on a plan that celebrates the beauty &amp; charm of the property, and we're ecstatic to begin making our vision a reality. <br/><strong>This is just the beginning.</strong> We can't wait to host you and share the magic of travel at Travaasa Berkshire County.</p>
                             <h2>NEW LIFE FOR AN HISTORIC TREASURE, INCLUDING PLANS TO...</h2>
                             <ul>
                                 <li>Renovate and preserve the current mansion as main element on property.</li>
