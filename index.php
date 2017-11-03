@@ -14,7 +14,7 @@
   <meta property="og:type"               content="website" />
   <meta property="og:title"              content="Travaasa Experiential Resorts&#174;" />
   <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
-  <meta property="og:image"              content="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/og-austin-1200x630.jpg" />
+  <meta property="og:image"              content="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/og-hana-1200x630.jpg" />
 <?php
    include_once($path."/Library/Travaasa_Head.php");
 ?>
@@ -38,13 +38,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?>
 <section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_beach_flirt.jpg" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_beach_flirt.jpg" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
       <!--<div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_adventure-flirt.jpg" alt=""></a></div>-->
-      <div class="slide"><a href="/austin/dining/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culinary.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culture2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/austin/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_fitness.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/austin/travaasa-spa-overview/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_spa.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Destination Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/austin/dining/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culinary.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culture2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/austin/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_fitness.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/austin/travaasa-spa-overview/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_spa.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/berkshire-county"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_berkshire-county.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Berkshire County, Travaasa Resort Hana"></a></div>
     </div>
+
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a> <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
 </section>
 <section id="content" class="clearfix">
