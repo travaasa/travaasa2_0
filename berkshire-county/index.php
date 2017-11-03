@@ -84,13 +84,13 @@
                     <section class="intro pad clearfix">
                         <div class="col span_5_of_9">
                             <h1>TRAVAASA BERKSHIRE COUNTY</h1>
-                            <p>Travaasa Berkshire County's plan preserves and protects a beloved historic property, respects community character, conserves open space and contributes to the hospitality culture of the region. A tasteful, responsible commercial use of this property by a financially healthy organization will revive a dormant estate, create living-wage hospitality jobs at all skill levels and maintain the property on town tax rolls.</p>
-                            <h2>NEW LIFE FOR A HISTORIC TREASURE, INCLUDING PLANS TO...</h2>
+                            <p>Travaasa has built our brand on the premise of creating memorable travel experiences in inspirational, irreplaceable locations, celebrating the uniqueness of a place and its people. Elm Court fit this bill perfectly&#8212;a gorgeous estate with truly unique character, significant history and a passionate community. Our team has spent years working on a plan that celebrates the beauty &amp; charm of the property, and we're ecstatic to begin making our vision a reality. <strong>This is just the beginning.</strong> We can't wait to host you and share the magic of travel at Travaasa Berkshire County.</p>
+                            <h2>NEW LIFE FOR AN HISTORIC TREASURE, INCLUDING PLANS TO...</h2>
                             <ul>
                                 <li>Renovate and preserve the current mansion as main element on property.</li>
                                 <li>Tuck a visually cohesive new wing down the hill and into the woods.</li>
                                 <li>Protect views for abutters, from the mansion, from the Stockbridge Bowl and around the property.</li>
-                                <li>Create a single structure that is shorter, smaller, connected to, and behind the mansion.</li>
+                                <li>Create a single structure that is shorter, smaller, connected to and behind the mansion.</li>
                             </ul>
                             <h2>TEAM</h2>
                             <p><a href="http://www.fando.com/" target="_blank">Fuss &amp; O’Neill</a> – Traffic Engineering, peer reviewed by Tighe &amp; Bond<br />
@@ -106,7 +106,7 @@
                         </div>
                     </section>
                     <section class="grey pad">
-                        <h4 style="text-align:center;">A HISTORIC SITE</h4>
+                        <h4 style="text-align:center;">AN HISTORIC SITE</h4>
                         <div id="gallery9-wrapper" class="gallery section">
                             <div class="group">
                                 <div class="col span_1_of_5">
