@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </ul>
             <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. <br /><strong>Proof of Hawaii residency is required at check-in.</strong><br />
             *Low Season / High Season rates</em></p>
-            <p class="clear"><a href="tel:8082488211" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
+            <p class="clear"><a href="tel:8886428981" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
             <br /><br />
 
             <h2>The Ocean Bungalow<br /><span style="color:#505050">$600 / $640* night</span></h2>
@@ -83,12 +83,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </ul>
             <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. <br /><strong>Proof of Hawaii residency is required at check-in.</strong><br />
             *Low Season / High Season rates</em></p>
-            <p class="clear"><a href="tel:8082488211" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
+            <p class="clear"><a href="tel:8886428981" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
       </div>
             <div class="pricing_grp col span_1_of_9"><p>&nbsp;</p>
       </div>
       <div class="pricing_grp col span_3_of_9">NON-RESIDENT RATES<br /><br /><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?>
-        Hawaii Residents Call: <a href="tel:8082488211" target="_blank">808-248-8211</a>
+        Hawaii Residents Call: <a href="tel:8886428981" target="_blank">888-642-8981</a>
       </div>
   </section>
 
