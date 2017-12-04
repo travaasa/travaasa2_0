@@ -1,11 +1,16 @@
 <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<!-- REPLACED BY 3.2.1 on 12-4-2017-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>-->
+<script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+<!-- REPLACED BY 1.12.4 on 12-4-2017-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>-->
 <!-- JavaScript at the bottom for fast page loading -->
 <!--<script>window.jQuery || document.write('<script src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery-1.7.2.min.js"><\/script>')</script>-->
-<script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.carouFredSel-6.1.0-packed.js"></script>
+<!-- REPLACED BY 6.2.1 on 12-4-2017 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.carouFredSel-6.1.0-packed.js"></script>-->
+<script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.carouFredSel-6.2.1-packed.js"></script>
 <![if !IE]>
-<script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.touchSwipe.min.js"></script>
+<!-- REPLACED BY CDNJS 1.6.18 on 12-4-2017 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.touchSwipe.min.js"></script>-->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.18/jquery.touchSwipe.min.js"></script>
 <![endif]>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.lazyload.js"></script>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.hoverIntent.minified.js"></script>
@@ -36,6 +41,7 @@
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/src/jquery.pixelentity.simplethumb.js"></script>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/src/jquery.pixelentity.flare.lightbox.render.gallery.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.min.js"></script>
 <script type="text/javascript" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/jquery.address-1.5.min.js"></script>
 <script type="text/javascript">AppendNavisKeywordToLink("lnkBookingEngine1");</script>
 <!-- start IMI
