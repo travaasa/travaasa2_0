@@ -48,7 +48,7 @@ Group Sales: 512-334-4649
       <a href="/contact-us">CONTACT US</a><br>
       <!--<a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>-->
       <a href="http://www.travaasa.com/blog">BLOG</a><br>
-      <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
+      <!--<a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>-->
       <a href="http://travaasa.com/careers">CAREERS</a><br>
       <a href="/austin/groups-and-meetings/#/proposal">REQUEST FOR PROPOSAL</a><br>
       <a href="/privacypolicy">PRIVACY POLICY</a><br>
