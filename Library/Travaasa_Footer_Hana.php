@@ -70,7 +70,7 @@ Fax: 808-248-7202<br>
           <a id="lnkP2Chat" class="btn" target="_blank" href="https://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8888201043&cust=1">CLICK TO CHAT WITH US</a>
           <script type="text/javascript">SetNavisP2ChatCustomLink("lnkP2Chat");</script></p>
     </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2017 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2018 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
   </nav>
 </footer>
 <script type="text/javascript">

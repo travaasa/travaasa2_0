@@ -152,7 +152,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     	<ul class="pricing clearfix">
             <li>
                 <p>Starting at</p>
-                <h3><sup>$</sup>900</h3>
+                <h3><sup>$</sup>1150</h3>
             </li>
         </ul>
         <a id="airconditioning"></a>
