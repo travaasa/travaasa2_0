@@ -2159,7 +2159,6 @@ height: 100%;
 }
 
 /* OLARK SIDE TAB CSS JANUARY 2018 */
-<style>
   div#olark_tab{
     position: fixed;
     left: 0;
@@ -2200,4 +2199,3 @@ height: 100%;
     background-color: #99DDEA;
     color: white;
   }
-</style>
