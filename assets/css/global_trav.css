@@ -2157,3 +2157,47 @@ height: 100%;
 	min-height: 580px;
 	overflow: hidden;
 }
+
+/* OLARK SIDE TAB CSS JANUARY 2018 */
+<style>
+  div#olark_tab{
+    position: fixed;
+    left: 0;
+    bottom:40%;
+    z-index:5000;
+  }
+
+  #olark_tab div{
+    height: 150px;
+    width: 150px;
+    float: left;
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+  }
+
+  #olark_tab a{
+    /*Edit these to change the look of your tab*/
+    background-color: #63CADF;
+    color: #fafafa;
+    font: bold 16px 'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif;
+    height: 20px;
+    padding: 6px;
+    border: 2px solid #363636;
+    display: block;     
+    text-decoration: none;
+    text-align: center;         
+    width: auto;
+    -webkit-border-bottom-right-radius:9px;
+    -webkit-border-bottom-left-radius:9px;
+    -moz-border-radius-bottomleft:9px;
+    -moz-border-radius-bottomright:9px;
+    border-top-style: none;     
+    border-top-width: 0;
+  }
+
+  #olark_tab a:hover{
+    background-color: #99DDEA;
+    color: white;
+  }
+</style>

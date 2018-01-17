@@ -99,4 +99,32 @@ olark.configure('system.hb_custom_style', {
   }
 });
 olark.identify('2306-742-10-1907');</script>
+<script>
+// Checks to see if the coversation has started
+olark('api.chat.onBeginConversation', function(){
+
+    // Triggers when the chat box has been hidden
+    olark('api.box.onHide', function() {
+
+        // Notifies the operator. The visitor does not see this.
+        olark('api.chat.sendNotificationToOperator', {body: "Visitor hid the chatbox"})
+
+    });
+
+});
+</script>
+<script>
+// Checks to see if the coversation has started
+olark('api.chat.onBeginConversation', function(){
+
+    // Triggers when the chat box has been hidden
+    olark('api.box.onShrink', function() {
+
+        // Notifies the operator. The visitor does not see this.
+        olark('api.chat.sendNotificationToOperator', {body: "Visitor hid the chatbox"})
+
+    });
+
+});
+</script>
 <!-- end olark code -->
