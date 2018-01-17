@@ -40,6 +40,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
           <h1>EXPERIENCE SCHEDULE</h1>
           <p>This schedule is subject to change.</p>
+          <!-- BEGIN OLARK TAB-->
+          <div id="olark_tab">
+              <div>
+                  <a href="javascript:void(0);" onclick="olark('api.box.expand')">
+                      Chat with us
+                  </a>
+              </div>
+          </div>
+          <!-- END OLARK TAB-->
   </section>
   <section class="grey pad group">
   	<p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=20.7553&lon=-155.9879&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>

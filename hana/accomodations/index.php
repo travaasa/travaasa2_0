@@ -158,6 +158,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <a id="airconditioning"></a>
         <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link3" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link3");</script></p>
     </div>
+    <!-- BEGIN OLARK TAB-->
+    <div id="olark_tab">
+        <div>
+            <a href="javascript:void(0);" onclick="olark('api.box.expand')">
+                Chat with us
+            </a>
+        </div>
+    </div>
+    <!-- END OLARK TAB-->
   </section>
       <section class="grey pad group">
     <h2>Hana Cooling System</h2>

@@ -70,6 +70,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <img style="float:left; padding: 5px 0 0 0;" width="135" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hawaii-mag-readers-choice3.png">
           <img style="float:left; padding: 0 0 0 10px;" width="125" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/andrew-harper-grand-award.png">
           <script src="https://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=565&amp;locationId=120706&amp;lang=en_US&amp;year=2014"></script>
+          <!-- BEGIN OLARK TAB-->
+          <div id="olark_tab">
+              <div>
+                  <a href="javascript:void(0);" onclick="olark('api.box.expand')">
+                      Chat with us
+                  </a>
+              </div>
+          </div>
+          <!-- END OLARK TAB-->
 
       </div>
       <div class="pricing_grp col span_3_of_9"><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?>
