@@ -171,7 +171,50 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ul>
 
           <p>CANCELLATION POLICY: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
-          <!-- BEGIN OLARK TAB-->
+          <!-- BEGIN OLARK TAB -->
+          <style>
+            /* OLARK SIDE TAB CSS JANUARY 2018 */
+            div#olark_tab{
+              position: fixed !important;
+              left: 0 !important;
+              bottom:40% !important;
+              z-index:5000 !important;
+            }
+
+            #olark_tab div{
+              height: 150px !important;
+              width: 150px !important;
+              float: left !important;
+              filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+              -webkit-transform: rotate(-90deg) !important;
+              -moz-transform: rotate(-90deg) !important;
+            }
+
+            #olark_tab a{
+              /*Edit these to change the look of your tab*/
+              background-color: #99DDEA !important;
+              color: #fafafa !important;
+              font: bold 16px 'Gill Sans W04 Bold', 'Gill Sans MT', Calibri, sans-serif !important;
+              height: 20px !important;
+              padding: 6px !important;
+              border: 2px solid #363636 !important;
+              display: block !important;     
+              text-decoration: none !important;
+              text-align: center !important;         
+              width: auto !important;
+              -webkit-border-bottom-right-radius:9px !important;
+              -webkit-border-bottom-left-radius:9px !important;
+              -moz-border-radius-bottomleft:9px !important;
+              -moz-border-radius-bottomright:9px !important;
+              border-top-style: none !important;     
+              border-top-width: 0 !important;
+            }
+
+            #olark_tab a:hover{
+              background-color: #CCEEF5 !important;
+              color: white !important;
+            }
+          </style>          
           <div id="olark_tab">
               <div>
                   <a href="javascript:void(0);" onclick="olark('api.box.expand')">

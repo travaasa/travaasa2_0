@@ -158,15 +158,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <a id="airconditioning"></a>
         <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link3" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link3");</script></p>
     </div>
-    <!-- BEGIN OLARK TAB-->
-    <div id="olark_tab">
-        <div>
-            <a href="javascript:void(0);" onclick="olark('api.box.expand')">
-                Chat with us
-            </a>
-        </div>
-    </div>
-    <!-- END OLARK TAB-->
+          <!-- BEGIN OLARK TAB -->
+          <style>
+            /* OLARK SIDE TAB CSS JANUARY 2018 */
+            div#olark_tab{
+              position: fixed !important;
+              left: 0 !important;
+              bottom:40% !important;
+              z-index:5000 !important;
+            }
+
+            #olark_tab div{
+              height: 150px !important;
+              width: 150px !important;
+              float: left !important;
+              filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+              -webkit-transform: rotate(-90deg) !important;
+              -moz-transform: rotate(-90deg) !important;
+            }
+
+            #olark_tab a{
+              /*Edit these to change the look of your tab*/
+              background-color: #99DDEA !important;
+              color: #fafafa !important;
+              font: bold 16px 'Gill Sans W04 Bold', 'Gill Sans MT', Calibri, sans-serif !important;
+              height: 20px !important;
+              padding: 6px !important;
+              border: 2px solid #363636 !important;
+              display: block !important;     
+              text-decoration: none !important;
+              text-align: center !important;         
+              width: auto !important;
+              -webkit-border-bottom-right-radius:9px !important;
+              -webkit-border-bottom-left-radius:9px !important;
+              -moz-border-radius-bottomleft:9px !important;
+              -moz-border-radius-bottomright:9px !important;
+              border-top-style: none !important;     
+              border-top-width: 0 !important;
+            }
+
+            #olark_tab a:hover{
+              background-color: #CCEEF5 !important;
+              color: white !important;
+            }
+          </style>          
+          <div id="olark_tab">
+              <div>
+                  <a href="javascript:void(0);" onclick="olark('api.box.expand')">
+                      Chat with us
+                  </a>
+              </div>
+          </div>
+          <!-- END OLARK TAB-->
   </section>
       <section class="grey pad group">
     <h2>Hana Cooling System</h2>
