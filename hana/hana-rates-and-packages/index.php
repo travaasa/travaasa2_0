@@ -171,6 +171,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </ul>
 
           <p>CANCELLATION POLICY: All cancellations must be made at least 10 days before arrival date of reservation to receive refund of your advance deposit.</p>
+          <!-- BEGIN OLARK TAB-->
+          <div id="olark_tab">
+              <div>
+                  <a href="javascript:void(0);" onclick="olark('api.box.expand')">
+                      Chat with us
+                  </a>
+              </div>
+          </div>
+          <!-- END OLARK TAB-->
 
 
   </section>

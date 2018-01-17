@@ -419,6 +419,15 @@ Please keep in mind that the treatment times are reserved especially for you. Th
 			<section class="spa_package">
 <h4>DAY GUESTS</h4>
 <p>Appointments are required for all non-guests.</p>
+          <!-- BEGIN OLARK TAB-->
+          <div id="olark_tab">
+              <div>
+                  <a href="javascript:void(0);" onclick="olark('api.box.expand')">
+                      Chat with us
+                  </a>
+              </div>
+          </div>
+          <!-- END OLARK TAB-->
 			</section>
         </div>
      </div>

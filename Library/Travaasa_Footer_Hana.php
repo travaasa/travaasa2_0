@@ -75,15 +75,6 @@ Fax: 808-248-7202<br>
           <!-- END OLARK CHAT LINK -->
           </p>
     </div>
-    <!-- BEGIN OLARK TAB-->
-<div id="olark_tab">
-    <div>
-        <a href="javascript:void(0);" onclick="olark('api.box.expand')">
-            Chat with us
-        </a>
-    </div>
-</div>
-<!-- END OLARK TAB-->
 <p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2018 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
   </nav>
 </footer>
