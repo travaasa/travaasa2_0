@@ -40,58 +40,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
           <h1>EXPERIENCE SCHEDULE</h1>
           <p>This schedule is subject to change.</p>
-          <!-- BEGIN OLARK TAB -->
-          <style>
-            /* OLARK SIDE TAB CSS JANUARY 2018 */
-            div#olark_tab{
-              position: fixed !important;
-              left: 0 !important;
-              bottom:40% !important;
-              z-index:5000 !important;
-            }
-
-            #olark_tab div{
-              height: 150px !important;
-              width: 150px !important;
-              float: left !important;
-              filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-              -webkit-transform: rotate(-90deg) !important;
-              -moz-transform: rotate(-90deg) !important;
-            }
-
-            #olark_tab a{
+          <!-- BEGIN OLARK TAB --> 
+           <style> 
+          div#olark_tab{
+               position: fixed !important;
+               left: 0 !important;
+               bottom:40% !important;
+               z-index:5000 !important;
+          }
+           #olark_tab div{
+               height: 130px !important;
+               width: 130px !important;
+               float: left !important;
+               filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+               -webkit-transform: rotate(-90deg) !important;
+               -moz-transform: rotate(-90deg) !important;
+          }
+           #olark_tab a{
               /*Edit these to change the look of your tab*/
-              background-color: #99DDEA !important;
-              color: #fafafa !important;
-              font: bold 16px 'Gill Sans W04 Bold', 'Gill Sans MT', Calibri, sans-serif !important;
-              height: 20px !important;
-              padding: 6px !important;
-              border: 2px solid #363636 !important;
-              display: block !important;     
-              text-decoration: none !important;
-              text-align: center !important;         
-              width: auto !important;
-              -webkit-border-bottom-right-radius:9px !important;
-              -webkit-border-bottom-left-radius:9px !important;
-              -moz-border-radius-bottomleft:9px !important;
-              -moz-border-radius-bottomright:9px !important;
-              border-top-style: none !important;     
-              border-top-width: 0 !important;
-            }
-
-            #olark_tab a:hover{
-              background-color: #CCEEF5 !important;
-              color: white !important;
-            }
-          </style>          
+               background-color: #70cee2 !important;
+               color: #fafafa !important;
+               font-family: 'Gill Sans W04 Bold', 'Gill Sans MT', Calibri, sans-serif;
+               font-size: .8em !important;
+               height: 20px !important;
+               padding: 6px !important;
+               border: 2px solid #99DDEA !important;
+               display: block !important;
+               text-decoration: none !important;
+               text-align: center !important;
+               width: auto !important;
+               -webkit-border-bottom-right-radius:9px !important;
+               -webkit-border-bottom-left-radius:9px !important;
+               -moz-border-radius-bottomleft:9px !important;
+               -moz-border-radius-bottomright:9px !important;
+               border-top-style: none !important;
+               border-top-width: 0 !important;
+          }
+           #olark_tab a:hover{
+               background-color: #CCEEF5 !important;
+               color: white !important;
+          }
+           #olark-wrapper .olark-launch-button svg path {
+               fill: #FAFAFA !important;
+          }
+           </style> 
           <div id="olark_tab">
-              <div>
-                  <a href="javascript:void(0);" onclick="olark('api.box.expand')">
-                      Chat with us
-                  </a>
-              </div>
+               <div>
+                    <a href="javascript:void(0);" onclick="olark('api.box.expand')">
+                                CHAT WITH US
+                    </a>
+               </div>
           </div>
-          <!-- END OLARK TAB-->
+          <!-- END OLARK TAB -->
   </section>
   <section class="grey pad group">
   	<p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=20.7553&lon=-155.9879&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
