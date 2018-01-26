@@ -17,21 +17,21 @@ RewriteRule ^hana/#(.*)$ http://travaasa.com/hana/$1 [R=302,L]
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
-Redirect 301 /austin/accomodations http://travaasa.com/hana/accomodations
-Redirect 301 /austin/austin-experiences http://travaasa.com/hana/travaasa-hana-experiences
-Redirect 301 /austin/austin-honeymoon http://travaasa.com/hana/hana-honeymoon
-Redirect 301 /austin/austinphotos http://travaasa.com/hana/hanaphotos
-Redirect 301 /austin/austinschedule http://travaasa.com/hana/hanaschedule
-Redirect 301 /austin/dining http://travaasa.com/hana/hana-dining-overview
-Redirect 301 /austin/directions http://travaasa.com/hana/road-to-hana
-Redirect 301 /austin/farm http://travaasa.com/hana/travaasa-hana-experiences
-Redirect 301 /austin/food-truck http://travaasa.com/hana/hana-dining-overview
-Redirect 301 /austin/groups-and-meetings http://travaasa.com/hana/hana-groups-and-meetings
-Redirect 301 /austin/rates-and-packages http://travaasa.com/hana/hana-rates-and-packages
-Redirect 301 /austin/travaasa-spa-overview http://travaasa.com/hana/hana-the-spa-at-travaasa-hana
-Redirect 301 /austin/video http://travaasa.com/hana/video
-Redirect 301 /austin/weddings http://travaasa.com/hana/weddings
-Redirect 301 /austin/austin-renovation http://travaasa.com/berkshire-county
+Redirect 301 /austin/accomodations/index.php http://travaasa.com/hana/accomodations/index.php
+Redirect 301 /austin/austin-experiences/index.php http://travaasa.com/hana/travaasa-hana-experiences/index.php
+Redirect 301 /austin/austin-honeymoon/index.php http://travaasa.com/hana/hana-honeymoon/index.php
+Redirect 301 /austin/austinphotos/index.php http://travaasa.com/hana/hanaphotos/index.php
+Redirect 301 /austin/austinschedule/index.php http://travaasa.com/hana/hanaschedule/index.php
+Redirect 301 /austin/dining/index.php http://travaasa.com/hana/hana-dining-overview/index.php
+Redirect 301 /austin/directions/index.php http://travaasa.com/hana/road-to-hana/index.php
+Redirect 301 /austin/farm/index.php http://travaasa.com/hana/travaasa-hana-experiences/index.php
+Redirect 301 /austin/food-truck/index.php http://travaasa.com/hana/hana-dining-overview/index.php
+Redirect 301 /austin/groups-and-meetings/index.php http://travaasa.com/hana/hana-groups-and-meetings/index.php
+Redirect 301 /austin/rates-and-packages/index.php http://travaasa.com/hana/hana-rates-and-packages/index.php
+Redirect 301 /austin/travaasa-spa-overview/index.php http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/index.php
+Redirect 301 /austin/video/index.php http://travaasa.com/hana/video/index.php
+Redirect 301 /austin/weddings/index.php http://travaasa.com/hana/weddings/index.php
+Redirect 301 /austin/austin-renovation/index.php http://travaasa.com/berkshire-county/index.php
 
 AddType image/svg+xml svg svgz
 AddEncoding gzip svgz
