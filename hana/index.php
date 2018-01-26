@@ -145,7 +145,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </div>
         </div>
         <div class="slide">
-          <div class="slide_inner"><a href="/hana/accomodations/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_accommodations_overview.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a>
+          <div class="slide_inner"><a href="/hana/accomodations/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_accommodations_overview2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a>
             <h5>Rooms designed with R&amp;R in mind</h5>
             <p class="description">The town of Hana feels like it is a world away from the rest of Maui. So it is only appropriate that our accommodations envelop you in a similar state of mind. Whether you are staying in one of our luxurious cottages or checking in to one of our spacious suites , you will find the peace and quiet you deserve. <a href="/hana/accomodations" class="more">Explore</a></p>
           </div>

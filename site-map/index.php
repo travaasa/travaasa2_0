@@ -37,9 +37,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts Site Map | Resorts in Austin TX and Hana, Maui HI</title>
-	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Travaasa destination resorts in Hana Hawaii and Austin Texas take our guests on a journey of discovery. All inclusive packages available." />
+	<title>Travaasa Experiential Resorts Site Map | Resort in Hana, Maui Hawaii</title>
+	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, resort, experiential, hotel" />
+	<meta name="description" content="Travaasa Experiential Resorts in Hana Hawaii take our guests on a journey of discovery. All inclusive packages available." />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
@@ -68,8 +68,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
   		<section class="pad grey group">
         	<div class="col span_1_of_3">
-            	<h5><a href="/austin">Travaasa Austin</a></h5>
-              	<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" id="pricing-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("sitemap-austin-link");</script><br>
+            	<h5><a href="/hana"></a></h5>
+              	<p class="clear"><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="pricing-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("sitemap-hana-link");</script><br>
                 <?php
                 foreach($austin as $a):
                   ?>

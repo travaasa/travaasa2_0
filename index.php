@@ -7,8 +7,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Travaasa Experiential Resorts  Adventure, Culinary, Culture, Fitness, Spa & Wellness Vacations</title>
-  <meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-  <meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui. Our resorts provide authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa &amp; Wellness." />
+  <meta name="keywords" content="travaasa, travel, resorts, hana, maui, hāna, hawaii, experiential, hotel, hawaiian islands, hawaii honeymoon, destination wedding" />
+  <meta name="description" content="Rediscover the magic of travel with Travaasa Hana, Maui. Our resort provides authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa &amp; Wellness." />
   <meta name="p:domain_verify" content="8b5fe67201926cfeb859a9501821fc80"/>
   <meta property="og:url"                content="http://travaasa.com" />
   <meta property="og:type"               content="website" />
@@ -38,12 +38,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?>
 <section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_beach_flirt.jpg" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_beach_flirt.jpg" alt="Travaasa Experiential Resorts, Travaasa Resort Hana"></a></div>
       <!--<div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_adventure-flirt.jpg" alt=""></a></div>-->
-      <div class="slide"><a href="/austin/dining/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culinary.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culture2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/austin/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_fitness.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
-      <div class="slide"><a href="/austin/travaasa-spa-overview/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_spa.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Austin, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/hana/hana-dining-overview/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culinary2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>
+      <div class="slide"><a href="/hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culture2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>
+      <div class="slide"><a href="/hana/hanaschedule/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_fitness2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>
+      <div class="slide"><a href="/hana/hana-the-spa-at-travaasa-hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_spa2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>
       <div class="slide"><a href="/berkshire-county"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_berkshire-county.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Berkshire County, Travaasa Resort Hana"></a></div>
     </div>
 
@@ -55,10 +55,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="pad">
         <div class="col span_4_of_7">
             <div id="location-selector">
-                <h1>SELECT A LOCATION</h1>
+                <h1>EXPLORE A LOCATION</h1>
                 <ul>
                     <li><a href="./hana">HANA, MAUI</a></li>
-                    <li><a href="./austin">AUSTIN, TX</a></li>
+                    <li><a href="./berkshire-county">BERKSHIRE COUNTY</a></li>
                 </ul>
              </div>
          </div>
@@ -66,8 +66,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--<h1 style="display:block; color:#666666; font-size:13px; line-height:20px;">NO RESORT FEES AT TRAVAASA</h1>-->
             <!--<a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
             <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2']); return false;" class="btn">BOOK HANA</a>-->
-            <a href="http://travaasa.com/austin-renovation/"  class="btn-jorah">BOOK AUSTIN</a>&nbsp;
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="homepage-hana-link" target="_blank" class="btn-jorah">BOOK HANA</a><script type="text/javascript">AppendNavisKeywordToLink("homepage-hana-link");</script>
+            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="homepage-hana-link" target="_blank" class="btn-jorah">BOOK HANA, MAUI</a><script type="text/javascript">AppendNavisKeywordToLink("homepage-hana-link");</script>
          </div>
      </div>
   </section>

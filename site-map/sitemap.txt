@@ -1,12 +1,3 @@
-Austin, Gallery, http://travaasa.com/austin/austinphotos, 2014-07-17, weekly, 1.0, 2
-Austin, Experiences, http://travaasa.com/austin/austin-experiences, 2014-07-17, weekly, 1.0, 2
-Austin, Spa, http://travaasa.com/austin/travaasa-spa-overview, 2014-07-14, weekly, 1.0, 2
-Austin, Rooms, http://travaasa.com/austin/accomodations, 2014-07-14, weekly, 1.0, 2
-Austin, Dining, http://travaasa.com/austin/dining, 2014-07-14, weekly, 1.0, 2
-Austin, Rates, http://travaasa.com/austin/rates-and-packages/, 2014,07-14, weekly, 1.0, 2
-Austin, Groups &amp; Meetings, http://travaasa.com/austin/groups-and-meetings, 2014-07-14, weekly, 1.0, 2
-Austin, Farm to Table, http://travaasa.com/austin/farm/, 2014,07-14, weekly, 1.0, 2
-Austin, Food Truck, http://travaasa.com/austin/food-truck/, 2014,07-14, weekly, 1.0, 2
 Hana, Gallery, http://travaasa.com/hana/hanaphotos, 2014-07-14, weekly, 1.0, 2
 Hana, Experiences, http://travaasa.com/hana/travaasa-hana-experiences, 2014-07-14, weekly, 1.0, 2
 Hana, Spa, http://travaasa.com/hana/hana-the-spa-at-travaasa-hana, 2014-07-14, weekly, 1.0, 2
