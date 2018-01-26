@@ -35,6 +35,20 @@ Redirect 301 /austin/video/index.php http://travaasa.com/hana/video/
 Redirect 301 /austin/weddings/index.php http://travaasa.com/hana/weddings/
 Redirect 301 /austin/austin-renovation/index.php http://travaasa.com/berkshire-county/
 
+Redirect 301 /hana/austin-experiences/ http://travaasa.com/hana/travaasa-hana-experiences/
+Redirect 301 /hana/austin-honeymoon/ http://travaasa.com/hana/hana-honeymoon/
+Redirect 301 /hana/austinphotos/ http://travaasa.com/hana/hanaphotos/
+Redirect 301 /hana/austinschedule/ http://travaasa.com/hana/hanaschedule/
+Redirect 301 /hana/dining/ http://travaasa.com/hana/hana-dining-overview/
+Redirect 301 /hana/directions/ http://travaasa.com/hana/road-to-hana/
+Redirect 301 /hana/food-truck/ http://travaasa.com/hana/hana-dining-overview/
+Redirect 301 /hana/groups-and-meetings/ http://travaasa.com/hana/hana-groups-and-meetings/
+Redirect 301 /hana/rates-and-packages/ http://travaasa.com/hana/hana-rates-and-packages/
+Redirect 301 /hana/travaasa-spa-overview/ http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/
+Redirect 301 /hana/austin-renovation/ http://travaasa.com/berkshire-county/
+
+
+
 AddType image/svg+xml svg svgz
 AddEncoding gzip svgz
 
