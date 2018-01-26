@@ -6,9 +6,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Resorts | Austin | Hana | Contact Us</title>
-	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Contact Travaasa Resorts. We look forward to helping you to rediscover the magic of travel at our destination resorts in Austin and Maui." />
+	<title>Travaasa Experiential Resorts | Hana Maui Hawaii | Contact Us</title>
+	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, experiential, hotel" />
+	<meta name="description" content="Contact Travaasa Resorts. We look forward to helping you to rediscover the magic of travel at our destination resorts in Hana, Maui Hawaii." />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
@@ -38,13 +38,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <!--<h1>Contact Us</h1>-->
               <p>Are you ready to Travaasa? Start your journey today and get ready to experience the world in a completely different way. <strong>Call <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>(855) 868-7282</noscript> to book your stay.</strong><br><br>Interested in a career with Travaasa? Visit our <a href="http://travaasa.com/careers">careers</a> page.<br><br></strong>For donation inquiries, please fill out our brief <a href="http://travaasa.com/donationrequest/">donation request form</a>.</p>
             </div>
-            <div class="col span_1_of_5">
+            <!--<div class="col span_1_of_5">
                 <img class="lazy fitwidth" data-original="/assets/images/contact-us-austin.jpg" src="/assets/images/global/placeholder.gif" alt="Travaasa Austin" width="180" height="180">
             </div>
             <div class="col span_1_of_5">
                 <h4>Travaasa Austin</h4>
-                <p><a href="http://maps.google.com/maps?hl=en&amp;q=travaasa+austin&amp;safe=off&amp;ie=UTF8&amp;sqi=2&amp;hq=travaasa&amp;hnear=Austin,+Travis,+Texas&amp;t=m&amp;vpsrc=6&amp;ll=30.45844,-97.835999&amp;spn=0.12326,0.221786&amp;z=13&amp;iwloc=A&amp;cid=5151063792531704065" target="_blank">13500 Farm to Market Road 2769<br>
-                Austin, TX 78726</a><br><br>
+                <p><a href="http://maps.google.com/maps?hl=en&amp;q=travaasa+austin&amp;safe=off&amp;ie=UTF8&amp;sqi=2&amp;hq=travaasa&amp;hnear=+Travis,+Texas&amp;t=m&amp;vpsrc=6&amp;ll=30.45844,-97.835999&amp;spn=0.12326,0.221786&amp;z=13&amp;iwloc=A&amp;cid=5151063792531704065" target="_blank">13500 Farm to Market Road 2769<br>
+                 TX 78726</a><br><br>
 
                 <strong>Email:</strong> <a href="mailto:austin@travaasa.com">austin@travaasa.com</a><br>
                 <strong>Main:</strong><a style="color:#454545;" href="tel:5123640061">512-364-0061</a><br>
@@ -52,13 +52,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 <strong>Group Sales:</strong> 512-334-4649<br>
                 <a href="mailto:austinsales@travaasa.com">austinsales@travaasa.com</a></p>
-            </div>
+            </div>-->
             <div class="col span_1_of_5">
                 <img class="lazy fitwidth" data-original="/assets/images/contact-us-hana.jpg" src="/assets/images/global/placeholder.gif" alt="Travaasa Hana" width="180" height="180">
             </div>
-            <div class="col span_1_of_5">
-                <h4>Travaasa Hana</h4>
-                <p><a href="http://maps.google.com/maps?hl=en&amp;q=5031+Hana+Highway+Hana,+HI+96713&amp;gs_upl=3125l8296l0l9305l5l5l0l0l0l1l203l724l1.3.1l5l0&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;biw=638&amp;bih=933&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x7954ac25effd1793:0x535647e82e0e776,5031+Hana+Hwy,+Hana,+HI+96713&amp;gl=us&amp;ei=Hh4GT_KFB4nE2wX9zIn5CQ&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=1&amp;ved=0CB0Q8gEwAA5" target="_blank">5031 Hana Hwy<br>
+            <div class="col span_2_of_5">
+                <h4>Travaasa Hana, Maui</h4>
+                <p><a href="http://maps.google.com/maps?hl=en&amp;q=5031+Hana+Highway+Hana,+HI+96713&amp;gs_upl=3125l8296l0l9305l5l5l0l0l0l1l203l724l1.3.1l5l0&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;biw=638&amp;bih=933&amp;um=1&amp;ie=UTF-8&ap;hq=&amp;hnear=0x7954ac25effd1793:0x535647e82e0e776,5031+Hana+Hwy,+Hana,+HI+96713&amp;gl=us&amp;ei=Hh4GT_KFB4nE2wX9zIn5CQ&amp;sa=X&amp;oi=geocode_result&amp;ct=title&amp;resnum=1&amp;ved=0CB0Q8gEwAA5" target="_blank">5031 Hana Hwy<br>
                 Hana, Hi 96713</a><br><br>
 
                 <strong>Email:</strong> <a href="mailto:hana@travaasa.com">hana@travaasa.com</a><br>

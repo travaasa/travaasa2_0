@@ -5,7 +5,7 @@
     	<li class="menu_main"><a href="#" id="current_location">LOCATION</a>
         	<ul class="menu_sub">
                 <li><a href="/hana">HANA, MAUI</a></li>
-                <li><a href="/austin">AUSTIN, TX</a></li>
+                <!--<li><a href="/austin">AUSTIN, TX</a></li>-->
              </ul>
         </li>
     </ul>
