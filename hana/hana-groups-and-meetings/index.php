@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>Maui Wedding Venues | Hawaii Weddings and Events | Travaasa Hana </title>
-	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
+	<meta name="keywords" content="travaasa, maui, travel, resorts, hana, hāna, hawaii, experiential, hotel, hotel hana-maui, hana-maui" />
 	<meta name="description" content="Say 'I do' at one of the most remarkable resorts in Hawaii. Travaasa Hana is the perfect Maui wedding venue for an intimate, unique events." />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
@@ -52,13 +52,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li id="tab_2"><a href="#facilities">Meeting Facilities</a></li>
             <li id="tab_3"><a href="#toolkit">Planner's Toolkit</a></li>
             <li id="tab_4"><a href="#proposal">Request for Proposal</a></li>
-            <!--<li id="tab_4"><a href="/hana/weddings" target="_blank">Looking for Weddings?</a></li>-->
         </ul>
+        <hr>
         <div style="display:inline-block;">
     <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank"><img title="Travaasa Hana, Maui Meeting Planners Guide" style="float:left; margin: 20px 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="259" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hana-meeting-planners-guide-thumb.jpg"></a>
-    </div><br/>
-    <a class="btn-jorah" style="width:152px;" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank">Meeting Planner's Guide</a></p>
+    </div>
+    <p><a class="btn-jorah" style="width:152px;" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Meeting-Planners-Guide.pdf" target="_blank">Meeting Planner's Guide</a></p>
 <p><a class="btn-jorah" style="width:152px;" href="https://travaasa.wufoo.com/forms/travaasa-hana-request-for-group-proposal/" target="_blank">Request for Proposal</a></p>
+<hr>
+<div style="display:inline-block;">
+    <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Wedding-Guide.pdf" target="_blank"><img title="Travaasa Hana Wedding Guide" style="float:left; margin: 0 20px 20px 0; text-align: center; -webkit-border-radius: 1px; -moz-border-radius: 1px; border-radius: 1px; -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); background-color: #fafafa; border: 1px solid #efefef; display: inline-block;" class="videobox"  width="200" height="259" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hana-wedding-guide-thumb.jpg"></a></div>
+<p><a class="btn-jorah" style="width:152px;" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Wedding-Guide.pdf" target="_blank">Wedding Guide</a></p>
+<p><a href="http://travaasa.com/hana/weddings">EXPLORE WEDDINGS &rarr;</a></p>
     </div>
     <div id="facilities" class="tab_data">
         <div class="tab_data_inner">
@@ -157,7 +162,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <hr>
 
             <div class="group">
-                <div class="col span_1_of_2"><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/Large-PlantationLawn.jpg" data-flare-gallery="galleryPlantationLawn" data-target="flare" data-flare-scale="fitmax" title="Plantation Guest House Lawn"><img class="fitwidth lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/720-PlantationLawn.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lawn Hawaii wedding venue"></a>
+                <div class="col span_1_of_2"><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/Large-PlantationLawn2.jpg" data-flare-gallery="galleryPlantationLawn" data-target="flare" data-flare-scale="fitmax" title="Plantation Guest House Lawn"><img class="fitwidth lazy" data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/720-PlantationLawn2.jpg" src="/assets/images/global/placeholder.gif" width="180" height="180" alt="The Plantation Guest House Lawn Hawaii wedding venue"></a>
                 </div>
                 <div class="col span_1_of_2">
                     <table class="meetings-table">
@@ -721,7 +726,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <hr>
 
-            <h1>Hamoa Beach</h1>
+            <!--<h1>Hamoa Beach</h1>
 
 
             <div class="group">
@@ -768,7 +773,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <p>Located at legendary Hamoa Beach, our Lu'au Hale is the perfect space for a casual, oceanside event or meeting. Start with a blank palette and create your own tropical sun filled or moon lit experience.</p>
             
-            <hr>
+            <hr>-->
             
             <h1>Spa Terrace</h1>
 
