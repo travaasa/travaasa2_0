@@ -5,7 +5,7 @@
     	<li class="menu_main"><a href="/hana" id="current_location">HANA, MAUI</a>
         	<ul class="menu_sub">
                 <li><a href="/hana">HANA, MAUI</a></li>
-                <!--<li><a href="/austin">AUSTIN, TX</a></li>-->
+                <li><a href="/berkshire-county">BERKSHIRE COUNTY</a></li>
              </ul>
         </li>
     </ul>
