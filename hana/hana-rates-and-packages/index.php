@@ -133,13 +133,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </tr>-->
         <tr class="compare-summary">
           <td>&nbsp;</td>
-          <td class="compare-price"><p><strong>SINGLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>700</p></td>
-          <td class="compare-price"><p><strong>SINGLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>450</p></td>
+          <td class="compare-price"><p><strong>SINGLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>725</p></td>
+          <td class="compare-price"><p><strong>SINGLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>475</p></td>
         </tr>
         <tr class-"compare-summary2">
           <td style="border:1px solid #FFFFFF;" >&nbsp;</td>
-          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>1000</p></td>
-          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>500</p></td>
+          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> inclusive from</p><p class="compare-price-copy"><sup>$</sup>1025</p></td>
+          <td style="border:1px solid #FFFFFF;" class="compare-price"><p><strong>DOUBLE</strong> &#224; la carte from</p><p class="compare-price-copy"><sup>$</sup>525</p></td>
         </tr>
      </tbody>
     </table>
