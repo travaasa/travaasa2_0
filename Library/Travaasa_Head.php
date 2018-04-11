@@ -7,6 +7,7 @@
 <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 <!-- Stylesheets -->
 <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/855e233c-3953-43b0-abfe-6551b0031c94.css"/>
+<link type="text/css" rel="stylesheet" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/fonts/MyFontsWebfontsKit/MyFontsWebfontsKit.css"/>
 <link rel="stylesheet" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/css/html5reset.css" media="all">
 <link rel="stylesheet" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/css/col.css" media="all">
 <link rel="stylesheet" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/css/2cols.css" media="all">
