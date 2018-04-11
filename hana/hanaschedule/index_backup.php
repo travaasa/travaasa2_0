@@ -17,23 +17,6 @@
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
 	?>
-  <style>
-.responsive-iframe-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
-    height: 900px;
-    overflow: hidden;
-}
-.responsive-iframe-container iframe,   
-.vresponsive-iframe-container object,  
-.vresponsive-iframe-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 900px;
-}</style>
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
@@ -111,10 +94,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <!-- END OLARK TAB -->
   </section>
   <section class="grey pad group">
-  	<!--<p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=20.7553&lon=-155.9879&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>-->
-    <p><script type='text/javascript' src='https://darksky.net/widget/default/20.757508,-155.988407/us12/en.js?width=100%&height=301&title=Weather for Hana, Maui&textColor=333333&bgColor=transparent&transparency=true&skyColor=333333&fontFamily=Trebuchet MS&customFont=&units=us&htColor=333333&ltColor=70cee2&displaySum=yes&displayHeader=yes'></script></p>
+  	<p><iframe id="forecast_embed" type="text/html" display="inline" frameborder="0" height="245" width="100%" src="http://forecast.io/embed/#lat=20.7553&lon=-155.9879&name=Travaasa Hana, Maui&color=#D7385E&font=Helvetica&units=us"> </iframe></p>
     <div class="responsive-iframe-container">
-    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=900&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hanaactivities%40travaasa.com&amp;color=%23f05033&amp;ctz=Pacific%2FHonolulu" style="border:solid 7px #FFFFFF" width="100%" height="900" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=900&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hanaactivities%40travaasa.com&amp;color=%23f05033&amp;ctz=Pacific%2FHonolulu" style=" border:solid 10px #FFFFFF " width="630" height="900" frameborder="0" scrolling="no"></iframe>
     </div>
   </section>
 </article>
