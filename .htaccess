@@ -10,7 +10,7 @@ RewriteRule (css|jpg|png|gif|js|swf)$ - [L]
 #RewriteCond %{HTTP_HOST} !^www\.
 #RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
-RewriteCond %{HTTP_HOST} ^184\.106\.113\.117
+RewriteCond %{HTTP_HOST} ^23\.253\.207\.122
 RewriteRule (.*) http://www.travaasa.com/$1 [R=301,L]
 RewriteRule ^hana/#(.*)$ http://travaasa.com/hana/$1 [R=302,L]
 
