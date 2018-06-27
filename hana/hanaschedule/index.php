@@ -37,6 +37,8 @@
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="http://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
+<script id="navis-fusion-loader"
+src="https://assets.navisperformance.com/NWRC/Fusion/navis-fusion-loader.js" data-accountid="15070" data-secret="ivcsp4gaxk4fbz8banxd"></script>
 <!-- end NAVIS Code -->
 </head>
 <body>
@@ -59,7 +61,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>This schedule is subject to change.</p>
           <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Hana-Maui-Experience-Map.pdf" class="btn-list" target="_blank">Download Hana Experience Map</a>
           <!-- BEGIN OLARK TAB --> 
-           <style> 
+           <!--<style> 
           div#olark_tab{
                position: fixed !important;
                left: 0 !important;
@@ -108,7 +110,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 CHAT WITH US
                     </a>
                </div>
-          </div>
+          </div> -->
           <!-- END OLARK TAB -->
   </section>
   <section class="grey pad group">

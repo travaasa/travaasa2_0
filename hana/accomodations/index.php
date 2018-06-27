@@ -20,8 +20,8 @@
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="https://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
-<!--<script id="navis-fusion-loader"
-src="https://assets.navisperformance.com/NWRC/Fusion/navis-fusion-loader.js" data-accountid="15070" data-secret="ivcsp4gaxk4fbz8banxd"></script>-->
+<script id="navis-fusion-loader"
+src="https://assets.navisperformance.com/NWRC/Fusion/navis-fusion-loader.js" data-accountid="15070" data-secret="ivcsp4gaxk4fbz8banxd"></script>
 <!-- end NAVIS Code -->
 </head>
 <body>
@@ -159,7 +159,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="accommodations-hana-link3" target="_blank">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("accommodations-hana-link3");</script></p>
     </div>
           <!-- BEGIN OLARK TAB --> 
-           <style> 
+           <!--<style> 
           div#olark_tab{
                position: fixed !important;
                left: 0 !important;
@@ -208,7 +208,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 CHAT WITH US
                     </a>
                </div>
-          </div>
+          </div> -->
           <!-- END OLARK TAB -->
   </section>
       <section class="grey pad group">
