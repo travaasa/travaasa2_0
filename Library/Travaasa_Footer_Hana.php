@@ -64,8 +64,8 @@ Fax: 808-248-7202<br>
       </ul>
       <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
       <!-- NAVIS Push to Talk link -->
-          <a id="lnkP2Talk" class="btn" target="_blank" href="https://www.thenavisway.com/p2talk/P2TCust.aspx?account=15070&dnis=8888201043">CLICK TO TALK WITH US</a>
-          <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script><br />
+          <!--<a id="lnkP2Talk" class="btn" target="_blank" href="https://www.thenavisway.com/p2talk/P2TCust.aspx?account=15070&dnis=8888201043">CLICK TO TALK WITH US</a>
+          <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script><br />-->
           <!-- NAVIS Push to Chat link -->
           <!--<a id="lnkP2Chat" class="btn" target="_blank" href="https://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8888201043&cust=1">CLICK TO CHAT WITH US</a>
           <script type="text/javascript">SetNavisP2ChatCustomLink("lnkP2Chat");</script>-->

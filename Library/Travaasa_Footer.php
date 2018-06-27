@@ -27,16 +27,16 @@
       </ul>
       <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
       <!-- NAVIS Push to Talk link -->
-        <a id="lnkP2Talk" class="btn" target="_blank" href="https://www.thenavisway.com/p2talk/P2TCust.aspx?account=15070&dnis=8888201043">CLICK TO TALK WITH US</a>
-        <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script><br />
+        <!--<a id="lnkP2Talk" class="btn" target="_blank" href="https://www.thenavisway.com/p2talk/P2TCust.aspx?account=15070&dnis=8888201043">CLICK TO TALK WITH US</a>
+        <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script><br />-->
         <!-- NAVIS Push to Chat link -->
         <!--<a id="lnkP2Chat" class="btn" target="_blank" href="https://www.navistechnologies.info/p2talk/p2chatini.aspx?account=15070&dnis=8888201043&cust=1">CLICK TO CHAT WITH US</a>
         <script type="text/javascript">SetNavisP2ChatCustomLink("lnkP2Chat");</script>-->
         <!-- BEGIN OLARK CHAT LINK -->
         <!--<a class="btn" href="javascript:void(0);" onclick="olark('api.box.expand')">
         CLICK TO CHAT WITH US</a>-->
-        <!-- END OLARK CHAT LINK --></p>
-
+        <!-- END OLARK CHAT LINK -->
+      </p>
     </div>
 <p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2018 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
   </nav>
