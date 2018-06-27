@@ -20,8 +20,8 @@
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="https://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_HANA ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
-<!--<script id="navis-fusion-loader"
-src="https://assets.navisperformance.com/NWRC/Fusion/navis-fusion-loader.js" data-accountid="15070" data-secret="ivcsp4gaxk4fbz8banxd"></script>-->
+<script id="navis-fusion-loader"
+src="https://assets.navisperformance.com/NWRC/Fusion/navis-fusion-loader.js" data-accountid="15070" data-secret="ivcsp4gaxk4fbz8banxd"></script>
 <!-- end NAVIS Code -->
 </head>
 <body>
@@ -420,7 +420,7 @@ Please keep in mind that the treatment times are reserved especially for you. Th
 <h4>DAY GUESTS</h4>
 <p>Appointments are required for all non-guests.</p>
           <!-- BEGIN OLARK TAB --> 
-           <style> 
+           <!--<style> 
           div#olark_tab{
                position: fixed !important;
                left: 0 !important;
@@ -469,7 +469,7 @@ Please keep in mind that the treatment times are reserved especially for you. Th
                                 CHAT WITH US
                     </a>
                </div>
-          </div>
+          </div> -->
           <!-- END OLARK TAB -->
 			</section>
         </div>

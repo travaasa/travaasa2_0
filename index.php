@@ -21,6 +21,8 @@
 <!-- start NAVIS Code -->
 <script type="text/javascript" src="https://www.navistechnologies.info/JavascriptPhoneNumber/js.aspx?account=15070&amp;jspass=ivcsp4gaxk4fbz8banxd&amp;dflt=<?php echo NAVIS_GLOBAL_DEFAULT ?>"></script>
 <script type="text/javascript">ProcessNavisNCKeyword();</script>
+<script id="navis-fusion-loader"
+src="https://assets.navisperformance.com/NWRC/Fusion/navis-fusion-loader.js" data-accountid="15070" data-secret="ivcsp4gaxk4fbz8banxd"></script>
 <!-- end NAVIS Code -->
 </head>
 <body>
