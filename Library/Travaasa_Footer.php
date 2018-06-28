@@ -13,8 +13,14 @@
       <!--<a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>-->
       <a href="http://travaasa.com/careers">CAREERS</a><br>
       <a href="/austin/groups-and-meetings/#/proposal">REQUEST FOR PROPOSAL</a><br>
-      <a href="/privacypolicy">PRIVACY POLICY</a><br>
+      <!--<a href="/privacypolicy">PRIVACY POLICY</a><br>-->
 	    <a href="/site-map">SITE MAP</a></p>
+            <!-- BEGIN IUBENDA GDPR PRIVACY POLICY WIDGET -->
+      <a href="https://www.iubenda.com/privacy-policy/89076486" class="iubenda-black no-brand iubenda-embed " title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+      <!-- END IUBENDA GDPR PRIVACY POLICY WIDGET -->
+      <!-- BEGIN IUBENDA GDPR COOKIE POLICY WIDGET -->
+      <a href="https://www.iubenda.com/privacy-policy/89076486/cookie-policy" class="iubenda-black no-brand iubenda-embed " title="Cookie Policy">Cookie Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+      <!-- END IUBENDA GDPR COOKIE POLICY WIDGET -->
     </div>
     <div class="col span_1_of_4">
       <h2 class="hdr">FOLLOW US</h2>

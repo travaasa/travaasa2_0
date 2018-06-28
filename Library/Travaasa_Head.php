@@ -26,6 +26,17 @@
 <link rel="stylesheet" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/css/homepage.css" media="all">
 <link rel="stylesheet" href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/jquery.pixelentity.flare.min.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" media="all">
+<!-- BEGIN IUBENDA GDPR COOKIE BANNER -->
+<style type="text/css"> #iubenda-cs-banner { bottom: 0px !important; left: 0px !important; position: fixed !important; width: 100% !important; z-index: 99999998 !important; background-color: black; } .iubenda-cs-content { display: block; margin: 0 auto; padding: 20px; width: auto; font-family: Helvetica,Arial,FreeSans,sans-serif; font-size: 14px; background: #000; color: #fff;} .iubenda-cs-rationale { max-width: 900px; position: relative; margin: 0 auto; } .iubenda-banner-content > p { font-family: Helvetica,Arial,FreeSans,sans-serif; line-height: 1.5; } .iubenda-cs-close-btn { margin:0; color: #fff; text-decoration: none; font-size: 14px; position: absolute; top: 0; right: 0; border: none; } .iubenda-cs-cookie-policy-lnk { text-decoration: underline; color: #fff; font-size: 14px; font-weight: 900; } </style> <script type="text/javascript"> var _iub = _iub || []; _iub.csConfiguration = {"banner":{"slideDown":false,"applyStyles":false},"lang":"en","siteId":1303180,"cookiePolicyId":89076486,"enableCMP":true}; </script><script type="text/javascript">(function (w, d) { var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/cookie_solution/beta/iubenda_cs.js"; tag.parentNode.insertBefore(s, tag); }; if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; } })(window, document);</script>
+<!-- END IUBENDA GDPR COOKIE BANNER -->
+<!-- BEGIN IUBENDA GDPR CONSENT SOLUTION -->
+<script type="text/javascript" src="https://cdn.iubenda.com/consent_solution/iubenda_cons.js"></script>
+<script type="text/javascript">
+ _iub.cons.init({
+    api_key: "FXyMLgl21Htmbvjj7vZpZFHQ5wLbIOBm"
+ });
+</script>
+<!-- END IUBENDA GDPR CONSENT SOLUTION -->
 <!-- Facebook Pixel Code -->
 <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '365559253633553');fbq('track', "PageView");</script><noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=365559253633553&ev=PageView&noscript=1"/></noscript>
 <!-- End Facebook Pixel Code -->
