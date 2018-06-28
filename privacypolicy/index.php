@@ -33,7 +33,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
-          <table border="0" cellpadding="0" cellspacing="0" align="center" width="770" style="font-family:gill sans,'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:14px; text-align:left; line-height:19px; margin-top:30px;">
+	<!-- BEGIN IUBENDA GDPR PRIVACY POLICY WIDGET -->
+  	<a href="https://www.iubenda.com/privacy-policy/89076486" class="iubenda-black no-brand iubenda-embed iub-body-embed" title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+	<!-- END IUBENDA GDPR PRIVACY POLICY WIDGET -->
+	<!-- BEGIN IUBENDA GDPR COOKIE POLICY WIDGET -->
+  	<a href="https://www.iubenda.com/privacy-policy/89076486/cookie-policy" class="iubenda-black no-brand iubenda-embed iub-body-embed" title="Cookie Policy">Cookie Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+	<!-- END IUBENDA GDPR COOKIE POLICY WIDGET -->
+          <!--<table border="0" cellpadding="0" cellspacing="0" align="center" width="770" style="font-family:gill sans,'Helvetica Neue',Helvetica,Arial,sans-serif; font-size:14px; text-align:left; line-height:19px; margin-top:30px;">
 	<tr>
 		
 		<td valign="top" align="left">
@@ -169,7 +175,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<br><br>
 		</td>
 	</tr>
-</table>
+</table>-->
   </section>
 </article>
 </section>
