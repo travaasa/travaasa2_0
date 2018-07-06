@@ -54,7 +54,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p>Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:</p>
             <br />
 
-            <h2>Garden Junior Suite<br /><span style="color:#505050">$400 / $440* night</span></h2>
+            <h2>Garden Junior Suite<br /><span style="color:#505050">$336 / $368* night</span></h2>
 
             <ul>
             <li>Accommodations in a low-rise Garden Junior Suite</li>
@@ -66,11 +66,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li>Wi-Fi</li>
             </ul>
             <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. <br /><strong>Proof of Hawaii residency is required at check-in.</strong><br />
-            *Low Season / High Season rates</em></p>
+            *Regular Season / High Season rates</em></p>
             <p class="clear"><a href="tel:8886428981" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
             <br /><br />
 
-            <h2>The Ocean Bungalow<br /><span style="color:#505050">$600 / $640* night</span></h2>
+            <h2>The Ocean Bungalow<br /><span style="color:#505050">$496 / $528* night</span></h2>
 
             <ul>
              <li>Accommodations in a plantation-style, Ocean Bungalow with a private lanai</li>
@@ -82,7 +82,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
              <li>Wi-Fi</li>
             </ul>
             <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. <br /><strong>Proof of Hawaii residency is required at check-in.</strong><br />
-            *Low Season / High Season rates</em></p>
+            *Regular Season / High Season rates</em></p>
             <p class="clear"><a href="tel:8886428981" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
       </div>
             <div class="pricing_grp col span_1_of_9"><p>&nbsp;</p>
