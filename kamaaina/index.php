@@ -46,50 +46,92 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </section>
 <section id="content">
 <article id="main">
-  <section class="intro pad clearfix">
-      <div class="col span_5_of_9">
+  <section class="intro pad clearfix notheatre">
+      <div class="col span_6_of_9">
           <h1>Exclusive Kamaaina Rates for Hawaii Residents</h1>
-          <p>Unwind, unplug, and enjoy a romantic weekend escape to Travaasa Hana, Maui. Located at the end of the Road to Hana on Maui’s secluded eastern shore, Travaasa Hana, Maui is offering Hawaii residents incredible savings <strong>for stays three nights and longer</strong>. <!--The newly created kamaaina offers highlight <a href="http://mokuleleairlines.com/" target="_blank">Mokulele Airlines'</a> twice-daily air service between Kahului and Hana.--></p>
-
-            <p>Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:</p>
-            <br />
-
-            <h2>Garden Junior Suite<br /><span style="color:#505050">$403 per night</span></h2>
-
-            <ul>
-            <li>Accommodations in a low-rise Garden Junior Suite</li>
-            <li>Access to a robust schedule of resort activities</li>
-            <li>In-room bottled water and organic fair trade coffee</li>
-            <li>Welcome banana bread upon arrival</li>
-            <li>Gratuities on all package components</li>
-            <li>Complete access to resort facilities</li>
-            <li>Wi-Fi</li>
+          Barefoot elegance, unspoiled natural beauty, and a Hawaiian sense of place await those who wish to retreat to a slower pace of life in heavenly Hana. Local residents may choose from two offers:
+          </section>
+  <section class="grey pad group">
+    <div class="col span_3_of_9">
+        <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-1k.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Bedroom"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/rooms_ocean_bungalow.jpg" alt="Ocean Bungalow luxury resort cottages" width="600" height="400" class="fitwidth"></a>
+        <div class="magnify">
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Lanai"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-living.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Living Area" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-front-1k.jpg" data-fancybox="rooms_gallery" data-caption="The Ocean Bungalow"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-bathroom.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Bathroom" alt="Ocean Bungalow Bathroom"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-room212-ocean-bungalow-front-view.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Front Lanai View" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-sea-ranch-pool-chairs.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Pool" alt="Ocean Bungalow luxury resort cottages"></a>
+        </div>
+    </div>
+    <div class="col span_3_of_9">
+      <div class="room-details">
+            <h4>The Ocean Bungalow</h4>
+            <p>Inclusive resort features &amp; amenities include:</p>
+            <ul class="description">
+                <li>Inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
+                <li>Private, expansive lanais with <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-fancybox="rooms_gallery" data-caption="Ocean Bungalow View">views</a> of the Pacific Ocean</li>
+                <li>Complimentary welcome Banana Bread</li>
+                <li>Refrigerator stocked with complimentary bottled water</li>
+                <li>In lieu of air conditioning, our Bungalows are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</li>
+                <!--<li>Interior ceiling fans (<a style="font-family: 'Gill Sans W04 Book', 'Gill Sans MT', Calibri, sans-serif; font-weight:400 !important;" href="#airconditioning">no air conditioning necessary</a>)</li>-->
+                <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. <br /><strong>Proof of Hawaii residency is required at check-in.</strong><br />
-            <!--*Regular Season / High Season rates--></em></p>
-            <p class="clear"><a href="tel:8886428981" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
-            <br /><br />
+         </div>
+    </div>
+    <div class="col span_3_of_9 pricing_grp_sub">
+        <ul class="pricing clearfix">
+            <li>
+                <p><em>Starting at</em></p>
+                <h3><span style="text-decoration: line-through;"><sup>$</sup>825</span><sup>&nbsp; $</sup>578</h3>
+            </li>
+            <li>
+              <p style="font-size: 11px; margin-top: none;"><em>Based on double occupancy; excluding taxes.<br />Certain restrictions and blackout dates apply.<br />Proof of Hawaii residency is required at check-in.</em></p>
+            </li>
+        </ul>
+        <p class="clear">Kamaaina Line: 866-369-0746<br /><a style="margin-top: 7px;" href="tel:8663690746" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a></p>
+    </div>
+  </section>
 
-            <h2>The Ocean Bungalow<br /><span style="color:#505050">$578 per night</span></h2>
-
-            <ul>
-             <li>Accommodations in a plantation-style Ocean Bungalow with a private lanai</li>
-             <li>Access to a robust schedule of resort activities</li>
-             <li>In-room bottled water and organic fair trade coffee</li>
-             <li>Welcome banana bread upon arrival</li>
-             <li>Gratuities on all package components</li>
-             <li>Complete access to resort facilities</li>
-             <li>Wi-Fi</li>
+    <section class="grey pad group">
+    <div class="col span_3_of_9">
+        <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-garden-junior-suite-1K.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Bedroom"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/rooms_garden_junior_suite.jpg" alt="Hawaii luxury resort rooms" width="300" height="196" class="fitwidth"></a>
+        <div class="magnify">
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-garden-junior-suite-1K-living.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Living Area"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-bathroom.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Bathroom" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-view.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lanai" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-pool.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Pool" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-green.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lawn" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-lawn.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lawn across from Makana Center" alt="Hawaii luxury resort rooms"></a>
+        </div>
+    </div>
+    <div class="col span_3_of_9">
+      <div class="room-details">
+            <h4>The Garden Junior Suite</h4>
+            <p>Features and amenities include:</p>
+            <ul class="description">
+                <li>Access to activities at the Makana Center</li>
+                <li>Wet bar</li>
+                <li>Indoor and outdoor sitting areas</li>
+                <li>Complimentary welcome Banana Bread</li>
+                <li>Refrigerator stocked with complimentary bottled water</li>
+                <li>In lieu of air conditioning, our Junior Suites are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</li>
+                <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
-            <p><em>Based on double occupancy; excluding taxes. Certain restrictions and blackout dates apply. <br /><strong>Proof of Hawaii residency is required at check-in.</strong><br />
-            <!--*Regular Season / High Season rates--></em></p>
-            <p class="clear"><a href="tel:8886428981" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a>
-      </div>
-            <div class="pricing_grp col span_1_of_9"><p>&nbsp;</p>
-      </div>
-      <div class="pricing_grp col span_3_of_9">NON-RESIDENT RATES<br /><br /><?php include_once($path."/Library/Travaasa_Hana_Pricing.php"); ?>
-        Hawaii Residents Call: <a href="tel:8886428981" target="_blank">888-642-8981</a>
-      </div>
+         </div>
+    </div>
+    <div class="col span_3_of_9 pricing_grp_sub">
+        <ul class="pricing clearfix">
+            <li>
+                <p><em>Starting at</em></p>
+                <h3><span style="text-decoration: line-through;"><sup>$</sup>575</span><sup>&nbsp; $</sup>403</h3>
+            </li>
+            <li>
+              <p style="font-size: 11px; margin-top: none;"><em>Based on double occupancy; excluding taxes.<br />Certain restrictions and blackout dates apply.<br />Proof of Hawaii residency is required at check-in.</em></p>
+            </li>
+        </ul>
+        <p class="clear">Kamaaina Line: 866-369-0746<br /><a style="margin-top: 7px;" href="tel:8663690746" target="_blank" id="pricing-hana-link" class="btn-jorah">HAWAII RESIDENTS CLICK TO CALL</a></p>
+    </div>
+  </section>
   </section>
 
 </article>
