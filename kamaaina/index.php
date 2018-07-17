@@ -66,15 +66,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="col span_3_of_9">
       <div class="room-details">
             <h4>The Ocean Bungalow</h4>
-            <p>Inclusive resort features &amp; amenities include:</p>
+            <p>Features &amp; amenities include:</p>
             <ul class="description">
-                <li>Inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
+                <li>Unlimited access to a <a target="_blank" href="/hana/hanaschedule/">robust schedule</a> of programs &amp; activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</li>
+                <li>Family-friendly and open to adults and children of all ages</li>
                 <li>Private, expansive lanais with <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-fancybox="rooms_gallery" data-caption="Ocean Bungalow View">views</a> of the Pacific Ocean</li>
                 <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>In lieu of air conditioning, our Bungalows are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</li>
                 <!--<li>Interior ceiling fans (<a style="font-family: 'Gill Sans W04 Book', 'Gill Sans MT', Calibri, sans-serif; font-weight:400 !important;" href="#airconditioning">no air conditioning necessary</a>)</li>-->
-                <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
          </div>
     </div>
@@ -109,13 +109,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <h4>The Garden Junior Suite</h4>
             <p>Features and amenities include:</p>
             <ul class="description">
-                <li>Access to activities at the Makana Center</li>
+                <li>Unlimited access to a <a target="_blank" href="/hana/hanaschedule/">robust schedule</a> of programs &amp; activities organized in our five experiential pillars: Adventure, Culinary, Culture, Fitness and Wellness</li>
+                <li>Family-friendly and open to adults and children of all ages</li>
                 <li>Wet bar</li>
                 <li>Indoor and outdoor sitting areas</li>
                 <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>In lieu of air conditioning, our Junior Suites are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</li>
-                <li>Family-friendly and open to adults and children of all ages</li>
             </ul>
          </div>
     </div>
