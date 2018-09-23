@@ -61,6 +61,7 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
         <ul class="tabbed_list">
             <li id="tab_1"><a href="#hospitality">Hana Hospitality</a></li>
             <li id="tab_2"><a href="#journey">The Journey to Hana</a></li>
+            <li id="tab_2"><a href="#hanatown">Hana Town</a></li>
             <li id="tab_3"><a href="#history">History</a></li>
             <li id="tab_4"><a href="#stories">Hana Stories</a></li>
             <li id="tab_5"><a href="#carrental">Rental Cars</a></li>
@@ -91,6 +92,25 @@ Here at the eastern edge of Maui, you are completely removed from the ordinary, 
             <h4>News Coverage of Flight Service to Hana</h4>
             <iframe width="308" height="231" style="margin-right:20px; float:left;" src="https://www.youtube.com/embed/92E10e1j4qc?rel=0"></iframe>
             <iframe width="308" height="231" src="https://www.youtube.com/embed/4Ji_bOK355A?rel=0"></iframe>
+        </div>
+    </div>
+        <div id="hanatown" class="tab_data">
+        <div class="tab_data_inner">
+                <a target="_blank" href="https://hana-town.com/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/h-town.jpg" width="885" alt="Hana Town"></a>
+                <br><br>
+                <h3>Hana Town</h3>
+                <p>Just across the street from the resort you'll find the charming shopping center <a target="_blank" href="https://hana-town.com/">Hana Town</a>, which is home to our casual dining restaurant along with other shops and services.</p>
+                <p><h3>STORE LISTING</h3>
+                  <strong>Hana Ranch Restaurant</strong><br />
+                  <strong>Hana Ranch Store</strong><br />
+                  <strong>United States Post Office</strong><br />
+                  <strong>Bank of Hawaii</strong><br />
+                  <strong>I &#9829; Hana</strong><br />
+                  <strong>Ohana Lei &amp; Flowers</strong><br />
+                  <strong>Shakas-n-Aloha</strong><br />
+                </p>
+
+                <p><em>Ask a reservations team member for details. Call ahead from your room to order take-out from Hana Ranch Restaurant.</em></p>
         </div>
     </div>
     <div id="history" class="tab_data">
