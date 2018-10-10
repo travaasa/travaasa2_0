@@ -2167,6 +2167,8 @@ height: 100%;
 
 /* Navis Chat October 2018 */
 
-.jss2 {
-	display: block !important;
+#reservations-bar .reservation_chat {
+	padding: 0;
+	margin: 0;
+	float: right;
 }
