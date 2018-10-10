@@ -928,7 +928,7 @@ p {
 	font-size: 1.1em;
 	color: white;
 	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) -480px -460px no-repeat;
-	margin: 0;
+	margin: 8px 14px 0 0;
 }
 #reservations-bar .phone a {
 	color: white;
@@ -957,6 +957,7 @@ p {
 }
 #reservations-bar .menu_top {
 	padding: 0;
+	margin-top: 7px;
 }
 #reservations-bar .reservation_nav {
 	padding: 0;
