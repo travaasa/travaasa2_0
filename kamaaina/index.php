@@ -82,7 +82,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <ul class="pricing clearfix">
             <li>
                 <p><em>Starting at</em></p>
-                <h3><span style="text-decoration: line-through;"><sup>$</sup>825</span><sup>&nbsp; $</sup>578</h3>
+                <h3><span style="text-decoration: line-through;"><sup>$</sup>875</span><sup>&nbsp; $</sup>660</h3>
             </li>
             <li>
               <p style="font-size: 11px; margin-top: none;"><em>Based on double occupancy; excluding taxes.<br />Certain restrictions and blackout dates apply.<br />Proof of Hawaii residency is required at check-in.</em></p>
@@ -123,7 +123,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <ul class="pricing clearfix">
             <li>
                 <p><em>Starting at</em></p>
-                <h3><span style="text-decoration: line-through;"><sup>$</sup>575</span><sup>&nbsp; $</sup>403</h3>
+                <h3><span style="text-decoration: line-through;"><sup>$</sup>625</span><sup>&nbsp; $</sup>460</h3>
             </li>
             <li>
               <p style="font-size: 11px; margin-top: none;"><em>Based on double occupancy; excluding taxes.<br />Certain restrictions and blackout dates apply.<br />Proof of Hawaii residency is required at check-in.</em></p>
