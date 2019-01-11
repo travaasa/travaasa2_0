@@ -9,11 +9,11 @@
         <ul class="pricing">
             <li>
                 <h2>INCLUSIVE<br><span>Starting at</span></h2>
-                <h3><sup>$</sup>725</h3>
+                <h3><sup>$</sup>775</h3>
             </li>
             <li>
                 <h2>&#192; LA CARTE<br><span>Starting at</span></h2>
-                 <h3><sup>$</sup>475</h3>
+                 <h3><sup>$</sup>525</h3>
             </li>
         </ul>
         <span class="reservation_chat"></span>
