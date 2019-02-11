@@ -56,7 +56,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>TRAVAASA HANA: MAUI'S LAST TRULY HAWAIIAN PLACE</h1>
-          <p>Long considered one of the most remarkable resorts in Hawaii, Travaasa Hana, Maui (formerly known as Hotel Hana Maui) is now even better. In fact, it was voted the "No. <span style="font-family:helvetica neue, helvetica, arial, sans-serif;">1</span> Boutique Hotel" <em>and</em> the "No. <span style="font-family:helvetica neue, helvetica, arial, sans-serif;">1</span> Experiential Retreat" in the <em>HAWAI'I Magazine</em> 2018 Readers’ Choice Awards, as well as the "No. <span style="font-family:helvetica neue, helvetica, arial, sans-serif;">8</span> Resort in Hawaii" in <em>Condé Nast Traveler</em>'s 2017 Reader's Choice Awards.<br><br>Located in the town of Hana on the eastern tip of Maui, Travaasa is the first resort on the island to greet the rising sun. Set amid rolling grass fields and palm trees above Hana Bay, Travaasa will immerse you in the real Hawaii.</p>
+          <p>Long considered one of the most remarkable resorts in Hawaii, Travaasa Hana, Maui (formerly known as Hotel Hana Maui) is now even better. In fact, it was voted the "No. <span style="font-family:helvetica neue, helvetica, arial, sans-serif;">1</span> Boutique Hotel" <em>and</em> the "No. <span style="font-family:helvetica neue, helvetica, arial, sans-serif;">1</span> Experiential Retreat" in the <em>HAWAI'I Magazine</em> 2018 Readers’ Choice Awards.<br><br>Located in the town of Hana on the eastern tip of Maui, Travaasa is the first resort on the island to greet the rising sun. Set amid rolling grass fields and palm trees above Hana Bay, Travaasa will immerse you in the real Hawaii.</p>
           <a data-fancybox href="https://www.youtube.com/watch?v=wcwKeO48b5Y&amp;autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0"><img class="videobox" style="float:left;!important" width="350" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/play-button-600px-hana4.jpg"></a>
           <a href="https://www.tripadvisor.com/Hotel_Review-g60630-d120706-Reviews-Travaasa_Hotel_Hana-Hana_Maui_Hawaii.html" target="_blank"><img style="float:left; padding: 5px 8px 0 8px;" width="135" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hana-tripadvisor-2018-2.png"></a>
           <!--<div style="float:left; padding: 0 0 0 10px;" id="TA_certificateOfExcellence565" class="TA_certificateOfExcellence">
@@ -138,12 +138,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p class="description">From stand up paddling, coconut husking and throw net fishing, to outdoor yoga and guided meditation, there are countless things to do here. We offer five different pathways for you to explore: Adventure, Culinary, Culture, Fitness and Spa &amp; Wellness. <a href="/hana/travaasa-hana-experiences/" class="more">Explore</a></p>
           </div>
         </div>
-        <div class="slide">
+        <!--<div class="slide">
           <div class="slide_inner"><a href="/hana/hana-the-spa-at-travaasa-hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_spa_overview.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a>
             <h5>#1 Resort Spa in Hawaii</h5>
             <p class="description">The Spa at Travaasa Hana was voted the "No. 1 Resort Spa in Hawaii" in Condé Nast Traveler's 2012 Readers' Choice Awards. A deeply relaxing sanctuary of peace and tranquility, a visit to the Spa at Travaasa Hana is sure to restore feelings of balance and wellness to you body, mind and spirit. <a href="/hana/hana-the-spa-at-travaasa-hana/" class="more">Explore</a></p>
           </div>
-        </div>
+        </div>-->
         <div class="slide">
           <div class="slide_inner"><a href="/hana/accomodations/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_accommodations_overview2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a>
             <h5>Rooms designed with R&amp;R in mind</h5>
