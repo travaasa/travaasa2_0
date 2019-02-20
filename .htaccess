@@ -19,9 +19,12 @@ RewriteRule ^hana/#(.*)$ http://travaasa.com/hana/$1 [R=302,L]
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
+
+Redirect 301 /home https://travaasa.com/
 Redirect 301 /home/ https://travaasa.com/
 Redirect 301 /austin/index.php http://travaasa.com/hana/
 Redirect 301 /austin/ http://travaasa.com/hana/
+Redirect 301 /austin http://travaasa.com/hana/
 Redirect 301 /austin/accomodations/index.php http://travaasa.com/hana/accomodations/
 Redirect 301 /austin/austin-experiences/index.php http://travaasa.com/hana/travaasa-hana-experiences/
 Redirect 301 /austin/austin-honeymoon/index.php http://travaasa.com/hana/hana-honeymoon/
