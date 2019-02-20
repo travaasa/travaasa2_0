@@ -20,47 +20,47 @@ RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 
 Redirect 301 /home/ https://travaasa.com/
-Redirect 301 /austin/index.php https://travaasa.com/hana/
-Redirect 301 /austin/ https://travaasa.com/hana/
-Redirect 301 /austin/accomodations/index.php https://travaasa.com/hana/accomodations/
-Redirect 301 /austin/austin-experiences/index.php https://travaasa.com/hana/travaasa-hana-experiences/
-Redirect 301 /austin/austin-honeymoon/index.php https://travaasa.com/hana/hana-honeymoon/
-Redirect 301 /austin/austinphotos/index.php https://travaasa.com/hana/hanaphotos/
-Redirect 301 /austin/austinschedule/index.php https://travaasa.com/hana/hanaschedule/
-Redirect 301 /austin/dining/index.php https://travaasa.com/hana/hana-dining-overview/
-Redirect 301 /austin/directions/index.php https://travaasa.com/hana/road-to-hana/
-Redirect 301 /austin/farm/index.php https://travaasa.com/hana/travaasa-hana-experiences/
-Redirect 301 /austin/food-truck/index.php https://travaasa.com/hana/hana-dining-overview/
-Redirect 301 /austin/groups-and-meetings/index.php https://travaasa.com/hana/hana-groups-and-meetings/
-Redirect 301 /austin/rates-and-packages/index.php https://travaasa.com/hana/hana-rates-and-packages/
-Redirect 301 /austin/travaasa-spa-overview/index.php https://travaasa.com/hana/hana-the-spa-at-travaasa-hana/
-Redirect 301 /austin/video/index.php https://travaasa.com/hana/video/
-Redirect 301 /austin/weddings/index.php https://travaasa.com/hana/weddings/
-Redirect 301 /austin/austin-renovation/index.php https://travaasa.com/berkshire-county/
+Redirect 301 /austin/index.php http://travaasa.com/hana/
+Redirect 301 /austin/ http://travaasa.com/hana/
+Redirect 301 /austin/accomodations/index.php http://travaasa.com/hana/accomodations/
+Redirect 301 /austin/austin-experiences/index.php http://travaasa.com/hana/travaasa-hana-experiences/
+Redirect 301 /austin/austin-honeymoon/index.php http://travaasa.com/hana/hana-honeymoon/
+Redirect 301 /austin/austinphotos/index.php http://travaasa.com/hana/hanaphotos/
+Redirect 301 /austin/austinschedule/index.php http://travaasa.com/hana/hanaschedule/
+Redirect 301 /austin/dining/index.php http://travaasa.com/hana/hana-dining-overview/
+Redirect 301 /austin/directions/index.php http://travaasa.com/hana/road-to-hana/
+Redirect 301 /austin/farm/index.php http://travaasa.com/hana/travaasa-hana-experiences/
+Redirect 301 /austin/food-truck/index.php http://travaasa.com/hana/hana-dining-overview/
+Redirect 301 /austin/groups-and-meetings/index.php http://travaasa.com/hana/hana-groups-and-meetings/
+Redirect 301 /austin/rates-and-packages/index.php http://travaasa.com/hana/hana-rates-and-packages/
+Redirect 301 /austin/travaasa-spa-overview/index.php http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/
+Redirect 301 /austin/video/index.php http://travaasa.com/hana/video/
+Redirect 301 /austin/weddings/index.php http://travaasa.com/hana/weddings/
+Redirect 301 /austin/austin-renovation/index.php http://travaasa.com/berkshire-county/
 
-Redirect 301 /hana/austin-experiences/ https://travaasa.com/hana/travaasa-hana-experiences/
-Redirect 301 /hana/austin-honeymoon/ https://travaasa.com/hana/hana-honeymoon/
-Redirect 301 /hana/austinphotos/ https://travaasa.com/hana/hanaphotos/
-Redirect 301 /hana/austinschedule/ https://travaasa.com/hana/hanaschedule/
-Redirect 301 /hana/dining/ https://travaasa.com/hana/hana-dining-overview/
-Redirect 301 /hana/directions/ https://travaasa.com/hana/road-to-hana/
-Redirect 301 /hana/food-truck/ https://travaasa.com/hana/hana-dining-overview/
-Redirect 301 /hana/groups-and-meetings/ https://travaasa.com/hana/hana-groups-and-meetings/
-Redirect 301 /hana/rates-and-packages/ https://travaasa.com/hana/hana-rates-and-packages/
-Redirect 301 /hana/travaasa-spa-overview/ https://travaasa.com/hana/hana-the-spa-at-travaasa-hana/
-Redirect 301 /hana/austin-renovation/ https://travaasa.com/berkshire-county/
+Redirect 301 /hana/austin-experiences/ http://travaasa.com/hana/travaasa-hana-experiences/
+Redirect 301 /hana/austin-honeymoon/ http://travaasa.com/hana/hana-honeymoon/
+Redirect 301 /hana/austinphotos/ http://travaasa.com/hana/hanaphotos/
+Redirect 301 /hana/austinschedule/ http://travaasa.com/hana/hanaschedule/
+Redirect 301 /hana/dining/ http://travaasa.com/hana/hana-dining-overview/
+Redirect 301 /hana/directions/ http://travaasa.com/hana/road-to-hana/
+Redirect 301 /hana/food-truck/ http://travaasa.com/hana/hana-dining-overview/
+Redirect 301 /hana/groups-and-meetings/ http://travaasa.com/hana/hana-groups-and-meetings/
+Redirect 301 /hana/rates-and-packages/ http://travaasa.com/hana/hana-rates-and-packages/
+Redirect 301 /hana/travaasa-spa-overview/ http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/
+Redirect 301 /hana/austin-renovation/ http://travaasa.com/berkshire-county/
 
-Redirect 301 /hana/austin-experiences https://travaasa.com/hana/travaasa-hana-experiences/
-Redirect 301 /hana/austin-honeymoon https://travaasa.com/hana/hana-honeymoon/
-Redirect 301 /hana/austinphotos https://travaasa.com/hana/hanaphotos/
-Redirect 301 /hana/austinschedule https://travaasa.com/hana/hanaschedule/
-Redirect 301 /hana/dining https://travaasa.com/hana/hana-dining-overview/
-Redirect 301 /hana/directions https://travaasa.com/hana/road-to-hana/
-Redirect 301 /hana/food-truck https://travaasa.com/hana/hana-dining-overview/
-Redirect 301 /hana/groups-and-meetings https://travaasa.com/hana/hana-groups-and-meetings/
-Redirect 301 /hana/rates-and-packages https://travaasa.com/hana/hana-rates-and-packages/
-Redirect 301 /hana/travaasa-spa-overview https://travaasa.com/hana/hana-the-spa-at-travaasa-hana/
-Redirect 301 /hana/austin-renovation https://travaasa.com/berkshire-county/
+Redirect 301 /hana/austin-experiences http://travaasa.com/hana/travaasa-hana-experiences/
+Redirect 301 /hana/austin-honeymoon http://travaasa.com/hana/hana-honeymoon/
+Redirect 301 /hana/austinphotos http://travaasa.com/hana/hanaphotos/
+Redirect 301 /hana/austinschedule http://travaasa.com/hana/hanaschedule/
+Redirect 301 /hana/dining http://travaasa.com/hana/hana-dining-overview/
+Redirect 301 /hana/directions http://travaasa.com/hana/road-to-hana/
+Redirect 301 /hana/food-truck http://travaasa.com/hana/hana-dining-overview/
+Redirect 301 /hana/groups-and-meetings http://travaasa.com/hana/hana-groups-and-meetings/
+Redirect 301 /hana/rates-and-packages http://travaasa.com/hana/hana-rates-and-packages/
+Redirect 301 /hana/travaasa-spa-overview http://travaasa.com/hana/hana-the-spa-at-travaasa-hana/
+Redirect 301 /hana/austin-renovation http://travaasa.com/berkshire-county/
 
 
 
@@ -68,5 +68,5 @@ AddType image/svg+xml svg svgz
 AddEncoding gzip svgz
 
 # 404 page
-ErrorDocument 404 /var/www/html/404.php
+#ErrorDocument 404 /var/www/html/404.php
 
