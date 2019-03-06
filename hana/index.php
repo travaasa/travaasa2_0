@@ -39,7 +39,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?><section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
       	<div class="slide"><a data-fancybox href="https://www.youtube.com/watch?v=NOtwkBLTFzM&amp;autoplay=1&amp;rel=0&amp;controls=1&amp;showinfo=0"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
-        <div class="slide"><a href="/hana/travaasa-hana-experiences/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_accolade_pool.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
+        <div class="slide"><a href="/hana/travaasa-hana-experiences/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_accolade_pool_2019.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
     <!--<div id="feature1" class="feature">
         <div class="slide"><a data-target="flare" href="https://www.youtube.com/watch?v=NOtwkBLTFzM&autoplay=1"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
         <div class="slide"><a href="/hana/travaasa-hana-experiences/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_accolade_hammock.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
@@ -67,7 +67,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </ul>
           </div>-->
           <!--<img style="float:left; padding: 10px 0 0 10px;" width="135" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/andrew-harper.png">-->
-          <img style="float:left; padding: 5px 0 0 0;" width="135" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hawaii-mag-readers-choice3.png">
+          <img style="float:left; padding: 5px 0 0 0;" width="135" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/hawaii-mag-readers-choice4.png">
           <!--<img style="float:left; padding: 0 0 0 10px;" width="125" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/andrew-harper-grand-award.png">-->
           <script src="https://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=565&amp;locationId=120706&amp;lang=en_US&amp;year=2014"></script>
           <!-- BEGIN OLARK TAB --> 
