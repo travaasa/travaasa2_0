@@ -44,21 +44,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 <li>Adequate accessible parking signage at each accessible parking space.</li>
 
-<li>2 stalls in Main Parking lot</li>
+<li>Two (2) stalls in Main Parking lot</li>
 
-<li>1 at Hana Town Center</li>
+<li>One (1) at Hana Town Center</li>
 
-<li>1 at Hana Ranch Store</li>
+<li>One (1) at Hana Ranch Store</li>
 
-<li>1 at Ocean Bungalow Parking Lot</li>
+<li>One (1) at Ocean Bungalow Parking Lot</li>
 
-<li>1 at Housekeeping</li>
+<li>One (1) at Housekeeping</li>
 </ul>
 
 <h2 id="buildingentrancesamplobby">Building Entrances &amp; Lobby</h2>
 
 <ul>
-<li>Port Cochere entrance is level and open space(no door ways)</li>
+<li>Porte-coch&#232;re entrance is level and open space (no door ways)</li>
 
 <li>The Preserve main dining room entrance is level. The Preserve Bar entrance has a ramp entrance.</li>
 
@@ -68,12 +68,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 id="interiorroutes">Interior Routes</h2>
 
 <ul>
-<li>Lobby corridors are at least 32”</li>
+<li>Lobby corridors are at least 32''</li>
 
-<li>Doors widths are at least 32”</li>
+<li>Doors widths are at least 32''</li>
 </ul>
 
-<h2 id="publiccommonuserestrooms">Public/Common Use Restrooms</h2>
+<h2 id="publiccommonuserestrooms">Public / Common Use Restrooms</h2>
 
 <ul>
 <li>The public restrooms in the main lobby have accessible stall</li>
@@ -85,23 +85,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h2 id="accessibleguestrooms">Accessible Guest Rooms</h2>
 
-<p>There are two (3) accessible guest rooms. (2) Garden View Room and (2) Ocean View Bungalows.</p>
+<p>There are four (4) accessible guest rooms—two (2) Garden View Jr. Suites and two (2) Ocean View Bungalows.</p>
 
-<h3 id="room312queenbeds">Room 31-2 Queen Beds</h3>
+<h3 id="room312queenbeds">Room 31 [2 Queen Beds]</h3>
 
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
 <li>Accessible shower seat and toilet</li>
 
-<li>Bathroom doors greater than 32”</li>
+<li>Bathroom doors greater than 32''</li>
 
-<li>19” raised toilet</li>
+<li>19'' raised toilet</li>
 
 <li>Grab Bars near the toilet</li>
 </ul>
 
-<h3 id="room352queenbeds">Room 35-2 Queen Beds</h3>
+<h3 id="room352queenbeds">Room 35 [Two Queen Beds]</h3>
 
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
@@ -110,11 +110,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <li>Adjustable shower head and grab bars</li>
 
-<li>Bathroom doors greater than 32”</li>
+<li>Bathroom doors greater than 32''</li>
 
 <li>Grab Bars near the toilet</li>
 
-<li>19” raised toilet</li>
+<li>19'' raised toilet</li>
 
 <li>Roll under bar sink </li>
 
@@ -123,7 +123,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Wheelchair accessible clothing rod</li>
 </ul>
 
-<h3 id="room301">Room 301</h3>
+<h3 id="room301">Room 301 [One King Bed]</h3>
 
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
@@ -132,20 +132,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <li>Adjustable shower head and grab bars</li>
 
-<li>Bathroom doors greater than 32”</li>
+<li>Bathroom doors greater than 32''</li>
 
 <li>Grab Bars near the toilet</li>
 
-<li>19” raised toilet</li>
+<li>19'' raised toilet</li>
 
 <li>Roll under bar sink </li>
 
 <li>Accessible bar amenity shelves</li>
 
-<li>48” curtain wand pull</li>
+<li>48'' curtain wand pull</li>
 </ul>
 
-<h3 id="room308">Room 308</h3>
+<h3 id="room308">Room 308 [One King Bed]</h3>
 
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
@@ -154,17 +154,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <li>Adjustable shower head and grab bars</li>
 
-<li>Bathroom doors greater than 32”</li>
+<li>Bathroom doors greater than 32''</li>
 
 <li>Grab Bars near the toilet</li>
 
-<li>19” raised toilet</li>
+<li>19'' raised toilet</li>
 
 <li>Roll under bar sink </li>
 
 <li>Accessible bar amenity shelves</li>
 
-<li>48” curtain wand pull</li>
+<li>48'' curtain wand pull</li>
 </ul>
           </div>
   </section>
