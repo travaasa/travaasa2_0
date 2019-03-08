@@ -87,8 +87,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>There are four (4) accessible guest rooms—two (2) Garden View Jr. Suites and two (2) Ocean View Bungalows.</p>
 
-<h3 id="room312queenbeds">Room 31 [2 Queen Beds]</h3>
-
+<h3 id="room312queenbeds">Room 31</h3>
+<p><em>Two (2) Queen Beds</em></p>
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
@@ -101,8 +101,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Grab Bars near the toilet</li>
 </ul>
 
-<h3 id="room352queenbeds">Room 35 [Two Queen Beds]</h3>
-
+<h3 id="room352queenbeds">Room 35</h3>
+<p><em>Two (2) Queen Beds</em></p>
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
@@ -123,8 +123,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Wheelchair accessible clothing rod</li>
 </ul>
 
-<h3 id="room301">Room 301 [One King Bed]</h3>
-
+<h3 id="room301">Room 301</h3>
+<p><em>One (1) King Bed</em></p>
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
@@ -145,8 +145,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>48'' curtain wand pull</li>
 </ul>
 
-<h3 id="room308">Room 308 [One King Bed]</h3>
-
+<h3 id="room308">Room 308</h3>
+<p><em>One (1) King Bed</em></p>
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
