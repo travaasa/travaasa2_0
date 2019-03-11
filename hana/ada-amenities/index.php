@@ -58,7 +58,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 id="buildingentrancesamplobby">Building Entrances &amp; Lobby</h2>
 
 <ul>
-<li>Porte-coch&#232;re entrance is level and open space (no door ways)</li>
+<li>Porte-coch&#232;re entrance is level and open space (no doorways)</li>
 
 <li>The Preserve main dining room entrance is level. The Preserve Bar entrance has a ramp entrance.</li>
 
@@ -83,7 +83,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Pool chair lift available for guests at spa treatment pool </li>
 </ul>
 
-<h2 id="accessibleguestrooms">Guest Rooms with Acccessible Bathroom Features</h2>
+<h2 id="accessibleguestrooms">Guest Rooms with Accessible Bathroom Features</h2>
 
 <p>There are four (4) guest roooms with accessible bathroom features—two (2) Garden View Jr. Suites and two (2) Ocean View Bungalows.</p>
 
@@ -106,7 +106,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
-<li>Accessible height bath tub with grab bars</li>
+<li>Accessible height bathtub with grab bars</li>
 
 <li>Adjustable shower head and grab bars</li>
 
@@ -128,7 +128,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
-<li>Accessible height bath tub with grab bars</li>
+<li>Accessible height bathtub with grab bars</li>
 
 <li>Adjustable shower head and grab bars</li>
 
@@ -150,7 +150,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
-<li>Accessible height bath tub with grab bars</li>
+<li>Accessible height bathtub with grab bars</li>
 
 <li>Adjustable shower head and grab bars</li>
 
