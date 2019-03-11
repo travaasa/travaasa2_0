@@ -83,12 +83,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Pool chair lift available for guests at spa treatment pool </li>
 </ul>
 
-<h2 id="accessibleguestrooms">Accessible Guest Rooms</h2>
+<h2 id="accessibleguestrooms">Guest Rooms with Acccessible Bathroom Features</h2>
 
-<p>There are four (4) accessible guest rooms—two (2) Garden View Jr. Suites and two (2) Ocean View Bungalows.</p>
+<p>There are four (4) guest roooms with accessible bathroom features—two (2) Garden View Jr. Suites and two (2) Ocean View Bungalows.</p>
 
 <h3 id="room312queenbeds">Room 31</h3>
-<p><em>Two (2) Queen Beds</em></p>
+<p><em>Garden View Side of Property – Two (2) Queen Beds</em></p>
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
@@ -102,7 +102,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 
 <h3 id="room352queenbeds">Room 35</h3>
-<p><em>Two (2) Queen Beds</em></p>
+<p><em>Garden View Side of Property – Two (2) Queen Beds</em></p>
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
@@ -124,7 +124,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 
 <h3 id="room301">Room 301</h3>
-<p><em>One (1) King Bed</em></p>
+<p><em>Ocean Bungalow Side of Property – One (1) King Bed</em></p>
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
@@ -146,7 +146,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 
 <h3 id="room308">Room 308</h3>
-<p><em>One (1) King Bed</em></p>
+<p><em>Ocean Bungalow Side of Property – One (1) King Bed</em></p>
 <ul>
 <li>Door hardware (levers, pulls, etc) on all entry doors to accessible guest rooms and other passage doors within the rooms are usable with one hand, without tight grasping, pinching or twisting of the wrist;</li>
 
