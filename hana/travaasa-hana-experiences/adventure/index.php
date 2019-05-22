@@ -71,12 +71,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <h2>Snorkeling</h2>
           <p class="description">Maui is by far the most popular snorkeling island in all of Hawaii — and it isn’t hard to see why. Spectacular coral reefs and colorful varieties of exotic sea life beckon you to discover the wealth of treasures that wait for you beneath the ocean’s surface. Grab some snorkeling gear from the Makana Center and discover the hidden beauty of Hamoa Beach, Kapueokahi Beach or Hana Bay, where a protected cove teems with tropical fish and living coral gardens in amazing shapes and colors. Take your time enjoying this snorkeler's paradise because after your first glimpse of Hawaii’s stunning underwater surroundings, you might just become hooked on this breathtaking experience.</p>
         </article>-->
-        <article>
+        <!--<article>
           <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_canoe.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_canoe.jpg" alt="Canoe Row Hana Ocean">
           <br />
           <h2>Canoe Adventure</h2>
           <p class="description">Paddle into Maui's ancient past with a maritime adventure on board Wananalua, Travaasa Hana's Outrigger Canoe.  Expert local guides teach the basics of canoeing during the paddling tour of Hana Bay.  The four-person, custom-made canoe provides an interesting twist on a full body workout while offering a maritime perspective of the pacific.  Learn the history of the canoe and its importance to Hawaiian history and a chant to honor Hana.  It is not uncommon to spot sea turtles swimming alongside the canoe, and sometimes during the winter and spring months, a few lucky guests may even see a whale or two.<br /></p>
-        </article>
+        </article>-->
       </div>
       </section>
     </article>
