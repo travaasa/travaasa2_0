@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide"><a data-target="flare" href="https://www.youtube.com/watch?v=NOtwkBLTFzM" id="lnk"><img data-original="/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>-->
     <div id="feature1" class="feature">
-      	<div class="slide"><a data-fancybox href="https://www.youtube.com/watch?v=NOtwkBLTFzM&amp;autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0"><img data-original="/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
+      	<div class="slide"><a data-fancybox href="https://www.youtube.com/watch?v=wcwKeO48b5Y&amp;autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0"><img data-original="/assets/images/feature_hana_1600x640_dayvideo_promo2.jpg" src="/assets/images/global/placeholder.gif" alt=""></a></div>
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
