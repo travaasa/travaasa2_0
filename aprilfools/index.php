@@ -53,7 +53,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>Don't worry, we're not <em>that</em> crazy. <br>For being such a good sport, call <a href="tel:8667946758">866-794-6758</a>, mention <strong>“April Fools"</strong>, <!--or click below--> and receive a <strong>$25 resort credit</strong> when you book and stay in the month of April.</p>
                         
             <p><a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" id="aprilfools-austin-link" style="margin-bottom:20px;" class="btn-jorah">CHECK AUSTIN AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("aprilfools-austin-link");</script>&nbsp;&nbsp;
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" target="_blank" id="aprilfools-hana-link" class="btn-jorah">CHECK HANA AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("aprilfools-hana-link");</script></p>
+            <a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" target="_blank" id="aprilfools-hana-link" class="btn-jorah">CHECK HANA AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("aprilfools-hana-link");</script></p>
       </div>
   </section>
 </article>

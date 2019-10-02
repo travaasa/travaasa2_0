@@ -77,7 +77,7 @@
          </div>
         <div class="col span_3_of_7 col_reservation">
             <a href="http://travaasa.com/austin-renovation/"  class="btn-jorah">BOOK AUSTIN</a>&nbsp;
-            <a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="homepage-hana-link" target="_blank" class="btn-jorah">BOOK HANA</a><script type="text/javascript">AppendNavisKeywordToLink("homepage-hana-link");</script>
+            <a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="homepage-hana-link" target="_blank" class="btn-jorah">BOOK HANA</a><script type="text/javascript">AppendNavisKeywordToLink("homepage-hana-link");</script>
          </div>
      </div>
   </section>-->

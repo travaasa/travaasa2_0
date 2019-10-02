@@ -69,7 +69,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </li>
       </ul>
       
-      <p class="clear"><a class="btn-jorah" href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=HNMHM&amp;numberOfAdults=2" id="promotions-hana-link" target="_blank">BOOK STAY &amp; FLIGHT</a><script type="text/javascript">AppendNavisKeywordToLink("promotions-hana-link");</script></p>
+      <p class="clear"><a class="btn-jorah" href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="promotions-hana-link" target="_blank">BOOK STAY &amp; FLIGHT</a><script type="text/javascript">AppendNavisKeywordToLink("promotions-hana-link");</script></p>
       <p style="margin-top:11px;"><a href="/hana/hana-rates-and-packages/">See rates and packages</a></p></div>
   </section>
 	<!-- End body content //-->
