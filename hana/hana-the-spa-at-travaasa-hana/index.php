@@ -129,11 +129,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <p>A full-body sea salt exfoliation prepares your skin for an application of nutrient and vitamin-rich Hawaiian Spirulina, helping to cleanse, detoxify and reduce water retention. A full body massage goes deeper still, leaving you refreshed and renewed with the tropical essence of Hāna surrounding you.</p>
                 <h5>90 minutes &#8211; $275</h5>
 			</section>
-            <section class="spa_package">
+            <!--<section class="spa_package">
                 <h4><em>Aloha ‘Aina</em> Volcanic Mud Body Wrap &amp; Massage</h4>
                 <p>For the love of the land, begin with a dry brush exfoliation followed by a rich, detoxifying volcanic mud wrap to draw out impurities. A soothing massage completes this experience and leaves you feeling more connected to the ‘aina!</p>
                 <h5>90 minutes &#8211; $275</h5>
-            </section>
+            </section>-->
             <section class="spa_package">
                 <h4><em>Honua Mana</em> Ti Leaf &amp; Aloe Treatment</h4>
                 <p>Begin with a soothing application of Hawaiian aloe vera gel coupled with a cooling ti leaf overlay from our beautiful Hāna garden. The healing properties of aloe and ti rehydrate and nourish the skin. A luxurious scalp, neck and foot massage complete this relieving, therapeutic treatment.</p>
@@ -171,7 +171,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</section>
             <section class="spa_package">
                 <h4>ISLAND GLOW FACIAL</h4>
-    <p>Handcrafted on the island of Hawai‘i, this facial features all locally grown ingredients. Leave glowing and recharged.</p>
+    <p>Handcrafted on Maui, this facial features all locally grown ingredients. Leave glowing and recharged.</p>
                 <h5>60 minutes &#8211; $200</h5>
             </section>
             <section class="spa_package">
@@ -219,7 +219,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <h4>MOLOKA'I SEA SALT SCRUB</h4>
     <p>The Friendly Isle invites you to enjoy one of its most famous exports, ‘alaea sea salt. This full body exfoliation is rich in over 80 minerals allowing your skin to take in all of the benefits while leaving you feeling glowing and radiant!</p>
                 <h5>30 minutes &#8211; $80</h5>
-			</section>
+            </section>
+            <section class="spa_package">
+                <h4>EXPECTING MOTHERS EXFOLIANT</h4>
+    <p>Make the most of these magic months with an added touch that will leave the skin feeling baby soft. Formulated especially for an expecting mother's sensitive skin.</p>
+                <h5>30 minutes &#8211; $80</h5>
+            </section>
+            <section class="spa_package">
+                <h4>PA'A KAI SEA SOAK</h4>
+    <p>Indulge in a custom blend of Hawaiian sea salts and essential oils for relaxation. Recommended before any massage service.</p>
+                <h5>15 minutes &#8211; $45</h5>
+            </section>
             <section class="spa_package">
                 <h4>NOURISHING SCALP TREATMENT</h4>
     <p>This nourishing scalp treatment uses the herbal oil of organic Hawaiian neem and the essential oils of rosemary, lavender and ylang-ylang to stimulate and revitalize your hair and scalp.</p>
@@ -271,11 +281,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <p>In the traditions of Hawai'i, smooth heated stones apply the elements of earth, air, fire and water to achieve a healing, centering, rejuvenating treatment as muscle tension melts.</p>
                 <h5>60 or 90 minutes &#8211; $175/$250</h5>
 			</section>
-            <section class="spa_package">
+            <!--<section class="spa_package">
                 <h4><em>MALIE</em> CALM WATER THERAPY</h4>
     <p>This subtle yet effective treatment takes place in a warm, private pool, offering a unique opportunity that allows the body to enjoy a sense of weightlessness and freedom. A series of gentle stretches and movements releases tension and lends a truly unique feeling of tranquility and harmony. Swimsuit required.</p>
                 <h5>60 minutes &#8211; $200</h5>
-			</section>
+			</section>-->
             <section class="spa_package">
                 <h4><em>‘OHE‘O</em> FOREST</h4>
     <p>Using an organic bamboo &amp; lime massage oil, specific muscle groups are targeted with a combination of hot stones and smooth, round birch sticks. Flowing movements, tactile stimuli and purification of muscle tissues result.</p>
