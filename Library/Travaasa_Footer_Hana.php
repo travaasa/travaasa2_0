@@ -65,11 +65,11 @@ Fax: 808-248-7202<br>
     <div class="col span_1_of_4">
       <h2 class="hdr">FOLLOW US</h2>
       <ul id="social" class="clearfix">
-      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Facebook"></a></li>
-        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Twitter"></a></li>
-        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="YouTube"></a></li>
-        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
-        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
+      	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Facebook"></a></li>
+        <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Twitter"></a></li>
+        <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="YouTube"></a></li>
+        <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
+        <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>
       <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
       <!-- NAVIS Push to Talk link -->
@@ -84,7 +84,7 @@ Fax: 808-248-7202<br>
           <!-- END OLARK CHAT LINK -->
           </p>
     </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="http://static.travaasa.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2019 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
+<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2019 Green Tea, LLC.&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01</span></p>
   </nav>
 </footer>
 <script type="text/javascript">
