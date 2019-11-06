@@ -441,7 +441,7 @@ header {
 	padding-top: 23px;
 	position: relative;
 	z-index: 50;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/swoosh.png) no-repeat top right;
+	background: url(http://static.travaasa.com/assets/images/global/swoosh.png) no-repeat top right;
 }
 #main {
 	clear: both;
@@ -472,7 +472,7 @@ footer {
 	background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0.13, rgb(243,243,243)), color-stop(0.57, rgb(237,237,237)) );
 }
 #comments .loading {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/grey-loader.gif) no-repeat center;
+	background: url(http://static.travaasa.com/assets/images/global/grey-loader.gif) no-repeat center;
 	width: 100%;
 	height: 100px;
 }
@@ -509,7 +509,7 @@ footer {
 	margin: 0 auto;
 }
 #gallery_cnt #content {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif) no-repeat;
+	background: url(http://static.travaasa.com/assets/images/global/placeholder.gif) no-repeat;
 	margin-top: 0;
 	padding-top: 0;
 }
@@ -522,7 +522,7 @@ footer {
 	left: 0;
 	width: 37px;
 	height: 37px;
-	background: #D7385E url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) no-repeat 0 -460px;
+	background: #D7385E url(http://static.travaasa.com/assets/images/global/sprite.png) no-repeat 0 -460px;
 }
 .magnify img {
 	width: 100%;
@@ -704,7 +704,7 @@ p {
 #logo {
 	width: 196px;
 	height: 166px;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) 0 0 no-repeat;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) 0 0 no-repeat;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -758,7 +758,7 @@ p {
 .location_selector_nav li.menu_main a {
 	padding-right: 0;
 	width: 110px;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) 0px -274px no-repeat;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) 0px -274px no-repeat;
 }
 .location_condensed_nav, .location_nav {
 	display: block;
@@ -770,7 +770,7 @@ p {
 }
 .location_condensed_nav li.menu_main a {
 	padding-right: 55px;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) 70px -197px no-repeat;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) 70px -197px no-repeat;
 }
 .location_condensed_nav li.menu_main a:hover {
 	color: #000000;
@@ -786,10 +786,10 @@ p {
 }
 .location_nav li.menu_plus a.plus {
 	width: 38px;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) 0px -197px no-repeat;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) 0px -197px no-repeat;
 }
 .location_nav li.menu_plus:hover a.plus {
-	background: #D7385E url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) -56px -197px no-repeat;
+	background: #D7385E url(http://static.travaasa.com/assets/images/global/sprite.png) -56px -197px no-repeat;
 }
 .location_nav li.menu_plus a.plus span {
 	visibility: hidden;
@@ -927,7 +927,7 @@ p {
 	line-height: 36px;
 	font-size: 1.1em;
 	color: white;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) -480px -460px no-repeat;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) -480px -460px no-repeat;
 	margin: 8px 14px 0 0;
 }
 #reservations-bar .phone a {
@@ -1059,19 +1059,19 @@ footer .btn:hover {
 	text-decoration: none;
 }
 #facebook {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) no-repeat -272px -320px;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) no-repeat -272px -320px;
 }
 #twitter {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) no-repeat -240px -320px;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) no-repeat -240px -320px;
 }
 #youtube {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) no-repeat -336px -320px;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) no-repeat -336px -320px;
 }
 #pinterest {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) no-repeat -368px -320px;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) no-repeat -368px -320px;
 }
 #blog {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) no-repeat -304px -320px;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) no-repeat -304px -320px;
 }
 #social li a:hover {
 	background-position-y: -352px;
@@ -1096,7 +1096,7 @@ footer .btn:hover {
 	height: 300px;
 	width: 100%;
 	position: relative;
-	background: #EDEDED url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/grey-loader.gif) no-repeat center;
+	background: #EDEDED url(http://static.travaasa.com/assets/images/global/grey-loader.gif) no-repeat center;
 }
 .feature .slide {
 	text-align: left;
@@ -1157,14 +1157,14 @@ footer .btn:hover {
 }
 .lnk_arrow {
 	background-size: 100%;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/arrow-pink.png) no-repeat center;
+	background: url(http://static.travaasa.com/assets/images/global/arrow-pink.png) no-repeat center;
 }
 .overlay-content-new {
 	position: absolute;
 	bottom: 0;
 	left: 0;
 	width: 100%;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/feature_gradient.png) repeat-x;
+	background: url(http://static.travaasa.com/assets/images/global/feature_gradient.png) repeat-x;
 	background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.6) 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0,0,0,0)), color-stop(100%, rgba(0,0,0,0.6))); /* Chrome,Safari4+ */
 	background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.6) 100%); /* Chrome10+,Safari5.1+ */
@@ -1226,7 +1226,7 @@ footer .btn:hover {
 	opacity: 1;
 }
 .storyline_carousel .storyline {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/grey-loader.gif) no-repeat center;
+	background: url(http://static.travaasa.com/assets/images/global/grey-loader.gif) no-repeat center;
 }
 .mini_storyline_carousel {
 	width: 100%;
@@ -1273,7 +1273,7 @@ a.carousel_prev:hover span, a.carousel_next:hover span {
 	opacity: 1;
 }
 a.carousel_prev span, a.carousel_next span {
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png) no-repeat transparent;
+	background: url(http://static.travaasa.com/assets/images/global/sprite.png) no-repeat transparent;
 	width: 48px;
 	height: 90px;
 	display: block;
@@ -1426,7 +1426,7 @@ a.carousel_prev.disabled span, a.carousel_next.disabled span {
 	color: #666666;
 	font-family: 'Gill Sans W04 Bold', "Gill Sans MT", Calibri, sans-serif;
 	text-decoration: none;
-	background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/pdf.png') no-repeat 95% 50%;
+	background: url('http://static.travaasa.com/assets/images/pdf.png') no-repeat 95% 50%;
 	background-size: 30px 28px;
 }
 #content .tabbed_pdf li.on a, #content .tabbed_pdf li a:hover {
@@ -1750,7 +1750,7 @@ a.carousel_prev.disabled span, a.carousel_next.disabled span {
 .header-img {
 	display: block;
 	height: 180px;
-	background: url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/bg_hana_clouds.jpg) top left repeat-x;
+	background: url(http://static.travaasa.com/assets/images/bg_hana_clouds.jpg) top left repeat-x;
 }
 }
 /* Honeymoon styles */
@@ -1932,7 +1932,7 @@ header {
 	width: 100%;
 	height: 70px;
 	margin: 0;
-	background: #63CADF url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/logo2x.png) center no-repeat;
+	background: #63CADF url(http://static.travaasa.com/assets/images/global/logo2x.png) center no-repeat;
 	background-size:175px 47px;
 	position: relative;
 }
@@ -1961,11 +1961,11 @@ header {
 }
  (-webkit-min-device-pixel-ratio: 2),  (min-resolution: 192dpi)  @media  only screen and (-webkit-min-device-pixel-ratio: 2),  only screen and ( min--moz-device-pixel-ratio: 2),  only screen and ( -o-min-device-pixel-ratio: 2/1),  only screen and ( min-device-pixel-ratio: 2),  only screen and ( min-resolution: 192dpi),  only screen and ( min-resolution: 2dppx) {
  #logo,  .magnify,  .location_selector_nav li.menu_main a,  .location_condensed_nav li.menu_main a,  .location_nav li.menu_plus:hover a.plus,  #reservations-bar .phone,  #facebook,  #twitter,  #youtube,  #pinterest,  #blog,  a.carousel_prev span,  a.carousel_next span {
- background-image:url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite2x.png);
+ background-image:url(http://static.travaasa.com/assets/images/global/sprite2x.png);
  background-size: 500px auto;
 }
  #content {
-background-image:url(https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/swoosh2x.png);
+background-image:url(http://static.travaasa.com/assets/images/global/swoosh2x.png);
 background-size: 170px auto;
 }
 }

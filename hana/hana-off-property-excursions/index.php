@@ -56,9 +56,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<h2>‘Ōhe'o Gulch at Haleakala National Park</h2>
 					<p>The Park features the famous "Pools of Ōheo" – a series of cascading pools leading to the ocean. The Waimoku Falls Trail is a five-mile round trip hike that takes you through a bamboo forest to the 400-foot Waimoku Falls. NOTE: The Park is approximately 11 miles from Hana town and we urge you to drive there with caution and heed all caution signs while at the park.</p>
 					<p><audio controls="controls">
-  <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/bamboo-forest.mp3" type="audio/mpeg">
-  <source src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/bamboo-forest.ogg" type="audio/ogg">
-<embed height="50" width="200" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/audio/bamboo-forest.mp3">
+  <source src="http://static.travaasa.com/assets/audio/bamboo-forest.mp3" type="audio/mpeg">
+  <source src="http://static.travaasa.com/assets/audio/bamboo-forest.ogg" type="audio/ogg">
+<embed height="50" width="200" src="http://static.travaasa.com/assets/audio/bamboo-forest.mp3">
 </audio></p>
 
 					<h2>ONO Organic Farms</h2>

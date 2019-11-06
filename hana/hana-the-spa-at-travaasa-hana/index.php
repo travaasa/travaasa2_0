@@ -50,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix">
       <div class="col span_6_of_9">
           <h1>THE SPA AT TRAVAASA HANA, MAUI</h1>
-          <p>Our Maui spa treatments go far beyond pampering and indulgence. They reflect Hana, our passion for,  and knowledge of, the human body. We honor the ability of plants and essential oils to naturally treat, heal and revitalize the soul. An array of massages, healing rituals, beauty treatments and personalized services are available, using only organic, bioenergetic products.<br><br><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Spa-Guide.pdf" target="_blank" class="btn-jorah">Download Spa Guide</a></p>
+          <p>Our Maui spa treatments go far beyond pampering and indulgence. They reflect Hana, our passion for,  and knowledge of, the human body. We honor the ability of plants and essential oils to naturally treat, heal and revitalize the soul. An array of massages, healing rituals, beauty treatments and personalized services are available, using only organic, bioenergetic products.<br><br><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Spa-Guide.pdf" target="_blank" class="btn-jorah">Download Spa Guide</a></p>
       </div>
       <div class="pricing_grp col span_3_of_9">
       		<h2>Hours of Operation</h2>

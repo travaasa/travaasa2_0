@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    include_once($path."/Library/Travaasa_Menu_Hana.php");
 ?>
 <section class="header-img">
-  <!-- <img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/bg_hana_clouds.jpg" alt=""> -->
+  <!-- <img src="http://static.travaasa.com/assets/images/bg_hana_clouds.jpg" alt=""> -->
 </section>
 <section id="content">
   <article id="main">
@@ -54,25 +54,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </ul>
       <div>
         <article>
-          <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_equine.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_equine.jpg" alt="TRAIL RIDES Hana horseback riding">
+          <img data-original="http://static.travaasa.com/assets/images/exp_hana_adventure_equine.jpg" src="http://static.travaasa.com/assets/images/exp_hana_adventure_equine.jpg" alt="TRAIL RIDES Hana horseback riding">
           <br />
           <h2>Trail Rides</h2>
           <p class="description">Remote and unspoiled slopes, plains and coastline surround the island escape of Travaasa Hana, and there’s nothing quite like experiencing the superb natural beauty of Maui for yourself on horseback. Explore Hana’s extensive trail system as the paniolos, or Hawaiian cowboys, have for nearly 200 years as an Alaka’i, or trained tour leader, guides you through these immaculate lands. As you make your way through Hana’s lush valleys and gaze upon endless stretches of the blue ocean before you, you’ll find you’re riding through Hawaii’s history.  Your Alaka’i will bring deeper meaning to your trail ride with stories of this magical land and its people. No previous horse experience is needed.</p>
         </article>
         <article>
-          <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_stand_up_paddling.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_stand_up_paddling.jpg" alt="Stand Up Paddling Hawaii Stand Up Paddleboarding">
+          <img data-original="http://static.travaasa.com/assets/images/exp_hana_adventure_stand_up_paddling.jpg" src="http://static.travaasa.com/assets/images/exp_hana_adventure_stand_up_paddling.jpg" alt="Stand Up Paddling Hawaii Stand Up Paddleboarding">
           <br />
           <h2>Stand Up Paddling</h2>
           <p class="description">Stand Up Paddling is a popular water sport around the world today. Did you know this adventurous aquatic activity actually originated along the shores of Hawaii? Better known locally as hoe he'e nalu, SUP was once how the ancient Polynesians surfed the local waves. SUP is similar to surfing except a paddle is used to maintain balance and movement on the water, providing a strong core workout that promotes general fitness in true Hawaiian style. Plus, SUP at Travaasa Hana is more than just a fun workout — it also provides beautiful views of the natural surroundings of Hana Bay.<br /> <br /></p>
         </article>
         <!--<article>
-          <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_snorkeling.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_snorkeling.jpg" alt="Snorkeling Hana snorkeling">
+          <img data-original="http://static.travaasa.com/assets/images/exp_hana_adventure_snorkeling.jpg" src="http://static.travaasa.com/assets/images/exp_hana_adventure_snorkeling.jpg" alt="Snorkeling Hana snorkeling">
           <br />
           <h2>Snorkeling</h2>
           <p class="description">Maui is by far the most popular snorkeling island in all of Hawaii — and it isn’t hard to see why. Spectacular coral reefs and colorful varieties of exotic sea life beckon you to discover the wealth of treasures that wait for you beneath the ocean’s surface. Grab some snorkeling gear from the Makana Center and discover the hidden beauty of Hamoa Beach, Kapueokahi Beach or Hana Bay, where a protected cove teems with tropical fish and living coral gardens in amazing shapes and colors. Take your time enjoying this snorkeler's paradise because after your first glimpse of Hawaii’s stunning underwater surroundings, you might just become hooked on this breathtaking experience.</p>
         </article>-->
         <!--<article>
-          <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_canoe.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_adventure_canoe.jpg" alt="Canoe Row Hana Ocean">
+          <img data-original="http://static.travaasa.com/assets/images/exp_hana_adventure_canoe.jpg" src="http://static.travaasa.com/assets/images/exp_hana_adventure_canoe.jpg" alt="Canoe Row Hana Ocean">
           <br />
           <h2>Canoe Adventure</h2>
           <p class="description">Paddle into Maui's ancient past with a maritime adventure on board Wananalua, Travaasa Hana's Outrigger Canoe.  Expert local guides teach the basics of canoeing during the paddling tour of Hana Bay.  The four-person, custom-made canoe provides an interesting twist on a full body workout while offering a maritime perspective of the pacific.  Learn the history of the canoe and its importance to Hawaiian history and a chant to honor Hana.  It is not uncommon to spot sea turtles swimming alongside the canoe, and sometimes during the winter and spring months, a few lucky guests may even see a whale or two.<br /></p>
