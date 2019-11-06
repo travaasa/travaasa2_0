@@ -29,7 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <?php 
    include_once($path."/Library/Travaasa_Menu.php");
-?><section id="feature1_wrapper" class="subpage_bg"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/bg_hana_clouds.jpg" alt=""></section>
+?><section id="feature1_wrapper" class="subpage_bg"><img src="http://static.travaasa.com/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">

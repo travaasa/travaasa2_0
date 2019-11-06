@@ -346,7 +346,7 @@
     }
     
     .peFlareLightbox .peFlareLightboxControls a#peFlareLightboxControlPrev {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png') no-repeat transparent -205px 0;
+        background: url('http://static.travaasa.com/assets/images/global/sprite.png') no-repeat transparent -205px 0;
         position: absolute;
         left: 0;
         top: 50%;
@@ -357,7 +357,7 @@
     }
     
     .peFlareLightbox .peFlareLightboxControls a#peFlareLightboxControlNext {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/sprite.png') no-repeat transparent -248px 0;
+        background: url('http://static.travaasa.com/assets/images/global/sprite.png') no-repeat transparent -248px 0;
         position: absolute;
         right: 0;
         top: 50%;
@@ -368,27 +368,27 @@
     }
     
     .peFlareLightbox .peFlareLightboxControls a#peFlareLightboxControlClose {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/themes/default/img/close.png') no-repeat 0 0
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/themes/default/img/close.png') no-repeat 0 0
     }
     
     .peFlareLightbox .peFlareLightboxControls a#peFlareLightboxControlThumbs {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/themes/default/img/thumbs.png') no-repeat 0 0
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/themes/default/img/thumbs.png') no-repeat 0 0
     }
     
     .peFlareLightbox .peFlareLightboxSpinner span {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/themes/default/img/spinner.gif') no-repeat center center;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/themes/default/img/spinner.gif') no-repeat center center;
         background-color: black;
         background-color: rgba(0, 0, 0, .8)
     }
     
     .peFlareLightbox .peFlareLightboxThumbs>div>span {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/themes/default/img/spinner.gif') no-repeat center center;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/themes/default/img/spinner.gif') no-repeat center center;
         background-color: black;
         background-color: rgba(0, 0, 0, .8)
     }
     
     .peFlareLightbox a.peFlareLightboxVideoIcon span {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/themes/default/img/start.png') no-repeat 0 0
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/themes/default/img/start.png') no-repeat 0 0
     }
     
     .peFlareLightbox a.peFlareLightboxVideoIcon:hover span {
@@ -404,7 +404,7 @@
     
     @media(min-width:480px) and (max-width:767px) {
         .peFlareLightbox a.peFlareLightboxVideoIcon span {
-            background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/themes/default/img/start_mob.png') no-repeat 0 0
+            background: url('http://static.travaasa.com/assets/scripts/pe.flare/themes/default/img/start_mob.png') no-repeat 0 0
         }
         .peFlareLightbox a.peFlareLightboxVideoIcon:hover span {
             background-position: 0 -42px
@@ -482,26 +482,26 @@
         position: absolute;
         top: 6px;
         left: 0;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left top transparent;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left top transparent;
         width: 30px;
         height: 30px;
         cursor: pointer
     }
     
     .ppplay:hover {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left -35px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left -35px transparent
     }
     
     .ppplay:active {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left -36px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left -36px transparent
     }
     
     .pppause {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left -70px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left -70px transparent
     }
     
     .pppause:hover {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left -105px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat left -105px transparent
     }
     
     .ppfsenter,
@@ -512,28 +512,28 @@
         right: 0;
         width: 30px;
         height: 30px;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right top transparent;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right top transparent;
         cursor: pointer
     }
     
     .ppfsenter:hover {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -35px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -35px transparent
     }
     
     .ppfsenter:active {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -36px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -36px transparent
     }
     
     .ppfsexit {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -70px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -70px transparent
     }
     
     .ppfsexit:hover {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -105px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -105px transparent
     }
     
     .ppfsexit:active {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -106x transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat right -106x transparent
     }
     
     .ppscrubber {
@@ -543,7 +543,7 @@
         top: 0;
         height: 5px;
         width: 100%;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui_bar_load.gif') repeat-x left top transparent;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui_bar_load.gif') repeat-x left top transparent;
         margin: auto;
         padding: 0;
         border-bottom: 1px solid #444
@@ -613,7 +613,7 @@
     }
     
     .pptimeleft {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -91px top transparent;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -91px top transparent;
         right: 100px;
         top: 7px
     }
@@ -625,15 +625,15 @@
         width: 30px;
         display: none;
         border-left: none;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -842px top transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -842px top transparent
     }
     
     .ppvmax:hover {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -842px -35px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -842px -35px transparent
     }
     
     .ppvmax:active {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -842px -36px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -842px -36px transparent
     }
     
     .ppmute {
@@ -643,7 +643,7 @@
         right: 85px;
         border-right: 0;
         cursor: default;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -749px top transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -749px top transparent
     }
     
     .ppvslider {
@@ -653,7 +653,7 @@
         height: 6px;
         width: 60px;
         cursor: pointer;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -781px -13px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -781px -13px transparent
     }
     
     .ppvmarker {
@@ -662,14 +662,14 @@
         left: 0;
         height: 6px;
         width: 100%;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -634px -13px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -634px -13px transparent
     }
     
     .ppvknob {
         cursor: pointer;
         z-index: 201;
         position: absolute;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -699px -5px transparent;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -699px -5px transparent;
         top: -7px;
         left: 0;
         width: 6px;
@@ -682,7 +682,7 @@
         position: absolute;
         top: 6px;
         right: 255px;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -59px top transparent;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -59px top transparent;
         width: 30px;
         height: 30px;
         cursor: pointer
@@ -693,28 +693,28 @@
     }
     
     .ppnext:hover {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -59px -35px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -59px -35px transparent
     }
     
     .ppnext:active {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -59px -36px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -59px -36px transparent
     }
     
     .ppprev {
         right: 284px;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -32px top transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -32px top transparent
     }
     
     .ppprev:hover {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -32px -35px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -32px -35px transparent
     }
     
     .ppprev:active {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -32px -36px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/greyscale_ui.png') no-repeat -32px -36px transparent
     }
     
     .pptestcard {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/noise.gif') center center repeat;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/noise.gif') center center repeat;
         width: 100%;
         height: 100%;
         color: #fff;
@@ -743,7 +743,7 @@
         display: block;
         z-index: 9010;
         padding: 0;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/buffering.gif') no-repeat center center #000;
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/buffering.gif') no-repeat center center #000;
         height: 84px;
         width: 84px;
         -moz-border-radius: 15px;
@@ -763,15 +763,15 @@
         display: block;
         z-index: 8000;
         padding: 0;
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/start.png') no-repeat left top transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/start.png') no-repeat left top transparent
     }
     
     .ppstart:hover {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/start.png') no-repeat left bottom transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/start.png') no-repeat left bottom transparent
     }
     
     .ppstart:active {
-        background: url('https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/scripts/pe.flare/video/theme/start.png') no-repeat left -169px transparent
+        background: url('http://static.travaasa.com/assets/scripts/pe.flare/video/theme/start.png') no-repeat left -169px transparent
     }
     
     .ppdebug {
