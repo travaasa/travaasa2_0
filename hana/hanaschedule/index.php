@@ -59,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
           <h1>EXPERIENCE SCHEDULE</h1>
           <p>This schedule is subject to change.</p>
-          <a href="http://static.travaasa.com/pdf/Hana-Maui-Experience-Map.pdf" class="btn-list" target="_blank">Download Hana Experience Map</a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Hana-Maui-Experience-Map.pdf" class="btn-list" target="_blank">Download Hana Experience Map</a>
           <!-- BEGIN OLARK TAB --> 
            <!--<style> 
           div#olark_tab{

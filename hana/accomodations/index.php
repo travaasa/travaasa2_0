@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <?php
    include_once($path."/Library/Travaasa_Menu_Hana.php");
-?><section id="feature1_wrapper" class="subpage_bg"><img src="http://static.travaasa.com/assets/images/bg_hana_clouds.jpg" alt=""></section>
+?><section id="feature1_wrapper" class="subpage_bg"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/bg_hana_clouds.jpg" alt=""></section>
 <section id="content">
 <article id="main">
   <section class="intro pad clearfix notheater">
@@ -46,18 +46,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          <p>The spirit of Hawaii is yours to discover through our signature <a href="../../hana/travaasa-hana-experiences/" target="_self">Travaasa Experiences</a>. Our inclusive (<a href="../../hana/hana-rates-and-packages/">Total Travaasa</a>) and &#224; la carte (<a href="../../hana/hana-rates-and-packages/">Your Travaasa</a>) options give you the freedom to embrace Hana your way. See our <a href="../../hana/hana-rates-and-packages/">rates and packages</a>. Start your day with a <a href="../../hana/travaasa-hana-experiences/fitness/" target="_self">guided nature walk</a> along Hana’s Coast, <a href="../../hana/travaasa-hana-experiences/culture/" target="_self">learn to string your own fragrant lei</a> or take your relaxation to the next level with one of the <a href="../../hana/hana-the-spa-at-travaasa-hana/" target="_self">finest spa treatments</a> in all of Hana. These experiences and more are yours to enjoy with our inclusive Total Travaasa option, which nourishes mind, body and soul with experiences, meals and non-alcoholic drinks.</p>
          <p>Or, choose the <a href="../../hana/hana-rates-and-packages/">Your Travaasa</a> option and add experiences to your stay &#224; la carte. Either way, Travaasa lets you design the Hana experience you’ll remember for years to come.</p>
          <p>Whether you choose a private suite or a resort cottage with an inclusive package or &#224; la carte experiences, Travaasa Hana invites you to relax&#8212;after all, you’re on Hana time now.</p>
-          <div class="col span_1_of_1"><a href="http://static.travaasa.com/pdf/Travaasa-Hana-Maui-Property-Map.pdf" class="btn-list" target="_blank">Download Property Map</a></div>
+          <div class="col span_1_of_1"><a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Travaasa-Hana-Maui-Property-Map.pdf" class="btn-list" target="_blank">Download Property Map</a></div>
   </section>
   <section class="grey pad group">
     <div class="col span_2_of_5">
-        <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-1k.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Bedroom"><img src="http://static.travaasa.com/assets/images/rooms_ocean_bungalow.jpg" alt="Ocean Bungalow luxury resort cottages" width="600" height="400" class="fitwidth"></a>
+        <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-1k.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Bedroom"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/rooms_ocean_bungalow.jpg" alt="Ocean Bungalow luxury resort cottages" width="600" height="400" class="fitwidth"></a>
         <div class="magnify">
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Lanai"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Ocean Bungalow luxury resort cottages"></a>
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-living.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Living Area" alt="Ocean Bungalow luxury resort cottages"></a>
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-front-1k.jpg" data-fancybox="rooms_gallery" data-caption="The Ocean Bungalow"></a>
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-bathroom.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Bathroom" alt="Ocean Bungalow Bathroom"></a>
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-room212-ocean-bungalow-front-view.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Front Lanai View" alt="Ocean Bungalow luxury resort cottages"></a>
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-sea-ranch-pool-chairs.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Pool" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Lanai"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-living.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Living Area" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-front-1k.jpg" data-fancybox="rooms_gallery" data-caption="The Ocean Bungalow"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-bathroom.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Bathroom" alt="Ocean Bungalow Bathroom"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-room212-ocean-bungalow-front-view.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Front Lanai View" alt="Ocean Bungalow luxury resort cottages"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-sea-ranch-pool-chairs.jpg" data-fancybox="bungalow_gallery" data-caption="Ocean Bungalow Pool" alt="Ocean Bungalow luxury resort cottages"></a>
         </div>
     </div>
     <div class="col span_2_of_5">
@@ -66,7 +66,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <p>Inclusive resort features &amp; amenities include:</p>
             <ul class="description">
                 <li>Inclusive packages so you can sample the finest spa treatments, Travaasa experiences and meals without worry</li>
-                <li>Private, expansive lanais with <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-fancybox="rooms_gallery" data-caption="Ocean Bungalow View">views</a> of the Pacific Ocean</li>
+                <li>Private, expansive lanais with <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-ocean-bungalow-lanai.jpg" data-fancybox="rooms_gallery" data-caption="Ocean Bungalow View">views</a> of the Pacific Ocean</li>
                 <li>Complimentary welcome Banana Bread</li>
                 <li>Refrigerator stocked with complimentary bottled water</li>
                 <li>In lieu of air conditioning, our Bungalows are equipped with interior ceiling fans and panoramic sliding doors, offering ample trade winds for cooling.</li>
@@ -88,14 +88,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
   <section class="grey pad group">
   	<div class="col span_2_of_5">
-        <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-garden-junior-suite-1K.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Bedroom"><img src="http://static.travaasa.com/assets/images/rooms_garden_junior_suite.jpg" alt="Hawaii luxury resort rooms" width="300" height="196" class="fitwidth"></a>
+        <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-garden-junior-suite-1K.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Bedroom"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/rooms_garden_junior_suite.jpg" alt="Hawaii luxury resort rooms" width="300" height="196" class="fitwidth"></a>
         <div class="magnify">
-          <a href="http://static.travaasa.com/assets/images/gallery/hana/1440-garden-junior-suite-1K-living.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Living Area"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-bathroom.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Bathroom" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-view.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lanai" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-pool.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Pool" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-green.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lawn" alt="Hawaii luxury resort rooms"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/1433-garden-view-lawn.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lawn across from Makana Center" alt="Hawaii luxury resort rooms"></a>
+          <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1440-garden-junior-suite-1K-living.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Living Area"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-bathroom.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Bathroom" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-view.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lanai" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-pool.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Pool" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-green.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lawn" alt="Hawaii luxury resort rooms"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/1433-garden-view-lawn.jpg" data-fancybox="garden_gallery" data-caption="Garden Junior Suite Lawn across from Makana Center" alt="Hawaii luxury resort rooms"></a>
         </div>
     </div>
     <div class="col span_2_of_5">
@@ -126,17 +126,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </section>
   <section class="grey pad group">
   	<div class="col span_2_of_5">
-      <a href="http://static.travaasa.com/assets/images/gallery/hana/rooms_waikaloa_family_suites-lg.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Living Room"><img src="http://static.travaasa.com/assets/images/rooms_waikaloa_family_suites.jpg" alt="Maui luxury resort suites" width="300" height="196" class="fitwidth"></a>
+      <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/rooms_waikaloa_family_suites-lg.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Living Room"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/rooms_waikaloa_family_suites.jpg" alt="Maui luxury resort suites" width="300" height="196" class="fitwidth"></a>
       <div class="magnify">
-          <!--<a href="http://static.travaasa.com/assets/images/gallery/hana/rooms_waikaloa_family_suites-lg.jpg" data-flare-gallery="gallery3" data-target="flare" data-flare-scale="fitmax" title="Waikaloa Family Suite"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Enlarge"></a>-->
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-master-bedroom.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Master Bedroom"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-guest-bedroom.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Guest Bedroom"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/waikaloa-bathroom-lg.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Bathroom"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-suite-bunks.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Bunks"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-suite-sitting.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Day Bed"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-1br-kitchen.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa One Bedroom Kitchen"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-1br-living.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa One Bedroom Living Room"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
-            <a href="http://static.travaasa.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-1br-bedroom.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa One Bedroom"><img src="http://static.travaasa.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
+          <!--<a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/rooms_waikaloa_family_suites-lg.jpg" data-flare-gallery="gallery3" data-target="flare" data-flare-scale="fitmax" title="Waikaloa Family Suite"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Enlarge"></a>-->
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-master-bedroom.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Master Bedroom"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-guest-bedroom.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Guest Bedroom"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/waikaloa-bathroom-lg.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Bathroom"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-suite-bunks.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Bunks"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-suite-sitting.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa Family Suite Day Bed"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-1br-kitchen.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa One Bedroom Kitchen"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-1br-living.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa One Bedroom Living Room"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
+            <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/gallery/hana/al.argueta-1440-2018-waikaloa-1br-bedroom.jpg" data-fancybox="waikaloa_gallery" data-caption="Waikaloa One Bedroom"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Maui luxury resort suites"></a>
         </div>
       	
     </div>
