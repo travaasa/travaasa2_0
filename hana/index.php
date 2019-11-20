@@ -8,11 +8,11 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>Maui Resort | Travaasa Experiential  Hana | Hawaii Resort & Spa</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
-	<meta name="description" content="Rediscover the magic of travel with Travaasa Hana, the most unique luxury  resort on Maui. All inclusive resort Guided activities include adventures, culinary and cultural odysseys, and fitness/yoga/wellness programs." />
+	<meta name="description" content="Rediscover the magic of travel with Travaasa Hana, the most unique luxury  resort on Maui. All inclusive resort Guided activities include adventures, and cultural odysseys, and fitness/yoga/wellness programs." />
   <meta property="og:url"                content="http://travaasa.com/hana/" />
   <meta property="og:type"               content="website" />
   <meta property="og:title"              content="Travaasa Hana, Maui" />
-  <meta property="og:description"        content="ADVENTURE / CULINARY / CULTURE / FITNESS / SPA &amp; WELLNESS" />
+  <meta property="og:description"        content="ADVENTURE / CULTURE / FITNESS / SPA &amp; WELLNESS" />
   <meta property="og:image"              content="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/og-hana-1200x630.jpg" />
 	<?php
    include_once($path."/Library/Travaasa_Head.php");
@@ -136,7 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="slide">
           <div class="slide_inner"><a href="/hana/travaasa-hana-experiences/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/exp_hana_experiences_overview.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a>
             <h5>Travaasa Hana Experiences</h5>
-            <p class="description">From stand up paddling, coconut husking and throw net fishing, to outdoor yoga and guided meditation, there are countless things to do here. We offer five different pathways for you to explore: Adventure, Culinary, Culture, Fitness and Spa &amp; Wellness. <a href="/hana/travaasa-hana-experiences/" class="more">Explore</a></p>
+            <p class="description">From stand up paddling, coconut husking and throw net fishing, to outdoor yoga and guided meditation, there are countless things to do here. We offer four different pathways for you to explore: Adventure, Culture, Fitness and Spa &amp; Wellness. <a href="/hana/travaasa-hana-experiences/" class="more">Explore</a></p>
           </div>
         </div>
         <!--<div class="slide">
