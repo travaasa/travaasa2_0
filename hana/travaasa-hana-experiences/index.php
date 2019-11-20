@@ -52,7 +52,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>There are countless things to do here. Picking up your jaw from the ground is one of them.
 <br><br>
 While you are with us, you will enjoy our warm hospitality and beauty of place, and the comforts of everything you've come to expect from a Travaasa experience: our healing and pampering spa, authentic Hawaiian pursuits (lei making, ‘ukulele, snorkeling, throw net fishing, enjoying local gardens and guides who will share their knowledge of ecology and culture with you), a pool with an ocean view unlike any other, outdoor yoga — while you're here, we're taking you on a further journey to the real Hawai'i.
-<p>We offer five different pathways for you to explore: <a href="/hana/travaasa-hana-experiences/adventure" class="scroll">Adventure</a>, <a href="/hana/travaasa-hana-experiences/culinary" class="scroll">Culinary</a>, <a href="/hana/travaasa-hana-experiences/culture" class="scroll">Culture</a>, <a href="/hana/travaasa-hana-experiences/fitness" class="scroll">Fitness</a> and <a href="/hana/travaasa-hana-experiences/spa-wellness" class="scroll">Spa &amp; Wellness</a>. You won't have any trouble finding something unique.</p>
+<p>We offer four different pathways for you to explore: <a href="/hana/travaasa-hana-experiences/adventure" class="scroll">Adventure</a>, <!--<a href="/hana/travaasa-hana-experiences/culinary" class="scroll">Culinary</a>,--> <a href="/hana/travaasa-hana-experiences/culture" class="scroll">Culture</a>, <a href="/hana/travaasa-hana-experiences/fitness" class="scroll">Fitness</a> and <a href="/hana/travaasa-hana-experiences/spa-wellness" class="scroll">Spa &amp; Wellness</a>. You won't have any trouble finding something unique.</p>
       <a href="https://ssl-travaasa.scdn4.secure.raxcdn.com/pdf/Hana-Maui-Experience-Map.pdf" class="btn-list" target="_blank">Download Hana Experience Map</a>
 <br><br><strong><span style="color:#63CADF;">SCROLL &#11015;</span></strong><!--<a href="/hana/hanaschedule" class="btn">View Experience Schedule</a><br><br>--></p>
       </div>
@@ -65,10 +65,10 @@ While you are with us, you will enjoy our warm hospitality and beauty of place, 
         <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-adventure.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-adventure.jpg" alt="">
         <h2>ADVENTURE</h2>
       </a>
-      <a href="/hana/travaasa-hana-experiences/culinary">
+      <!--<a href="/hana/travaasa-hana-experiences/culinary">
         <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-culinary.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-culinary.jpg" alt="">
         <h2>CULINARY</h2>
-      </a>
+      </a>-->
       <a href="/hana/travaasa-hana-experiences/culture">
         <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-culture.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-culture.jpg" alt="">
         <h2>CULTURE</h2>
