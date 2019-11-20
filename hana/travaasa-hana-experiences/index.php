@@ -73,15 +73,15 @@ While you are with us, you will enjoy our warm hospitality and beauty of place, 
         <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-culture.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-culture.jpg" alt="">
         <h2>CULTURE</h2>
       </a>
-    </div>
-    <div class="group">
       <a href="/hana/travaasa-hana-experiences/fitness">
         <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-fitness.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-fitness.jpg" alt="">
         <h2>FITNESS</h2>
       </a>
+    </div>
+    <div class="group">
       <a href="/hana/travaasa-hana-experiences/spa-wellness">
         <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-spa.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/tmb-spa.jpg" alt="">
-        <h2>SPA & WELLNESS</h2>
+        <h2>SPA &amp; WELLNESS</h2>
       </a>
       <a href="/hana/hanaschedule">
         <img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/title-bg.gif" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/experience/title-bg.gif" alt="">
