@@ -62,8 +62,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 Hana, Hi 96713</a><br><br>
 
                 <strong>Email:</strong> <a href="mailto:hana@travaasa.com">hana@travaasa.com</a><br>
-                <!--<strong>Main:</strong> <a style="color:#454545;" href="tel:8082488211">808-248-8211</a><br>-->
-                <strong>Main: </strong><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>808-359-2401</noscript><br>
+                <strong>Main:</strong> <a style="color:#454545;" href="tel:8083592401">808-359-2401</a><br>
+                <!--<strong>Main: </strong><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>808-359-2401</noscript><br>-->
                 <!--<strong>Front Desk:</strong> <a style="color:#454545; text-decoration: none;" href="tel:8083592401">808-359-2401</a>-->
                 <strong>Fax:</strong> 808-248-7202<br><br>
 
