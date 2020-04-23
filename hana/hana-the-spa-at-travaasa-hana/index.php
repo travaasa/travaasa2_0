@@ -71,8 +71,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li id="tab_2"><a href="#facials">Facials</a></li>
                 <li id="tab_3"><a href="#enhancements">Enhancements</a></li>
                 <li id="tab_5"><a href="#waxing">Waxing Services</a></li>
-            </ul>
-            <p class="spa_package">Massage License MAE-2583</p>
+            </ul> 
          </div>
     	<div class="tabbed_group">
         	<!--<h5>For off-property guests</h5>-->
@@ -85,6 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             	<li id="tab_7" class="featured"><a href="#spa_facilities">Spa Facilities</a></li>
                 <li id="tab_8" class="featured"><a href="#reservation_information">Reservations &amp; Information</a></li>
             </ul>
+            <p class="spa_package">Massage License MAE-2583</p>
          </div>
     </div>
     <!--<div id="seasonal_treatments" class="tab_data">
