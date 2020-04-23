@@ -84,7 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             	<li id="tab_7" class="featured"><a href="#spa_facilities">Spa Facilities</a></li>
                 <li id="tab_8" class="featured"><a href="#reservation_information">Reservations &amp; Information</a></li>
             </ul>
-            <p class="spa_package">Massage License MAE-2583</p>
+            <p class="spa_package">Spa License MAE-2583</p>
          </div>
     </div>
     <!--<div id="seasonal_treatments" class="tab_data">
