@@ -47,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <article id="main">
   <section style="padding-bottom:0;" class="intro pad clearfix notheater">
     <div class="col span_2_of_3">
-      <div style="background-color: #fbdee0; padding:1.2em; margin-bottom: 20px; border-radius: 4px; color: #303030; font-family: georgia, serif;"><p>Operations at Travaasa Hana will be temporarily suspended effective March 26th due to the global COVID-19 pandemic. Beginning March 24th 2020, Travaasa Hana will not accept any incoming guests. We will be reaching out to our guests to reschedule any existing reservations through Friday, May 1st 2020.<br />
+      <div style="background-color: #fbdee0; padding:1.2em; margin-bottom: 20px; border-radius: 4px; color: #303030; font-family: georgia, serif;"><p>Operations at Travaasa Hana will be temporarily suspended effective March 26th due to the global COVID-19 pandemic. Beginning March 24th 2020, Travaasa Hana will not accept any incoming guests. We will be reaching out to our guests to reschedule any existing reservations through Monday, June 1st 2020.<br />
             <p><a href="/temporary-closure" class="btn-jorah">MORE DETAILS</a></p></div>
           <h1>RATES &amp; ALL INCLUSIVE RESORT PACKAGES</h1>
           <p>Travaasa Experiential Resorts provide you with different rate and all inclusive resort package selections so that you can customize your journey, and make the most of your time with us. <a href="#policies">View our policies.</a><br><br><!--</strong><a class="btn scroll" href="#policies">View our policies</a>&nbsp;&nbsp;--><a class="btn-list scroll" href="/preferences">GET ON THE LIST</a></p>
