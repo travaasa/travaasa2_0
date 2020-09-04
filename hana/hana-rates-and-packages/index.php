@@ -127,8 +127,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </tr>
         <tr class="compare-summary">
           <td class="compare-table-title">&nbsp;</td>
-          <td><a class="btn-jorah" href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="rates-hana-link1" target="_blank" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("rates-hana-link1");</script></td>
-          <td><a class="btn-jorah" href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="rates-hana-link2" target="_blank" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("rates-hana-link2");</script></td>
+          <!--<td><a class="btn-jorah" href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="rates-hana-link1" target="_blank" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("rates-hana-link1");</script></td>
+          <td><a class="btn-jorah" href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="rates-hana-link2" target="_blank" class="btn">CHECK RATES &amp; AVAILABILITY</a><script type="text/javascript">AppendNavisKeywordToLink("rates-hana-link2");</script></td>-->
         </tr>
         <!--<tr class="compare-summary">
           <td>&nbsp;</td>

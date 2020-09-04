@@ -35,7 +35,7 @@
                   <li><a class="lnk_spa" href="/hana/hana-the-spa-at-travaasa-hana">SPA</a></li>
                   <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
                   <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
-                  <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
+                  <!--<li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>-->
                   <li><a class="lnk_schedule" href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a></li>
                   <li><a class="lnk_locationinfo" href="/hana/hana-maui">HANA &amp; GETTING HERE</a></li>
                   <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>
