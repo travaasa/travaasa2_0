@@ -3,10 +3,10 @@
         <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-888-820-1043</noscript></p>
         <ul class="reservation_nav menu_top">
             <!--<li class="reservation"><a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" target="_blank" onclick="_gaq.push(['_link', 'https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM']); return false;">MAKE A RESERVATION</a></li>-->
-            <li class="reservation">
-            <a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="footer-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("footer-hana-link");</script></li>
+            <!--<li class="reservation">
+            <a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="footer-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("footer-hana-link");</script></li>-->
         </ul>
-        <ul class="pricing">
+        <!--<ul class="pricing">
             <li>
                 <h2>INCLUSIVE<br><span>Starting at</span></h2>
                 <h3><sup>$</sup>775</h3>
@@ -15,7 +15,7 @@
                 <h2>&#192; LA CARTE<br><span>Starting at</span></h2>
                  <h3><sup>$</sup>525</h3>
             </li>
-        </ul>
+        </ul>-->
         <span class="reservation_chat"></span>
     </div>
 </div>
@@ -38,7 +38,7 @@ Fax: 808-248-7202<br>
       <a href="/hana/hana-the-spa-at-travaasa-hana">SPA</a><br>
       <a href="/hana/accomodations">ROOMS</a><br>
       <a href="/hana/hana-dining-overview">DINING</a><br>
-      <a href="/hana/hana-rates-and-packages">RATES</a><br>
+      <!--<a href="/hana/hana-rates-and-packages">RATES</a><br>-->
       <a href="/hana/hana-maui">HANA &amp; GETTING HERE</a><br>
       <a href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a><br>
       <a href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></p>

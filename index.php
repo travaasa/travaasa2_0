@@ -68,7 +68,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <!--<h1 style="display:block; color:#666666; font-size:13px; line-height:20px;">NO RESORT FEES AT TRAVAASA</h1>-->
             <!--<a href="https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2" target="_blank" onclick="_gaq.push(['_link', 'https://www.phgsecure.com/IBE/bookingRedirect.ashx?propertyCode=AUSTC&amp;numberOfAdults=2']); return false;" class="btn">BOOK AUSTIN</a>&nbsp;
             <a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" target="_blank" onclick="_gaq.push(['_link', 'https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM']); return false;" class="btn">BOOK HANA</a>-->
-            <a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="homepage-hana-link" target="_blank" class="btn-jorah">BOOK HANA, MAUI</a><script type="text/javascript">AppendNavisKeywordToLink("homepage-hana-link");</script>
+            <!--<a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="homepage-hana-link" target="_blank" class="btn-jorah">BOOK HANA, MAUI</a><script type="text/javascript">AppendNavisKeywordToLink("homepage-hana-link");</script>-->
          </div>
      </div>
   </section>
