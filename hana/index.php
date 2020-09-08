@@ -47,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--<div class="slide"><a href="/hana/travaasa-hana-experiences/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_2014-number-one-boutique-hotel.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
         <!--<div class="slide"><a href="/hana/travaasa-hana-experiences/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_accolade.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
       	<div class="slide"><a href="/hana/hana-the-spa-at-travaasa-hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_accolade_spa.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
-    	<div class="slide"><a href="/hana/promotions/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_flights_promo.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>
+    	<!--<div class="slide"><a href="/hana/promotions/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_hana_1600x640_flights_promo.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt=""></a></div>-->
     </div>
     <a class="carousel_prev" id="feature1_prev" href="#"><span><b>prev</b></span></a>
     <a class="carousel_next" id="feature1_next" href="#"><span><b>next</b></span></a>
