@@ -34,27 +34,27 @@ Fax: 808-248-7202<br>
     </div>
     <div class="col span_1_of_4">
       <p><a href="/hana/hanaphotos">GALLERY</a><br>
-      <!--<a href="/hana/travaasa-hana-experiences">EXPERIENCES</a><br>-->
-      <!--<a href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a><br>-->
+      <!--<a href="/hana/travaasa-hana-experiences">EXPERIENCES</a><br>
+      <a href="/hana/hanaschedule">EXPERIENCE SCHEDULE</a><br>
       <a href="/hana/hana-the-spa-at-travaasa-hana">SPA</a><br>
-      <!--<a href="/hana/accomodations">ROOMS</a><br>-->
+      <a href="/hana/accomodations">ROOMS</a><br>-->
       <!--<a href="/hana/hana-dining-overview">DINING</a><br>-->
       <!--<a href="/hana/hana-rates-and-packages">RATES</a><br>-->
       <a href="/hana/hana-maui">HANA &amp; GETTING HERE</a><br>
-      <!--<a href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a><br>-->
-      <a href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></p>
+      <!--<a href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a><br>
+      <a href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></p>-->
     </div>
     <div class="col span_1_of_4">
-      <h2 class="hdr">INQUIRIES</h2>
+      <h2 class="hdr">ABOUT</h2>
       <p><a href="/about-us">ABOUT TRAVAASA</a><br>
-      <a href="/contact-us">CONTACT US</a><br>
+      <!--<a href="/contact-us">CONTACT US</a><br>
       <a href="/hana/ada-amenities">ADA AMENITIES</a><br>
-      <!--<a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>-->
+      <a href="http://www.travaasa.com/press-room/">PRESS ROOM</a><br>
       <a href="http://www.travaasa.com/blog">BLOG</a><br>
-      <!--<a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
-      <a href="http://travaasa.com/careers">CAREERS</a>--><br>
+      <a href="http://giftcards.travaasa.com/">GIFT CARDS</a><br>
+      <a href="http://travaasa.com/careers">CAREERS</a><br>
       <a href="/hana/hana-groups-and-meetings/#/proposal">REQUEST FOR PROPOSAL</a><br>
-      <!--<a href="/privacypolicy">PRIVACY POLICY</a><br>
+      <a href="/privacypolicy">PRIVACY POLICY</a><br>
 	    <a href="/site-map">SITE MAP</a>--></p>
       <!-- BEGIN IUBENDA GDPR PRIVACY POLICY WIDGET -->
       <a href="https://www.iubenda.com/privacy-policy/89076486" class="iubenda-black no-brand iubenda-embed " title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
@@ -64,14 +64,14 @@ Fax: 808-248-7202<br>
       <!-- END IUBENDA GDPR COOKIE POLICY WIDGET -->
     </div>
     <div class="col span_1_of_4">
-      <h2 class="hdr">FOLLOW US</h2>
+      <!--<h2 class="hdr">FOLLOW US</h2>
       <ul id="social" class="clearfix">
       	<li><a href="http://www.facebook.com/travaasa" target="_blank" id="facebook"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Facebook"></a></li>
         <li><a href="http://www.twitter.com/travaasa" target="_blank" id="twitter"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Twitter"></a></li>
         <li><a href="http://www.youtube.com/user/Travaasa" target="_blank" id="youtube"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="YouTube"></a></li>
         <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
         <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
-      </ul>
+      </ul>-->
       <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
       <!-- NAVIS Push to Talk link -->
           <!--<a id="lnkP2Talk" class="btn" target="_blank" href="https://www.thenavisway.com/p2talk/P2TCust.aspx?account=15070&dnis=8888201043">CLICK TO TALK WITH US</a>
