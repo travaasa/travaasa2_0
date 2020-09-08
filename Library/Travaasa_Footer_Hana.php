@@ -17,7 +17,7 @@
                  <h3><sup>$</sup>525</h3>
             </li>
         </ul>-->
-        <span class="reservation_chat"></span>
+        <!--<span class="reservation_chat"></span>-->
     </div>
 </div>
 <footer class="clear">
