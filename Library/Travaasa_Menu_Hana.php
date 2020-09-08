@@ -12,9 +12,9 @@
     <div id="hana_location_nav" class="location_group_nav">
      <ul class="location_nav menu_top">
           <li><a class="lnk_gallery" href="/hana/hanaphotos">GALLERY</a></li>
-          <li><a class="lnk_experiences" href="/hana/travaasa-hana-experiences">EXPERIENCES</a></li>
+          <!--<li><a class="lnk_experiences" href="/hana/travaasa-hana-experiences">EXPERIENCES</a></li>
           <li><a class="lnk_spa" href="/hana/hana-the-spa-at-travaasa-hana">SPA</a></li>
-          <!--<li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
+          <li><a class="lnk_rooms" href="/hana/accomodations">ROOMS</a></li>
           <li><a class="lnk_dining" href="/hana/hana-dining-overview">DINING</a></li>
           <li><a class="lnk_rates" href="/hana/hana-rates-and-packages">RATES</a></li>
           <li><a class="lnk_groups" href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a></li>-->

@@ -1,6 +1,7 @@
 <div id="reservations-bar">
 	<div class="reservations-bar-inner">
-        <p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-888-820-1043</noscript></p>
+        <!--<p class="phone"><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>1-888-820-1043</noscript></p>-->
+        <p class="phone">1-808-359-2401</p>
         <ul class="reservation_nav menu_top">
             <!--<li class="reservation"><a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" target="_blank" onclick="_gaq.push(['_link', 'https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM']); return false;">MAKE A RESERVATION</a></li>-->
             <!--<li class="reservation">
@@ -84,7 +85,7 @@ Fax: 808-248-7202<br>
           <!-- END OLARK CHAT LINK -->
           </p>
     </div>
-<p class="clear" id="footer-copyright"><a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a><span>&copy;2020 Green Tea, LLC.<!--&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01&nbsp;&#124;&nbsp;Spa License MAE-2583--></span></p>
+<p class="clear" id="footer-copyright"><!--<a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a>--><span>&copy;2020 Green Tea, LLC.<!--&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01&nbsp;&#124;&nbsp;Spa License MAE-2583--></span></p>
   </nav>
 </footer>
 <script type="text/javascript">
