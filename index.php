@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Travaasa Experiential Resorts  Adventure, Culinary, Culture, Fitness, Spa & Wellness Vacations</title>
   <meta name="keywords" content="travaasa, travel, resorts, hana, maui, hāna, hawaii, experiential, hotel, hawaiian islands, hawaii honeymoon, destination wedding" />
-  <meta name="description" content="Rediscover the magic of travel with Travaasa Hana, Maui. Our resort provides authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa &amp; Wellness." />
+  <meta name="description" content="Rediscover the magic of travel with Travaasa. Our resort provides authentic travel experiences centered around Adventure, Culinary, Culture, Fitness, Spa &amp; Wellness." />
   <meta name="p:domain_verify" content="8b5fe67201926cfeb859a9501821fc80"/>
   <meta property="og:url"                content="http://travaasa.com" />
   <meta property="og:type"               content="website" />
@@ -40,12 +40,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ?>
 <section id="feature1_wrapper" class="feature_carousel clearfix">
     <div id="feature1" class="feature">
-      <div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_beach_flirt.jpg" alt="Travaasa Experiential Resorts, Travaasa Resort Hana"></a></div>
-      <!--<div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_adventure-flirt.jpg" alt=""></a></div>-->
+      <!--<div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_beach_flirt.jpg" alt="Travaasa Experiential Resorts, Travaasa Resort Hana"></a></div>
+      <div class="slide"><a href="/hana/"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_adventure-flirt.jpg" alt=""></a></div>
       <div class="slide"><a href="/hana/hana-dining-overview/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culinary2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>
       <div class="slide"><a href="/hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_culture2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>
       <div class="slide"><a href="/hana/hanaschedule/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_fitness2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>
-      <div class="slide"><a href="/hana/hana-the-spa-at-travaasa-hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_spa2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>
+      <div class="slide"><a href="/hana/hana-the-spa-at-travaasa-hana/"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_spa2.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Hana, Maui"></a></div>-->
       <div class="slide"><a href="/berkshire-county"><img data-original="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/feature_home_1600x640_berkshire-county.jpg" src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/placeholder.gif" alt="Travaasa Experiential Resorts,  Travaasa Resort Berkshire County, Travaasa Resort Hana"></a></div>
     </div>
 
