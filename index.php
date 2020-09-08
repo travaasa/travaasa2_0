@@ -59,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div id="location-selector">
                 <h1>EXPLORE A LOCATION</h1>
                 <ul>
-                    <li><a href="./hana">HANA, MAUI</a></li>
+                    <!--<li><a href="./hana">HANA, MAUI</a></li>-->
                     <li><a href="./berkshire-county">BERKSHIRE COUNTY</a></li>
                 </ul>
              </div>
