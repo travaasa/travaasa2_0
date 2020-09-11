@@ -6,6 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="robots" content="noindex, follow">
 	<title>Travaasa Hana, Maui - COVID-19 Travel Update</title>
 	<meta name="keywords" content="travaasa, hana, maui, resort, COVID-19, coronavirus, hāna, closure, temporary, hawaii, experiential, hotel" />
 	<meta name="description" content="Travaasa Hana, Maui to temporarily suspend operations due to COVID-19" />
@@ -41,7 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <p>Mahalo for your understanding and cooperation in these uncertain times. We are all in this together and hope to welcome you to Travaasa Hana at a later time.</p>
           <p>From our ʻohana to yours,</p>
           <p>Mahalo</p>
-            <p><a href="/hana" class="btn-jorah">BACK TO HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hyatt.com/en-US/hotel/hawaii/hana-maui-resort/oggal" target="_blank" class="btn-jorah">RATES &amp; PACKAGES</a></p>
+            <p><a href="/hana-legacy" class="btn-jorah">BACK TO HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hyatt.com/en-US/hotel/hawaii/hana-maui-resort/oggal" target="_blank" class="btn-jorah">RATES &amp; PACKAGES</a></p>
   </section>
   
 </article>

@@ -40,7 +40,7 @@ Fax: 808-248-7202<br>
       <a href="/hana/accomodations">ROOMS</a><br>-->
       <!--<a href="/hana/hana-dining-overview">DINING</a><br>-->
       <!--<a href="/hana/hana-rates-and-packages">RATES</a><br>-->
-      <a href="/hana/hana-maui">HANA &amp; GETTING HERE</a><br>
+      <a href="/hana-legacy/hana-maui">HANA &amp; GETTING HERE</a><br>
       <!--<a href="/hana/hana-groups-and-meetings">GROUPS &amp; MEETINGS</a><br>
       <a href="/hana/hana-off-property-excursions">OFF-PROPERTY EXCURSIONS</a></p>-->
     </div>
