@@ -6,6 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="robots" content="noindex, follow">
 	<title>All Inclusive Hawaii Resort | Travaasa Hana Maui All Inclusive Packages</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Travaasa Experiential Resorts provide you with different rates and all inclusive Hawaii resort package selections so that you can customize your journey, and make the most of your time with us." />
