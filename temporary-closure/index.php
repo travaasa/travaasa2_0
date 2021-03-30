@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="robots" content="noindex, follow">
+  <meta name="robots" content="noindex, nofollow">
 	<title>Travaasa Hana, Maui - COVID-19 Travel Update</title>
 	<meta name="keywords" content="travaasa, hana, maui, resort, COVID-19, coronavirus, hāna, closure, temporary, hawaii, experiential, hotel" />
 	<meta name="description" content="Travaasa Hana, Maui to temporarily suspend operations due to COVID-19" />
