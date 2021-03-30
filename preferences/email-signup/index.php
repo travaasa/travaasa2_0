@@ -15,6 +15,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="robots" content="noindex, nofollow">
 	<title>Email Newsletter Signup Preferences | Travaasa</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, austin, texas, Austin resort, Austin spa, travaasa Austin, Austin spa resort, experiential, hotel, Austin hotel, Austin conference center, Austin group meeting" />
 	<meta name="description" content="Rediscover the magic of travel with Travaasa Austin, Texas or Hana, Maui." />
@@ -79,7 +80,7 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { m1gbj6ka06fc414 = new WufooForm();m1gbj6ka06fc414.initialize(options);m1gbj6ka06fc414.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
-<p style="margin-left:40px"><a class="btn-jorah" href="/berkshire-county/">Back to Berkshire County</a>&nbsp;&nbsp;&nbsp;<a class="btn-jorah" href="/hana/hana-rates-and-packages/">Back to Hana Rates</a></p>
+<p style="margin-left:40px"><a class="btn-jorah" href="/berkshire-county/">Back to Berkshire County</a></p>
   </section>
 
   <!--<p><a class="btn-list" href="/preferences/">GET ON THE LIST</a></p>-->

@@ -6,6 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="robots" content="noindex, nofollow">
 	<title>Travaasa Experiential Resorts | Hana Maui Hawaii | Contact Us</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, experiential, hotel" />
 	<meta name="description" content="Contact Travaasa Resorts. We look forward to helping you to rediscover the magic of travel at our destination resorts in Hana, Maui Hawaii." />
@@ -35,10 +36,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <section class="intro pad clearfix notheater">
   		<div class="group">
   			<div class="col span_1_of_5">
-              <!--<h1>Contact Us</h1>-->
-              <p>Are you ready to Travaasa? Start your journey today and get ready to experience the world in a completely different way. <strong>Call <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>(855) 868-7282</noscript> to book your stay.</strong><br><br>Interested in a career with Travaasa? Visit our <a href="http://travaasa.com/careers">careers</a> page.<br><br></strong>For donation inquiries, please fill out our brief <a href="http://travaasa.com/donationrequest/">donation request form</a>.</p>
+              <h1>Green Tea MGMT Property Sales</h1>
+              <p>Travaasa Austin was sold to new owners in 2017. Travaasa Hana-Maui was sold to new owners in 2019. Stay tuned for updates on future properties.</p>
+              <!--<h1>Contact Us</h1>
+              <p>Are you ready to Travaasa? Start your journey today and get ready to experience the world in a completely different way. <strong>Call <script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>(855) 868-7282</noscript> to book your stay.</strong><br><br><Interested in a career with Travaasa? Visit our <a href="http://travaasa.com/careers">careers</a> page.<br><br></strong>For donation inquiries, please fill out our brief <a href="http://travaasa.com/donationrequest/">donation request form</a>.</p>
             </div>
-            <!--<div class="col span_1_of_5">
+            <div class="col span_1_of_5">
                 <img class="lazy fitwidth" data-original="/assets/images/contact-us-austin.jpg" src="/assets/images/global/placeholder.gif" alt="Travaasa Austin" width="180" height="180">
             </div>
             <div class="col span_1_of_5">
@@ -52,7 +55,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 <strong>Group Sales:</strong> 512-334-4649<br>
                 <a href="mailto:austinsales@travaasa.com">austinsales@travaasa.com</a></p>
-            </div>-->
+            </div>
             <div class="col span_1_of_5">
                 <img class="lazy fitwidth" data-original="/assets/images/contact-us-hana.jpg" src="/assets/images/global/placeholder.gif" alt="Travaasa Hana" width="180" height="180">
             </div>
@@ -63,12 +66,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                 <strong>Email:</strong> <a href="mailto:hana@travaasa.com">hana@travaasa.com</a><br>
                 <strong>Main:</strong> <a style="color:#454545;" href="tel:8083592401">808-359-2401</a><br>
-                <!--<strong>Main: </strong><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>808-359-2401</noscript><br>-->
-                <!--<strong>Front Desk:</strong> <a style="color:#454545; text-decoration: none;" href="tel:8083592401">808-359-2401</a>-->
+                <strong>Main: </strong><script type="text/javascript">ShowNavisNCPhoneNumber();</script><noscript>808-359-2401</noscript><br>
+                <strong>Front Desk:</strong> <a style="color:#454545; text-decoration: none;" href="tel:8083592401">808-359-2401</a>
                 <strong>Fax:</strong> 808-248-7202<br><br>
 
                 <strong>Group Sales:</strong> 808-248-8211<br>
-                <a href="mailto:hanasales@travaasa.com">hanasales@travaasa.com</a></p>
+                <a href="mailto:hanasales@travaasa.com">hanasales@travaasa.com</a></p>-->
             </div>
          </div>
   </section>
