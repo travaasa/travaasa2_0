@@ -1,0 +1,8 @@
+Travaasa, Home, https://travaasa.com/	2021-03-30T15:20:27+00:00	1.00
+Travaasa, Travaasa Berkshire Country, https://travaasa.com/berkshire-county/	2021-03-30T15:20:27+00:00	0.80
+Travaasa, About Travaasa, https://travaasa.com/about-us/	2021-03-30T15:20:27+00:00	0.80
+Travaasa, Email Signup, https://travaasa.com/preferences/email-signup/	2021-03-30T15:20:27+00:00	0.80
+Travaasa, Facebook, http://www.facebook.com/travaasa, 2014-07-14, weekly, 1.0, 1
+Travaasa, Twitter, http://www.twitter.com/travaasa, 2014-07-14, weekly, 1.0, 1
+
+

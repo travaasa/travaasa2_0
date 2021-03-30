@@ -17,10 +17,10 @@
       <a href="/privacypolicy">PRIVACY POLICY</a><br>
 	    <a href="/site-map">SITE MAP</a></p>-->
             <!-- BEGIN IUBENDA GDPR PRIVACY POLICY WIDGET -->
-      <a href="https://www.iubenda.com/privacy-policy/89076486" class="iubenda-black no-brand iubenda-embed " title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+      <!--<a href="https://www.iubenda.com/privacy-policy/89076486" class="iubenda-black no-brand iubenda-embed " title="Privacy Policy">Privacy Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>-->
       <!-- END IUBENDA GDPR PRIVACY POLICY WIDGET -->
       <!-- BEGIN IUBENDA GDPR COOKIE POLICY WIDGET -->
-      <a href="https://www.iubenda.com/privacy-policy/89076486/cookie-policy" class="iubenda-black no-brand iubenda-embed " title="Cookie Policy">Cookie Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+      <!--<a href="https://www.iubenda.com/privacy-policy/89076486/cookie-policy" class="iubenda-black no-brand iubenda-embed " title="Cookie Policy">Cookie Policy</a> <script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>-->
       <!-- END IUBENDA GDPR COOKIE POLICY WIDGET -->
     </div>
     <div class="col span_1_of_4">
@@ -32,7 +32,7 @@
         <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
         <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>-->
-      <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
+      <p><a class="btn" href="/preferences">SIGN UP FOR UPDATES</a><br />
       <!-- NAVIS Push to Talk link -->
         <!--<a id="lnkP2Talk" class="btn" target="_blank" href="https://www.thenavisway.com/p2talk/P2TCust.aspx?account=15070&dnis=8888201043">CLICK TO TALK WITH US</a>
         <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script><br />-->

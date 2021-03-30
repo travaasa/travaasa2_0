@@ -72,7 +72,7 @@ Fax: 808-248-7202<br>
         <li><a href="http://pinterest.com/travaasa/" target="_blank" id="pinterest"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Pinterest"></a></li>
         <li><a href="http://travaasa.com/blog" target="_blank" id="blog"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/transparent.gif" alt="Blog"></a></li>
       </ul>-->
-      <p><a class="btn" href="/preferences">SIGN UP FOR OUR NEWSLETTER</a><br />
+      <p><a class="btn" href="/preferences">SIGN UP FOR UPDATES</a><br />
       <!-- NAVIS Push to Talk link -->
           <!--<a id="lnkP2Talk" class="btn" target="_blank" href="https://www.thenavisway.com/p2talk/P2TCust.aspx?account=15070&dnis=8888201043">CLICK TO TALK WITH US</a>
           <script type="text/javascript">SetNavisP2TalkCustomLink("lnkP2Talk");</script><br />-->
