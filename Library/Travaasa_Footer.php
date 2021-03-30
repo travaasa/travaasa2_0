@@ -45,7 +45,7 @@
         <!-- END OLARK CHAT LINK -->
       </p>
     </div>
-<p class="clear" id="footer-copyright"><!--<a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a>--><span>&copy;2020 Green Tea, LLC.<!--&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01&nbsp;&#124;&nbsp;Spa License MAE-2583--></span></p>
+<p class="clear" id="footer-copyright"><!--<a title="Preferred Boutique" target="_blank" href="https://preferredhotels.com/destinations/hana-hi/travaasa-hana"><img src="https://ssl-travaasa.scdn4.secure.raxcdn.com/assets/images/global/preferred-logo2-white-144px.png" width="144" alt=""></a>--><span>&copy;2021 Green Tea, LLC.<!--&nbsp;&nbsp;&#8226;&nbsp;&nbsp;TAT# 69774106-01&nbsp;&#124;&nbsp;Spa License MAE-2583--></span></p>
   </nav>
 </footer>
 <script type="text/javascript">
