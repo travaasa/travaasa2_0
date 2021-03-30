@@ -20,9 +20,6 @@
         case "austin":
          $austin[] = $row_data;
          break;
-        case "hana":
-         $hana[] = $row_data;
-         break;
         case "travaasa" :
          $travaasa[] = $row_data;
          break;
@@ -37,7 +34,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Travaasa Experiential Resorts Site Map | Resort in Hana, Maui Hawaii</title>
+	<title>Travaasa Experiential Resorts Site Map</title>
 	<meta name="keywords" content="travaasa, travel, resorts, hana, hāna, hawaii, resort, experiential, hotel" />
 	<meta name="description" content="Travaasa Experiential Resorts in Hana Hawaii take our guests on a journey of discovery. All inclusive packages available." />
 	<?php
@@ -67,7 +64,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   		<h1>Site Map</h1>
   </section>
   		<section class="pad grey group">
-        	<div class="col span_1_of_3">
+        	<!--<div class="col span_1_of_3">
             	<h5><a href="/hana"></a></h5>
               	<p class="clear"><a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="pricing-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("sitemap-hana-link");</script><br>
                 <?php
@@ -78,8 +75,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 endforeach;
                 ?>
                 </p>
-            </div>
-        	<div class="col span_1_of_3">
+            </div>-->
+        	<!--<div class="col span_1_of_3">
             	<h5><a href="/hana">Travaasa Hana</a></h5>
               	<p class="clear"><a href="https://be.synxis.com/?adult=2&&child=0&configcode=HNMHM&hotel=26987&&nocache=true&rooms=1&themecode=HNMHM" id="pricing-hana-link" target="_blank">MAKE A RESERVATION</a><script type="text/javascript">AppendNavisKeywordToLink("sitemap-hana-link");</script><br>
                 <?php
@@ -90,8 +87,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   endforeach;
                   ?>
                   </p>
-            </div>
-            <div class="col span_1_of_3">
+            </div>-->
+            <div class="col span_1_of_1">
       			<h5><a href="/">Travaasa</a></h5>
                 <p>
                 <?php
